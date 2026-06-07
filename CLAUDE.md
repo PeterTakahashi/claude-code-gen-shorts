@@ -149,12 +149,14 @@ docker compose up -d                                       # Redash も（port 5
 
 ## 8. YouTube Data API v3 のセットアップ（人に案内する内容）
 
-1. GCP で新規プロジェクト → **YouTube Data API v3 を有効化**
-2. OAuth 同意画面（External / テスト）+ スコープ `youtube.upload` `youtube.readonly`（必要なら `yt-analytics.readonly`）
-3. テストユーザーに自分の Google アカウントを追加
-4. **OAuth 2.0 クライアントID（デスクトップアプリ）** を作成 → JSON を `client_secret_*.apps.googleusercontent.com.json` としてリポジトリ直下に保存
+1. GCP で新規プロジェクト → **YouTube Data API v3 を有効化**（分析もするなら YouTube Analytics API も）
+2. OAuth 同意画面（External / テスト）+ スコープ 3つ: `youtube.upload` `youtube` `yt-analytics.readonly`（`src/youtube_upload.py` の `SCOPES` と一致させること）
+3. テストユーザーに自分の Google アカウントを追加（未追加だと「審査プロセス未完了」で認証がブロックされる）
+4. **OAuth 2.0 クライアントID** を作成 → JSON を `client_secret_*.apps.googleusercontent.com.json` としてリポジトリ直下に保存
+   - **デスクトップアプリ**で作るのが簡単（loopback 自動許可、リダイレクト URI 登録不要）。
+   - ⚠️ **ウェブアプリケーション**で作る場合は **「承認済みのリダイレクト URI」に `http://localhost:8080/`（末尾スラッシュ込み・`localhost`）を必ず追加**。コードは `run_local_server(port=8080)` なので、未登録だと `redirect_uri_mismatch` で失敗する。別ポートは `--port` と URI を揃える。
 5. quota 昇格申請（デフォルト 10,000 = 1日約6本、50,000 で約30本）
-6. 初回アップロード時にブラウザ認証 → `.youtube_token.<channel>.json` に保存
+6. 初回アップロード時にブラウザ認証 → `http://localhost:8080/` に戻り `.youtube_token.<channel>.json` に保存
 
 ---
 
