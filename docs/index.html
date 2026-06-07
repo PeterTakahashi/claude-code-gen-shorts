@@ -147,6 +147,76 @@
   </ul>
 </section>
 
+<!-- ============== なぜ始めたか ① 動機 ============== -->
+<section>
+  <h2>なぜこのプロジェクトを始めたのか</h2>
+  <ul class="lead">
+    <li>フリーランスエンジニアをずっとやってきた。でも <strong>「いつまでこの仕事があるのか」分からない</strong></li>
+    <li>Claude Code の登場で、<strong>"プログラミングを書く" という仕事はほぼ消えた</strong></li>
+  </ul>
+  <p class="big" style="margin-top:0.8em;">
+    だから問い直した —<br />
+    <strong>Claude Code の革新性とは何か / なぜ機能するのか。<br />
+    そして、なぜ他の産業にはまだ浸透していかないのか。</strong>
+  </p>
+</section>
+
+<!-- ============== なぜ始めたか ② 抽象化 ============== -->
+<section>
+  <h2>なぜ Claude Code は機能するのか（抽象化）</h2>
+  <p class="lead">3つに分解できる。</p>
+  <ol class="lead">
+    <li><strong>行動空間と観測空間が同じ記号空間（テキスト）で閉じている</strong><br />
+      <span class="muted" style="font-size:0.85em;">世界＝表現。情報の損失がない</span></li>
+    <li><strong>検証が速く・安く・可逆</strong><br />
+      <span class="muted" style="font-size:0.85em;">テスト失敗のコストがほぼゼロ → 数千回試せる</span></li>
+    <li><strong>検証信号が明確</strong><br />
+      <span class="muted" style="font-size:0.85em;">テストが pass / fail を返す</span></li>
+  </ol>
+  <div class="card" style="margin-top:0.6em; border-color: var(--accent);">
+    <p style="margin:0;"><strong>「世界を安く速いデジタルループに射影できる」</strong>とき、agent は強い。<br />
+    物理世界の問題は、<strong>そこに射影できるかどうかが全て。</strong></p>
+  </div>
+</section>
+
+<!-- ============== なぜ始めたか ③ 物理世界 ============== -->
+<section>
+  <h2>物理世界で同じ条件を満たすには</h2>
+  <p class="lead">
+    ヒューマノイドは要らない。「手」はすでに <strong>ネットワーク化されたアクチュエータ</strong>として存在する。<br />
+    必要なのはボディではなく <strong>API + センサー + ループ</strong>。
+  </p>
+  <div class="two-col" style="margin-top:0.5em;">
+    <div class="card">
+      <h4>① アクチュエーションが API 化済み</h4>
+      <p style="font-size:0.78em;margin:0;">CNC / 3Dプリンタ / ラボ自動化 / 半導体プロセス装置 / HVAC / 灌漑 / PLC</p>
+    </div>
+    <div class="card">
+      <h4>② フィードバックが安く取れる</h4>
+      <p style="font-size:0.78em;margin:0;">カメラ / 分光器 / IoT / メトロロジ。物理量→データ変換器の精度が、観測可能性の上限を決める</p>
+    </div>
+    <div class="card">
+      <h4>③ 反復が安全・安価・速い</h4>
+      <p style="font-size:0.78em;margin:0;">ここが物理の律速。シミュレータ / デジタルツインが "テストスイート"。安い sim で数千回、実機は時々だけ</p>
+    </div>
+    <div class="card">
+      <h4>④ 検証信号が明確</h4>
+      <p style="font-size:0.78em;margin:0;">「歩留まりは上がったか」「寸法検査を通ったか」</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============== なぜ始めたか ④ だから動画 ============== -->
+<section>
+  <h2>だから「動画生成 agent」</h2>
+  <ul class="lead">
+    <li>コーディング agent の次に来るのは <strong>動画生成 AI agent では？</strong> と考えた</li>
+    <li>動画づくりも <strong>テキスト（脚本・プロンプト）で記述でき</strong>、<strong>生成→確認のループが安く速く回る</strong> ＝ Claude Code が効く条件に近い</li>
+    <li>Claude Code で実験的に作ってみたら —— <strong>ある程度の再生数が取れて、面白い動画が作れた</strong></li>
+  </ul>
+  <p class="big" style="margin-top:0.8em;"><strong>それが、今日見せるこのプロジェクトです。</strong></p>
+</section>
+
 <!-- ============== Claude Code とは ============== -->
 <section>
   <h2>Claude Code とは</h2>
