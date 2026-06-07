@@ -163,6 +163,47 @@ Claude ＞ 修正しました。では生成します
 
 ---
 
+## 拡張：Skills と Playwright / MCP（すぐ使えるように）
+
+### Skills（同梱済み・追加インストール不要）
+
+ジャンル別の「作り方」(Skill) は `.claude/skills/` に**コミット済み**です。**clone して `claude` を起動すればそのまま使えます。**
+
+```text
+# 呼び出し方（どちらでもOK）
+/biography-webtoon                        # スラッシュで直接呼ぶ
+偉人伝チャンネルでジョブズのショート作って    # 自然言語。Claude が該当 Skill を自動で読む
+```
+
+自分の Skill を足したいときは `.claude/skills/<名前>/SKILL.md` を作るだけ（先頭に `name` と `description` の frontmatter）。次回起動時に Claude が認識します。
+
+### Playwright（YouTube quota 回避 / ニュース記事取得に使用）
+
+このリポの `tools/yt_pw_*.py`（YouTube Studio 経由アップロード = **API quota 消費 0**）や `tools/news_fetch.py`（日経 / Bloomberg のログイン記事取得）は、**Python の Playwright** を使います。
+
+```bash
+# Claude に「playwright をセットアップして」と頼めば下記をやってくれる
+uv pip install playwright          # または: pip install playwright
+playwright install chromium        # ブラウザ本体を入れる
+
+# 初回だけログイン状態を作る（cookie をプロファイルに保存。以後は自動）
+.venv/bin/python tools/yt_pw_login.py
+```
+
+### （任意）Playwright MCP — Claude に直接ブラウザを操作させたい場合
+
+上の Python ツールとは別に、**Claude 自身がブラウザを操作できる Playwright MCP** を足すこともできます（「このページ開いてスクショ取って」等を直接実行）。動画生成そのものには必須ではありません。
+
+```bash
+# このプロジェクトに追加（-s project で .mcp.json に書かれ、clone した人にも共有される）
+claude mcp add playwright -s project -- npx @playwright/mcp@latest
+
+# 確認
+claude mcp list
+```
+
+---
+
 ## 使っている技術（差し替え可能）
 
 | 役割 | デフォルト | メモ |
