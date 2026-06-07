@@ -48,6 +48,9 @@
   .reveal section table th, .reveal section table td { padding: 0.4em 0.7em; border-bottom: 1px solid #333; text-align: left; vertical-align: top; }
   .reveal section table th { color: var(--accent2); }
   .reveal section .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 1.0em; align-items: start; }
+  .reveal section .people { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 0.7em; align-items: stretch; }
+  .reveal section .people .card p { font-size: 0.72em; line-height: 1.45; margin: 0; }
+  .reveal section .people .card h4 { color: var(--accent); font-size: 0.9em; margin-bottom: 0.3em; }
   .reveal section .card {
     background: rgba(255,255,255,0.04); border: 1px solid #2a2a2a;
     border-radius: 0.5em; padding: 0.7em 0.9em;
@@ -106,27 +109,42 @@
   </ul>
 </section>
 
-<!-- ============== 他己紹介 (placeholder) ============== -->
+<!-- ============== 他己紹介 ============== -->
 <section>
-  <h2>他己紹介</h2>
-  <div class="placeholder">
-    <p>※ あとで自分で書く欄</p>
-    <ul>
-      <li>エンジニア / コンサル / マーケ — 今日来てるメンバー</li>
-    </ul>
+  <h2>他己紹介 — 今日のメンバー</h2>
+  <div class="people">
+    <div class="card">
+      <h4>なおき</h4>
+      <p>じーまん経由で3ヶ月前に知り合った友達。フリーランスで IT コンサル（前職ベイカレント / IBM）。いつもちゃんとした格好してるw</p>
+    </div>
+    <div class="card">
+      <h4>いっしー</h4>
+      <p>僕がエストニアに3ヶ月滞在してた時に知り合った（当時19歳でワーホリ）。今は東京の人材系の会社で新卒2年目。今日の最年少。</p>
+    </div>
+    <div class="card">
+      <h4>りっくん</h4>
+      <p>Salesforce のセールスエンジニア。副業で不動産関連も。サッカー好きで先週までヨーロッパに CL 観戦。マーケ・事業戦略の視点が独特で面白い。</p>
+    </div>
+    <div class="card">
+      <h4>よよちゃん</h4>
+      <p>かずやさんの友達。マーケティング会社を経営、広告運用に詳しい。2年前の RubyKaigi の時に、かずやさん・僕と一緒に沖縄に遊びに来た。</p>
+    </div>
+    <div class="card">
+      <h4>かずやさん</h4>
+      <p>4年前にイベントで知り合ったエンジニア。今はクリプト決済のデビットカードの会社で開発。カジノのポーカーだけで暮らしてたことも。</p>
+    </div>
   </div>
 </section>
 
-<!-- ============== 自己紹介 (placeholder) ============== -->
+<!-- ============== 自己紹介 ============== -->
 <section>
-  <h2>自己紹介</h2>
-  <div class="placeholder">
-    <p>※ あとで自分で書く欄</p>
-    <ul>
-      <li>名前 / 普段やってる仕事</li>
-      <li>このパイプラインを作るに至った経緯</li>
-    </ul>
-  </div>
+  <h2>自己紹介 — せいや</h2>
+  <ul class="lead">
+    <li><strong>フリーランスエンジニア。</strong>今は主にレバレジーズの「<strong>わんコネ</strong>」で、データ分析 + バックエンド(Go) / フロント(React) の開発</li>
+    <li><strong>Claude Code を使い倒して</strong>開発を効率化している</li>
+    <li><strong>LUNA Studio</strong>（子供向け体操教室）のシステム開発・運用も</li>
+    <li>何か <strong>AI 関連の project</strong> をやりたくて模索中 ← 今日のこれもその一環</li>
+  </ul>
 </section>
 
 <!-- ============== Claude Code とは ============== -->
