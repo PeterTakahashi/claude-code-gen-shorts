@@ -1,0 +1,10 @@
+characters:
+  - id: anchor
+    name_ja: アンカー
+    short: "20代後半の日本人女性アナウンサー、肩までの黒髪、紺のジャケット、modern news studio"
+    default_outfit: "navy blue news anchor blazer, white blouse, single small lapel pin"
+    description: |
+      A composed Japanese female TV news anchor in her late 20s, shoulder-length
+      straight black hair, slight natural makeup, sharp eyes that look directly
+      at the viewer with quiet authority. She sits behind a modern Tokyo
+      newsroom desk with a glowing studio backdrop of news graphics.

@@ -1,0 +1,110 @@
+id: jensen-leather-jacket
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 60-year-old Jensen Huang on a 2024 GTC keynote stage in San Jose, full-body mid-shot of him standing confidently in his iconic black leather biker jacket, black T-shirt, dark jeans, and white sneakers,
+    a wireless microphone in hand, holding up a new Nvidia GPU module, the audience silhouetted in the dark, stage spotlights catching the leather''s subtle sheen.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A stylized split-panel layout of four small inset illustrations of Jensen Huang on different keynote stages across different years — each one shows him wearing the same style of black leather biker
+    jacket and black T-shirt against a different stage backdrop, conveying his unwavering personal uniform.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A warm domestic interior in a modern American home, a younger Jensen Huang in his 40s standing in a living room receiving a folded black leather jacket as a gift from his Taiwanese-American wife Lori,
+    a small smile on his face, soft warm evening lighting, a quiet personal moment between husband and wife, no logo visible on the jacket.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A detailed close-up of a black leather biker jacket draped over the back of a modern office chair, soft texture of the worn leather, silver zipper details, a small Nvidia green logo pin subtly visible
+    on the lapel, warm desk lamp light, the jacket conveying a sense of identity and ritual.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 60-year-old Jensen Huang seated in a softly-lit modern interview studio, leaning slightly forward in a black leather armchair, his iconic black leather jacket and black T-shirt, mid-conversation expression
+    with a warm half-smile, slightly out-of-focus camera and studio lights in the background, the bearing of a man recounting a personal story.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A backstage corridor of a 2024 conference venue, a 60-year-old Jensen Huang standing in profile, his right hand straightening the collar of his black leather biker jacket, a single technician with a
+    headset visible in the soft background, brilliant white light spilling in from the stage entrance ahead — a moment of ritual just before walking out.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '黒革ジャケットを毎日着る本当の理由 #Shorts'
+  description: 'Nvidia の CEO ジェンスン・ファンが、いつも黒い革ジャケットを着ているのは、なぜか。それは妻からのプレゼントが、始まりだった。
+
+
+    #Shorts #ジェンスンファン #Nvidia #人物伝
+
+    '
+  hook_caption: 黒革ジャケットを着続ける理由
+  series_brand: ジェンスン・ファン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: Nvidia の CEO が、20年以上、ほぼ毎日、同じ黒い革ジャケットを着ている理由を、知っていますか。
+    caption: 20年同じジャケットを着る理由
+  - panel: p2
+    text: ジェンスン・ファン、61歳。あのトレードマークの黒革ジャケット——実は、最初の1着は、妻からのプレゼントだったんです。
+    caption: 最初の1着は妻からの贈り物
+  - panel: p3
+    text: 気に入った彼は、同じものを、何着も買い揃え、出張から登壇まで、ほぼ毎日、着るようになった。
+    caption: 同じものを何着も買い揃えた
+  - panel: p4
+    text: ステージ衣装に悩む時間を、ゼロにして、思考の全てを、半導体と AI に、注ぐためです。
+    caption: 服選びの時間をゼロに
+  - panel: p5
+    text: ジョブズの黒タートルと、同じ哲学——ユニフォームは、決断疲れを、減らす道具なんですね。
+    caption: ユニフォームは決断疲れを減らす
+  - panel: p6
+    text: そして今では、左腕に Nvidia のロゴのタトゥーを入れるほど、彼自身が、ブランドの一部に、なっています。
+    caption: 左腕にはNvidiaロゴのタトゥー
+en:
+  title: 'Why NVIDIA''s CEO Wears The Same Jacket Every Day #Shorts'
+  description: 'NVIDIA CEO Jensen Huang is famous for his black leather jacket. But why does he wear it every single day? The reason is a simple strategy to save his energy for what truly matters.
+
+
+    #Shorts #NVIDIA #JensenHuang #TechCEO #Biography'
+  hook_caption: The Secret Behind His Leather Jacket
+  series_brand: The Jensen Huang Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: For over 20 years, NVIDIA's CEO has worn the same black leather jacket nearly every single day. But why?
+    caption: His daily uniform
+  - panel: p3
+    text: It all started when his wife gave him the very first one as a gift.
+    caption: A gift from his wife
+  - panel: p4
+    text: He loved it so much that he bought several more of the exact same model to wear for everything, from keynotes to meetings.
+    caption: He bought more
+  - panel: p5
+    text: It’s a powerful strategy to fight 'decision fatigue,' the same reason Steve Jobs wore his iconic black turtleneck.
+    caption: No decision fatigue
+  - panel: p6
+    text: By eliminating one small choice, he saves all his mental energy for building the future of AI.
+    caption: Focused on the future

@@ -1,0 +1,14 @@
+characters:
+  - id: holmes
+    name_ja: エリザベス・ホームズ
+    description_en: >-
+      a thin pale young American woman in her late 20s with unusually large piercing
+      pale blue eyes that look almost too wide, narrow gaunt face, long straight
+      dyed-blonde hair worn loose over shoulders, hollow cheeks, very thin slight
+      build, intense unsettling unblinking stare, bright red lipstick, controlled
+      tight-lipped smile that doesn't reach her eyes
+    outfit_en: >-
+      a deliberately Steve-Jobs-style black wool turtleneck sweater, black slim
+      slacks, no visible jewelry, the silhouette of a tech founder cosplay
+    voice_style_id: 1310138977
+    voice_speed: 1.4

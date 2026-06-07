@@ -1,0 +1,185 @@
+# Character roster for 人間失格.
+# - Main characters (yozo_*, takeichi, horiki, tsuneko, prosecutor) have full
+#   visual specs and stylesheets — used for character-design generation.
+# - Supporting characters (family/teacher/servants) carry description only;
+#   they appear in panels via the same description-injection path.
+# - voice_style_id: integer style_id from Aivis (`GET /speakers`). For 人間失格
+#   we use the 8 default speakers that ship with AivisSpeech-Engine. These are
+#   placeholders — listen and reassign per taste.
+# - selected_candidate: integer 1..4 marking the human-selected design.
+#   pipeline.py copies candidates/candidate_<N>.png → selected.png on every run.
+
+characters:
+  # ===== Chapter 1 (childhood Tohoku household) =====
+  - id: yozo_child
+    name_ja: 大庭葉蔵（幼少）
+    description_en: "a thin, slightly hunched 6-year-old Japanese boy, short black tousled hair, long narrow dark eyes with a hollow distant depth, delicate fine features with a faint shadow of melancholy, slightly sickly complexion"
+    outfit_en: "an early Showa era Japanese elementary schoolboy uniform: a dark high-collared tsume-eri jacket with small metal buttons, dark short trousers just above the knee, dark knee-high socks, and small black leather shoes"
+    voice_style_id: 1310138977   # 阿井田 茂 / Calm — quiet melancholy male (narrator)
+    voice_speed: 0.95
+    voice_instructions: null
+    selected_candidate: 2
+    expressions:
+      - neutral blank
+      - performative put-on smile that does not reach the eyes
+      - rare genuine smile with warmth reaching the eyes
+      - hollow emptiness / thousand-yard stare
+      - suppressed fear / trembling apprehension with wide eyes
+      - quiet resignation / acceptance of despair
+    poses:
+      - "Front view, arms relaxed at sides"
+      - "Three-quarter view (facing camera left at about 45 degrees), arms relaxed"
+      - "Pure side profile (facing camera left), arms relaxed"
+      - "Back view from behind, arms relaxed, showing hair and uniform back"
+
+  - id: yozo_adult
+    name_ja: 大庭葉蔵（成年）
+    description_en: "a gaunt Japanese man in his late 20s to early 30s, short unkempt black hair with a few stray strands over the brow, sunken dark eyes with deep shadows, prominent cheekbones, a dark tailored coat with a soft shirt underneath (pre-war Showa era), thin shoulders that slope slightly in resignation"
+    outfit_en: "a dark tailored Western-style coat with soft shirt and narrow trousers (pre-war Showa era civilian dress)"
+    voice_style_id: 1310138977   # same as yozo_child — narrator continuity
+    voice_speed: 0.95
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: father
+    name_ja: 父
+    description_en: "a dignified Japanese man in his late 40s, short slicked-back black hair with a few grey streaks, a neatly trimmed moustache, severe composed face, wearing a dark formal kimono and haori coat (early Showa era)"
+    outfit_en: "a dark formal kimono and haori coat (early Showa era)"
+    voice_style_id: 1310138976   # 阿井田 茂 / ノーマル — measured authoritative
+    voice_instructions: "Read as a dignified Japanese man in his late forties, head of a Tohoku household — measured, authoritative, a little weary."
+    selected_candidate: null
+
+  - id: eldest_brother
+    name_ja: 長兄
+    description_en: "a serious-faced Japanese young man in his early 20s, short black hair neatly parted, thin features, calm composed expression, wearing a dark striped kimono with hakama trousers (early Showa era)"
+    outfit_en: "a dark striped kimono with hakama trousers (early Showa era)"
+    voice_style_id: 1310138980   # 阿井田 茂 / Mid
+    voice_instructions: "Read as a serious-faced Japanese young man in his early twenties — composed, grounded, a touch stiff."
+    selected_candidate: null
+
+  - id: second_brother
+    name_ja: 次兄
+    description_en: "a Japanese young man in his late teens, short black hair, fresher more playful face than his elder brother, wearing a dark kimono (early Showa era)"
+    outfit_en: "a dark kimono (early Showa era)"
+    voice_style_id: 606865152    # fumifumi / ノーマル — youthful male
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: mother
+    name_ja: 母
+    description_en: "a Japanese woman in her early 40s, hair pulled back into a neat bun, gentle but tired eyes, wearing a muted patterned kimono (early Showa era)"
+    outfit_en: "a muted patterned kimono (early Showa era)"
+    voice_style_id: 1431611904   # まい / ノーマル — mature gentle female
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: sister
+    name_ja: 姉
+    description_en: "a Japanese girl in her mid teens, long black hair tied back simply, wearing a soft patterned kimono (early Showa era)"
+    outfit_en: "a soft patterned kimono (early Showa era)"
+    voice_style_id: 1878365377   # コハク / あまあま — young female
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: servant_man
+    name_ja: 下男
+    description_en: "a middle-aged rural Japanese man with a weathered face, short hair, simple dark cotton working kimono with the sleeves tied back, a plain rough apron (early Showa era household servant)"
+    outfit_en: "a simple dark cotton working kimono with the sleeves tied back, a plain rough apron"
+    voice_style_id: 1310138978   # 阿井田 茂 / Far — distant elder feel
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: servant_woman
+    name_ja: 下女
+    description_en: "a middle-aged rural Japanese woman, hair tied up simply, wearing a drab cotton kimono with an apron (early Showa era household maid)"
+    outfit_en: "a drab cotton kimono with an apron (early Showa era household maid)"
+    voice_style_id: 1717361472   # みちのくあいり / 標準
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: teacher
+    name_ja: 教師
+    description_en: "a Japanese elementary school teacher, a man in his 30s with short neatly combed hair and small round eyeglasses, wearing a dark high-collared tsume-eri jacket (early Showa era)"
+    outfit_en: "a dark high-collared tsume-eri jacket (early Showa era)"
+    voice_style_id: 1310138976   # 阿井田 茂 / ノーマル (sharing with father)
+    voice_instructions: null
+    selected_candidate: null
+
+  # ===== Chapter 2 (teen middle school + Tokyo) =====
+  - id: yozo_teen
+    name_ja: 大庭葉蔵（青年）
+    description_en: "a slender Japanese teenage boy, about 16 years old, short tousled black hair with a strand falling over the brow, long narrow dark eyes with a hollow distant depth, pale delicate face with fine features and a faint shadow of melancholy, slightly sickly complexion, lean build"
+    outfit_en: "an early Showa era Japanese middle-school uniform: a dark high-collared tsume-eri jacket with brass buttons and a standing collar, matching dark trousers, and black leather lace-up shoes; a school cap is held in one hand by his side"
+    voice_style_id: 1310138977   # 阿井田 茂 / Calm — narrator
+    voice_speed: 0.95
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - neutral blank
+      - performative put-on smile that does not reach the eyes
+      - frozen horror (eyes wide, face pale)
+      - hollow thousand-yard stare
+      - exhausted dissolute look (half-lidded eyes, slight cigarette-smoker air)
+      - quiet resignation / acceptance of despair
+
+  - id: takeichi
+    name_ja: 竹一
+    description_en: "a thin sickly Japanese middle-school boy, about 15 years old, puffy pale face, slightly drooping eyelids, short unkempt black hair (neat bowl-cut close-cropped, NOT tousled, distinctly different from a sharp-featured handsome protagonist — round puffy face, snub upturned nose, tiny drooping half-closed eyes set far apart)"
+    outfit_en: "a dark high-collared tsume-eri middle-school uniform that is obviously a hand-me-down — sleeves comically long, drooping past his wrists 'like Prince Shotoku's sleeves', trousers slightly too baggy"
+    voice_style_id: 1937616896   # にせ / ノーマル — frail boyish
+    voice_instructions: "Read as a frail Japanese middle-school boy of about 15 — soft, slightly nasal, hesitant, innocently candid. Quiet voice with a small breath before key words."
+    selected_candidate: 1
+    expressions:
+      - neutral blank
+      - shy small smile
+      - startled wide-eyed surprise
+      - sickly pained wince
+      - sleepy half-asleep look
+      - sincere quiet admiration
+
+  - id: horiki
+    name_ja: 堀木
+    description_en: "a Japanese man in his early-to-mid twenties (about 23 years old), an art-school student in Tokyo, dark sun-tanned complexion, handsome chiselled regular features with a prominent straight nose, sharp eyebrows, slightly amused half-smirk, jet-black hair pomaded and parted cleanly down the middle (slick and shiny), slim athletic build, slightly taller than average, confident urban dandy posture"
+    outfit_en: "a neat early Showa era Western-style three-piece suit — tweed sack jacket, waistcoat with watch chain, soft collared shirt with sober tie, narrow trousers, polished black leather oxford shoes"
+    voice_style_id: 1310138981   # 阿井田 茂 / Shout — brash dandy
+    voice_speed: 1.05
+    voice_instructions: "Read as a brash Japanese art-school dandy in his twenties — loud, casual, a bit slurred, faint amused contempt at the edges."
+    selected_candidate: 1
+    expressions:
+      - neutral cool
+      - sardonic smirk
+      - loud open-mouthed laugh
+      - bored cynical scowl
+      - calculating sidelong glance
+      - dismissive amusement
+
+  - id: tsuneko
+    name_ja: 常子
+    description_en: "a thin Japanese woman in her early twenties (about 21 years old), a Ginza cafe waitress, narrow oval face, pale fatigued skin, downturned tired eyes with dark rings, thin lips with no smile, a faint air of suppressed sorrow, hair tied up in a simple modest Showa-era updo (shimada-kuzushi style), no ornaments, slim slight build, narrow shoulders, gentle slope"
+    outfit_en: "a drab dark-patterned cotton kimono (kasuri or fine stripe) with a plain white apron tied at the waist (cafe-waitress style of early Showa Ginza), simple cloth zori sandals"
+    voice_style_id: 888753765    # まお / せつなめ — weary tender female
+    voice_speed: 0.95
+    voice_instructions: "Read as a thin, exhausted Japanese woman in her early twenties with a faint Hiroshima-Kansai softness — quiet, weary, tender."
+    selected_candidate: 1
+    expressions:
+      - neutral tired blank
+      - faint sad gentle smile
+      - quiet kindness extending warmth
+      - silent weeping with downcast eyes
+      - thousand-yard stare
+      - quiet resolution / acceptance
+
+  - id: prosecutor
+    name_ja: 検事
+    description_en: "a dignified Japanese public prosecutor in his mid-40s, close-cropped black hair with grey at temples, neatly parted, narrow lined face, tight-lipped quiet expression, small round wire-rimmed spectacles glinting subtly, a slight expression of polite concealed contempt at the corners of his mouth"
+    outfit_en: "a dark early Showa era Western-style three-piece suit — black sack jacket, matching waistcoat with a watch chain, white shirt and dark conservative tie, dark trousers, black leather oxford shoes"
+    voice_style_id: 1310138979   # 阿井田 茂 / Heavy — cold formal
+    voice_instructions: "Read as a cold, formal Japanese public prosecutor in his forties — precise, controlled, with a thin layer of polite contempt under each phrase."
+    selected_candidate: 1
+    expressions:
+      - neutral formal
+      - thin polite smile
+      - cold sceptical raised eyebrow
+      - slow disappointed shake of head
+      - quiet contempt half-lidded eyes
+      - gentle smile of subtle contempt

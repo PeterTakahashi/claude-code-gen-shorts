@@ -1,0 +1,72 @@
+# 南場智子 cast — visual character sheets for anime/webtoon shorts.
+# Two life-stage variants:
+#   - subject_young: 30s-40s, McKinsey partner era / DeNA founding era (late 1990s)
+#   - subject_adult: 50s-60s, mature DeNA CEO / chairwoman / Yokohama BayStars owner era
+characters:
+  - id: subject_adult
+    name_ja: 南場智子
+    description_en: |
+      A Japanese woman in her 50s to 60s with the characteristic Tomoko Namba
+      features: a round-to-oval face with full cheeks, warm dark brown eyes set
+      slightly wide with friendly crow's-feet at the corners, a small straight
+      nose, a wide expressive mouth often resting in a confident half-smile,
+      thick black hair cut short in a chin-length bob or pulled back, fair-medium
+      skin tone, average build, glasses sometimes worn, the unmistakable bearing
+      of a self-made female founder — warm, blunt, intellectually intense, both
+      maternal and commanding. A rare Japanese woman CEO who looks like she
+      laughs loudly and argues hard.
+    outfit_en: |
+      a Japanese female-executive business-casual uniform — a tailored navy or
+      charcoal grey blazer over a plain white blouse or fine-knit sweater, simple
+      pearl earrings or no jewelry, well-fitting dark trousers or a knee-length
+      skirt, low-heeled plain pumps. Sometimes a softer cardigan-and-blouse combo
+      for off-stage moments, or a Yokohama BayStars team jacket for ballpark
+      scenes. Never flashy, never logo-heavy.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - confident blunt smile mid-pitch
+      - intense focused listening at a boardroom
+      - warm proud laugh celebrating a win
+      - quiet exhausted concern reading a medical chart
+      - composed authority addressing a press conference
+    poses:
+      - "Three-quarter view standing at a podium, hands resting on the edge"
+      - "Front view seated in an executive chair at a long conference table"
+      - "Side profile walking briskly through an office corridor"
+      - "Mid shot raising a hand in greeting at a baseball stadium"
+
+  - id: subject_young
+    name_ja: 南場智子 (30代)
+    description_en: |
+      A Japanese woman in her early to mid 30s in the late 1990s with the
+      characteristic young Tomoko Namba features: a round-to-oval face with
+      youthful full cheeks, warm dark brown eyes set slightly wide, a small
+      straight nose, a wide expressive mouth in a determined half-smile, thick
+      black hair worn slightly longer at shoulder length or in a neat chin-length
+      bob, fair-medium skin, slim-to-average build, the sharp focused bearing of
+      McKinsey's youngest female partner — brilliantly analytical, slightly
+      impatient, an outlier in a 1990s Japanese corporate world dominated by men.
+    outfit_en: |
+      a late-1990s Tokyo management-consultant uniform — a sharply tailored navy
+      or dark grey skirt suit, well-pressed white blouse, sometimes a silk
+      neckscarf in muted color, simple low-heeled pumps, a leather attache case
+      or laptop bag. Hair neatly clipped back for client meetings. Conservative,
+      professional, clearly a serious-minded female consultant of the McKinsey
+      Tokyo office era.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - intense focused analysis at a whiteboard
+      - sharp confident pitch to skeptical investors
+      - quiet determined resolve at her desk past midnight
+      - small triumphant smile after closing a deal
+    poses:
+      - "Three-quarter view standing at a whiteboard with a marker in hand"
+      - "Front view seated cross-legged on the floor of a startup office"
+      - "Side profile reading a thick binder of documents"
+      - "Mid shot leaning over a laptop next to a young engineer"

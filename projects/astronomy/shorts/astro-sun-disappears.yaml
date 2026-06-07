@@ -1,0 +1,209 @@
+id: astro-sun-disappears
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic cinematic shot of the Sun in mid-disappearance,
+
+    the right half of the solar disk still blazing brilliant white-
+
+    yellow with visible plasma flares and granulation while the left
+
+    half is instantly vanishing into a perfect circular slice of pure
+
+    black void, a razor-sharp vertical boundary between the two
+
+    halves with no gradient at all, the surrounding starfield
+
+    already visible right up against the cut edge, the visual of "the
+
+    moment the Sun stops existing". Subject filling the square center
+
+    for vertical short layout with blurred padding above/below. Deep
+
+    cosmic environment, no Earth visible. Eerie unsettling tone.
+
+    Decorative English text only. No Japanese text.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A wide cinematic Earth orbital view from space, the blue-and-
+
+    white sphere of Earth in the lower half of the frame still
+
+    brightly lit by sunlight on its day-side, in the upper half a
+
+    stylized clean digital countdown overlay in decorative English
+
+    "T + 0 SEC ... T + 8 MIN 20 SEC" with a glowing thin yellow
+
+    photon-line shown traveling from where the Sun would be toward
+
+    Earth, the visual of "the light still arriving from a Sun that
+
+    no longer exists". Wide cosmic shot. Decorative English text
+
+    only. No Japanese text.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern physics infographic on midnight-blue starfield
+
+    background, a stylized diagram of the Earth''s orbit around the
+
+    Sun shown as a thin elliptical line, the Sun position now an
+
+    empty dashed circle marked in decorative English "SUN —
+
+    VANISHED", a small blue Earth icon flying tangentially off the
+
+    orbital line in a straight thick yellow trajectory arrow labeled
+
+    in decorative English "STRAIGHT LINE @ 30 KM/S", a small
+
+    floating decorative English caption "GRAVITY = ZERO — EARTH
+
+    KEEPS LAST SPEED", the visual of "no more circular orbit, Earth
+
+    just flies off". Infographic composition. Decorative English text
+
+    only. No Japanese text.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern physics infographic on dark starfield background, a
+
+    bold decorative English headline "TEMPERATURE DROP" centered at
+
+    the top, beneath it a stylized line graph with the X axis labeled
+
+    in decorative English "TIME — 1 WEEK / 1 MONTH / 1 YEAR" and the
+
+    Y axis labeled "AVG TEMP °C", a sharply descending blue curve
+
+    crossing from +15°C plunging through 0°C, -50°C, hitting -100°C
+
+    within a year, three tiny chibi Earth icons spaced along the
+
+    curve, the visual of "weeks until freezing, year until snowball
+
+    Earth". Infographic composition. Decorative English text only.
+
+    No Japanese text.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A surreal cosmic scene set tens of thousands of years later, a
+
+    small dark frozen Earth seen as a pale grey-blue marble against
+
+    the deep starfield, the entire surface covered in thick white
+
+    glacial ice and frozen oceans, no city lights visible anywhere
+
+    on the night side, a faint thin haze of frozen nitrogen
+
+    atmosphere around it, no Sun anywhere in the frame, a thin
+
+    floating decorative English caption "EARTH WITHOUT A STAR" in
+
+    soft silver text, the visual of "a dead world drifting through
+
+    the dark". Wide cosmic shot. Decorative English text only. No
+
+    Japanese text.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic cinematic shot as panel 1 of the Sun in
+
+    mid-disappearance, but now the disappearance is nearly complete
+
+    — only a tiny sliver of brilliant solar light remains on the
+
+    right edge while almost the entire frame is now pure black void
+
+    with a sharp starfield filling in, a thin floating decorative
+
+    English caption "8 MIN 20 SEC LEFT" in soft red beside the
+
+    shrinking sliver, the loop image of "the last second the sky
+
+    still has a Sun". Subject filling the square center for vertical
+
+    short layout with blurred padding above/below. Deep cosmic
+
+    environment. Decorative English text only. No Japanese text.
+
+    '
+ja:
+  title: '太陽が突然消えたら地球はどうなる #Shorts'
+  description: 'もし、今この瞬間に太陽が消えたら——地球は何分後に気づき、何年後に凍りつくのか。
+
+    物理学が描く、人類絶滅シナリオを、30秒で解説します。
+
+
+    #Shorts #宇宙 #太陽 #物理 #thoughtexperiment
+
+    '
+  hook_caption: 太陽が消えたら地球は
+  series_brand: 太陽消失
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 今この瞬間、太陽が突然消えたら、地球はどうなると思いますか?答えは、想像よりずっと、奇妙です。
+    caption: 太陽が消えたら何が起こる?
+  - panel: p2
+    text: まず、空が真っ暗になるのは、8分20秒後です。太陽の光が地球に届くのに、ちょうどそれだけ、時間がかかるので、消えた事実すら、しばらく気づきません。
+    caption: 8分20秒後、空が真っ暗になる
+  - panel: p3
+    text: 同時に、太陽の重力も消えるので、地球は公転を止めて、最後の速度のまま秒速30キロで、宇宙の彼方へ、まっすぐ飛んでいきます。
+    caption: 公転停止、秒速30キロで直進
+  - panel: p4
+    text: 気温は、1週間で氷点下17度、1年で氷点下100度まで急降下します。海も、表面から凍り始め、数万年で、岩盤の底まで完全に凍結します。
+    caption: 1週間で-17度、1年で-100度
+  - panel: p5
+    text: 人類は、地熱発電のある火山地帯で、数十年は生き延びる可能性がありますが、最終的に地球は、氷漬けの暗黒の惑星として、銀河を漂うだけになります。
+    caption: 地球は氷の惑星として銀河を漂う
+  - panel: p6
+    text: つまり、太陽が消えてから人類絶滅まで、たった1年。光と重力という、当たり前の2つに、私たちの生命は、すべてを支えられているんです。
+    caption: 太陽が消えれば1年で絶滅
+en:
+  title: 'What If The Sun Disappeared Right Now? #Shorts'
+  description: 'If the Sun vanished this very second, how long would we have? Physics reveals the terrifying timeline for humanity''s extinction.
+
+
+    #Shorts #Space #Sun #Physics #ThoughtExperiment'
+  hook_caption: The Sun just vanished. Here's what's next.
+  series_brand: When the Sun Vanishes
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: What if the sun vanished, right this second? The answer is stranger than you'd think.
+    caption: What if the sun vanished?
+  - panel: p2
+    text: For 8 minutes and 20 seconds, we wouldn't even know. That's how long the last ray of sunlight takes to reach us before the sky goes instantly dark.
+    caption: 8 minutes of ignorance
+  - panel: p3
+    text: At that same moment, the Sun's gravity would disappear. Earth would stop orbiting and fly off in a straight line, hurtling into deep space at 30 kilometers per second.
+    caption: Earth goes rogue
+  - panel: p4
+    text: Within a week, the planet's average temperature would drop below freezing. After a year, it'd be a deadly minus 100 degrees Celsius.
+    caption: A planet on ice
+  - panel: p5
+    text: A few humans might survive for decades near geothermal vents, but our planet would become a frozen rogue world, drifting silently through the galaxy.
+    caption: The long, cold dark
+  - panel: p6
+    text: 'From the moment the sun vanishes, humanity''s extinction would take less than a year. Our entire existence relies on two things we take for granted: its light, and its gravity.'
+    caption: Extinction in under 1 year

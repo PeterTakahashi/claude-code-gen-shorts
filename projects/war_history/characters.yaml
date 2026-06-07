@@ -1,0 +1,96 @@
+characters:
+  - id: hitler
+    name_ja: ヒトラー
+    description_en: >-
+      a 56-year-old German man in late April 1945, gaunt sunken face with
+      grey-tinged pallor, deep dark circles under tired pale-blue eyes,
+      his iconic short side-parted dark brown hair now greying at the
+      temples and slightly disheveled, the famous narrow square mustache
+      under a thin nose, visibly trembling left hand held close to his
+      body, hunched posture from Parkinson-like tremor, the visual of a
+      broken dictator in his final hours
+    outfit_en: >-
+      a plain field-grey military tunic with a single Iron Cross pinned
+      on the left breast, no other decorations, dark grey trousers, a
+      simple leather belt, no cap, the spare austere uniform of a man no
+      longer pretending to lead an army
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+
+  - id: eva_braun
+    name_ja: エヴァ・ブラウン
+    description_en: >-
+      a 33-year-old German woman in late April 1945, slim build, neatly
+      curled shoulder-length light brown hair styled in 1940s waves, pale
+      composed face with soft features, calm resigned blue-grey eyes,
+      subtle pink lipstick, the visual of a woman who has accepted her
+      fate with eerie serenity
+    outfit_en: >-
+      a simple but elegant dark navy-blue silk dress with a modest
+      neckline, no jewelry except a single gold wedding band on the left
+      ring finger, polished black low-heeled shoes
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+
+  - id: yamamoto
+    name_ja: 山本五十六
+    description_en: >-
+      a 57-year-old Japanese Imperial Navy admiral in late 1941, short
+      stocky strong build, broad square face with high cheekbones, close-
+      cropped black hair turning grey at the sides, calm deeply thoughtful
+      dark eyes that look heavy with reluctance, firm closed mouth, the
+      visual of a brilliant strategist who knows he is about to wake a
+      sleeping giant
+    outfit_en: >-
+      the dark navy-blue double-breasted dress uniform of the Imperial
+      Japanese Navy with gold sleeve braid indicating admiral rank, gold
+      shoulder boards, a single row of campaign ribbons on the left
+      breast, a white dress shirt and black tie underneath, white gloves
+      sometimes held in one hand
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+
+  - id: tojo
+    name_ja: 東條英機 (元日本首相)
+    description_en: >-
+      a 60-year-old Japanese former prime minister in September 1945,
+      compact wiry build, clean-shaven angular face with prominent
+      cheekbones and a strong square jaw, a stern thin-lipped mouth,
+      sharp deeply intelligent dark eyes behind round wire-rimmed
+      eyeglasses, close-cropped iron-grey hair shaved high on the sides,
+      a thin neatly-trimmed grey toothbrush mustache, weathered taut
+      skin, the unmistakable severe visual of the wartime leader
+      identified by the world as the face of imperial Japan
+    outfit_en: >-
+      in the early panels a dark olive Imperial Japanese Army general's
+      tunic with high stiff collar, gold sleeve cuffs indicating
+      general rank, a row of campaign ribbons on the left breast, a
+      ceremonial sword at the left hip, white gloves; in later panels
+      changing into a plain dark civilian three-piece wool suit with a
+      white dress shirt and a dark conservative necktie, the symbolic
+      transition from soldier to ordinary defeated man
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+
+  - id: togo
+    name_ja: 東郷平八郎
+    description_en: >-
+      a 57-year-old Japanese Imperial Navy admiral in May 1905, short
+      compact wiry build with rigid upright posture, weathered tan-toned
+      face with prominent high cheekbones and a long thin nose, a full
+      well-groomed dark beard streaked with grey running down to mid-
+      chest in the Meiji-era admiral style, neatly trimmed grey mustache,
+      sharp piercing calm dark eyes under heavy brows, close-cropped
+      black hair receding at the temples, the visual of a Samurai-
+      descended naval commander known as the "Nelson of the East"
+    outfit_en: >-
+      the dark navy-blue Meiji-era Imperial Japanese Navy admiral's
+      tunic with a stiff stand-up collar, two rows of polished brass
+      buttons down the front, broad gold sleeve braid indicating full
+      admiral rank, gold shoulder boards with sakura insignia, the Order
+      of the Rising Sun and the Order of the Golden Kite pinned in a
+      neat row on the left breast, a ceremonial sword in a black scabbard
+      at the left hip, white gloves often held in one hand, occasionally
+      a peaked navy-blue admiral's cap with a gold-leafed visor
+    voice_style_id: 1310138977
+    voice_speed: 1.4

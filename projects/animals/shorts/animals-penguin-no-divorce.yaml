@@ -1,0 +1,181 @@
+id: animals-penguin-no-divorce
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic shot of two adult emperor penguins facing each
+
+    other in profile filling the frame, their long curved beaks nearly
+
+    touching in a tender greeting bow, glossy black heads and bright
+
+    yellow-orange ear patches catching low Antarctic golden-hour sun, one
+
+    large round black eye visible on each penguin gazing at the other with
+
+    unmistakable recognition, soft-focus blizzard snow swirling in the
+
+    background of a vast white Antarctic colony. The visual of "across
+
+    thousands of birds, they only see each other." Subject filling square
+
+    center for vertical short layout, blurred padding above and below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A vast Antarctic emperor penguin colony at sunrise, wide mid-shot of
+
+    tens of thousands of penguins packed across pale blue ice, the same
+
+    single emperor penguin walking deliberately through the dense crowd,
+
+    its yellow-orange ear patch visible, its head slightly raised emitting
+
+    a calling trumpet, decorative subtle ice-crack patterns under foot,
+
+    pale pink dawn sky and a tiny research-station silhouette in the
+
+    distance. The visual of "one bird, searching ten thousand for a
+
+    single voice."
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same colony, low-angle mid-shot of the same pair of emperor penguins
+
+    finally meeting face to face after the long search, performing the
+
+    classic mutual ecstatic display — necks fully arched skyward, beaks
+
+    pointed straight up, throats vibrating mid-call, eyes closed in
+
+    recognition, the dense crowd of penguin silhouettes blurred all around
+
+    them, a single shared fluffy grey chick standing between their feet
+
+    pressing against the warm brood pouch fold. The visual of "the reunion
+
+    song after months apart."
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on soft pale-blue iceberg-textured
+
+    background, decorative bold English headline "DIVORCE 0%" centered,
+
+    smaller decorative Japanese label beneath「皇帝ペンギン / 一夫一妻 /
+
+    声で個体識別」readable, a tiny chibi emperor-penguin pair standing
+
+    side by side between them, a faint snowflake motif in the corners.
+
+    The visual of "the species that does not separate."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Antarctic ice-edge landscape at midday, wide mid-shot of a long single-
+
+    file procession of emperor penguins walking thousands of kilometers
+
+    from the open sea back toward the breeding colony, the same lead
+
+    penguin at the front of the line, footprints stretching to the
+
+    horizon across the pale blue snow, faint distant icebergs, a low pale
+
+    sun, a tiny decorative compass-rose graphic in the corner of the
+
+    panel. The visual of "the march that lasts months, just to find one
+
+    voice again."
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic shot as panel 1 but slightly later — the
+
+    same two adult emperor penguins facing each other in profile, their
+
+    long curved beaks now gently crossing in a soft preening touch, both
+
+    round black eyes now closed in quiet contentment, the yellow-orange
+
+    ear patches glowing slightly warmer in deeper golden-hour Antarctic
+
+    light, soft-focus snow drifting more peacefully behind them. The loop
+
+    image of "the bond that does not break." Subject filling square frame
+
+    for vertical short with blurred padding above and below.
+
+    '
+ja:
+  title: 'ペンギンは離婚率0%、声だけで伴侶を見つける動物 #Shorts'
+  description: '数万羽がひしめく南極のコロニーで、声だけを頼りに、たった一羽の伴侶を、何ヶ月もかけて探し出すペンギンが、いるんです。
+
+    彼らの「離婚率」は、ほぼ0%でした。
+
+
+    #Shorts #ペンギン #皇帝ペンギン #動物の絆 #トリビア
+
+    '
+  hook_caption: 離婚率0%の動物
+  series_brand: ペンギンの絆
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 数万羽がひしめく南極のコロニーで、伴侶の声だけを頼りに、たった一羽を探し出す動物が、いるんです。それが、皇帝ペンギンでした。
+    caption: 数万羽の中から伴侶を探す鳥
+  - panel: p2
+    text: 海から戻ってきたオスとメスは、群れの中を歩きながら、独特のトランペットのような鳴き声を、一定間隔で発し続けます。彼らは姿ではなく、声の周波数で、個体を識別しているんです。
+    caption: 姿ではなく、声で識別する
+  - panel: p3
+    text: 互いの声を聞き分けたペンギンは、首を空に向け、嘴を真上に立てて、再会の歌を、二羽で重ねます。何ヶ月も離れていた相手が、目の前にいることへの、確認の儀式です。
+    caption: 首を立てて重ねる再会の歌
+  - panel: p4
+    text: 皇帝ペンギンの離婚率は、研究によって、ほぼ0%とされています。一度番になったペアは、原則として、生涯添い遂げます。これは、動物界でも、極めて稀な性質です。
+    caption: 離婚率0%、生涯添い遂げる
+  - panel: p5
+    text: 繁殖期になると、彼らは海の餌場から内陸のコロニーまで、およそ100キロを超える距離を、列になって歩きます。それも、たった一羽の相手の声を、もう一度聞くため、だけにです。
+    caption: 100キロ超を歩く、声のために
+  - panel: p6
+    text: 数万羽の声の海の中から、たった一つの音を選び続ける——皇帝ペンギンの絆は、技術ではなく、忠誠の物語そのものでした。
+    caption: 一つの声を選び続ける忠誠
+en:
+  title: 'Why Emperor Penguins Have a 0% Divorce Rate #Shorts'
+  description: 'In a colony of half a million birds, how do emperor penguins find their one true love? They listen. Their lifelong bond is one of the strongest in the entire animal kingdom.
+
+
+    #Shorts #Penguins #Nature #AnimalFacts #EmperorPenguin'
+  hook_caption: The Animal With a 0% Divorce Rate
+  series_brand: Animal Bonds
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In a colony of half a million penguins, where everyone looks the same, how does one find its soulmate?
+    caption: Find your soulmate
+  - panel: p1
+    text: They don't use sight. They listen for a single, unique voice—their partner's.
+    caption: Listen for one voice
+  - panel: p5
+    text: After months apart, they'll travel over 100 kilometers on foot, calling out for the one they remember.
+    caption: A 100km journey
+  - panel: p3
+    text: When they finally hear it, they perform a special reunion duet, a ritual to confirm they've found each other again.
+    caption: A reunion duet
+  - panel: p4
+    text: This unbreakable bond is why emperor penguins have an almost zero percent 'divorce rate,' staying loyal for life.
+    caption: 0% Divorce Rate
+  - panel: p6
+    text: In a sea of countless voices, their loyalty isn't just a choice... it's a promise.
+    caption: A promise

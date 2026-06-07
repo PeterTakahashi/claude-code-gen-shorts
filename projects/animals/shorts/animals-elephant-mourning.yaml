@@ -1,0 +1,60 @@
+id: animals-elephant-mourning
+image_style: photorealistic
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A photorealistic wide shot of a family herd of African elephants walking together across
+      a savanna at golden hour, an old matriarch leading the line, warm dust in the air,
+      cinematic wildlife photography.
+  - id: p2
+    prompt: |
+      A photorealistic close-up of an elephant calf gently touching another adult elephant with
+      its trunk, conveying deep social bond, soft natural light, nature documentary photography.
+  - id: p3
+    prompt: |
+      A solemn photorealistic scene of an elephant standing over the bleached skeleton and
+      skull of a deceased elephant on the savanna, gently touching the bones with its trunk,
+      conveying recognition and grief, soft overcast light, wildlife photography.
+  - id: p4
+    prompt: |
+      A photorealistic scene of several elephants gathered silently around the remains of a
+      dead family member, one of them lifting a bone with its trunk, quiet and reverent mood,
+      golden savanna light, cinematic nature photography.
+  - id: p5
+    prompt: |
+      A photorealistic scene of an elephant matriarch leading her herd many years later, pausing
+      at the same spot in the savanna where bones once lay, gently sweeping the ground with her
+      trunk, conveying long memory, warm afternoon light.
+  - id: p6
+    prompt: |
+      A serene photorealistic portrait of an elephant family resting together at sunset, calves
+      sheltered between adults, quiet and protective, cinematic wildlife photography.
+ja:
+  title: 'ゾウは仲間の骨を見つけると、立ち止まって泣く #Shorts'
+  description: |
+    アフリカゾウは、群れの仲間が死ぬと、長い時間そばを離れずに弔う。数年経っても、その場所を通ると立ち止まり、骨を鼻でなでる。死を理解し、悼む数少ない動物。ゾウの深い知性と情を30秒で解説します。
+
+    #Shorts #動物雑学 #ゾウ #知性 #雑学
+  hook_caption: ゾウは仲間の骨の前で立ち止まる
+  series_brand: 規格外の生き物
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: アフリカゾウは、家族の絆がとても強い動物です。年老いた母を先頭に、何十年も同じ仲間と暮らしていきます。
+      caption: 何十年も家族で暮らす絆の強い動物
+    - panel: p2
+      text: 子ゾウは、鼻で大人にそっと触れて、安心を確かめます。彼らの社会には、人間に近い愛情や思いやりがあるんです。
+      caption: 鼻で触れ合い愛情を確かめる
+    - panel: p3
+      text: そして、仲間の死に対して、ゾウは特別な反応を見せます。サバンナで仲間の骨を見つけると、立ち止まり、静かに鼻で骨をなで始めるんです。
+      caption: 仲間の骨を見つけ静かに鼻でなでる
+    - panel: p4
+      text: 家族の遺体のそばでは、何時間も、ときには何日もそばを離れません。順番に近づき、まるで弔いをするように、骨に触れていきます。
+      caption: 遺体のそばを離れず弔うように触れる
+    - panel: p5
+      text: しかも、彼らはその場所を、何年経っても忘れません。同じ道を通れば、ふと立ち止まり、見えないものを探すように、地面をなぞるんです。
+      caption: 何年経っても場所を忘れず立ち止まる
+    - panel: p6
+      text: 死を理解し、家族を悼む動物は、ごくわずかしかいません。ゾウの大きな体には、私たちと変わらないほど深い心が、宿っているのです。
+      caption: ゾウには人と変わらぬ深い心が宿る

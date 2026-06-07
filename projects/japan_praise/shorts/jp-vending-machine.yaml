@@ -1,0 +1,60 @@
+id: jp-vending-machine
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon night scene of a Western tourist on a quiet Japanese street lined
+      with brightly glowing vending machines, no people around, surprised expression. Conveys
+      "vending machines everywhere, even on empty streets". Warm neon glow, safe quiet night.
+  - id: p2
+    prompt: |
+      An anime close-up of the rows of vending machines selling hot and cold drinks, totally
+      intact, no damage, no graffiti, the tourist inspecting them. Conveys "not a single one is
+      vandalized or broken into". Clean, bright tone.
+  - id: p3
+    prompt: |
+      An anime scene of the tourist's thought bubble imagining the same machines back home being
+      smashed or robbed, contrasted with the pristine Japanese ones. Conveys "abroad they'd be
+      broken into". Lighthearted contrast.
+  - id: p4
+    prompt: |
+      An anime scene of a lone vending machine standing safely in a remote rural area at dusk,
+      far from any shop, still stocked and glowing. Conveys "they stand safely even in the middle
+      of nowhere". Serene countryside tone.
+  - id: p5
+    prompt: |
+      A warm anime scene illustrating the reason — a society of low crime and high trust, people
+      walking by peacefully, conveying "it works because the country is safe and honest". Clean,
+      gentle illustration.
+  - id: p6
+    prompt: |
+      A closing anime scene of the tourist buying a warm canned drink from the glowing machine on
+      the quiet street, smiling, conveying "everyday safety the world envies". Warm, hopeful night light.
+ja:
+  title: '街中にあるのに壊されない、日本の自販機に外国人が驚く #Shorts'
+  description: |
+    日本の街には、人通りのない場所にまで自動販売機があふれている。しかも壊されず、盗まれず、何十年も無事に立ち続ける。海外では考えられないこの光景に、外国人は治安と信頼の高さを実感する。30秒で解説します。
+
+    #Shorts #日本 #自動販売機 #海外の反応 #治安
+  hook_caption: 街中にあるのに壊されない日本の自販機
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 夜の静かな日本の通りを歩いた外国人が、驚きます。人通りもないのに、明るく光る自動販売機が、いくつも並んでいたからです。
+      caption: 人通りのない夜道にも自販機が並ぶ
+    - panel: p2
+      text: しかも、どれ一つ壊されていません。落書きもなく、こじ開けられた跡もない。お金もジュースも、ちゃんと中に入ったままです。
+      caption: 壊されず落書きもなく無事に立っている
+    - panel: p3
+      text: 外国人は思います。自分の国なら、こんな機械、すぐに壊されて中身を奪われてしまう、と。
+      caption: 母国ならすぐ壊され奪われると思う
+    - panel: p4
+      text: 日本では、人里離れた田舎の道端にも、自販機がぽつんと無事に立っています。誰も、手を出さないんです。
+      caption: 田舎の道端でも誰も手を出さない
+    - panel: p5
+      text: これを支えているのは、治安の良さと、人を信じられる社会です。盗まないのが当たり前、という前提で成り立っています。
+      caption: 高い治安と「盗まない前提」の社会
+    - panel: p6
+      text: 機械が無事に立ち続ける、ただそれだけのこと。でもその裏にある安全と信頼こそ、世界が日本をうらやむ豊かさなのです。
+      caption: その裏の安全と信頼こそ世界が羨む豊かさ

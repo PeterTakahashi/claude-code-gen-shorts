@@ -1,0 +1,182 @@
+id: jp-toilet-foreigner-reaction-real
+parent_chapter: null
+image_style: photorealistic
+panels:
+- id: p1
+  prompt: 'Square 1:1 photorealistic cinematic photograph filling the frame
+
+    edge-to-edge. EXTREME close-up on a 30-something European tourist
+
+    man''s astonished face just after stepping into a Japanese airport
+
+    restroom — light brown wavy hair, fair skin, blue-green eyes wide
+
+    with disbelief, slight stubble, mouth slightly open, the polished
+
+    tile reflection and clean Japanese restroom signage softly out of
+
+    focus behind him. Present-day Tokyo Narita airport, warm fluorescent
+
+    light, DSLR photography, natural skin texture. The visual of "first
+
+    contact." Subject filling square center for vertical short layout
+
+    with blurred padding above/below. Decorative Japanese signage
+
+    「お手洗」readable in soft focus.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 photorealistic cinematic photograph filling the frame.
+
+    Inside a spotless modern Japanese airport restroom stall, mid-shot
+
+    of the same 30-something European man sitting fully clothed on a
+
+    pristine white Japanese washlet toilet, examining the side control
+
+    panel with childlike fascination — visible decorative English
+
+    buttons "WARM", "WASH", "DRY", "MUSIC" on the panel, subtle gentle
+
+    steam rising, clean Japanese tile, soft warm overhead light. Real
+
+    photograph quality, the texture of his jacket and the gleam of the
+
+    ceramic clearly rendered. Subject centered in square frame.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 photorealistic product-photography panel filling the
+
+    frame. A cutaway technical photograph of a real Japanese TOTO
+
+    washlet bidet seat against a soft mint-green seamless studio
+
+    background, with floating decorative English labels "HEATED SEAT",
+
+    "AUTO LID", "DEODORIZER", "AMBIENT MUSIC" pointing to actual
+
+    features on the unit. Studio product photography lighting, sharp
+
+    focus, the metallic and ceramic textures realistic. No people in
+
+    frame. NOT illustration — real product photography.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 photorealistic cinematic photograph filling the frame.
+
+    Same Japanese airport restroom moments later, mid-shot of the same
+
+    30-something European tourist standing at the sink looking into the
+
+    mirror, a single real tear catching the warm restroom light as it
+
+    rolls down his cheek, his face genuinely moved — natural skin
+
+    texture, slight redness around the eyes, soft warm light. DSLR
+
+    portrait photography. Subject centered in square frame.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 photorealistic cinematic photograph filling the frame.
+
+    A modern Berlin Germany apartment bathroom several weeks later,
+
+    mid-shot of the same European man now home, standing dejectedly in
+
+    front of his own plain cold-looking European ceramic toilet,
+
+    shoulders slumped, soft cool grey morning light through a small
+
+    frosted window, exposed brick wall partly visible. Realistic
+
+    modern German apartment interior, NOT Japanese aesthetic — exposed
+
+    brick, square white tile, German-style sink fixtures. DSLR
+
+    photography. Subject filling square center.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 photorealistic cinematic photograph filling the frame.
+
+    Same Berlin apartment bathroom one month later, mid-shot of the
+
+    same European man now smiling proudly as a freshly installed TOTO
+
+    washlet bidet seat sits atop his European toilet, the original
+
+    brown TOTO cardboard shipping box on the tiled floor beside him
+
+    with the decorative English label "TOTO FROM JAPAN" clearly
+
+    readable, warm afternoon sunlight through the bathroom window.
+
+    Realistic German apartment bathroom but with the Japanese-engineered
+
+    seat installed — the loop-back image. DSLR cinematic photography.
+
+    '
+ja:
+  title: 'ドイツ人観光客が日本のトイレで泣いた理由 #Shorts'
+  description: '日本に来た外国人が、最初に衝撃を受けるのは、神社でも寿司でもなく、トイレだと言われている。
+
+    TOTOが半世紀かけて磨いた温水洗浄便座が、なぜ世界中の旅行者を泣かせるのか。1980年代から始まった、ある日本企業の地味な努力を、実写映像版で紹介します。
+
+
+    #Shorts #日本礼賛 #TOTO #ウォシュレット #海外の反応
+
+    '
+  hook_caption: 日本のトイレで泣いた理由
+  series_brand: TOTO実写版
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 日本に来た外国人が、最初に衝撃を受けるのは、神社でも寿司でもなく、空港のトイレだと、よく言われます。
+    caption: 最初の衝撃は空港のトイレ
+  - panel: p2
+    text: 個室に入ると、便座は温かく、横のパネルには、ボタンがずらり。初めて見ると、宇宙船の操縦席のように感じる人も、多いんです。
+    caption: 便座が温かく、ボタンが並ぶ
+  - panel: p3
+    text: 正体は、TOTOが1980年代から改良を重ねた、温水洗浄便座Washlet。便座暖房、自動開閉、消臭、音楽までついた、世界唯一の家電です。
+    caption: TOTOウォシュレット、世界唯一の家電
+  - panel: p4
+    text: 寒い冬の早朝、温かい便座にそっと座った瞬間、思わず涙が出たという外国人観光客の体験談は、SNSで何度もバズりました。
+    caption: 寒い朝、温かい便座で涙
+  - panel: p5
+    text: 帰国後、自国の冷たい便座に座り直した時、初めて、日本の日常がどれほど贅沢だったかに、気づくそうです。
+    caption: 帰国後、自国の便座が冷たい
+  - panel: p6
+    text: そして近年、TOTOの海外売上は急増。日本人にとっては当たり前の小さな優しさが、世界中の家に、静かに広がり始めています。
+    caption: TOTOの海外売上が急増中
+en:
+  title: 'This Japanese Toilet Made Him Cry #Shorts'
+  description: 'They say the biggest culture shock in Japan isn''t the food, it''s the toilets. This is the story of TOTO, and how their high-tech washlets are changing lives, one bathroom at a time.
+
+
+    #Shorts #TOTO #Japan #Travel #Washlet'
+  hook_caption: Why Japan's Toilets Make People Cry
+  series_brand: The TOTO Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: For many tourists in Japan, the first real culture shock isn't the shrines or the sushi... it's this.
+    caption: First Culture Shock
+  - panel: p2
+    text: You sit down on a heated seat and are greeted by a control panel that looks like it belongs in a spaceship.
+    caption: Spaceship Controls
+  - panel: p3
+    text: This is the TOTO Washlet, a high-tech bidet seat perfected since the 1980s with an incredible array of features.
+    caption: The TOTO Washlet
+  - panel: p4
+    text: Stories have gone viral of travelers moved to tears by the simple comfort of a warm seat on a cold day.
+    caption: Moved to Tears
+  - panel: p5
+    text: But the real shock often comes after they fly home... to a cold, ordinary toilet.
+    caption: Back to Reality
+  - panel: p6
+    text: It's no surprise TOTO's sales are now soaring, as this small piece of Japanese hospitality finds a home around the world.
+    caption: Going Global

@@ -1,0 +1,74 @@
+characters:
+  - id: ichiro
+    name_ja: イチロー
+    description_en: >-
+      a lean wiry 30-year-old Japanese professional baseball player
+      around 2004 Seattle, short cropped black hair under a navy
+      baseball cap, sharp narrow dark eyes with an intensely focused
+      almost meditative gaze, clean-shaven angular face with a slight
+      perpetual squint, slim athletic frame around 5 foot 11 inches,
+      the disciplined posture of a man who repeats the same routine
+      every single day
+    outfit_en: >-
+      a Seattle Mariners home white baseball uniform jersey with
+      number 51 on the back in navy and teal, matching white pants
+      with teal belt, navy cap with white S logo, batting gloves on
+      both hands, or alternatively a simple grey training t-shirt
+      and shorts in clubhouse scenes
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: young_ohtani
+    name_ja: 大谷翔平 (高校1年)
+    description_en: >-
+      a 15-year-old Japanese high-school first-year baseball player in
+      2010 at Hanamaki Higashi High School in Iwate, already tall for
+      his age at around 6 foot 2 inches but still boyish in face, short
+      cropped black hair under a navy baseball cap, smooth youthful
+      clean-shaven face, calm but unusually intense dark eyes with a
+      focused almost serene gaze, lean still-developing athletic build,
+      the look of a polite earnest country boy who is quietly setting
+      goals nobody else dares to write down
+    outfit_en: >-
+      a white Hanamaki Higashi High School baseball practice jersey
+      with simple navy lettering, matching white baseball pants, navy
+      cap, a navy high-school gakuran jacket over a white shirt in
+      classroom scenes, white sneakers; sometimes holding a pencil
+      and a printed 9x9 grid mandala chart sheet
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: kawabuchi
+    name_ja: 川淵三郎
+    description_en: >-
+      a 55-year-old Japanese sports administrator man in 1991 Tokyo, former
+      Furukawa Electric soccer player so still possessing the broad-shouldered
+      lean-athletic ex-player physique, medium-tall stature around 5 foot 9
+      inches, neatly combed short black hair lightly greying at the temples
+      and parted to the side, slightly tanned weathered complexion, strong
+      square jaw, intense determined dark eyes under thick dark eyebrows, a
+      slight permanent crease of seriousness between his brows, clean-shaven,
+      the unmistakable presence of a man who is about to bulldoze a
+      conservative establishment
+    outfit_en: >-
+      a tailored dark navy single-breasted two-piece business suit with
+      slightly 1990s wider lapels, a crisp white dress shirt, a deep wine-red
+      patterned silk necktie, polished black leather oxford shoes, sometimes
+      a small JFA lapel pin on the jacket, occasionally holding a thick
+      bound report titled in decorative English "J.LEAGUE 100-YEAR PLAN"
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: ali
+    name_ja: モハメド・アリ
+    description_en: >-
+      a tall lean 25-year-old African-American heavyweight boxer in
+      1967, around 6 foot 3 inches with a powerful but graceful
+      muscular build, short cropped black hair, smooth brown skin,
+      sharp expressive dark eyes capable of both defiant fire and
+      gentle warmth, a strong jaw, the unmistakable charismatic face
+      of a man who is at once a fighter and a poet
+    outfit_en: >-
+      white satin boxing trunks with black trim and red waistband,
+      black low-top boxing shoes, bare-chested in fight scenes; or
+      alternatively a sharp dark business suit with white shirt and
+      narrow black tie in courtroom and press scenes
+    voice_style_id: 1310138977
+    voice_speed: 1.4

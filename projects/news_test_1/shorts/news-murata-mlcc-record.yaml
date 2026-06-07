@@ -1,0 +1,72 @@
+id: news-murata-mlcc-record
+parent_chapter: null
+image_style: photorealistic
+panels:
+  - id: p1
+    prompt: |
+      Macro close-up photograph of a tiny black MLCC ceramic capacitor on a
+      Japanese person's fingertip, sharp focus, dramatic side lighting, in the
+      blurred background a stock chart showing a rising green line and a label
+      "MURATA 株価最高値". The visual of "the tiny chip behind the new high".
+      Documentary photography quality.
+  - id: p2
+    prompt: |
+      Photoreal newsroom shot — a professional Japanese female TV news anchor
+      in her late 20s in a navy blazer behind a modern Tokyo news desk, behind
+      her a large studio monitor showing the Murata Manufacturing logo and a
+      glowing stock chart at new all-time high. Composed broadcast lighting.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      Realistic photo of a Japanese electronics factory clean-room — workers in
+      white bunny suits inspecting wafers and MLCC trays under bright fluorescent
+      light, the visual of "Murata's MLCC production line, running flat-out".
+      Documentary industrial photography.
+  - id: p4
+    prompt: |
+      A clean infographic photograph composite — a stack of MLCC trays on the
+      left, a stock chart on the right showing a green candle hitting a new
+      high, a bold caption "需給逼迫" overlaid, the visual of "tight supply
+      pushes the stock up". Modern financial news look.
+  - id: p5
+    prompt: |
+      Photoreal close-up of a Tokyo brokerage trading floor — a senior Japanese
+      male trader pointing at a chart on his monitor showing Murata's stock,
+      colleagues in the soft-focus background, the visual of "analysts react to
+      Murata's strong forward guidance". Modern photography.
+  - id: p6
+    prompt: |
+      Photoreal newsroom — the same anchor at her desk, behind her a split-
+      screen monitor: left a MLCC tray close-up, right Murata's stock chart
+      hitting a new high. A calm explanatory closing shot.
+      Character: {anchor}.
+
+ja:
+  title: "村田製作所が株価最高値、MLCC需給逼迫の本当の理由 #Shorts"
+  description: |
+    村田製作所の株価が最高値を更新。背景には、AI・自動車向けに需要が爆発するMLCC（積層セラミックコンデンサ）の
+    需給逼迫がある。アナリスト説明会を市場が評価した経緯を、30秒で解説。
+
+    #Shorts #ニュース #株式 #村田製作所 #MLCC #日経
+  hook_caption: "村田、株価最高値の正体"
+  series_brand: "村田、最高値の正体"
+  voice_speed: 1.35
+  narration:
+    - panel: p1
+      text: "電子部品の村田製作所が、株価最高値を更新です。きっかけは、AI需要の追い風と、MLCCの需給逼迫でした。"
+      caption: "村田、株価最高値を更新"
+    - panel: p2
+      text: "MLCCは、積層セラミックコンデンサ。スマホからAIサーバー、EVまで、ほぼ全ての電子機器に欠かせない、超基幹部品です。"
+      caption: "MLCCは、電子部品の主役"
+    - panel: p3
+      text: "村田はこの世界シェアでトップ。AIサーバーが急増したことで、高性能MLCCの供給がきつくなり、価格も上がっています。"
+      caption: "AI需要で、供給がきつくなる"
+    - panel: p4
+      text: "アナリスト説明会で示された、強気の業績見通しと、需給見通し。市場はそれを評価して、株を一気に買い上げた、というのが今回の構図です。"
+      caption: "強気見通しを、市場が評価"
+    - panel: p5
+      text: "気をつけたいのは、これがピークなのか、まだ序盤なのか、という点。AI投資の継続性に対する強気・弱気の見方が、ここから分かれ目になります。"
+      caption: "ここからは、AI投資の持続力次第"
+    - panel: p6
+      text: "1ミリ以下の部品が、AI時代の主役。村田の株価は、AIブームの本気度を映す、もう一つの体温計です。"
+      caption: "MLCCは、AIブームの体温計"

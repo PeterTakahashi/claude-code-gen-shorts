@@ -1,0 +1,81 @@
+# Corporate collapses cast.
+characters:
+  - id: nogami_yamaichi
+    name_ja: 野澤正平
+    description_en: >-
+      a 60-something Japanese male corporate executive in his early 60s,
+      balding with neatly combed short grey hair on the sides, square
+      wire-frame glasses, deeply lined exhausted face, visible heavy bags
+      under his eyes, slightly hunched posture from extreme stress, capable
+      of breaking into open tears at the press table, the visual of a
+      salaryman president broken by the collapse of a century-old securities
+      firm
+    outfit_en: >-
+      a conservative dark navy double-breasted business suit, crisp white
+      dress shirt, dark muted necktie, small corporate lapel pin, the
+      silhouette of an old-school Japanese securities-firm president
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: takahashi_kozo
+    name_ja: 高橋興三 (シャープ最後の独立CEO)
+    description_en: >-
+      a 60-something Japanese male electronics-industry executive in his early
+      60s, neatly combed short jet-black hair with grey at the temples, square
+      black-rimmed glasses, a long lined face with a stiff stoic expression
+      barely concealing exhaustion, slightly slumped shoulders, the visual of
+      the last independent president of a 104-year Japanese electronics giant
+      moments before signing it away to a Taiwanese owner
+    outfit_en: >-
+      a conservative dark charcoal Japanese business suit, crisp white dress
+      shirt, dark red striped necktie, a small Sharp-style corporate lapel
+      pin on the jacket, the silhouette of an Osaka-headquartered Japanese
+      electronics-firm president
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: terry_gou
+    name_ja: テリー・ゴウ (Foxconn 創業者)
+    description_en: >-
+      a 60-something Taiwanese male billionaire industrialist, broad heavyset
+      build, square wide jaw, short combed-back salt-and-pepper hair, thick
+      dark eyebrows, sharp confident assertive eyes, a faint commanding smile,
+      the visual of the founder of the world's largest contract electronics
+      manufacturer absorbing a 104-year-old Japanese rival
+    outfit_en: >-
+      a sharp dark navy business suit, crisp white dress shirt, deep red
+      power necktie, polished black leather shoes, occasionally an open-
+      collar dress shirt without jacket on factory floors, the silhouette
+      of a Taiwanese industrial mogul
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: inamori_kazuo
+    name_ja: 稲盛和夫 (京セラ創業者・JAL再建)
+    description_en: >-
+      a 78-year-old Japanese male industrialist and Buddhist priest-like
+      figure, fully greyed-to-white neatly combed short hair receding at
+      the front, a kind grandfatherly face with deep laugh lines, gentle
+      thoughtful eyes behind small round wire-frame glasses, slightly
+      stooped but firm posture, the visual of the founder of Kyocera and
+      KDDI returning at 78 to rebuild a bankrupt national airline for a
+      symbolic one-yen salary, a quiet steely calm beneath the kind face
+    outfit_en: >-
+      a conservative dark navy single-breasted business suit, crisp
+      white dress shirt, modest dark blue striped necktie, a small JAL
+      red-and-grey crane lapel pin on the jacket, polished black leather
+      shoes, the silhouette of a Kyoto industrialist serving as a
+      turnaround chairman
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: forever21_ceo
+    name_ja: フォーエバー21経営陣
+    description_en: >-
+      a generic 60-something Korean-American male retail executive, neatly
+      combed dark hair greying at the temples, rectangular metal-frame
+      glasses, lined serious face, the visual of a fast-fashion founder
+      watching his empire shrink from 800 stores to nearly nothing, somber
+      composed expression
+    outfit_en: >-
+      a charcoal grey business suit, pale blue dress shirt, navy patterned
+      tie, no jewelry, the silhouette of an American retail mogul in a
+      boardroom
+    voice_style_id: 1310138977
+    voice_speed: 1.4

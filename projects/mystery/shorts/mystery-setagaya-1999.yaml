@@ -1,0 +1,228 @@
+id: mystery-setagaya-1999
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme ultra close-up dramatic shot of a single bloody adult male
+
+    handprint smeared on a white wallpapered interior wall of a Japanese
+
+    suburban house, the print rendered in dark crimson with horrifying
+
+    sharp anatomical clarity — every fingerprint ridge and lifeline
+
+    visible — a thin trail of dried blood dripping diagonally below it,
+
+    the corner of a knocked-over framed family photo just barely
+
+    visible at the bottom edge of frame, harsh forensic flashlight
+
+    glare from off-screen casting one sharp side-light, the visual of
+
+    "the handprint the killer left behind". Subject filling the square
+
+    center for vertical short layout with blurred padding above/below.
+
+    Setagaya Tokyo Japan late December 1999 residential setting. Eerie
+
+    unsettling tone. No people in frame. No Japanese text in image.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    December 31 1999 cold winter morning, a wide exterior shot of an
+
+    ordinary two-story Japanese suburban house in Soshigaya Setagaya
+
+    Tokyo Japan, the front gate cordoned off with yellow Japanese
+
+    police tape, four middle-aged Japanese male detectives in dark
+
+    winter overcoats and white forensic shoe covers standing solemnly
+
+    on the small front yard, a small wooden Japanese name-plate
+
+    visible on the gate post in decorative Japanese characters
+
+    「宮澤」readable but small, bare-branched winter trees, soft
+
+    overcast morning light, the visual of "the morning a quiet Tokyo
+
+    neighborhood found four bodies". Wide shot. Clearly Setagaya
+
+    Tokyo Japan 1999 residential setting. No bodies visible.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    A clean modern forensic-style infographic on dark crimson-tinged
+
+    slate background, a stylized top-down floor plan of the two-
+
+    story Japanese house with decorative English labels "1F LIVING",
+
+    "1F KITCHEN", "2F BEDROOM", "ATTIC ENTRY", four small white
+
+    silhouette markers placed in different rooms labeled in
+
+    decorative English "FATHER", "MOTHER", "DAUGHTER 8", "SON 6",
+
+    a single bold red dashed arrow showing the killer''s entry path
+
+    from "BATHROOM WINDOW 2F" then exit through "FRONT DOOR", a
+
+    thin floating decorative English caption "ONE INTRUDER. FOUR
+
+    VICTIMS." Infographic composition. Decorative English text only.
+
+    No graphic content. No Japanese text.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    A clean modern forensic-style infographic on cream paper
+
+    background, a bold decorative English headline "EVIDENCE LEFT
+
+    BEHIND" centered at the top, beneath it four neat icon-style
+
+    illustrations in a 2x2 grid, each with a decorative English
+
+    caption — top-left a stylized red handprint icon labeled
+
+    "BLOODY HANDPRINT (FULL DNA)", top-right a stylized sneaker
+
+    sole icon labeled "SAND-DUSTED SHOE PRINTS (US SIZE 11)", bottom-
+
+    left a stylized ice-cream tub with a spoon labeled "KILLER
+
+    ATE ICE CREAM IN FRIDGE", bottom-right a stylized hourglass icon
+
+    labeled "STAYED 4 HOURS AFTER MURDERS", the visual of "physical
+
+    evidence police should have cracked". Infographic composition.
+
+    Decorative English text only. No Japanese text.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A cluttered Tokyo Metropolitan Police Department evidence room
+
+    circa 2026, mid-shot of three middle-aged Japanese male
+
+    detectives in dark suits hunched over a large cork board
+
+    completely covered in faded yellowing case files, mugshot
+
+    sketches of unknown male suspects, decorative English labels
+
+    "DNA: SOUTHERN EUROPEAN / ASIAN MIX" and "BLOOD TYPE A" tacked
+
+    to the board, a worn old digital LED case-counter on the wall
+
+    showing decorative English "DAY 9,650 — STILL OPEN" glowing soft
+
+    red, exhausted weary expressions on every detective''s face,
+
+    stacks of paper files reaching the ceiling, the visual of "26
+
+    years and still no name". Wide shot. Clearly modern Tokyo Japan
+
+    2026 police interior. No Japanese text in image.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    May 2026 present day, the same ordinary two-story Japanese
+
+    suburban house exterior as panel 2, now demolished down to an
+
+    empty grassy lot in Soshigaya Setagaya Tokyo Japan, no police
+
+    tape, no detectives, no name-plate, just a single small weathered
+
+    bouquet of white chrysanthemums placed on the bare ground where
+
+    the front gate once stood, a quiet residential Tokyo street in
+
+    the background with modern cars, soft afternoon light, a small
+
+    faded paper notice pinned to a nearby utility pole with
+
+    decorative English label "REWARD — 20 MILLION YEN — STILL ACTIVE",
+
+    the visual of "the case Japan never let go of". Wide shot.
+
+    Clearly Setagaya Tokyo Japan 2026 residential setting. No
+
+    Japanese text in image.
+
+    '
+ja:
+  title: '世田谷一家殺害事件、27年経った今 #Shorts'
+  description: '1999年大晦日、東京・世田谷で一家4人が殺害された。犯人のDNA、指紋、足跡——証拠は山ほどあるのに、27年経った今も逮捕者ゼロ。
+
+    日本警察が今も追い続ける、最も理不尽な未解決事件をAnimeで。
+
+
+    #Shorts #世田谷一家殺害事件 #未解決 #事件 #1999
+
+    '
+  hook_caption: 世田谷事件、27年後の今
+  series_brand: 世田谷事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 犯人の指紋、血液、DNA、足跡——すべて残されていたのに、27年経った今も、捕まらない事件があるんです。それが、1999年の世田谷一家殺害事件です。
+    caption: 証拠ありで27年捕まらない事件
+  - panel: p2
+    text: 1999年12月31日朝、東京・世田谷区上祖師谷の住宅で、宮澤さん一家4人が遺体で発見されます。父38歳、母41歳、長女8歳、長男6歳、全員が刺殺でした。
+    caption: 1999年大晦日、一家4人を発見
+  - panel: p3
+    text: 犯人は2階の浴室窓から侵入し、家族全員を殺害した後、なぜか4時間も家に居座っています。冷蔵庫のアイスクリームを食べ、パソコンでWebを閲覧し、ソファで仮眠まで取っていました。
+    caption: 殺害後4時間、犯人は家に居座る
+  - panel: p4
+    text: 残された証拠は、現場の血痕付きDNA、靴に付着していた砂、犯人の体液、米国製ハンカチ。指紋もDNAも完全に取れていたので、本来なら数日で特定できるはずでした。
+    caption: DNAも指紋も完全に採取済み
+  - panel: p5
+    text: ところがDNAは、日本人データベースのどこにも一致しません。鑑定では、父系がアジア系、母系が南欧系の混血と判明していますが、該当者は今も、見つかっていません。
+    caption: DNAは混血、データに該当者なし
+  - panel: p6
+    text: それから27年経った今も、警視庁は捜査を継続しています。物証が揃って、犯人像も具体的なのに、捕まらない——日本警察にとって、最も悔しい事件なんです。
+    caption: 27年経った今も捜査継続中
+en:
+  title: 'Police Have His DNA, But Can''t Find Him #Shorts'
+  description: 'On New Year''s Eve 1999, an entire family was murdered in Setagaya, Tokyo. The killer left behind his DNA, fingerprints, and clothing. Yet for over two decades, he has never been caught.
+    This is Japan''s most baffling cold case.
+
+
+    #Shorts #TrueCrime #UnsolvedMysteries #Japan'
+  hook_caption: The Killer Who Left EVERYTHING Behind
+  series_brand: The Setagaya Murders
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: On New Year's Eve 1999, an entire family was murdered in their suburban Tokyo home.
+    caption: New Year's Eve, 1999
+  - panel: p3
+    text: But the killer didn't just flee. He stayed for hours—eating their ice cream, using their computer, and even taking a nap.
+    caption: The Killer Stayed Behind
+  - panel: p1
+    text: 'He left behind a mountain of evidence: fingerprints, his clothes, and even a bloody handprint.'
+    caption: A Mountain of Evidence
+  - panel: p4
+    text: Investigators recovered a perfect DNA sample. They were sure the case would be solved in days.
+    caption: Perfect DNA Sample
+  - panel: p5
+    text: 'But his DNA didn''t match anyone in Japan''s database. It revealed a unique ancestry: part Asian, part Southern European.'
+    caption: A Shocking Twist
+  - panel: p6
+    text: For over 20 years, police have had the killer's identity on file... but have never found the man himself.
+    caption: The Hunt Continues

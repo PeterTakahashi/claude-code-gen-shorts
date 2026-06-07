@@ -1,0 +1,174 @@
+id: namba-mckinsey-to-dena
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1999, a cramped Tokyo Shibuya startup office at night. Tomoko Namba in
+
+    her mid 30s stands in front of a row of beige CRT desktop monitors, the
+
+    screens flickering with a server error in English, a faint stunned half-smile
+
+    on her face as if disbelieving the situation. A handwritten sign reading
+
+    "Bidders" tacked to the wall behind her. Two young male engineers slumped at
+
+    desks behind her looking exhausted. Cold fluorescent overhead lighting,
+
+    papers scattered everywhere. The opposite of a McKinsey office.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1990s McKinsey Tokyo office, an immaculate modern consulting firm with
+
+    glass walls and dark wood furniture. Tomoko Namba in her early 30s stands
+
+    among a group of older Japanese male partners in dark suits, holding a small
+
+    bouquet, accepting congratulations on her partner promotion, a composed
+
+    proud smile on her face. She is the only woman in the photo. Warm golden
+
+    office lighting. The peak of her consulting career.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1990s, a quiet McKinsey Tokyo office at night. Tomoko Namba alone at
+
+    her desk under a single desk lamp, slowly writing a resignation letter on
+
+    thick formal stationery, her face composed but resolute. A laminated
+
+    McKinsey partner ID card sits next to the paper. The dark Tokyo skyline
+
+    visible through the window behind her. The exact moment she chooses to
+
+    throw away the safest career in Japan.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    March 1999, the very first DeNA office, a tiny cramped rented room in a
+
+    Shibuya multi-tenant building, bare walls, cardboard boxes everywhere, three
+
+    mismatched desks. Tomoko Namba in a smart navy suit stands handing a coffee
+
+    can to two young male software engineers in t-shirts and jeans, all three
+
+    smiling tiredly. A whiteboard behind them reads "Bidders" with arrows and
+
+    auction-flow diagrams. The genesis moment of a future giant.
+
+    Character: {subject_young}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1999, a split-screen-feel composition of two Tokyo internet startup
+
+    offices at night. On one side, a busy office labeled subtly with rakuten-red
+
+    decor and many staff. On the other side, the much smaller DeNA office with
+
+    Tomoko Namba and a handful of engineers hunched over CRT monitors. The
+
+    atmosphere conveys a David-versus-Goliath e-commerce auction war. No
+
+    readable text or logos.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early morning after an all-nighter, Tomoko Namba alone by the window of the
+
+    tiny Shibuya startup office, a canned coffee in one hand, looking out over
+
+    the awakening Tokyo Shibuya streets below. Her suit jacket is off, her
+
+    blouse slightly rumpled, her expression contemplative and softly determined.
+
+    Soft warm sunrise light cutting through the window blinds. The quiet
+
+    beginning of an entrepreneurial life. Over-shoulder framing.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: 'McKinsey最年少パートナーが起業した話 #Shorts'
+  description: '1999年、McKinseyの最年少パートナーだった南場智子が、突然辞めて、DeNAを創業した。
+
+    楽天と並ぶオークションサイト Bidders は、初日からトラブル続きだった。
+
+
+    #Shorts #南場智子 #DeNA #人物伝
+
+    '
+  hook_caption: McKinsey最年少パートナーが起業
+  series_brand: 南場智子伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: McKinseyの最年少パートナーが、すべてを捨てて、起業した話があります。
+    caption: McKinsey最年少パートナーが起業
+  - panel: p2
+    text: 1990年代後半、南場智子は、McKinsey東京の、初の女性パートナーに、昇格しました。
+    caption: 1990年代後半、McKinsey初の女性パートナー
+  - panel: p3
+    text: しかし、クライアントだったソネットから、ネット事業の立ち上げを、依頼されたことが、転機でした。
+    caption: クライアントからネット事業立ち上げを依頼
+  - panel: p4
+    text: そして、1999年3月、彼女はパートナーの座を捨て、わずか数人で、DeNAを創業します。
+    caption: 1999年3月、DeNA創業
+  - panel: p5
+    text: オークションサイト Bidders は、同時期にローンチした楽天と、真っ向勝負になりました。
+    caption: 楽天と真っ向勝負のオークション戦争
+  - panel: p6
+    text: 初日からシステムは落ち続け、安全な人生を、自ら捨てた女性の、長い戦いが始まったんです。
+    caption: 初日からシステム落ち、長い戦いの始まり
+en:
+  title: 'Why McKinsey''s Top Partner Quit Her Job #Shorts'
+  description: 'In 1999, Tomoko Namba was one of McKinsey''s youngest partners. She threw it all away to found the internet company DeNA.
+
+    This is the story of her chaotic first year going head-to-head with Rakuten.
+
+    #Shorts #DeNA #TomokoNamba #Biography #Startups'
+  hook_caption: She Had The Perfect Job. She Quit.
+  series_brand: The Tomoko Namba Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In the late 90s, Tomoko Namba was one of the youngest partners at McKinsey Japan, a first for any woman.
+    caption: McKinsey's top partner
+  - panel: p3
+    text: But when a client asked for help building an internet business, she made a life-changing decision.
+    caption: A life-changing decision
+  - panel: p4
+    text: In March 1999, she quit her prestigious job to start her own company, DeNA, in a tiny rented room.
+    caption: She quit.
+  - panel: p1
+    text: Her new auction site, Bidders, was chaos from day one, with constant server crashes.
+    caption: Constant server crashes
+  - panel: p5
+    text: 'Worse, she was in a head-to-head war with another new startup: Rakuten.'
+    caption: Head-to-head with Rakuten
+  - panel: p6
+    text: Her safe, prestigious life was gone... and a long, hard battle had just begun.
+    caption: ''

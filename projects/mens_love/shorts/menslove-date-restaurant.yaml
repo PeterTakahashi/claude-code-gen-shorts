@@ -1,0 +1,61 @@
+id: menslove-date-restaurant
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A man and woman on a first date arriving at a restaurant, the woman subtly observing
+      his choice with a thoughtful look, a decorative Japanese caption "店選びで、見られてる",
+      the visual of "she is silently judging you by the restaurant you picked". Warm modern
+      Japan, cinematic.
+  - id: p2
+    prompt: |
+      An infographic of a woman's POV checklist with a decorative Japanese caption
+      "①予約してあるか", a calendar/booking icon, the visual of "did he bother to reserve a
+      table?". Clean infographic, decorative Japanese.
+  - id: p3
+    prompt: |
+      An infographic with a decorative Japanese caption "②自分の好みを聞いたか", a speech-bubble
+      icon, the visual of "did he ask what she likes, or just decide for her?". Clean infographic.
+  - id: p4
+    prompt: |
+      An infographic with a decorative Japanese caption "③店員への態度", showing a man being
+      polite vs rude to waitstaff, the visual of "how he treats the staff reveals his real
+      character". Clean infographic, decorative Japanese.
+  - id: p5
+    prompt: |
+      The same couple now relaxed and smiling at a well-chosen cozy restaurant, the woman
+      visibly at ease, a decorative Japanese caption "気遣いが、安心になる", the visual of "thoughtful
+      choices make her feel safe and valued". Warm, modern Japan.
+  - id: p6
+    prompt: |
+      Close-up of the couple toasting, the woman smiling warmly, a decorative Japanese
+      caption "店選びは、思いやり", the loop image of "choosing the place is really about
+      consideration". Warm, cinematic.
+ja:
+  title: 'デートの店選びで女性が見ている3つの心理 #Shorts'
+  description: |
+    初デートの店選び。女性は無意識に、予約・好みの確認・店員への態度の3つを見ている。男性心理学として解説します。
+
+    #Shorts #恋愛 #デート #男性心理 #モテ
+  hook_caption: デートの店選びで女性が見る3つ
+  series_brand: モテる男の心理学
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 初デートの店選び。実は女性は、あなたが選んだ店から、無意識に、あなたの本質を見ています。
+      caption: 店選びで本質を見られている
+    - panel: p2
+      text: 1つ目は、予約してあるか。きちんと席を取っておくだけで、「私のために準備してくれた」という安心感が、生まれます。
+      caption: ①事前に予約してあるか
+    - panel: p3
+      text: 2つ目は、自分の好みを聞いてくれたか。勝手に決めるのではなく、「何が好き?」の一言があるだけで、印象は大きく変わります。
+      caption: ②好みを聞いてくれたか
+    - panel: p4
+      text: 3つ目は、店員への態度。あなたが店員にどう接するかで、女性は、あなたの本当の人柄を、見抜いてしまうんです。
+      caption: ③店員への態度で人柄が出る
+    - panel: p5
+      text: つまり大事なのは、店のランクではなく、気遣い。その3つが揃うと、女性は、安心して心を開いてくれます。
+      caption: 大事なのは店のランクより気遣い
+    - panel: p6
+      text: 店選びとは、結局、相手への思いやりそのもの。それが伝わった時、デートは、うまくいき始めるんです。
+      caption: 店選びは、思いやりそのもの

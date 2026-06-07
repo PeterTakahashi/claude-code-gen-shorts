@@ -1,0 +1,66 @@
+id: war-iwojima-kuribayashi
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A grim 1945 volcanic black-sand island battlefield (Iwo Jima), a lone Japanese
+      general standing resolute amid tunnels and smoke, a decorative Japanese caption
+      "硫黄島、36日の死闘", the visual of "the commander who held the island for 36 days".
+      WWII Pacific, somber heroic tone.
+      Character: a Japanese army general in his 50s, weathered dignified face, WWII uniform.
+  - id: p2
+    prompt: |
+      A scene of the same general inspecting a vast network of underground tunnels and
+      bunkers dug into the volcanic rock, a decorative Japanese caption "島中に地下要塞", the
+      visual of "he turned the whole island into an underground fortress". WWII, dim tunnels.
+      Character: same general.
+  - id: p3
+    prompt: |
+      An infographic of the island with a decorative Japanese caption "米軍は5日で陥落と予想",
+      a calendar contrast 5 days vs 36 days, the visual of "the US expected to take it in 5
+      days — it took 36". Clean infographic, decorative Japanese.
+  - id: p4
+    prompt: |
+      The same general writing letters home by candlelight in a bunker, a decorative
+      Japanese caption "家族への手紙", the visual of "between battles he wrote tender letters
+      to his family". Dim, humanizing, somber.
+      Character: same general.
+  - id: p5
+    prompt: |
+      A solemn scene of the exhausted defenders making their final stand, the general
+      leading from the front, a decorative Japanese caption "指揮官、最後まで前線に", the visual
+      of "he refused to stay safe and fought to the end". WWII, somber heroic.
+      Character: same general.
+  - id: p6
+    prompt: |
+      Same volcanic island at dusk from panel 1, quiet now, a decorative Japanese caption
+      "なぜ、戦争を語り継ぐのか", the loop image of "remembering, so it is never repeated".
+      Somber, reflective.
+ja:
+  title: '硫黄島、栗林忠道が36日守り抜いた死闘 #Shorts'
+  description: |
+    米軍が5日で陥落すると予想した硫黄島を、栗林忠道は地下要塞戦で36日間守り抜いた。家族思いの指揮官の戦いを解説します。
+
+    #Shorts #戦争史 #硫黄島 #栗林忠道 #太平洋戦争
+  hook_caption: 硫黄島を36日守り抜いた指揮官
+  series_brand: 硫黄島の36日
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 米軍が、わずか5日で落とせると考えた島を、36日間、守り抜いた指揮官がいました。硫黄島の、栗林忠道です。
+      caption: 硫黄島を36日守り抜いた男
+    - panel: p2
+      text: 彼は、勝てない戦と知りながら、島中に地下トンネルと要塞を張り巡らせ、島そのものを、巨大な要塞に変えました。
+      caption: 島中を地下要塞に変えた
+    - panel: p3
+      text: 圧倒的な戦力差で、米軍は5日での攻略を予想。ところが、栗林の戦いは、その予想を、はるかに超えて続いたんです。
+      caption: 5日の予想を、36日に延ばした
+    - panel: p4
+      text: 激戦の合間に、彼が書いていたのは、家族への手紙でした。子供を気遣う、優しい父の顔も、持っていたんです。
+      caption: 戦いの合間に家族へ手紙を書いた
+    - panel: p5
+      text: 安全な場所に留まることを拒み、栗林は最後まで、前線で指揮を執り続けました。
+      caption: 最後まで前線で指揮を執った
+    - panel: p6
+      text: 私たちが、こうした戦いを語り継ぐのは、英雄を讃えるためだけではない。二度と繰り返さないために、です。
+      caption: 二度と繰り返さないために、語り継ぐ

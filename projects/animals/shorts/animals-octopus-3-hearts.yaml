@@ -1,0 +1,180 @@
+id: animals-octopus-3-hearts
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A vivid underwater scene in a tropical Pacific Ocean reef, a large
+
+    reddish-orange common octopus with eight curling tentacles floating
+
+    mid-water, a stylized transparent X-ray overlay on its bulbous
+
+    head showing three glowing red hearts pumping inside, soft sun-
+
+    dappled blue water with coral in the background, a small decorative
+
+    English caption "3 HEARTS — 9 BRAINS", the visual of "this animal
+
+    is built completely differently". Mid close-up underwater scene
+
+    in marine reef environment. No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean marine-biology infographic on soft aqua-blue background,
+
+    a stylized chibi-style octopus diagram with three red glowing
+
+    heart symbols inside its head, decorative English labels "HEART
+
+    x2 — GILLS" and "HEART x1 — BODY" with thin yellow pointer
+
+    arrows, clean educational infographic style. Pure infographic
+
+    composition. Decorative English text only. No people. No
+
+    Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean marine-biology infographic on soft aqua-blue background,
+
+    a stylized chibi-style octopus seen from above with one large
+
+    brain glowing in the center of its head and eight smaller
+
+    separate brains glowing inside each of its tentacles, decorative
+
+    English labels "CENTRAL BRAIN x1" and "ARM BRAIN x8 = 9 TOTAL",
+
+    clean educational infographic style. Pure infographic
+
+    composition. Decorative English text only. No people. No
+
+    Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A vivid underwater scene in a tropical Pacific Ocean reef, a
+
+    reddish-orange octopus with each of its eight tentacles doing a
+
+    completely different task at once — one opening a glass jar, one
+
+    grabbing a small crab, one feeling a coral surface, one waving,
+
+    one curling defensively, soft sun-dappled blue water, the visual
+
+    of "eight arms thinking independently". Mid-shot underwater scene
+
+    in marine reef environment. Decorative English text only. No
+
+    Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An underwater scene in a tropical reef, the same reddish-orange
+
+    octopus mid-color-change, its skin rippling with patches of yellow,
+
+    brown, white and red imitating the texture of a nearby rock and
+
+    coral, a small decorative English caption "SEES VIA SKIN", the
+
+    visual of "an animal that can taste, see, and think through its
+
+    skin", soft sun-dappled blue water. Mid close-up underwater
+
+    scene in marine reef environment. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same vivid tropical Pacific Ocean reef underwater scene as panel 1,
+
+    the same large reddish-orange common octopus with eight curling
+
+    tentacles floating mid-water, the stylized transparent X-ray
+
+    overlay on its bulbous head showing three glowing red hearts and
+
+    nine glowing blue brain points scattered across head and arms,
+
+    a small floating decorative English caption "ALIEN ON EARTH",
+
+    the loop image of "the closest thing to a real alien lives in
+
+    our oceans". Mid close-up underwater scene. No Japanese text.
+
+    '
+ja:
+  title: 'タコは心臓が3つ脳が9つの生き物だった #Shorts'
+  description: 'タコは、心臓が3つ、脳が9つ、血液が青いという、地球で最も「異星人」に近い生き物。
+
+    なぜ、これほど常識外れの体になったのか、進化の答えを30秒で解説します。
+
+
+    #Shorts #動物雑学 #タコ #海洋生物 #進化
+
+    '
+  hook_caption: タコは心臓3つ脳9つの生き物
+  series_brand: バルトゥーン動物雑学
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: タコは、心臓が3つ、脳が9つ、血液が青い——地球上で最も、異星人に近い生き物だ、という話を知っていますか?
+    caption: タコは心臓3つ脳9つ血液青
+  - panel: p2
+    text: まず心臓は3つあって、2つはエラに血を送る専用、残り1つが全身用。理由は、青い銅ベースの血液が、酸素を運ぶ効率が悪いから、二重ポンプで補っているんです。
+    caption: 心臓3つは青い血を補うため
+  - panel: p3
+    text: さらに脳は、中央に1つあるだけでなく、8本の腕それぞれに、小さな神経塊が独立して入っていて、合計で9つ。全身の神経の3分の2が、腕側にあると言われます。
+    caption: 中央脳1つ+腕8つで合計9つ
+  - panel: p4
+    text: だから腕は、本体の指令を待たずに動けます。一本が瓶を開け、別の一本が獲物を掴み、また別の一本が周りを探る——同時並列で、勝手に仕事をするんです。
+    caption: 腕は本体の指令なしで動く
+  - panel: p5
+    text: しかも皮膚自体に、光を感じる細胞があるから、色覚を持たないのに、周囲の色に体表を、瞬時に合わせられる。皮膚で「見て」いるとも、言える生き物です。
+    caption: 皮膚で色を「見て」擬態する
+  - panel: p6
+    text: つまり、私たちが知っている「動物の設計図」を、ほぼ全部やり直したのが、タコという生命。地球で異星生命を探したいなら、まず海を、覗いた方が早いかもしれません。
+    caption: 地球で最も異星人に近い生き物
+en:
+  title: 'This Animal Has 3 Hearts and 9 Brains #Shorts'
+  description: 'The octopus is one of Earth''s most alien-like creatures, with 3 hearts, 9 brains, and blue blood.
+
+    Here''s a 30-second look at how this incredible animal''s evolution went in a totally different direction.
+
+    #Shorts #Octopus #AnimalFacts #MarineBiology #Evolution'
+  hook_caption: 3 Hearts, 9 Brains, Blue Blood
+  series_brand: BaruToon Animal Facts
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: The octopus is considered the closest thing we have to an alien on Earth.
+    caption: Earth's Alien
+  - panel: p2
+    text: For starters, it has three hearts. Two pump blood to its gills, and a third circulates it for the rest of the body, all because its blue blood is inefficient at carrying oxygen.
+    caption: Why 3 Hearts?
+  - panel: p3
+    text: 'It also has nine brains: one central brain, and a smaller, independent one in each of its eight arms.'
+    caption: 9 Brains
+  - panel: p4
+    text: This means each arm can act on its own, solving problems like opening a jar while another arm is busy hunting for food.
+    caption: Arms that 'think'
+  - panel: p5
+    text: On top of that, its skin has light-sensing cells. Even though octopuses are colorblind, they can perfectly camouflage because their skin can literally 'see'.
+    caption: It 'sees' with its skin
+  - panel: p6
+    text: Basically, the octopus completely rewrote the rulebook for animal life. If you're looking for aliens, you might just find them in our oceans.
+    caption: The Alien Below

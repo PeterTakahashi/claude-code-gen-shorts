@@ -1,0 +1,178 @@
+id: bezos-regret-minimization
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An imagined dreamlike scene of a fully bald white American man in his 80s
+
+    sitting in a wooden rocking chair on a quiet porch at sunset, his hands
+
+    folded peacefully on his lap, his eyes closed in calm reflection, soft
+
+    golden hour light spilling across his weathered face, the silhouette of
+
+    pine trees in the distance, an almost photo-realistic stillness. A
+
+    faint translucent thought-bubble overlay shows a much younger Bezos at a
+
+    computer. The man asking himself "what will I regret?". Mid-shot.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 1994 in a high-floor Manhattan corner office at the DE Shaw hedge
+
+    fund, polished mahogany furniture, monochrome Bloomberg terminal screens
+
+    glowing on the desk, a 30-year-old Jeff Bezos in a charcoal suit and plain
+
+    dark tie standing with both hands in his pockets looking out the tall
+
+    window at the financial district skyline at dusk, his expression deeply
+
+    conflicted and thoughtful. The crossroads moment. Three-quarter shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A long afternoon walk in 1994 Central Park New York, autumn-tinged leaves
+
+    on the path, a 30-year-old Jeff Bezos in a slightly rumpled charcoal suit
+
+    walking beside an older serious bearded businessman figure (David Shaw —
+
+    shown only generically as a tall greying executive in a dark coat, no
+
+    specific recognizable face), the two figures small in the wide tree-lined
+
+    path, Bezos listening politely with a thoughtful tilted head. The mentor
+
+    telling him to stay. Wide shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A symbolic split-frame composition: on the left half a regretful elderly
+
+    bald white American man slumped at a luxurious empty mahogany desk in a
+
+    dim Wall Street office, head in hands; on the right half the same elderly
+
+    bald man laughing warmly in front of a glowing futuristic computer
+
+    interface symbolizing the early internet, soft starlight all around him.
+
+    Between them a faint glowing dividing line representing the choice. A
+
+    visual metaphor of two timelines.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late spring 1994 in a modest Manhattan apartment kitchen at night, a
+
+    30-year-old Jeff Bezos in a plain rolled-sleeve light blue button-down
+
+    shirt sitting at a small round wooden table across from his young wife
+
+    MacKenzie (a dark-haired white American woman in her early 20s in a
+
+    simple cardigan), a half-empty bottle of wine between them, his face
+
+    lit by a warm pendant lamp, an earnest hopeful expression as he explains
+
+    his idea of an internet bookstore, her face calm and supportive. The
+
+    moment of yes. Two-shot mid-frame.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late spring 1994 evening in the now-darkened DE Shaw Manhattan office, a
+
+    30-year-old Jeff Bezos in a rolled-sleeve white shirt without a tie
+
+    packing personal items — framed photo, a paperback book, a coffee mug —
+
+    into a single cardboard banker''s box on his cleared desk, the empty
+
+    Bloomberg terminals dark behind him, the city lights through the window,
+
+    a calm resolved half-smile on his face. The leap of faith taken. Three-
+
+    quarter shot.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '80歳の自分から見て後悔しない選択 #Shorts'
+  description: '1994年、Wall Street の高給職を辞めるか悩んだジェフ・ベゾスは、
+
+    「80歳の自分から見て後悔しない方を選ぶ」という思考実験で、Amazon 創業を決めた。
+
+
+    #Shorts #ジェフベゾス #Amazon #人物伝
+
+    '
+  hook_caption: DE Shawを辞めた決断
+  series_brand: ジェフ・ベゾス伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 80歳の自分から見て、後悔しない方を選ぶ——この思考実験で、人生を決めた男がいます。
+    caption: 80歳の自分から逆算する
+  - panel: p2
+    text: 1994年、30歳のジェフ・ベゾスは、ヘッジファンド DE Shaw の副社長として、安定した未来を持っていました。
+    caption: 1994年、DE Shaw の副社長
+  - panel: p3
+    text: しかし、急成長する Web に、本を売るチャンスを見出してしまったんです。
+    caption: Web に本を売るチャンスを発見
+  - panel: p4
+    text: 上司の David Shaw は、辞めない方がいい、と引き止めました。
+    caption: 上司の David Shaw は引き止めた
+  - panel: p5
+    text: そこで彼は、「80歳になって振り返ったとき、挑戦しなかったことを後悔するか」と、自問しました。
+    caption: 「80歳の自分なら後悔するか」
+  - panel: p6
+    text: 答えは明確で、彼は辞めて、Amazon を創業した——これが「Regret Minimization Framework」です。
+    caption: Regret Minimization Framework
+en:
+  title: 'The Framework That Built a Trillion-Dollar Empire #Shorts'
+  description: 'In 1994, Jeff Bezos faced a life-changing choice: a stable Wall Street career or a risky internet startup. He used a powerful mental model to make the right call.
+
+    #JeffBezos #Amazon #DecisionMaking #BusinessStrategy #Shorts'
+  hook_caption: The Question That Built Amazon
+  series_brand: The Bezos Blueprint
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1994, Jeff Bezos was a 30-year-old Vice President at a top Wall Street hedge fund, with a secure and lucrative future.
+    caption: Wall Street, 1994
+  - panel: p3
+    text: 'But he spotted a massive opportunity: selling books on the brand-new, exponentially growing internet.'
+    caption: The Big Idea
+  - panel: p4
+    text: His boss advised against it, calling it a great idea... for someone who didn't already have a great job.
+    caption: A Risky Move
+  - panel: p5
+    text: To decide, Bezos invented a mental model he called the 'Regret Minimization Framework.'
+    caption: ''
+  - panel: p1
+    text: 'He pictured himself at 80 years old, and asked a simple question: which outcome would I regret more?'
+    caption: The Regret Test
+  - panel: p6
+    text: He knew he'd regret not trying far more than he'd ever regret failing. He quit his job, and Amazon was born.
+    caption: Amazon Begins

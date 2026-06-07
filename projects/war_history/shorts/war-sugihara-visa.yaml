@@ -1,0 +1,62 @@
+id: war-sugihara-visa
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A 1940 scene outside the Japanese consulate in Kaunas, Lithuania: a crowd of frightened
+      Jewish refugees pressing at the iron gate, snow and fear, a Japanese diplomat (Chiune
+      Sugihara, late 30s, round glasses, dark 1940s suit) looking down at them from a window.
+      Somber historical tone.
+  - id: p2
+    prompt: |
+      Close-up of the Japanese diplomat at his desk reading a telegram from Tokyo stamped with
+      a refusal, his face torn between duty and conscience, the desperate crowd visible through
+      the window. Conveys "Tokyo said no." Tense, moral-dilemma lighting.
+  - id: p3
+    prompt: |
+      The diplomat making his decision: dipping his pen, beginning to hand-write transit visas
+      one after another, a growing stack of stamped documents, refugees' grateful faces.
+      Conveys "he disobeyed orders to save lives." Warm determined light.
+  - id: p4
+    prompt: |
+      A montage of relentless writing: the diplomat's hand cramping, ink-stained fingers,
+      day turning to night to day, weeks passing, an enormous pile of handwritten visas.
+      Exhaustion and devotion. Sepia historical tone.
+  - id: p5
+    prompt: |
+      A 1940 train-station farewell: the diplomat, leaving by train, still writing visas and
+      handing them out the window, even throwing signed papers to refugees running alongside
+      the departing train. Deeply moving.
+  - id: p6
+    prompt: |
+      A modern memorial scene: thousands of descendants symbolized as points of light spreading
+      across the world from the small stack of visas, a quiet portrait of the diplomat.
+      Conveys "6000 lives, and their descendants, live because of him." Reverent, hopeful.
+ja:
+  title: '杉原千畝、命令に背いて6000人を救ったビザ #Shorts'
+  description: |
+    1940年、ナチスから逃れるユダヤ人難民が、リトアニアの日本領事館に殺到した。外交官・杉原千畝は、本国の命令に背き、手書きでビザを発給し続け、およそ6000人の命を救った。その決断を30秒で解説します。
+
+    #Shorts #戦争史 #杉原千畝 #歴史 #感動
+  hook_caption: 命令に背いて6000人を救った日本人
+  series_brand: 戦争史
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1940年、リトアニアの日本領事館に、ナチスから逃れてきたユダヤ人難民が、助けを求めて殺到しました。
+      caption: 1940年、難民が日本領事館に殺到した
+    - panel: p2
+      text: 通過ビザがあれば、彼らは逃げられます。外交官・杉原千畝は本国に許可を求めますが、返ってきた答えは、ノーでした。
+      caption: ビザ発給の許可を求めたが本国はノーだった
+    - panel: p3
+      text: 命令に従えば、自分の身は安全です。しかし杉原は、目の前の命を選びました。命令に背き、手書きでビザを書き始めたんです。
+      caption: 命令に背き手書きでビザを書き始めた
+    - panel: p4
+      text: 朝から晩まで、手が動かなくなるまで。来る日も来る日も、彼はビザを書き続けました。その数は、膨大なものになりました。
+      caption: 手が動かなくなるまで書き続けた
+    - panel: p5
+      text: 任地を去る日、汽車が動き出してもなお、彼は窓からビザを書いて手渡し、最後はサインした紙を投げ渡しました。
+      caption: 去る汽車の窓からもビザを渡し続けた
+    - panel: p6
+      text: こうして救われた命は、およそ6000人。その子孫を含めれば、数えきれません。一人の決断が、無数の未来を救ったのです。
+      caption: 一人の決断が無数の未来を救った

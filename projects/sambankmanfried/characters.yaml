@@ -1,0 +1,40 @@
+# サム・バンクマン・フリード cast — visual character sheet for anime/webtoon shorts.
+# Single life-stage variant covering the MIT-to-prison arc (early-20s through 32yo trial).
+characters:
+  - id: subject_adult
+    name_ja: サム・バンクマン・フリード
+    description_en: |
+      A white American man in his late twenties to early thirties (roughly 25-32),
+      with the iconic Sam Bankman-Fried appearance: an explosively voluminous,
+      unkempt mop of dark-brown tightly-curly frizzy hair piled high and wide on
+      his head as if never combed; a round soft full-cheeked face with a slightly
+      pale slightly oily complexion; perpetually sleepy half-lidded heavy eyes
+      with dark circles underneath as if he never sleeps enough; bushy dark
+      eyebrows; a small soft nose; a wide soft mouth often slightly parted in a
+      distracted boyish half-smile; no glasses; a chunky soft slightly chubby
+      build with rounded shoulders; the unmistakable bearing of the disheveled
+      genius who clearly does not care about his appearance — quick darting eyes
+      when thinking, otherwise spaced-out and absent. Sometimes hunched forward
+      as if always mid-thought.
+    outfit_en: |
+      his signature uniform — a wrinkled plain white cotton crewneck t-shirt
+      worn untucked and slightly rumpled, baggy khaki cargo shorts that reach
+      the knees, white low-top sneakers worn without socks. Never a suit, never
+      a button-down, never ironed. Sometimes a wrinkled grey or navy zip-up
+      hoodie thrown over the t-shirt. The deliberate anti-Wall-Street tech-bro
+      slob aesthetic.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - distracted half-smile while typing on a laptop
+      - sleepy spaced-out staring into middle distance
+      - quick darting calculation behind heavy-lidded eyes
+      - boyish nervous shrug under questioning
+      - exhausted blank stare under courtroom lights
+    poses:
+      - "Front view slouched in a beanbag chair with an open laptop"
+      - "Three-quarter view hunched over a trading screen at night"
+      - "Side profile walking through an open-plan office, hair bouncing"
+      - "Standing flat-footed before a judge, hands clasped at the waist"

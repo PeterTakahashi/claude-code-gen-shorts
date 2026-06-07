@@ -1,0 +1,56 @@
+# Olympus 損失隠し事件 (2011) cast — マイケル・ウッドフォード (英国人社長、不正を
+# 内部告発し解任) と 菊川剛 (会長、損失隠しの中心) を中心とした visual reference。
+# 公開写真から作画 reference を抽出した記述のみで構成。
+
+characters:
+  - id: woodford
+    name_ja: マイケル・ウッドフォード (元オリンパス社長)
+    description_en: |
+      Michael Woodford, the first non-Japanese president of Olympus, a
+      51-year-old British man of medium build, a broad oval clean-shaven face
+      with a fair ruddy English complexion, short receding light-brown hair
+      greying at the sides and kept neatly trimmed, pale blue alert eyes,
+      thin rimless rectangular glasses, slightly heavy jaw, the determined
+      restless bearing of a self-made executive who rose from a salesman to
+      the top, an outsider's intensity
+    outfit_en: |
+      sharp Western corporate formalwear — a well-tailored dark navy
+      single-breasted suit with a crisp white dress shirt and a solid red or
+      deep-blue silk tie, polished black oxford shoes, sometimes carrying a
+      thick dossier of documents under one arm
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - resolute jaw-set determination
+      - alarmed disbelief reading a document
+      - tense confrontation across a boardroom table
+    poses:
+      - "Three-quarter standing alone in a glass corporate hallway holding documents"
+      - "Front view seated tense at one end of a long boardroom table"
+
+  - id: kikukawa
+    name_ja: 菊川剛 (元オリンパス会長)
+    description_en: |
+      Tsuyoshi Kikukawa, Olympus chairman, a 70-year-old Japanese corporate
+      executive of medium-short stature with a stocky build, a broad square
+      face with heavy jowls and full cheeks, short neatly combed grey-white
+      hair, thick grey eyebrows over narrow guarded eyes behind large
+      square-rimmed glasses, clean-shaven, a composed unreadable expression
+      hiding decades of concealment, pale complexion
+    outfit_en: |
+      formal Japanese corporate uniform — a dark charcoal-grey double-breasted
+      suit with a white dress shirt and a muted silver or grey silk tie,
+      polished black leather shoes, a small enamel company pin on the lapel
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - composed guarded boardroom stare
+      - cold dismissive authority
+      - tense press-conference rigidity
+    poses:
+      - "Front view seated at the head of a boardroom table flanked by directors"
+      - "Three-quarter standing stiffly behind a press-conference table"

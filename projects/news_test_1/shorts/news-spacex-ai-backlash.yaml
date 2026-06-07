@@ -1,0 +1,73 @@
+id: news-spacex-ai-backlash
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Extreme close-up of a giant glowing "$75B" dollar figure floating over a
+      SpaceX Starship rocket silhouette on a launchpad at dawn, the visual of
+      "the largest IPO in history is coming". Tense epic financial-news tone,
+      modern photoreal-leaning illustration.
+  - id: p2
+    prompt: |
+      A modern Tokyo newsroom — the anchor at her desk, behind her a large
+      studio monitor showing the SpaceX logo next to Elon Musk's portrait, a
+      lower-third reading "12兆円規模 IPO 6/12". Composed news lighting.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      A wide shot of Elon Musk on a SpaceX press stage, gesturing confidently
+      at a giant screen showing rockets, satellites, and AI brain icons —
+      Starlink globe, xAI Grok, Optimus robot in the visual, the visual of
+      "SpaceX is no longer just a rocket company". Modern realistic.
+  - id: p4
+    prompt: |
+      A US American suburban street with multiple lawn signs reading "AI is
+      RUINING our town" and "NO MORE DATA CENTERS", a polite group of
+      protesters in plain clothes holding handwritten signs, soft daytime
+      light, the visual of "America's mounting AI backlash". Modern realistic
+      protest scene.
+  - id: p5
+    prompt: |
+      An infographic on dark blue — bar chart of largest IPOs in history: Saudi
+      Aramco ($25.5B), Alibaba ($21.7B), SoftBank ($21.3B), Facebook (2012,
+      $16B), and a towering new orange bar labeled "SpaceX $75B" dwarfing them
+      all, the visual of "the all-time IPO record, by a long way". Clean
+      modern news graphic.
+  - id: p6
+    prompt: |
+      The anchor again at her newsroom desk, behind her a split-screen: left
+      the Starship rocket on the launchpad, right a US neighborhood with AI
+      protest signs — a calm "what this means" closing shot.
+      Character: {anchor}.
+
+ja:
+  title: "スペースX 12兆円IPO、米国「AI嫌悪」の逆風 #Shorts"
+  description: |
+    史上最大、12兆円規模のIPOを6月に控えるスペースX。
+    宇宙・通信・AIの三本柱は揺るがない一方、米国で広がる「AI嫌悪」が
+    オープンAIやアンソロピックの先行指標として懸念材料に。
+    30秒の国際ニュース解説。
+
+    #Shorts #ニュース #国際 #スペースX #IPO #マスク
+  hook_caption: "12兆円IPOの、隠れた逆風"
+  series_brand: "12兆円IPOの逆風"
+  voice_speed: 1.35
+  narration:
+    - panel: p1
+      text: "史上最大、12兆円規模の新規上場が動き出しました。米スペースXが、6月12日にナスダックへ。調達額は750億ドル、過去最大記録のサウジアラムコを、3倍近く上回ります。"
+      caption: "スペースX、12兆円IPOへ"
+    - panel: p2
+      text: "20日、米国版の目論見書が公開され、いま投資家向け説明会が世界を回っているところ。オープンAIやアンソロピックの先行指標としても、市場の注目を集めています。"
+      caption: "オープンAI、Anthropicの先行指標"
+    - panel: p3
+      text: "事業の柱は、ロケット、衛星通信のスターリンク、そしてAIのGrok。「宇宙」だけの会社ではなく、AI企業としても、この時価総額がつくと見られています。"
+      caption: "ロケット・スターリンク・Grok"
+    - panel: p4
+      text: "ただし、足元には逆風もあります。米国では、データセンターの建設や、AIによる雇用への不安から、市民の「AI嫌悪」が急速に広がっている。州議会で規制が議論される動きまで出てきました。"
+      caption: "米国で、AI嫌悪が拡大"
+    - panel: p5
+      text: "メタやアリババを抜く規模感は、IPO史上の異常値。ただ、上場後にこの値段を維持できるかどうかは、AI規制とマスク氏の評判、その2つに大きく左右されます。"
+      caption: "歴代IPO比較で、桁違い"
+    - panel: p6
+      text: "ロケットだけなら祭り。でも今回は、AIに対する社会のムードが値段を決める。スペースXのIPOは、世界の「AI受容度」を測る、巨大な体温計でもあります。"
+      caption: "AI受容度を、IPOで測る"

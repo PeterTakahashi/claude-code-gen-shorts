@@ -1,0 +1,32 @@
+# Bybit P2P 振り込め詐欺 体験談 (2025) — 本人の実体験ベースの警告コンテンツ。
+id: bybit_p2p_freeze
+title_ja: "BybitのP2P取引で口座凍結された話"
+title_en: "Bybit P2P Account Freeze"
+subject: "P2P取引で受け取った日本円が振り込め詐欺の金だった実話"
+language: ja
+
+era: "2025"
+locale_hint: "Japan, crypto trader at home / bank branch / police station"
+
+style:
+  description: "full-color modern anime / webtoon style, soft cel shading, expressive line art, cinematic lighting, tense cautionary drama tone"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face, photorealistic, photograph, 3D render"
+
+chapters: []
+
+narrator:
+  voice_style_id: 1310138977
+  voice_speed: 1.0
+  instructions: |
+    Read in calm first-person memoir tone with mounting dread, as a real person recounting a true ordeal.
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+
+bubbles:
+  font_path: /Users/apple/dev/claude-code/webtoon-gen/assets/fonts/NotoSansJP-Regular.otf
+  font_index: 0
+  font_scale: 4.0
+
+output_targets: []

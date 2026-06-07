@@ -1,0 +1,60 @@
+id: astro-jupiter-failed-star
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic cosmic scene of the planet Jupiter glowing faintly as if almost igniting,
+      a small spark at its core, a decorative Japanese caption "あと一歩で太陽だった", the visual
+      of "Jupiter almost became a second sun". Deep space, ominous awe.
+  - id: p2
+    prompt: |
+      A clean infographic comparing the Sun and Jupiter, a decorative Japanese caption
+      "木星は太陽と同じ材料", showing both made mostly of hydrogen and helium, the visual of
+      "Jupiter is made of the same stuff as a star". Infographic, decorative Japanese text.
+  - id: p3
+    prompt: |
+      An infographic scale showing Jupiter needing to be about 80 times more massive to
+      ignite fusion, a glowing mass-meter bar with a decorative Japanese caption "あと80倍の
+      質量が必要だった", the visual of "it just wasn't heavy enough to light up". Clean infographic.
+  - id: p4
+    prompt: |
+      A "what if" scene of the solar system with TWO suns — the real Sun and a glowing
+      Jupiter-sun — Earth bathed in two lights with double shadows, a decorative Japanese
+      caption "もし木星が燃えていたら", the visual of "a sky with two suns". Cosmic, surreal.
+  - id: p5
+    prompt: |
+      A scene of Earth under the two-sun sky, almost no true night, ecosystems and tides
+      disrupted, a decorative Japanese caption "夜のない世界", the visual of "a world that
+      barely has night — life would be utterly different". Surreal, slightly unsettling.
+  - id: p6
+    prompt: |
+      Same faintly-glowing Jupiter from panel 1 against the stars, a decorative Japanese
+      caption "燃えなかった太陽", the loop image of "the sun that never lit". Deep space, awe.
+ja:
+  title: 'もし木星が太陽になっていたら地球はどうなる #Shorts'
+  description: |
+    木星は太陽とほぼ同じ材料でできた「燃えなかった星」。もしあと少し重ければ第二の太陽になっていた。その世界を30秒で解説します。
+
+    #Shorts #宇宙 #木星 #太陽 #thoughtexperiment
+  hook_caption: 木星は「燃えなかった太陽」だった
+  series_brand: もし木星が太陽なら
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 太陽系で最も大きな惑星、木星。実はこの星は、あと一歩で、太陽になっていたかもしれないんです。
+      caption: 木星はあと一歩で太陽だった
+    - panel: p2
+      text: 理由は、木星が太陽と同じく、ほとんど水素とヘリウムでできているから。材料は、星と同じだったんです。
+      caption: 木星は太陽と同じ材料でできている
+    - panel: p3
+      text: 違いは、重さだけ。核融合を起こして燃えるには、木星は、あと80倍ほど重くなる必要がありました。それだけ足りなかったんです。
+      caption: あと80倍重ければ燃えていた
+    - panel: p4
+      text: もし木星が燃えていたら、空には太陽が2つ。地球は、二重の光と影に、包まれていたでしょう。
+      caption: もし燃えていたら空に太陽が2つ
+    - panel: p5
+      text: そうなれば、本当の夜は、ほとんど無くなります。生き物のリズムも、潮の満ち引きも、まったく違う世界になっていたはずです。
+      caption: 夜のない、まるで別の世界に
+    - panel: p6
+      text: ほんの少しの重さの差で、木星は惑星のまま。私たちのこの夜空は、わずかな偶然の上に、成り立っているんです。
+      caption: わずかな偶然で、今の夜空がある

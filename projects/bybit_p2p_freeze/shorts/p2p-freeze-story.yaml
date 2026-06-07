@@ -1,0 +1,89 @@
+id: p2p-freeze-story
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Extreme close-up of a Japanese man's hand gripping a smartphone in a dark room
+      at night, the phone screen glowing harsh red showing a stark bank alert, a bold
+      decorative Japanese caption on the screen "口座凍結" in red, his pale shocked
+      face dimly lit by the screen glow in the background, the visual of "the moment
+      everything froze". Tense cautionary tone, modern Japan apartment.
+      Character: {me}.
+  - id: p2
+    prompt: |
+      A Japanese man at his home trading desk at night, two or three monitors filling
+      the frame with crypto candlestick charts crashing in violent red, the chart
+      labeled with a small decorative caption "HYPE", his focused face reflecting the
+      red glow, the visual of "a volatile market, time to take profit". Modern Japan
+      apartment, cinematic.
+      Character: {me}.
+  - id: p3
+    prompt: |
+      A close-up of the same man's smartphone showing a peer-to-peer crypto trading
+      chat screen, a "Bybit P2P" style interface, a decorative Japanese caption
+      "好レートで日本円に" floating beside it, USDT coins flowing one way and Japanese
+      yen banknotes flowing the other, the visual of "a private direct trade with a
+      stranger". Tense, modern, Japan.
+      Character: {me}.
+  - id: p4
+    prompt: |
+      An infographic-style panel on a dark background, a calendar page marked
+      decorative Japanese "9月26日", three arrows showing three repeated trades between
+      two phone icons, a stack of yen banknotes with a bold decorative Japanese caption
+      "合計125万円", the visual of "three trades, 1.25 million yen received". Clean tense
+      infographic, no people.
+  - id: p5
+    prompt: |
+      The same Japanese man standing stunned inside a modern Japanese bank branch (a
+      "三井住友銀行" style retail bank interior), a bank employee behind the counter
+      bowing apologetically, a red decorative Japanese caption "振り込め詐欺の入金" hanging
+      in the air, his face draining of color as he realizes the yen he received was
+      scam money, the visual of "the trap springs". Cautionary tone.
+      Character: {me}; bank employee ({bank_teller}).
+  - id: p6
+    prompt: |
+      A bare Japanese police-station interrogation room, the same man sitting tense on
+      one side of a plain table, a detective in a dark suit across from him holding a
+      thick stack of documents, a laptop open showing blockchain transaction history,
+      a small decorative Japanese caption "全履歴を開示", harsh overhead light, the visual
+      of "three hours of questioning, though he was the victim". Tense.
+      Character: {me}; detective ({detective}).
+  - id: p7
+    prompt: |
+      A split aftermath scene, on one side the man transferring money on a banking app
+      with a decorative Japanese caption "67.5万円 返金", on the other side a credit card
+      cut with a decorative Japanese caption "限度額 200万→30万" and a rejected car-loan
+      document stamped in red, his exhausted face, the visual of "the account thawed,
+      but the damage remained". Somber cautionary tone, modern Japan.
+      Character: {me}.
+ja:
+  title: 'BybitのP2Pで利確したら口座凍結された実話 #Shorts'
+  description: |
+    2025年、BybitのP2P取引でUSDTを日本円に換えたら、その日本円が振り込め詐欺の被害金だった。口座は凍結され、警察に尋問され、半額を返金し、信用まで失った私の実体験です。
+
+    #Shorts #仮想通貨 #Bybit #振り込め詐欺 #P2P #口座凍結
+  hook_caption: P2Pで利確した125万円の罠
+  series_brand: 実録 P2P口座凍結
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 利確したはずの125万円が、私の生活を半年止めました。これは、私の実話です。
+      caption: 利確した125万円が口座凍結を招いた
+    - panel: p2
+      text: 2025年9月、私はBybitでHYPEを売買していました。相場が荒れてきたので利確し、USDTに戻したんです。
+      caption: 2025年9月、相場が荒れて利確
+    - panel: p3
+      text: いつもはBTCやイーサリアムに替えて、Coincheck経由で日本円にしていました。でもその時だけ、BybitのP2P取引で、好レートの相手に直接売ったんです。
+      caption: 普段と違いP2Pで直接売却
+    - panel: p4
+      text: 9月26日、同じ相手と3回、合計125万円。私はUSDTを送り、日本円を受け取りました。これが、全ての災難の始まりでした。
+      caption: 9月26日、3回で合計125万円
+    - panel: p5
+      text: 10月、三井住友銀行の口座が凍結。警察に聞くと、受け取った日本円は、振り込め詐欺の被害者が振り込んだ金だったんです。
+      caption: 受け取った円は詐欺の被害金だった
+    - panel: p6
+      text: 千葉の旭警察署と月島警察署で、それぞれ3時間の尋問。全てのオンライン履歴を開示しました。私は、加害者ではないのにです。
+      caption: 2つの警察署で各3時間の尋問
+    - panel: p7
+      text: 結局、被害者と直接交渉して半額の67.5万円を返金し、凍結は解除。でもクレカの限度額は200万から30万に下げられ、カーローンも通らなくなりました。見知らぬ相手とのP2Pで、法定通貨を受け取ってはいけません。
+      caption: 半額返金で解除、だが信用は失った

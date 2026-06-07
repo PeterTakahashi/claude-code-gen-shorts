@@ -1,0 +1,171 @@
+id: altman-8yo-mac
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    1993, a quiet suburban St. Louis Missouri bedroom at night. An 8-year-old
+
+    Sam Altman sitting on the carpet in front of a beige boxy Apple Macintosh
+
+    LC II desktop computer on a low wooden desk, the small CRT screen glowing
+
+    with a black-and-white code editor, his face dimly lit by the screen
+
+    reflection, expression of intense calm focus, far too serious for his age.
+
+    A mid-1990s American kid''s bedroom with model spaceships and books on
+
+    shelves behind him. Side-front framing.
+
+    Character: {subject_child}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 1990s suburban St. Louis Missouri, a comfortable two-story
+
+    Jewish-American family home with autumn maples in the front yard, soft
+
+    late-afternoon midwestern sunlight, a bicycle laid on the lawn, the warm
+
+    sense of an ordinary American suburb. Wide establishing shot, no figures.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 1990s family living room in St. Louis. A kind middle-aged white
+
+    American father (Jerry Altman) in a casual cardigan setting down a large
+
+    cardboard box labeled "Apple Macintosh" on the carpet, smiling proudly,
+
+    while 8-year-old Sam Altman watches with wide curious hazel eyes from
+
+    just behind him, hands clasped in barely-contained excitement. Warm
+
+    lamplight, brown 1990s furniture, family photographs on the mantel.
+
+    Character: {subject_child}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-1990s, the same kid''s bedroom. An 8-9 year old Sam Altman sitting
+
+    cross-legged on the carpet in front of the beige Macintosh, an open thick
+
+    paperback programming manual on the floor beside him titled "Macintosh
+
+    BASIC" (or similar period-appropriate book), one finger marking the page,
+
+    his other hand typing on the keyboard, expression of pure absorbed
+
+    learning. Afternoon light through curtains.
+
+    Character: {subject_child}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-1990s kid''s bedroom. A 10-year-old Sam Altman proudly standing next
+
+    to his beige Macintosh, the case actually open with internal motherboard
+
+    and disk drive visible, several small electronic parts neatly arranged on
+
+    a towel on the floor — he has clearly disassembled it himself. A kind
+
+    middle-aged white American mother (Connie Altman, a dermatologist) stands
+
+    in the doorway with a half-amused half-worried expression. Warm domestic
+
+    lighting.
+
+    Character: {subject_child}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    1993, late at night in the St. Louis bedroom. Over-the-shoulder view of
+
+    an 8-year-old Sam Altman from behind, the back of his shaggy light-brown
+
+    hair in soft focus, the black-and-white Macintosh screen sharp in front
+
+    of him displaying a few lines of BASIC code he just wrote, the rest of
+
+    the bedroom dark. Conveys the quiet beginning of a 20-year arc toward
+
+    becoming the CEO of OpenAI.
+
+    Character: {subject_child}.
+
+    '
+ja:
+  title: '8歳でMacを触り始めた少年の話 #Shorts'
+  description: 'ミズーリ州セントルイス育ちのサム・アルトマンは、8歳のときに初めてAppleのMacintoshに触れ、プログラミングを覚えた。
+
+    20年後、彼は世界最大のAI企業のCEOになる。
+
+
+    #Shorts #サムアルトマン #OpenAI #Apple #人物伝
+
+    '
+  hook_caption: 8歳でMacを使い始めた少年
+  series_brand: サム・アルトマン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 8歳のとき、初めてAppleのMacintoshに触れ、20年後、世界最大のAI企業のCEOになった男がいます。
+    caption: 8歳でMac → 20年後、AI企業CEO
+  - panel: p2
+    text: サム・アルトマン。ミズーリ州セントルイス育ち、ユダヤ系アメリカ人の家庭でした。
+    caption: ミズーリ州セントルイス育ち
+  - panel: p3
+    text: 1993年、父親が、初めて家にApple Macintoshを、買ってきました。
+    caption: 1993年、父が家にMacを買ってきた
+  - panel: p4
+    text: 8歳の彼は、独学でBASICを学び、すぐに、コードを書き始めたんです。
+    caption: 独学でBASICを学んだ
+  - panel: p5
+    text: やがて彼は、Macを分解して、中身まで覚えてしまいました。
+    caption: Macを分解して中身を覚えた
+  - panel: p6
+    text: あの夜の、画面の光が、のちのChatGPTを生んだ、と言っても、過言ではないんです。
+    caption: あの夜の光が、ChatGPTを生んだ
+en:
+  title: 'How an 8-Year-Old''s First Computer Led to ChatGPT #Shorts'
+  description: 'In 1993, an 8-year-old boy in St. Louis got his first computer, an Apple Mac. He taught himself to code, and 20 years later, he''d be the CEO of OpenAI.
+
+    This is the story of Sam Altman.
+
+
+    #Shorts #SamAltman #OpenAI #Apple #Biography'
+  hook_caption: His first computer wasn't a toy.
+  series_brand: The Sam Altman Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: The man who would one day lead the world's biggest AI company... got his start right here, at age 8.
+    caption: The Start of AI
+  - panel: p2
+    text: It was 1993, in a quiet suburb of St. Louis, Missouri.
+    caption: St. Louis, 1993
+  - panel: p3
+    text: 'One day, Sam Altman''s father brought home the family''s very first computer: an Apple Macintosh.'
+    caption: The First Mac
+  - panel: p4
+    text: Sam was instantly obsessed, and taught himself how to code from a book.
+    caption: Learning to Code
+  - panel: p5
+    text: When that wasn't enough, he took the entire machine apart just to see how it worked inside.
+    caption: Taking it Apart
+  - panel: p6
+    text: It's hard to believe, but the glow from that screen would one day light the spark for ChatGPT.
+    caption: The Spark for ChatGPT

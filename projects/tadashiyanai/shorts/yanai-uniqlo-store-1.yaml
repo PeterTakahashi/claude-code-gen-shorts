@@ -1,0 +1,113 @@
+id: yanai-uniqlo-store-1
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A bustling 1984 opening day scene outside the very first UNIQLO store in Hiroshima, Japan, June 2 1984. The signage on the storefront reads "UNIQUE CLOTHING WAREHOUSE" in bold English block letters.
+    A long queue of Japanese shoppers in 1980s casual clothing stretches around the block, the warehouse-style storefront with large clear glass windows revealing simple casual clothing stacks inside. Summer
+    morning daylight, bright atmosphere of unexpected success.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 34-year-old Tadashi Yanai in his small 1983 Ube office, leaning over a wide drafting paper with rough store-layout sketches and bold English words "UNIQUE CLOTHING WAREHOUSE" written across the top,
+    pen in hand, intent focused expression, the small office cluttered with American and European retail catalogs and fabric samples, evening lamp light, the bearing of a quiet revolutionary planning his
+    first big move.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Interior of a brightly-lit 1980s American-style coin laundromat at night, rows of stainless-steel washing machines glowing under cold white fluorescent light, a few casual customers in jeans and t-shirts
+    loading clothes, the open easy-access casual atmosphere — the very design vibe Tadashi Yanai wants to apply to a clothing store. Wide interior shot, evocative and clean.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Construction interior of a 1984 large open warehouse-style retail space in Hiroshima just before opening, exposed metal shelving being filled with stacks of folded casual menswear and womenswear in
+    plain colors, workers in white shirts arranging merchandise, bright industrial fluorescent overhead lighting, the deliberate warehouse aesthetic of a new kind of clothing store.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 34-year-old Tadashi Yanai standing just inside the entrance of the brand-new 1984 UNIQUE CLOTHING WAREHOUSE Hiroshima store, looking out through the large glass window at the long queue of customers,
+    his expression a mix of disbelief and quiet pride, hands in the pockets of a simple dark suit, morning summer light streaming in.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    End-of-opening-day exterior of the 1984 UNIQUE CLOTHING WAREHOUSE Hiroshima store at golden hour, a smiling young Japanese woman walking out carrying a paper shopping bag, the warehouse-style storefront
+    with the English signage glowing in the warm light, the deliberately unfashionable warehouse aesthetic that will, in 12 years, become the global UNIQLO brand. Wide establishing shot.
+
+    '
+ja:
+  title: 'コインランドリーのような店、UNIQLO誕生 #Shorts'
+  description: '1984年、ヒロシマに開いた「UNIQUE CLOTHING WAREHOUSE」が、世界の UNIQLO の原点。
+
+    ヤナイ・タダシが目指したのは、コインランドリーのように気軽に入れる服屋だった。
+
+
+    #Shorts #柳井正 #UNIQLO #人物伝
+
+    '
+  hook_caption: コインランドリー型の服屋を作った男
+  series_brand: 柳井正伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1984年6月2日、ヒロシマ。コインランドリーのような服屋が、突然、誕生しました。
+    caption: 1984年6月2日、ヒロシマに誕生
+  - panel: p2
+    text: 店の名は、UNIQUE CLOTHING WAREHOUSE。略して、UNIQLO。
+    caption: UNIQUE CLOTHING WAREHOUSE = UNIQLO
+  - panel: p3
+    text: ヤナイ・タダシは、こう考えたんです——アメリカのコインランドリーのように、誰でも気軽に入って、好きな服を選べる店を作りたい、と。
+    caption: 誰でも気軽に入れる服屋を目指した
+  - panel: p4
+    text: 倉庫のような広い空間に、シンプルな服を、ただ、積み上げただけ。当時の常識から、完全に外れた店でした。
+    caption: 倉庫風の空間に服を積むだけ
+  - panel: p5
+    text: ところが、初日、店の前には、長蛇の列ができたんです。ヤナイ自身も、驚きました。
+    caption: 初日から長蛇の列ができた
+  - panel: p6
+    text: この、ヒロシマの1号店が、世界25か国2400店舗超の UNIQLO 帝国の原点になります——コインランドリーから始まった革命でした。
+    caption: コインランドリーから始まった革命
+en:
+  title: 'The Strange Inspiration Behind UNIQLO #Shorts'
+  description: 'In 1984, Tadashi Yanai opened a store in Hiroshima based on a weird inspiration: an American laundromat.
+
+    That single ''Unique Clothing Warehouse'' became the global phenomenon we know as UNIQLO.
+
+
+    #Shorts #UNIQLO #TadashiYanai #Business #History'
+  hook_caption: How a Laundromat Sparked a Fashion Empire
+  series_brand: The Tadashi Yanai Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p3
+    text: He wanted to create a clothing store that felt just like an American laundromat.
+    caption: Inspired by a laundromat
+  - panel: p4
+    text: A giant, warehouse-like space where anyone could casually walk in and grab simple, affordable clothes.
+    caption: A warehouse of clothes
+  - panel: p2
+    text: The founder was Tadashi Yanai, and in 1984 he opened the 'Unique Clothing Warehouse.'
+    caption: Unique Clothing Warehouse
+  - panel: p1
+    text: On opening day in Hiroshima, the line to get in stretched for blocks.
+    caption: Opening day madness
+  - panel: p5
+    text: Yanai himself was stunned—his bizarre concept was an instant, massive hit.
+    caption: An instant hit
+  - panel: p6
+    text: That single shop, later shortened to UNIQLO, was the start of a global fashion revolution.
+    caption: The UNIQLO revolution

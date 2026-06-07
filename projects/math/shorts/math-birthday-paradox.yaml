@@ -1,0 +1,60 @@
+id: math-birthday-paradox
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A lively classroom of about 23 people, two students surprised to share the same
+      birthday, a decorative Japanese caption "23人で、誕生日が被る確率50%", the visual of
+      "in just 23 people, a birthday match is more likely than not". Clean, bright, fun.
+  - id: p2
+    prompt: |
+      An infographic asking the intuition trap, a decorative Japanese caption
+      "直感では、ありえない?", a confused thinking icon, the visual of "it feels impossible —
+      there are 365 days!". Clean infographic, decorative Japanese.
+  - id: p3
+    prompt: |
+      An infographic showing it's not "you vs others" but "every pair" — many connecting
+      lines between 23 dots, a decorative Japanese caption "比べるのは253通りのペア", the visual
+      of "23 people make 253 pairs to compare". Clean network infographic.
+  - id: p4
+    prompt: |
+      An infographic probability curve climbing fast, marked at 23 people = 50% and 50
+      people = 97%, a decorative Japanese caption "50人なら97%", the visual of "the odds
+      skyrocket". Clean infographic, decorative Japanese.
+  - id: p5
+    prompt: |
+      A real-world example, a soccer team or a train carriage of strangers, a decorative
+      Japanese caption "身近で試せる", the visual of "try it in any group of ~25". Clean, modern.
+  - id: p6
+    prompt: |
+      Same classroom from panel 1, the two birthday-twins high-fiving, a decorative Japanese
+      caption "直感は、よく外れる", the loop image of "our intuition about probability is often
+      wrong". Bright, fun.
+ja:
+  title: '誕生日のパラドックス、23人で確率50% #Shorts'
+  description: |
+    たった23人いれば、誕生日が同じ人がいる確率は50%を超える。直感に反する「誕生日のパラドックス」の理由を30秒で解説します。
+
+    #Shorts #数学 #確率 #誕生日のパラドックス #雑学
+  hook_caption: 23人で誕生日が被る確率50%
+  series_brand: 直感を裏切る数学
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: たった23人が集まれば、誕生日が同じ人がいる確率は、50%を超える。信じられますか?
+      caption: 23人で誕生日が被る確率は50%超
+    - panel: p2
+      text: 直感では、ありえない気がします。だって、誕生日は365通りもあるんですから。
+      caption: 365通りもあるのに、なぜ?
+    - panel: p3
+      text: 鍵は、「自分と他人」ではなく、「全てのペア」で考えること。23人なら、比べる組み合わせは、なんと253通りにもなります。
+      caption: 比べるのは253通りのペア
+    - panel: p4
+      text: ペアの数が爆発的に増えるので、確率は一気に跳ね上がります。50人もいれば、確率は97%。ほぼ確実です。
+      caption: 50人なら確率97%、ほぼ確実
+    - panel: p5
+      text: これは、25人ほどのクラスや、サッカーチーム、電車の一車両でも、簡単に試せます。意外と、当たるはずです。
+      caption: 身近な集団で試せる
+    - panel: p6
+      text: 確率について、私たちの直感は、よく外れます。誕生日のパラドックスは、その面白さを、教えてくれるんです。
+      caption: 確率の直感は、よく外れる

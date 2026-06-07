@@ -1,0 +1,173 @@
+id: vitalik-india-covid-shib-donation
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    May 12, 2021, a quiet minimalist Singapore apartment in the morning. A
+
+    27-year-old Vitalik Buterin sitting calmly at a simple desk in front
+
+    of a laptop, his pale-blue eyes focused, finger hovering over the
+
+    trackpad, the screen displaying a crypto wallet "Confirm Transaction"
+
+    dialog with an enormous numerical token amount and the destination
+
+    label "India COVID-Crypto Relief Fund". His expression: soft,
+
+    thoughtful, no drama — as if doing his weekly groceries. A colorful
+
+    cartoon-cat T-shirt visible. Soft daylight. Side-front framing.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    April 2021, a dim crowded hospital corridor in India. Tired
+
+    doctors and nurses in PPE moving urgently between cots, oxygen
+
+    tanks lined against the wall, a sense of overwhelmed crisis but
+
+    conveyed with restraint and dignity — no graphic content. Soft
+
+    melancholic blue-grey lighting. No specific recognizable faces.
+
+    Wide establishing shot, no main character.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A conceptual visual: a glowing digital wallet floating in dark space,
+
+    countless tiny coin icons with cartoon-dog Shiba Inu faces and other
+
+    memey symbols streaming into it from all directions like falling
+
+    snow. The visual metaphor for anonymous developers sending half
+
+    their meme-token supply to Vitalik''s public address as a publicity
+
+    stunt. Cool electric-purple background. No real logos.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early May 2021, a casual home desk in Singapore. A 27-year-old
+
+    Vitalik Buterin in a pink-unicorn T-shirt, leaning over his laptop,
+
+    his pale calm face softly amused-surprised as the screen displays a
+
+    crypto wallet balance reading "1,000,000,000,000 SHIB ≈ $1.2B USD".
+
+    A cup of green tea steaming beside him. Morning daylight. The
+
+    moment of realizing he holds a fortune that was dropped in his lap.
+
+    Mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Close-up of a laptop screen showing a simple personal blog post
+
+    with the visible title "On the donation to the India COVID-Crypto
+
+    Relief Fund". A small profile photo of Vitalik beside it. The
+
+    screen lightly reflected on the eyeglasses of an unseen reader,
+
+    faint daylight. No flashy graphics — quiet, almost shy
+
+    philanthropy. Hero element is the screen text. Side framing.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late May 2021, the same minimalist Singapore apartment, late
+
+    afternoon. Vitalik Buterin sitting in the same chair, the laptop
+
+    now closed, his thin hands folded calmly in his lap, looking out
+
+    the window with a soft contemplative half-smile. The colorful
+
+    cartoon-cat T-shirt visible. The quiet aftermath of giving away
+
+    more money than most people will ever see, treated as ordinary.
+
+    Side-front framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '27歳でインドに1100億円寄付した男 #Shorts'
+  description: '2021年5月、ヴィタリック・ブテリンは、保有していたShiba Inu Coinなどの寄付トークンを、
+
+    インドのCOVID-19支援基金に、当時の時価で約10億ドル以上、寄付した。
+
+    Ethereum創業者による、暗号通貨史上最大級の人道支援だった。
+
+
+    #Shorts #ヴィタリックブテリン #Ethereum #Dogecoin #人物伝
+
+    '
+  hook_caption: 27歳で1100億円を寄付した男
+  series_brand: ヴィタリック・ブテリン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 27歳のとき、時価で、1100億円以上を、寄付した男がいます。
+    caption: 27歳で1100億円超を寄付
+  - panel: p2
+    text: ヴィタリック・ブテリン。Ethereumの、創業者です。
+    caption: Ethereum創業者
+  - panel: p3
+    text: 2021年、無名の開発者たちは、宣伝目的で、ShibaInuCoinなどのメイクン半分を、彼の財布に、勝手に送りつけていました。
+    caption: 開発者がmemeトークンを勝手に送付
+  - panel: p4
+    text: 気づいたとき、その時価は、なんと、10億ドルを、超えていたんです。
+    caption: 気づくと時価10億ドル超
+  - panel: p5
+    text: 同じ頃、インドは、COVID-19の、第2波で、医療崩壊の、危機にありました。
+    caption: 同時期、インドはCOVID医療崩壊
+  - panel: p6
+    text: 彼は、迷わず、その全額を、India COVID-Crypto Relief Fundに、送金した——27歳の、静かな決断でした。
+    caption: 全額をインド支援基金へ寄付
+en:
+  title: 'He Was Gifted $1 Billion... And Gave It All Away #Shorts'
+  description: 'In 2021, developers of meme coins like Shiba Inu sent Vitalik Buterin trillions of tokens as a publicity stunt. He soon found they were worth over $1 billion, and immediately donated the
+    entire amount to India''s COVID relief fund.
+
+
+    #VitalikButerin #Ethereum #Crypto #Charity #Shorts'
+  hook_caption: He was gifted $1 Billion... then gave it all away.
+  series_brand: The Vitalik Buterin Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In the spring of 2021, a devastating COVID-19 wave was crippling India.
+    caption: A Nation in Crisis
+  - panel: p3
+    text: Meanwhile, anonymous crypto developers had flooded one man's digital wallet with trillions of unsolicited 'meme coins'.
+    caption: Trillions of 'Meme Coins'
+  - panel: p1
+    text: That man was Vitalik Buterin, the 27-year-old creator of Ethereum.
+    caption: Vitalik Buterin
+  - panel: p4
+    text: When he checked the wallet, he realized this bizarre gift was now worth over 1 billion dollars.
+    caption: Worth Over $1 Billion
+  - panel: p6
+    text: Seeing India's crisis, he didn't hesitate—he donated the entire billion-dollar fortune to their COVID relief fund.
+    caption: He Gave It All Away

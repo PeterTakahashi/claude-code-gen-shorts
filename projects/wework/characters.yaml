@@ -1,0 +1,15 @@
+characters:
+  - id: neumann
+    name_ja: アダム・ニューマン
+    description_en: >-
+      a very tall thin Israeli-American man in his late 30s with shoulder-length
+      wavy dark brown hair often loose or tied back loosely, intense deep-set dark
+      eyes, prominent strong nose, full eyebrows, slight permanent smirk that
+      reads as charisma or arrogance depending on the moment, faintly sun-tanned
+      complexion, barefoot when indoors at the office
+    outfit_en: >-
+      a fitted black designer cotton t-shirt, faded slim ripped designer jeans,
+      no shoes, sometimes a casual unbuttoned linen blazer thrown over, the look
+      of "messianic startup founder cosplay"
+    voice_style_id: 1310138977
+    voice_speed: 1.4

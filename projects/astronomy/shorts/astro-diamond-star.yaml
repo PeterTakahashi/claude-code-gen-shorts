@@ -1,0 +1,58 @@
+id: astro-diamond-star
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A cinematic deep-space scene of a small dense star glittering like a colossal diamond,
+      crystalline facets catching starlight, the visual of "a star made of crystallized diamond". Cosmic, awe-inspiring tone.
+  - id: p2
+    prompt: |
+      An infographic of a sun-like star dying: shedding outer layers into a glowing nebula,
+      leaving a tiny hot core, the visual of
+      "what is left when a star like the sun dies". Clean astronomy illustration.
+  - id: p3
+    prompt: |
+      A science panel showing the hot leftover core (white dwarf) cooling over billions of
+      years, a carbon core crystallizing into a diamond lattice, the visual of "the carbon core crystallizes". Clean diagram, deep blue.
+  - id: p4
+    prompt: |
+      An infographic comparing Earth beside a glittering diamond-core star of similar size,
+      the visual of "an Earth-sized diamond
+      in space". Clean comparison illustration, starfield.
+  - id: p5
+    prompt: |
+      A vast cosmic vista with the diamond star at center, light scattering through its facets,
+      a tiny astronaut silhouette gazing, the visual of "a jewel too vast to price". Sublime, cinematic.
+  - id: p6
+    prompt: |
+      The glittering diamond star alone in deep space, slowly fading, a decorative Japanese
+      caption "宇宙の墓標", the loop image of "the diamond gravestone of a dead star". Quiet,
+      majestic cosmic light.
+ja:
+  title: '宇宙には地球サイズのダイヤモンドの星がある #Shorts'
+  description: |
+    太陽のような星が死ぬと、燃えカスの中心核が冷え固まり、炭素が結晶化する。やがてそれは、地球ほどの大きさのダイヤモンドになる。宇宙の宝石、白色矮星の正体を30秒で解説します。
+
+    #Shorts #宇宙 #ダイヤモンドの星 #白色矮星 #宇宙の雑学
+  hook_caption: 地球サイズのダイヤモンドの星
+  series_brand: 宇宙の墓標
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 宇宙には、まるごとダイヤモンドでできた星が存在します。しかもその大きさは、地球に匹敵します。
+      caption: まるごとダイヤモンドの星が存在する
+    - panel: p2
+      text: 始まりは、太陽のような星の最期です。寿命を迎えた星は外側の層を吹き飛ばし、中心に高温の燃えカスだけを残します。
+      caption: 星の最期に残る高温の中心核
+    - panel: p3
+      text: この燃えカスは何十億年もかけて冷えていきます。すると、中心に大量にあった炭素が、ゆっくりと結晶化していくんです。
+      caption: 炭素が長い時間をかけて結晶化する
+    - panel: p4
+      text: 炭素の結晶、それはつまりダイヤモンドです。こうして、地球ほどの大きさを持つ巨大な宝石が、宇宙にできあがります。
+      caption: 炭素の結晶=地球サイズのダイヤモンド
+    - panel: p5
+      text: その価値は、もはや計算する意味すらありません。地球上のすべてのダイヤを集めても、足元にも及ばないからです。
+      caption: 地球中のダイヤを集めても及ばない価値
+    - panel: p6
+      text: 星は死んでも、宇宙一の宝石として輝き続ける。私たちの太陽もいつか、空に浮かぶダイヤモンドになる運命なのです。
+      caption: 太陽もいつかダイヤモンドになる運命

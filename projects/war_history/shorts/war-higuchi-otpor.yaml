@@ -1,0 +1,65 @@
+id: war-higuchi-otpor
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A bleak 1938 winter scene at the Soviet-Manchurian border, the small Otpor station, a
+      crowd of frozen Jewish refugees stranded in the snow, a Japanese army general (Kiichiro
+      Higuchi, late 40s, sharp military face, round glasses, IJA uniform) arriving by train,
+      the visual of "Jewish refugees frozen at a Soviet border station". Somber historical tone.
+  - id: p2
+    prompt: |
+      A historical scene of the same general at his desk in Harbin, listening to a report that
+      the refugees had no food, no permits, and would die in the cold, his face hardening with
+      decision, the visual of "they would freeze if no one acted". Tense, moral-dilemma lighting.
+      Character: same general.
+  - id: p3
+    prompt: |
+      The general giving an unflinching order to his staff: open the Manchukuo border, run trains
+      to evacuate the refugees, requisition food and shelter, the visual of "he opened the border
+      against political risk". Determined, warm light.
+      Character: same general.
+  - id: p4
+    prompt: |
+      A scene of long trains pulling Jewish families from the frozen border into Manchukuo,
+      Japanese soldiers handing out blankets and bread, the visual of "trains carried thousands
+      to safety". Warm, humane historical tone.
+  - id: p5
+    prompt: |
+      A tense 1938 scene of Nazi Germany's ambassador angrily protesting to the Japanese army,
+      the same general standing firm, replying calmly, the visual of "Germany protested — he
+      refused to back down". Serious diplomatic tone.
+      Character: same general.
+  - id: p6
+    prompt: |
+      A modern memorial: descendants symbolized as points of light spreading across the world
+      from the frozen border station, a quiet portrait of the general, the loop image of "two
+      years before Sugihara, a Japanese general had already saved them". Reverent, hopeful tone.
+ja:
+  title: '樋口季一郎、オトポール事件で凍えるユダヤ難民を救った将軍 #Shorts'
+  description: |
+    1938年、ソ連と満州の国境で凍えていたユダヤ難民を、関東軍特務機関長・樋口季一郎が独断で受け入れ、列車で救出した。杉原千畝のビザより2年早い、知られざる救援作戦を30秒で解説します。
+
+    #Shorts #戦争史 #樋口季一郎 #オトポール事件 #歴史
+  hook_caption: 杉原より2年早く難民を救った将軍
+  series_brand: 戦争史
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1938年、ソ連と満州の国境にある、オトポール駅。極寒の中、ナチスから逃れたユダヤ難民数百人が、行き場を失い、凍えていました。
+      caption: 1938年、国境の駅で難民が凍えていた
+    - panel: p2
+      text: その報告を受けたのが、関東軍の樋口季一郎少将。このままでは、彼らは皆、凍え死ぬ。彼は、すぐに動かなければなりませんでした。
+      caption: 報告を受けた樋口少将はすぐ動いた
+    - panel: p3
+      text: 樋口は、独断で国境を開け、特別列車を仕立てさせます。難民を満州側に運び、食料と暖を、提供したんです。
+      caption: 独断で国境を開け、特別列車で救出した
+    - panel: p4
+      text: こうして救われた命は、数千人とも言われます。家族たちは列車に乗り、上海や、海の向こうの安全な国へと逃れていきました。
+      caption: 数千人が列車で安全な国へ逃れた
+    - panel: p5
+      text: ナチスは激しく抗議しましたが、樋口は引きませんでした。「人道上、当然のことをしたまで」。その姿勢を、彼は変えなかったのです。
+      caption: ナチスの抗議に「人道上当然」と返した
+    - panel: p6
+      text: 杉原千畝のビザより、実に2年早い救援でした。命令ではなく、自らの判断で動いた日本人が、ここにもいたのです。
+      caption: 杉原より2年早く、自ら動いた日本人がいた

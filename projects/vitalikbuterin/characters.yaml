@@ -1,0 +1,70 @@
+# ヴィタリック・ブテリン cast — visual character sheets for anime/webtoon shorts.
+# Two life-stage variants:
+#   - subject_teen: 16-19 years old, Toronto / Bitcoin Magazine / Ethereum white paper era
+#   - subject_adult: late 20s - early 30s, post-Merge Ethereum founder era
+characters:
+  - id: subject_teen
+    name_ja: ヴィタリック・ブテリン (10代)
+    description_en: |
+      A 16-19 year old Russian-Canadian young man with the characteristic
+      young-Vitalik-Buterin features: a very pale long oval face, a high
+      slightly prominent forehead, large slightly hooded pale-blue eyes set
+      wide, a straight thin nose, thin lightly pressed lips, soft introverted
+      almost shy expression, short tousled light-brown to dirty-blond hair
+      cut messily, very slim almost skeletally thin build, narrow shoulders,
+      slightly stooped posture of a teenage math prodigy who has spent most
+      of his life in front of computer screens. Quietly intense thoughtful
+      bearing, looks even younger than his age.
+    outfit_en: |
+      a Toronto-teenage-programmer casual outfit — a plain solid-color
+      t-shirt or a simple long-sleeve cotton tee, sometimes a generic
+      hoodie or zip-up sweater, well-worn straight blue jeans, plain
+      sneakers. Occasionally a thin nylon backpack slung over one
+      shoulder. No logos, no flashy elements.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - quiet absorbed thinking while staring at a screen
+      - shy half-smile when explaining something he loves
+      - soft serious focus reading a long document
+      - far-away contemplative gaze
+    poses:
+      - "Front view sitting at a laptop typing"
+      - "Three-quarter view leaning over a notebook full of math"
+      - "Side profile staring at a screen at night"
+      - "Standing with a backpack at a cafe table"
+
+  - id: subject_adult
+    name_ja: ヴィタリック・ブテリン (30歳前後)
+    description_en: |
+      The mature Vitalik Buterin aged about 28-32 — a Russian-Canadian man,
+      tall but very thin almost reedy build, pale skin, a long narrow oval
+      face, a high prominent forehead, large slightly hooded pale-blue eyes
+      with a perpetually gentle thoughtful gaze, a straight thin nose, thin
+      soft mouth resting in a small calm half-smile, short light-brown to
+      dirty-blond hair cut simply and slightly tousled, clean-shaven, narrow
+      sloped shoulders, the soft introverted bearing of a quiet math-genius
+      philosopher who is more comfortable with ideas than with people.
+      Almost monk-like calm, slightly otherworldly presence.
+    outfit_en: |
+      the signature Vitalik Buterin casual uniform — a distinctive
+      colorful T-shirt featuring a quirky illustrated motif (a pink
+      unicorn, a cosmic cat, a cartoon shiba dog, abstract geometric
+      shapes, or a playful pastel cryptokitten-style print), worn alone
+      or under a plain unbranded zip-up hoodie or thin cardigan in
+      muted grey or navy. Well-fitting simple jeans, plain low-top
+      sneakers. Sometimes a small canvas messenger bag. Never a tie,
+      never a corporate logo. Playful, gentle, slightly nerdy
+      tech-philosopher aesthetic.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - soft gentle smile while listening
+      - calm composed thinking in front of a whiteboard
+      - quiet wonder reading a long technical paper
+      - serene focus typing on a laptop
+      - thoughtful half-smile at a press microphone

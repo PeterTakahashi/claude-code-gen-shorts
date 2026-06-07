@@ -1,0 +1,132 @@
+id: news-mhi-naphtha-shock
+parent_chapter: null
+image_style: photorealistic
+date_overlay: auto
+panels:
+  - id: p1
+    image_ref: "三菱重工 工場 内部"
+    prompt: |
+      Cinematic photograph of a large Japanese industrial plant interior at
+      night, faint red warning lights illuminating heavy machinery, an
+      operator silhouette in the foreground, the visual of "an industrial
+      supply shock hits Japanese manufacturing". Documentary photography.
+  - id: p2
+    image_ref: "三菱重工 伊藤栄作 社長"
+    prompt: |
+      Photoreal press-room shot of a Japanese male CEO in his 60s in a dark
+      suit at a Tokyo press podium, microphones in the foreground, a small
+      lower-third label "三菱重工 社長". Composed press conference lighting.
+      Generic identifiable industrial-company press setup; no real logos.
+  - id: p3
+    image_ref: "ナフサ プラント 化学"
+    prompt: |
+      Photoreal cinematic photograph of a vast petrochemical naphtha cracker
+      complex at sunset, distillation columns dramatic against the orange sky,
+      the visual of "naphtha — the building block of modern industry".
+      Documentary industrial photography. No people, no real logos.
+  - id: p4
+    image_ref: "潤滑油 工場 機械"
+    prompt: |
+      Macro photoreal shot of industrial machinery covered in glistening
+      lubricant oil, a single drop of dark amber oil falling onto a steel
+      surface, dramatic side lighting. Documentary industrial photography.
+  - id: p5
+    image_ref: "金属切削 工場 切粉"
+    prompt: |
+      Cinematic close-up of a high-precision CNC machine cutting metal,
+      bright sparks and curling steel chips, motion blur, the visual of
+      "the cutting-oil supply that keeps Japan's factories moving".
+      Documentary industrial photography.
+  - id: p6
+    image_ref: "Tokyo Stock Exchange 7011 ticker"
+    prompt: |
+      Photoreal Tokyo Stock Exchange digital tote board showing the
+      Mitsubishi Heavy ticker "7011" in red, anonymous Japanese traders in
+      suits in soft focus watching. Modern realistic.
+  - id: p7
+    image_ref: "原油タンカー 中東 ホルムズ"
+    prompt: |
+      Cinematic aerial photograph of a Middle East oil tanker passing
+      through a narrow strait at dusk, the visual of "the upstream side of
+      Japan's naphtha problem". Documentary realism.
+  - id: p8
+    image_ref: "サプライチェーン 倉庫 出荷"
+    prompt: |
+      Photoreal photograph of a large Japanese logistics warehouse with
+      orange forklifts and rows of steel pallets, the visual of "tightening
+      supply chains, longer lead times". Documentary industrial photography.
+  - id: p9
+    image_ref: "経営会議 会議室 役員"
+    prompt: |
+      Photoreal Japanese corporate boardroom — a group of senior executives
+      in dark suits at a long wooden table, charts on a large monitor at the
+      end of the room, the visual of "the corporate cost squeeze".
+      Documentary business photography.
+  - id: p10
+    image_ref: "アナリスト 調査 レポート"
+    prompt: |
+      Photoreal photograph of a Japanese male equity analyst at a Tokyo
+      research firm desk, multiple monitors showing financial charts, holding
+      a printed company report, soft natural office lighting. Documentary
+      photography.
+  - id: p11
+    image_ref: "Mitsubishi Heavy Industries 株価チャート 上昇"
+    prompt: |
+      Photoreal stock-chart close-up showing Mitsubishi Heavy ticker "7011"
+      with a recent upward trajectory and a recent dip, modern trading
+      screen aesthetic. No people. Documentary financial photography.
+  - id: p12
+    image_ref: "日本の製造業 工場 夜"
+    prompt: |
+      Cinematic photograph of a Japanese industrial coast at dusk, multiple
+      factories lit up, smokestacks against a deep blue sky, the visual of
+      "Japan Inc. at the supply-chain crossroads". Documentary photography.
+
+ja:
+  title: "三菱重工社長「ナフサ不足が工場の潤滑油に直撃」が示すサプライ危機 #Shorts"
+  description: |
+    三菱重工の伊藤栄作社長が、ナフサ不足の影響として「工場の潤滑油、切削油の調達に影響が出ている」と発言。
+    日本の製造業の足元で進む、地味だが深刻なサプライチェーン問題を、30秒で解説。
+
+    #Shorts #ニュース #株式 #三菱重工 #ナフサ #製造業
+  hook_caption: "ナフサ不足、工場直撃の意味"
+  series_brand: "ナフサ供給ショック"
+  voice_speed: 1.25
+  voice_pitch: -0.10
+  narration:
+    - panel: p1
+      text: "「ナフサ不足が、工場の潤滑油に効いている」。"
+      caption: "工場の潤滑油に、効き始めた"
+    - panel: p2
+      text: "三菱重工業の伊藤栄作社長が、こう発言しました。"
+      caption: "三菱重工 伊藤社長の発言"
+    - panel: p3
+      text: "ナフサは、石油から取り出される、化学産業の基幹原料です。"
+      caption: "ナフサは、化学産業の基幹原料"
+    - panel: p4
+      text: "そこから潤滑油や、加工に使う切削油も、作られています。"
+      caption: "潤滑油・切削油も、ナフサ起点"
+    - panel: p5
+      text: "つまり、足元のナフサ不足が、日本の工場の「動く速度」を、じわじわ落とし始めている。"
+      caption: "工場の動く速度が、落ち始めた"
+    - panel: p6
+      text: "市場は反応しています。三菱重工の株価には、警戒の売りが入りました。"
+      caption: "三菱重工株、警戒の売り"
+    - panel: p7
+      text: "背景にあるのが、中東情勢と原油高。ナフサの調達コストも、跳ね上がっています。"
+      caption: "中東情勢、ナフサ価格に直撃"
+    - panel: p8
+      text: "サプライチェーンの目詰まりは、まだ先まで続く見通し。"
+      caption: "目詰まりは、しばらく続く"
+    - panel: p9
+      text: "経営陣にとっての論点は、コスト転嫁を、いつ、どこまでやるか。"
+      caption: "コスト転嫁、どこまでやるか"
+    - panel: p10
+      text: "アナリストは、特に化学・自動車関連の利益率に、強い警戒感を示しています。"
+      caption: "化学・自動車の利益率に、警戒感"
+    - panel: p11
+      text: "短期では、株価のボラティリティに要注意。中期では、サプライ戦略の見直しがテーマです。"
+      caption: "中期テーマは、サプライ戦略の見直し"
+    - panel: p12
+      text: "原料の話が、いま日本の製造業の「主戦場」に戻ってきました。"
+      caption: "原料の話が、主戦場に戻る"

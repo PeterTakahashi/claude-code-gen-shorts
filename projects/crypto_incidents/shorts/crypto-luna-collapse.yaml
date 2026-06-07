@@ -1,0 +1,60 @@
+id: crypto-luna-collapse
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic financial scene of a glowing crypto coin labeled "LUNA" shattering and
+      plunging on a crashing chart, a decorative Japanese caption "3日で、ほぼゼロ", the visual
+      of "a 50-trillion-yen crypto empire wiped out in three days". Dark, tense, screens glowing red.
+  - id: p2
+    prompt: |
+      An infographic explaining the algorithmic stablecoin pair, two coins "UST" and "LUNA"
+      linked by a balancing arrow with a decorative Japanese caption "1ドルを保つ仕組み", the
+      visual of "a stablecoin kept at $1 by an algorithm, not real reserves". Clean infographic.
+  - id: p3
+    prompt: |
+      An infographic of the "death spiral" — UST losing its $1 peg, LUNA being printed
+      infinitely to compensate, a downward spiral arrow with a decorative Japanese caption
+      "デススパイラル", the visual of "the peg broke and the system ate itself". Clean infographic.
+  - id: p4
+    prompt: |
+      A crashing market scene, a decorative Japanese caption "時価総額 約50兆円が消滅", panicked
+      investors staring at red screens worldwide, the visual of "around 50 trillion yen in
+      value evaporated". Dark, global panic.
+  - id: p5
+    prompt: |
+      A somber scene of ordinary retail investors, including Japanese ones, staring at
+      ruined portfolios, a decorative Japanese caption "個人投資家を直撃", the visual of "small
+      investors who trusted 'stable' were devastated". Dark, personal.
+  - id: p6
+    prompt: |
+      Same shattered LUNA coin from panel 1 fading, a decorative Japanese caption
+      "「安定」という幻想", the loop image of "the illusion of a 'stable' coin". Dark, cautionary.
+ja:
+  title: 'LUNA、50兆円が3日で消えた仮想通貨史上最悪の崩壊 #Shorts'
+  description: |
+    「絶対に1ドルを保つ」はずだったステーブルコインが崩壊し、約50兆円が3日で消えた。LUNA・USTのデススパイラルを30秒で解説します。
+
+    #Shorts #仮想通貨 #LUNA #UST #暴落
+  hook_caption: 50兆円が3日で消えたLUNA崩壊
+  series_brand: LUNA崩壊
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 約50兆円もの価値が、たった3日で、ほぼゼロになった。仮想通貨史上、最悪級の崩壊。LUNA事件です。
+      caption: 50兆円が3日でほぼゼロに
+    - panel: p2
+      text: 主役は、USTという「ステーブルコイン」。LUNAという通貨と組み合わせ、アルゴリズムで、常に1ドルを保つ仕組みでした。
+      caption: 1ドルを保つはずの仕組み
+    - panel: p3
+      text: ところが一度、1ドルが崩れると、それを支えるためにLUNAが無限に発行され、価値が暴落。止まらない「デススパイラル」に陥ります。
+      caption: 止まらないデススパイラルに陥る
+    - panel: p4
+      text: 結果、LUNAとUST、合わせて約50兆円の時価総額が、わずか数日で消滅。世界中の市場が、震撼しました。
+      caption: 約50兆円の時価総額が消滅
+    - panel: p5
+      text: 「安定」という言葉を信じて資金を預けていた、日本を含む多くの個人投資家が、全てを失いました。
+      caption: 「安定」を信じた個人投資家が全損
+    - panel: p6
+      text: アルゴリズムが約束する「絶対の安定」は、幻想でした。仕組みを理解せずに信じることの怖さを、LUNAは教えてくれます。
+      caption: 「安定」という幻想の怖さ

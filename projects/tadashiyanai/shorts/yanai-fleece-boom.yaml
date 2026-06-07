@@ -1,0 +1,112 @@
+id: yanai-fleece-boom
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside the 1998 UNIQLO Harajuku flagship store in Tokyo, an enormous wall of perfectly stacked fleece jackets in 15 different vivid colors — bright red, lime green, royal blue, lemon yellow, magenta,
+    orange, purple — towering ceiling-high. A dense crowd of 1998 Japanese shoppers in late-90s fashion eagerly grabbing fleeces from the stack, frenzied retail energy. Bright clean overhead lighting, the
+    iconic image of the Japan fleece boom.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Exterior street view of Tokyo''s Harajuku district in November 1998, a brand-new UNIQLO flagship store with large red-and-white English UNIQLO signage and floor-to-ceiling glass windows showing colorful
+    fleeces inside. Crowds of late-90s Japanese youth in baggy jeans and platform boots passing by, late-90s Tokyo urban atmosphere, autumn afternoon light.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 49-year-old Tadashi Yanai (greying hair, thin-rimmed silver glasses, dark navy suit, no tie) in his 1998 Fast Retailing Yamaguchi headquarters office, leaning over a conference table covered with
+    brightly colored fleece fabric swatches in 15 different colors, two younger Japanese executives across the table waiting for his decision, his expression intensely calculating, the bearing of a CEO
+    making a multi-billion-yen bet.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Extreme close-up of a folded UNIQLO fleece jacket in 1998 with a clean white rectangular price tag prominently showing "¥1,900" printed in bold black, the soft texture of the fleece visible, a hand
+    reaching for it, the impossibly cheap price for a high-quality fleece — the price point that broke the Japanese apparel market.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside a typical 1998 Japanese suburban living room, a CRT television set on a low wooden stand showing a Japanese TV news segment with the on-screen English chyron "UNIQLO FLEECE BOOM" and footage
+    of crowded stores. A typical Japanese family of four watching from the tatami floor, a teenage daughter wearing a bright purple UNIQLO fleece, late-1998 Japan home interior.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 49-year-old Tadashi Yanai standing alone in his Fast Retailing office at night in late 1998, holding a printed annual sales report, looking at a bar chart that for the first time crosses the "100
+    billion yen" line, his expression a quiet astonishment giving way to satisfaction, the calm light of his desk lamp on his face. The moment a regional Yamaguchi chain became a national giant.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '1990円フリースで社会現象を起こした男 #Shorts'
+  description: '1998年、UNIQLO のフリース1990円が日本を席巻した。原宿1号店オープン、初の年商1000億円超え。
+
+    ヤナイ・タダシが起こした「フリースブーム」の真相。
+
+
+    #Shorts #柳井正 #UNIQLO #人物伝
+
+    '
+  hook_caption: 1990円のフリースで日本を制した
+  series_brand: 柳井正伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1998年、たった1990円のフリースが、日本社会を、丸ごと、巻き込みました。
+    caption: 1990円のフリースが社会現象に
+  - panel: p2
+    text: 仕掛けたのは、UNIQLO のヤナイ・タダシ、当時49歳。
+    caption: UNIQLOヤナイ・タダシ、49歳
+  - panel: p3
+    text: 彼は、15色のカラーフリースを、ハラジュク1号店に、壁一面、積み上げたんです。
+    caption: 15色のフリースをハラジュクに積んだ
+  - panel: p4
+    text: 「高品質、低価格」。当時のアパレル業界が信じなかった常識破りでしたが、消費者は、爆発的に反応した。
+    caption: 高品質×低価格が爆発した
+  - panel: p5
+    text: テレビは、連日、「フリースブーム」を報道。3年間で2600万枚を売り上げます。
+    caption: 3年で2600万枚を販売
+  - panel: p6
+    text: そして、その年、Fast Retailing は、初めて、年商1000億円を突破——ヤマグチの地方チェーンが、全国ブランドへ、躍り出た瞬間でした。
+    caption: 初の年商1000億円突破
+en:
+  title: 'How a $15 Jacket Conquered Japan #Shorts'
+  description: 'In 1998, UNIQLO''s 1,900 yen fleece jacket created a national phenomenon. This is the story of how Tadashi Yanai''s radical bet on quality and price turned a local retailer into a global
+    giant.
+
+
+    #Shorts #UNIQLO #TadashiYanai #Business #History'
+  hook_caption: This $15 Fleece Changed Fashion Forever
+  series_brand: The Tadashi Yanai Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p3
+    text: In 1998, this man, Tadashi Yanai, made a bet that would change the fashion industry.
+    caption: Tadashi Yanai, 49
+  - panel: p2
+    text: He opened a massive UNIQLO flagship store in Tokyo's trendiest district, Harajuku.
+    caption: Harajuku Flagship Store
+  - panel: p1
+    text: 'But instead of high fashion, he stacked the walls with one simple item: fleece jackets, in 15 different colors.'
+    caption: A wall of fleece
+  - panel: p4
+    text: 'His strategy was radical: high quality at a rock-bottom price of just 1,900 yen, about 15 U.S. dollars.'
+    caption: Only ¥1,900
+  - panel: p5
+    text: Japan went into a frenzy. The "fleece boom" was all over the news, selling 26 million jackets in just three years.
+    caption: 26 million sold
+  - panel: p6
+    text: That year, sales for his company, Fast Retailing, soared past 100 billion yen for the first time, launching a regional chain onto the world stage.
+    caption: A global giant was born

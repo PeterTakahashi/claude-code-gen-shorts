@@ -1,0 +1,187 @@
+id: jp-french-pastry-kyogashi
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic shot of a 50-something French male pastry chef''s
+
+    face, neat short brown hair lightly greying at the temples, kind blue-grey
+
+    eyes brimming with a single tear sliding down his cheek, mouth slightly
+
+    parted in stunned reverence, crisp white double-breasted chef''s jacket
+
+    visible at the shoulders, soft-focus tatami-mat Kyoto workshop interior
+
+    behind him, the corner of a small jewel-like wagashi sweet on a black
+
+    lacquer plate in his trembling hand. Early morning light through shoji
+
+    paper screen. The visual of "what did I just see this morning?" Subject
+
+    filling square center for vertical short layout, blurred padding above
+
+    and below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A narrow Paris street 2026, mid-shot of the same 50-something French
+
+    pastry chef in his white double-breasted chef''s jacket stepping out of
+
+    a high-end Parisian patisserie storefront, decorative French signage
+
+    readable "Patisserie" in gold foil above the window, an Eiffel Tower
+
+    silhouette tiny in the distance, a small Air France paper boarding pass
+
+    visible in his hand, his expression curious and slightly skeptical, the
+
+    visual of "the master who thought he had nothing left to learn." Cool
+
+    morning Paris light, no Japanese architectural elements anywhere.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of a 200-year-old Kyoto wagashi workshop, mid-shot of a
+
+    70-something Japanese wagashi master in a navy indigo samue jacket and
+
+    charcoal apron, his deeply weathered hands shaping a tiny pink-and-white
+
+    seasonal sweet shaped like a cherry blossom petal using only wooden
+
+    sankaku-bera tools and his fingertips, the French pastry chef visible in
+
+    soft focus on the other side of the worktable watching in silent awe,
+
+    decorative Japanese shop curtain in the background reading「京菓子」, a
+
+    small wooden plaque reading「創業文政年間」visible on the wall. Warm
+
+    morning light through shoji screens.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean cream washi-paper background, decorative bold English headline
+
+    "200 YEARS" centered, smaller decorative Japanese label beneath
+
+    「七代目 / 一日 約120個 / 全て手作業」readable, a tiny chibi figure of
+
+    the wagashi master with his apron and a single sankaku-bera tool
+
+    between them, soft cherry-petal accents in the corners. The visual of
+
+    "two centuries, seven generations, every sweet by hand."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Close-up shot inside the same Kyoto workshop, the wagashi master''s
+
+    deeply weathered hands gently placing a finished cherry-blossom wagashi
+
+    onto a black lacquer plate in front of the French chef, the French
+
+    chef''s hand reaching out trembling slightly to receive it, his white
+
+    sleeve crisp against the dark wood of the worktable, decorative
+
+    Japanese kakejiku scroll on the wall behind reading「一期一会」readable,
+
+    a faint blur of steam from a nearby kettle, the visual of "the moment
+
+    one craftsman recognized another across two cultures."
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic shot as panel 1 but slightly later — the
+
+    same 50-something French pastry chef''s face, the single tear now
+
+    reaching his jawline, a small respectful smile breaking through the
+
+    reverence, kind blue-grey eyes warm with quiet acceptance, the small
+
+    jewel-like wagashi still on the black lacquer plate in his hand, the
+
+    same soft-focus Kyoto workshop and shoji light behind him slightly
+
+    warmer now. The loop image of "the morning a French master became a
+
+    student again." Subject filling square frame for vertical short with
+
+    blurred padding above and below.
+
+    '
+ja:
+  title: 'フランス人パティシエが京菓子職人に泣いた朝 #Shorts'
+  description: 'パリで頂点に立った50代のフランス人パティシエが、京都で200年続く京菓子の工房を訪ねた朝、職人の手元から、涙がこぼれたんです。
+
+    彼が見たのは、たった一粒の和菓子に込められた、七代分の手仕事でした。
+
+
+    #Shorts #京菓子 #京都 #日本礼賛 #海外の反応
+
+    '
+  hook_caption: フランス人パティシエが泣いた朝
+  series_brand: 京菓子の衝撃
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 京都の朝、パリで頂点に立った50代のフランス人パティシエが、たった一粒の和菓子を前にして、静かに涙を流したことが、あるんです。彼の手の中には、桜の花びら一枚分の、京菓子が乗っていました。
+    caption: 一粒の和菓子に流した涙
+  - panel: p2
+    text: 彼はパリで自分の店を構えていたので、もう学ぶことはほとんど残っていない、と感じていました。それでも、京菓子という存在から、目を離せなくなったので、わざわざ羽田まで、飛んできたんです。
+    caption: パリの頂点から、京都へ
+  - panel: p3
+    text: 工房で迎えてくれたのは、七代続く京菓子屋の70代の主人でした。彼の手は、三角ベラと指先だけで、桜の花弁を、空気のように成形していきます。フランス人は、息をするのも、忘れていました。
+    caption: 七代目の手、空気のような桜
+  - panel: p4
+    text: 文政年間の創業から、およそ200年。一日に作るのは、わずか120個ほど。機械は、一切使いません。すべて、職人の指先と、季節の記憶だけで、形になっていきます。
+    caption: 200年、一日120個、機械ゼロ
+  - panel: p5
+    text: 京菓子は、ただの甘味ではなく、季節と、お客様との、一期一会を、形にした祈りです。職人が一粒を差し出した瞬間、フランス人パティシエは、自分が「料理人」ではなく「学び手」に戻ったことを、悟りました。
+    caption: 一期一会、料理人から学び手へ
+  - panel: p6
+    text: 200年の手仕事の前で、パリの巨匠が静かに涙を流したのは、技術への驚きではなく、季節を一粒に閉じ込めるという、日本人の祈りに、触れた瞬間でした。
+    caption: 季節を一粒に、祈りに触れた朝
+en:
+  title: 'The Japanese Candy That Made a Parisian Master Weep #Shorts'
+  description: 'A world-renowned French pastry chef flew to Kyoto to see a legendary candy maker. What he witnessed in the 200-year-old workshop brought him to tears.
+
+
+    #Shorts #Kyoto #Japan #Craftsmanship #Wagashi'
+  hook_caption: The Secret That Made a French Chef Weep
+  series_brand: The Soul of Kyoto
+  voice_speaker: Aiden
+  narration:
+  - panel: p3
+    text: In a quiet Kyoto workshop, a 7th-generation master shapes candy using only his bare hands.
+    caption: A 7th-gen master
+  - panel: p5
+    text: He's not just making a dessert; he's capturing the soul of a season in a single, perfect piece.
+    caption: The soul of a season
+  - panel: p2
+    text: This living tradition is what drew one of Paris's greatest pastry chefs all the way to Japan.
+    caption: A master from Paris
+  - panel: p4
+    text: For 200 years, this workshop has produced just 120 pieces a day. Zero machines. All by hand.
+    caption: 200 years, by hand
+  - panel: p1
+    text: Watching the master, the French chef—who thought he had nothing left to learn—was stunned into silence.
+    caption: Stunned into silence
+  - panel: p6
+    text: He wept, not just at the skill, but at the realization... this wasn't food. It was a prayer.
+    caption: This is a prayer.

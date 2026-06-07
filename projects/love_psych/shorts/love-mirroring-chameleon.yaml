@@ -1,0 +1,68 @@
+id: love-mirroring-chameleon
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a young couple at a Tokyo cafe, both leaning forward
+      with their hands in nearly identical positions on the table, both tilting their
+      heads at the same angle, a faint mirror line between them, a decorative Japanese
+      caption "気付かず動きが揃う", the visual of "two people unconsciously syncing their
+      posture". Soft warm cafe light.
+  - id: p2
+    prompt: |
+      A clean psychology infographic of two human silhouettes side by side, identical
+      arrows showing matching gestures — touching hair, sipping drink, crossing legs —
+      with a decorative Japanese caption "ミラーリング", the visual of "mirroring — matching
+      the other person's body language". Clean infographic, soft palette.
+  - id: p3
+    prompt: |
+      A webtoon scene of a 1999 American university psychology lab, a researcher
+      observing two strangers chatting where one is secretly instructed to mirror the
+      other's foot-tapping and face-touching, a decorative English caption "CHARTRAND &
+      BARGH 1999", the visual of "the famous 1999 chameleon-effect experiment". Vintage
+      academic tone.
+  - id: p4
+    prompt: |
+      An infographic bar chart comparing two groups — "MIRRORED" with a high "好感度" bar
+      and "NOT MIRRORED" with a low bar, a decorative Japanese caption "ミラーされた人は好感度
+      が上がる傾向", the visual of "mirrored partners reported significantly higher liking".
+      Clean comparison infographic.
+  - id: p5
+    prompt: |
+      A webtoon scene of a date — the woman picks up her glass, a beat later the man
+      picks up his, both unconsciously smiling — a small caption "ワンテンポ遅らせる", the
+      visual of "the trick is to mirror with a slight delay, naturally". Modern Tokyo
+      restaurant tone.
+  - id: p6
+    prompt: |
+      A gentle webtoon scene of the same couple from panel 1 now laughing in sync, a
+      decorative Japanese caption "動きが揃うと心も揃う", the loop image of "matched movement
+      builds matched feelings". Hopeful, warm tone.
+ja:
+  title: 'ミラーリング、動きを真似ると好感度が上がる脳 #Shorts'
+  description: |
+    心理学の研究では、相手のしぐさをさりげなく真似ると、好感度が上がる傾向があるとされています。1999年のシャートランドとバージの「カメレオン効果」実験を元に、恋愛での使い方を30秒で解説します。
+
+    #Shorts #恋愛心理 #ミラーリング #カメレオン効果 #心理学
+  hook_caption: 動きを真似ると好感度が上がる
+  series_brand: 恋愛科学
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 仲の良い人同士は、無意識のうちに、姿勢や手の動きが、揃っている。気付いたことは、ありませんか。実はそれ、好感度の証だと、言われています。
+      caption: 仲が良いと動きが自然に揃う
+    - panel: p2
+      text: 心理学では、これを「ミラーリング」と呼びます。相手のしぐさを、さりげなく真似ると、好感度が上がる傾向があると、されています。
+      caption: しぐさを真似ると好感度が上がる
+    - panel: p3
+      text: 名前の元になったのは、1999年に発表された、シャートランドとバージの実験です。会話相手を密かに真似た学生は、相手から、はっきり好かれていました。
+      caption: 1999年カメレオン効果の実験
+    - panel: p4
+      text: ミラーされた側は、相手を「話しやすい」「気が合う」と、感じやすい傾向があると、報告されています。本人は、真似されていることに、ほとんど気付きません。
+      caption: 真似された側は話しやすいと感じる
+    - panel: p5
+      text: コツは、すぐ真似するのではなく、ワンテンポ遅らせて、自然に同じ姿勢を取ることです。グラスを持つタイミングを合わせるだけでも、変わってきます。
+      caption: ワンテンポ遅れて自然に合わせる
+    - panel: p6
+      text: 動きが揃うと、心も揃いやすい。ミラーリングは、押し付けではなく、相手と同じ空気を吸う技術なんです。
+      caption: 動きが揃えば心も揃いやすい

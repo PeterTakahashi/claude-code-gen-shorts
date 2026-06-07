@@ -1,0 +1,15 @@
+# Larry Ellison cast.
+characters:
+  - id: ellison_old
+    name_ja: ラリー・エリソン (晩年)
+    description_en: >-
+      a tan, athletic 67-year-old American billionaire with short silver-grey hair
+      brushed back, neatly trimmed silver-grey goatee beard, weathered tan skin,
+      deeply set sharp grey-blue eyes, prominent cheekbones, square-jawed,
+      smug confident smirk, in peak physical condition for his age — visibly
+      wealthy, like a yacht-racing tycoon
+    outfit_en: >-
+      open-collar luxury polo shirt with a sport jacket, no tie,
+      wearing an expensive analog watch
+    voice_style_id: 1310138977
+    voice_speed: 1.4

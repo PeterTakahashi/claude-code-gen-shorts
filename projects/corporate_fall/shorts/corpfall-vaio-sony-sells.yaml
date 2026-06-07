@@ -1,0 +1,184 @@
+id: corpfall-vaio-sony-sells
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic shot of a 50-something Japanese male Sony
+
+    executive''s face, neatly combed jet-black hair with grey at the temples,
+
+    square black-rimmed glasses reflecting harsh white press-conference
+
+    lights, a long lined face with a stiff stoic expression, a single tear
+
+    not yet falling held trembling at the corner of his eye, conservative
+
+    dark charcoal business suit shoulder visible, a small silver "VAIO"
+
+    branded laptop placed face-down directly in front of him on a glossy
+
+    black press desk, soft-focus background of a massive blue Sony logo
+
+    glowing on the press-conference backdrop. The visual of "the executive
+
+    who had to let VAIO go." Subject filling square center for vertical
+
+    short layout, blurred padding above and below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Tokyo Sony headquarters press conference February 2014, wide mid-shot
+
+    from the audience of two 50-something Japanese male Sony executives
+
+    in conservative dark charcoal business suits seated at a long glossy
+
+    black press desk, both bowed in a deep apology bow, a huge backdrop
+
+    reading decorative English "Sony" with the iconic blue logo, news
+
+    photographers'' camera flashes as bright white bursts, a small
+
+    decorative Japanese banner reading「PC事業 売却発表」readable above
+
+    the stage. The visual of "the day Sony said goodbye to its laptop."
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Close-up shot of an iconic silver-and-purple VAIO laptop from the
+
+    mid-2000s open at 90 degrees on a clean white surface, the rainbow-
+
+    sheen "VAIO" logo clearly visible on the lid, the screen showing a
+
+    soft purple-blue Sony-style desktop wallpaper, a small handwritten
+
+    English tag "Since 1996" tied with string to the hinge, faint reflection
+
+    of a Sony engineer''s hand pulling away from the keyboard at the edge
+
+    of the frame, soft natural light. The visual of "the laptop that
+
+    defined Japanese design for 18 years."
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on soft cream background, decorative
+
+    bold English headline "VAIO → JIP / ¥5B" centered, smaller decorative
+
+    Japanese label beneath「1996年 ブランド誕生 → 2014年2月 売却 / 約50億円」
+
+    readable, a tiny chibi silver VAIO laptop icon between them, a faint
+
+    Sony blue-logo silhouette in the corner. The visual of "12 years ago
+
+    in 2014, the 18-year VAIO brand left Sony for about 5 billion yen."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of a quiet Sony Tokyo engineering office late evening 2014,
+
+    mid-shot of a 40-something Japanese male VAIO design engineer in a
+
+    neat light-blue dress shirt and dark slacks sitting alone at his
+
+    desk, slowly peeling a small blue Sony-logo sticker off the side of
+
+    his prototype silver VAIO laptop, a stack of design sketches with
+
+    decorative Japanese label「VAIO 設計図」readable on the desk beside
+
+    him, dim warm desk-lamp light, the visual of "the engineer who had
+
+    to remove the Sony logo from his own design."
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic shot as panel 1 but slightly later — the
+
+    same 50-something Japanese Sony executive''s face, the single trembling
+
+    tear now slipped just past the rim of his black-rimmed glasses, the
+
+    stoic expression slightly softer with quiet acceptance, the silver
+
+    VAIO laptop still face-down on the glossy press desk in front of him,
+
+    the soft-focus blue Sony logo on the backdrop slightly dimmer now.
+
+    The loop image of "the day a 18-year-old brand left home." Subject
+
+    filling square frame for vertical short with blurred padding above
+
+    and below.
+
+    '
+ja:
+  title: 'VAIOがSonyから消えた日、PCの誇りを売った2014年 #Shorts'
+  description: '12年前の2014年2月、Sony は自社のPCブランドである VAIO を、投資ファンドのJIPに、およそ50億円で売却しました。
+
+    1996年に生まれた「日本のPCデザイン」の象徴は、誕生から18年で、Sonyの本社から、姿を消すことになります。
+
+
+    #Shorts #VAIO #Sony #企業再編 #日本の家電
+
+    '
+  hook_caption: VAIOがSonyから消えた日
+  series_brand: VAIO売却
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 12年前の2014年2月、Sony が一台のノートPCを、自社のロビーから、永遠に運び出した日が、あるんです。それは、VAIO ブランドが、Sony から切り離されることが、決まった日でした。
+    caption: VAIOがSonyから運び出された日
+  - panel: p2
+    text: 2014年2月6日、Sony は東京本社で記者会見を開き、PC事業を、投資ファンドの日本産業パートナーズ JIP に、売却することを、正式に発表しました。会場の空気は、葬儀そのものだった、と、関係者は語っています。
+    caption: 2014年2月6日、葬儀のような会見
+  - panel: p3
+    text: VAIO は、1996年に生まれた、Sony のノートPC ブランドです。紫がかった独特のシルバーと、レインボー光彩のロゴで、世界中のクリエイターから、Apple と並ぶ「日本のPC デザイン」として、愛されてきました。
+    caption: 1996年生まれ、世界のクリエイター愛機
+  - panel: p4
+    text: 売却額は、およそ50億円。Sony の連結売上8兆円規模からすれば、わずかな額です。それでも、誕生から18年続いたPC事業を、本体から切り離さざるを得なかった現実が、平成日本の家電の凋落を、象徴していました。
+    caption: 約50億円、18年の歴史に区切り
+  - panel: p5
+    text: 売却が決まった夜、VAIO の設計を担当してきた現場のエンジニアたちは、自分たちが描いた試作機から、Sony のロゴシールを、自らの手で、一枚ずつ、剥がしていったんです。彼らの図面は残り、本社のロゴだけが、消えていきました。
+    caption: 自らの手でSonyロゴを剥がす夜
+  - panel: p6
+    text: VAIO は今も、長野県安曇野の工場で、製造を続けています。ただ、その背中から Sony のロゴが消えた2014年の日は、日本の家電が、世界の頂点から静かに降りていった象徴として、業界の記憶に、刻まれています。
+    caption: 頂点から静かに降りた家電の象徴
+en:
+  title: 'The Day Sony Killed Its Most Iconic Laptop #Shorts'
+  description: 'In February 2014, Sony sold its legendary VAIO PC brand for a mere ¥5 billion. It was a move that symbolized the end of an era for Japanese tech dominance.
+
+
+    #Shorts #Sony #VAIO #TechHistory #Business'
+  hook_caption: Why Sony Killed Its Most Iconic PC
+  series_brand: The VAIO Sale
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In February 2014, Sony held a press conference that insiders said felt 'like a funeral'.
+    caption: A somber announcement
+  - panel: p3
+    text: 'The news: they were selling their legendary VAIO PC brand, an icon of Japanese design once seen as Apple''s rival.'
+    caption: An icon sold off
+  - panel: p4
+    text: The entire division was sold to an investment fund for just 5 billion yen, ending an 18-year history inside Sony.
+    caption: Sold for just ¥5B
+  - panel: p5
+    text: That night, the engineers who built VAIO had to peel the Sony logos off their own prototype machines with their own hands.
+    caption: Erasing the name
+  - panel: p6
+    text: The VAIO brand still exists, but that day marked a turning point—the moment Japan's legendary electronics industry quietly stepped down from the world stage.
+    caption: End of an era

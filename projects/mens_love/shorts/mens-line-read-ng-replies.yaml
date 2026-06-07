@@ -1,0 +1,207 @@
+id: mens-line-read-ng-replies
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME close-up dramatic shot of a 27-year-old contemporary Japanese
+
+    office-worker man''s face, his calm steady eyes now visibly tightened
+
+    with anxious uncertainty, neatly cut short black hair slightly tousled,
+
+    a single bead of sweat at his temple, his thumb hovering over a
+
+    smartphone screen reflected in glasses-less catchlight on his pupils,
+
+    a small floating decorative English chat-bubble graphic visible above
+
+    the phone reading "Read 8h ago", soft out-of-focus modern Tokyo cafe
+
+    background with warm pendant lighting in the evening. The visual of
+
+    "she left me on read 8 hours ago and I am about to ruin it." Subject
+
+    filling square center for vertical short layout with blurred padding
+
+    above and below.
+
+    Character: {male_lead}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style infographic panel filling the frame.
+
+    Clean modern soft pastel background, decorative bold English headline
+
+    "NG REPLY 1: GUILT TRIP" centered, a chibi version of the male lead
+
+    typing a sad-faced chat bubble on a stylized LINE chat overlay
+
+    reading「もしかして、嫌われちゃった?」, a small grey down-arrow icon
+
+    indicating a confidence drop on the woman''s side, a small decorative
+
+    Japanese caption「相手に罪悪感を与える返信」readable below. The visual
+
+    of "the pity-bait that signals low confidence." Proper noun English
+
+    LINE-style chat UI.
+
+    Character: {male_lead}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic panel filling the frame.
+
+    Clean modern soft pastel background, decorative bold English headline
+
+    "NG REPLY 2: OVER-EXPLANATION" centered, a chibi version of the male
+
+    lead sweating profusely typing into a stylized LINE chat overlay
+
+    filled with a wall of decorative Japanese text「あの、昨日のは、別に深い意味
+
+    じゃなくて、ただちょっと気になっただけで、もし負担なら全然...」, the chat bubble
+
+    visibly enormous compared to a tiny single-word reply earlier, a
+
+    small clock icon. The visual of "the wall of text that screams
+
+    panic." Proper noun English LINE-style chat UI.
+
+    Character: {male_lead}.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic panel filling the frame.
+
+    Clean modern soft pastel background, decorative bold English headline
+
+    "NG REPLY 3: REPEATED PINGS" centered, a chibi version of the male
+
+    lead nervously tapping his phone screen with three stacked stylized
+
+    LINE chat overlays reading「おーい」「見てる?」「無視?」in sequence
+
+    with timestamps, a small notification-flood graphic with multiple
+
+    bell icons, a tiny decorative Japanese caption「短文連打」readable.
+
+    The visual of "the spam-tap that flips comfort into discomfort."
+
+    Proper noun English LINE-style chat UI.
+
+    Character: {male_lead}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style infographic panel filling the frame.
+
+    Clean modern soft cream background, decorative bold English headline
+
+    "PSYCHOLOGY SAYS" centered, a stylized soft pink cross-section anime
+
+    brain icon with three small arrows pointing to soft labels reading
+
+    decorative English "CONFIDENCE", "SPACE", "TIMING", a small chibi
+
+    version of the male lead calmly putting his phone face-down on a
+
+    table with a quiet relieved expression, a tiny decorative Japanese
+
+    label「心理学では、余白のある返信が信頼につながる傾向」readable. The visual
+
+    of "research suggests confident space-giving builds trust." Hedged
+
+    framing, proper noun English LINE app icon visible small on the
+
+    phone.
+
+    Character: {male_lead}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame.
+
+    Same EXTREME close-up of the 27-year-old contemporary Japanese man''s
+
+    face as panel 1 but slightly later — his calm steady eyes now soft
+
+    with quiet acceptance, the bead of sweat at his temple now gone, the
+
+    same out-of-focus modern Tokyo cafe background with warm pendant
+
+    lighting slightly warmer, the phone screen now showing a calm
+
+    blank lock screen instead of the chat overlay. The loop image of
+
+    "the moment he chose to put the phone down." Subject filling square
+
+    frame for vertical short with blurred padding above and below.
+
+    Character: {male_lead}.
+
+    '
+ja:
+  title: 'LINE既読スルー後のNG返信3パターン、心理学解説 #Shorts'
+  description: 'LINEで既読スルーされた後、男性が、ついやってしまう「3つのNG返信」を、心理学の研究をもとに解説します。
+
+    罪悪感、過剰説明、短文連打——どれも、自信のなさが、相手に伝わってしまう傾向があります。
+
+
+    #Shorts #LINE #既読スルー #恋愛心理 #メンズ恋愛
+
+    '
+  hook_caption: 既読スルー後のNG返信
+  series_brand: 既読スルー対策
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: LINEで既読スルーされた瞬間、男性がついやってしまう「3つのNG返信」を、ご存じですか。心理学の研究では、どれも、自信のなさが、相手に伝わる傾向があると、言われています。
+    caption: 既読スルー後のNG返信3つ
+  - panel: p2
+    text: 1つ目は、罪悪感を煽る返信です。「嫌われた?」と送ると、相手は責められた気がするので、返事をするのが、さらに重く感じてしまう傾向があります。
+    caption: ①罪悪感を煽る返信
+  - panel: p3
+    text: 2つ目は、過剰な説明です。長い言い訳を送ると、心理学的には、自信のなさと不安が、文章量に比例して伝わってしまう、と指摘されています。
+    caption: ②過剰説明は不安を伝える
+  - panel: p4
+    text: 3つ目は、短文の連打です。「見てる?」「無視?」を立て続けに送ると、相手の脳は、心地よさより、プレッシャーを感じやすくなる傾向があります。
+    caption: ③短文連打はプレッシャー
+  - panel: p5
+    text: 心理学では、自信のある男性ほど、返信に余白を作る傾向があると、言われています。焦らないこと自体が、相手にとっての、安心のサインなんです。
+    caption: 余白こそ自信のサイン
+  - panel: p6
+    text: 既読スルーは、関係の終わりではなく、ただの「タイミングのズレ」のことが、ほとんどです。スマホを伏せて、自分の時間に戻る——それが、いちばん、効くんです。
+    caption: スマホを伏せて自分の時間に戻る
+en:
+  title: '3 Texts That Make Her Ghost You (Psychology Explained) #Shorts'
+  description: 'She left you on read? Before you send that follow-up text, watch this.
+
+    We''re breaking down 3 common mistakes men make that kill attraction, based on psychological principles.
+
+
+    #Shorts #DatingAdvice #Texting #Psychology #RelationshipTips'
+  hook_caption: She Left You On Read? Don't Send These.
+  series_brand: Texting Psychology
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Ever get left on read and wonder what to do next? Here are three common replies that actually push her away, according to psychology.
+    caption: Don't Send These 3 Texts
+  - panel: p2
+    text: First up, the guilt trip. A message like 'Did I do something wrong?' just makes you seem insecure and puts her on the defensive.
+    caption: 1. The Guilt Trip
+  - panel: p3
+    text: Second, the over-explanation. Sending a wall of text to justify yourself just screams desperation. Psychologically, the longer the message, the lower your perceived confidence.
+    caption: 2. The Over-Explanation
+  - panel: p4
+    text: And third, the rapid-fire pings. 'You there??' 'Hello??' This creates pressure and feels more like an interrogation than a conversation.
+    caption: 3. The Rapid-Fire Pings
+  - panel: p5
+    text: 'So what''s the takeaway? The psychology is simple: confident people are comfortable with silence. Not panicking is a sign of security.'
+    caption: Confidence is Silence
+  - panel: p6
+    text: Most of the time, it's not a rejection—it's just a timing mismatch. The best move? Put the phone down and get back to your own life.
+    caption: Get Back to Your Life

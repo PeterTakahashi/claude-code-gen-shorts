@@ -1,0 +1,179 @@
+id: bezos-blue-origin-spaceflight
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    July 20, 2021 inside the Blue Origin New Shepard crew capsule at the
+
+    apogee of suborbital flight, a 57-year-old fully bald muscular Jeff Bezos
+
+    in a sky-blue Blue Origin flight suit with a small Feather logo patch
+
+    floating weightless mid-cabin, arms slightly outstretched, his trademark
+
+    wide open-mouthed laugh of pure childlike joy visible, the curved
+
+    panoramic window of the capsule behind him showing the deep black of
+
+    space above the curved blue limb of the Earth, soft white interior cabin
+
+    lighting reflecting off his bald head. The realization of a lifelong
+
+    dream. Mid-shot floating composition.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    July 20, 1969 inside a small modest American suburban living room, a
+
+    5-year-old white American boy with light brown hair and wide pale-blue
+
+    eyes sitting cross-legged on a beige shag rug, transfixed, staring at a
+
+    wood-paneled black-and-white CRT television showing the grainy footage
+
+    of an Apollo 11 astronaut on the moon, soft warm late-evening lamp light,
+
+    his small mouth slightly open in wonder. The spark of the dream that will
+
+    drive everything. Mid-shot.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 2000 inside a quiet unmarked Seattle office, Jeff Bezos in his late-30s
+
+    mid-balding with thinning hair in a plain dark button-down shirt standing
+
+    at a drafting table, leaning over architectural blueprints and a hand-
+
+    sketched cross-section of a small reusable rocket marked "New Shepard",
+
+    a single feather symbol drawn carefully in the top corner of the page,
+
+    soft afternoon daylight from a single window, no logos or branding around
+
+    him. The secret birth of Blue Origin. Three-quarter shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    July 20, 2021 at dawn in the West Texas desert, the sleek white cylindrical
+
+    New Shepard rocket with a small dark blue feather logo on its side rising
+
+    vertically on a brilliant column of orange-white flame and rolling clouds
+
+    of white exhaust, the flat red-orange Texas desert and a pale dawn sky
+
+    around it, a small launch tower visible at the base. Pure rocket-launch
+
+    majesty. Vertical wide shot capturing full height of the rising rocket.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Just after the July 20, 2021 landing in the West Texas desert, the New
+
+    Shepard capsule sitting on the cracked-earth desert floor with its parachutes
+
+    collapsed nearby, a 57-year-old fully bald muscular Jeff Bezos in his
+
+    sky-blue Blue Origin flight suit just having stepped out, a brown felt
+
+    cowboy hat in his right hand raised triumphantly, his trademark wide
+
+    open-mouthed laugh of pure joy visible, the morning Texas sun behind him
+
+    casting long shadows, dust still settling around the capsule. Mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Quiet moment shortly after the landing, a 57-year-old fully bald Jeff Bezos
+
+    in his sky-blue Blue Origin flight suit standing alone at the edge of the
+
+    West Texas desert landing site, his back partly to the camera, gazing up
+
+    at the pale dawn sky where he was just minutes ago, the cowboy hat held
+
+    loosely at his side, the silhouette of the recovered capsule small in the
+
+    background. The childhood dream achieved. Three-quarter side shot.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '5歳の夢を57歳で叶えた話 #Shorts'
+  description: '2021年7月、ジェフ・ベゾスは自社の Blue Origin 初の有人飛行で宇宙に到達。
+
+    5歳のときアポロ11号の月着陸を見て抱いた夢を、自費で叶えた瞬間だった。
+
+
+    #Shorts #ジェフベゾス #BlueOrigin #人物伝
+
+    '
+  hook_caption: 57歳で宇宙へ行った男
+  series_brand: ジェフ・ベゾス伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 5歳のとき見た夢を、57歳で、自費で叶えた男がいます。
+    caption: 5歳の夢を57歳で叶えた
+  - panel: p2
+    text: 1969年、5歳のジェフ・ベゾスは、アポロ11号の月着陸を、テレビで見て、宇宙に夢中になりました。
+    caption: 1969年、アポロ11号に夢中
+  - panel: p3
+    text: それから30年後の 2000年、彼は秘密裏に、宇宙企業 Blue Origin を、創業したんです。
+    caption: 2000年、Blue Origin を秘密裏に創業
+  - panel: p4
+    text: Amazon の利益を、毎年10億ドル単位で、ロケット開発に注ぎ込み続けました。
+    caption: 毎年10億ドル単位で開発に投入
+  - panel: p5
+    text: そして 2021年7月20日、ちょうどアポロ11号と、同じ日付に、New Shepard で、自ら宇宙へ飛んだ。
+    caption: 2021年7月20日、自ら宇宙へ
+  - panel: p6
+    text: 高度100キロを超えた瞬間、彼は5歳の自分との約束を、果たしたわけです。
+    caption: 高度100キロ、夢を果たした瞬間
+en:
+  title: 'He Spent 52 Years Keeping One Promise #Shorts'
+  description: 'In 1969, a 5-year-old Jeff Bezos watched the Apollo 11 moon landing and dreamed of space. 52 years later, he made that dream a reality with his own company, Blue Origin.
+
+
+    #Shorts #JeffBezos #BlueOrigin #Space #Inspiration'
+  hook_caption: This cost him over $20 billion.
+  series_brand: The Jeff Bezos Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1969, a five-year-old boy watched the Apollo 11 moon landing and made a promise to himself.
+    caption: A childhood promise
+  - panel: p1
+    text: 52 years later, that boy, Jeff Bezos, was looking down on Earth from his very own spacecraft.
+    caption: 52 years later...
+  - panel: p3
+    text: To make it happen, he secretly founded a rocket company, Blue Origin, back in 2000.
+    caption: A secret project
+  - panel: p4
+    text: For over two decades, he poured a billion dollars a year from his Amazon fortune into development.
+    caption: $1 Billion every year
+  - panel: p5
+    text: Finally, on July 20th, 2021—the exact anniversary of the moon landing—his rocket carried him to space.
+    caption: The perfect date
+  - panel: p6
+    text: He had finally fulfilled the dream he'd held onto since he was five years old.
+    caption: Promise kept.

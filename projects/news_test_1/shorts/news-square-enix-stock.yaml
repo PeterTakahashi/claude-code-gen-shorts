@@ -1,0 +1,72 @@
+id: news-square-enix-stock
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Extreme close-up of a stock-trading screen with the ticker "9684 スクエニHD"
+      and a violent red candle plunging, "-7.15%" in large red digits, dramatic
+      glow, a faint silhouette of a Dragon Quest blue slime icon in the bleeding
+      red — the visual of "Square Enix stock collapses on the day Dragon Quest 12
+      news drops". Tense market-shock tone, modern Japan trading screen aesthetic.
+  - id: p2
+    prompt: |
+      A modern Tokyo newsroom — the anchor at her desk, behind her a large studio
+      monitor showing the brand-new "DRAGON QUEST XII" title logo, beside it a
+      headline lower-third reading the equivalent of "発売時期未定". Composed news-
+      broadcast lighting.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      A wide-shot of a Tokyo Stock Exchange digital tote board at midday, the
+      Square Enix ticker prominently red at -7.15%, "2,511 円" displayed,
+      anonymous traders in suits watching the board with grim faces, the visual
+      of "the market punishes the announcement". Modern realistic.
+  - id: p4
+    prompt: |
+      A glowing infographic panel on a dark blue background — left side shows the
+      classic Dragon Quest slime icon and the text "シリーズ40周年", right side a
+      bold red number "-7.15%" with a downward arrow, the visual of "celebration
+      meets sell-off". Clean modern news infographic, no people.
+  - id: p5
+    prompt: |
+      A Japanese male senior market analyst in his 50s at a research firm desk,
+      a name placard "東洋リサーチアドバイス" subtly visible, gesturing thoughtfully at
+      a chart on his laptop, soft natural office lighting — the visual of
+      "analysts split: weak news for stock, but franchise alive". Professional
+      tone.
+  - id: p6
+    prompt: |
+      The anchor again at her newsroom desk, leaning slightly forward, the studio
+      monitor behind her now split-screen: left a chart of the day's stock drop,
+      right the Dragon Quest 12 logo — a calm "what this means" closing shot.
+      Character: {anchor}.
+
+ja:
+  title: "スクエニHD株価7%超急落、ドラクエ12の発表でなぜ売られた？ #Shorts"
+  description: |
+    2026年5月28日、ドラクエ40周年に合わせて公開された「ドラゴンクエストXII」の最新情報を受けて、
+    スクエニHDの株価が一時7%超急落した本当の理由を、30秒の経済ニュース解説で。
+
+    #Shorts #ニュース #株式 #スクエニ #ドラクエ12 #日経
+  hook_caption: "ドラクエ12 発表で、まさかの急落"
+  series_brand: "スクエニ7%急落"
+  voice_speed: 1.35
+  narration:
+    - panel: p1
+      text: "スクエニHDの株価が、一時7%を超える急落です。きっかけは、待望の続報だったはずの、ドラクエ12でした。"
+      caption: "スクエニHD -7.15％ 急落"
+    - panel: p2
+      text: "27日、ドラクエ40周年に合わせて、最新作「ドラゴンクエスト12」の新タイトルロゴが発表されました。ただし、発売時期は、依然として明らかにされていません。"
+      caption: "ドラクエ12、発売時期は未定"
+    - panel: p3
+      text: "翌28日の東京市場は、これに反応しました。スクエニHDは前日比193円安の2511円まで売られ、出来高も急増。期待先行で買われていた分の、利益確定売りが集中したのです。"
+      caption: "翌日、東京市場で7％急落"
+    - panel: p4
+      text: "つまり、好材料の発表でも、肝心の発売日が示されなければ、市場は「材料出尽くし」と見なすということ。シリーズ40周年も、株価の支えにはなりませんでした。"
+      caption: "発売日なしは、材料出尽くし扱い"
+    - panel: p5
+      text: "もっとも、専門家の見方は割れています。同時発表された「ドラクエモンスターズ4」など、IP戦略全体としては悪くないという声もあり、長期では強気の見方も残ります。"
+      caption: "アナリストの見方は割れた"
+    - panel: p6
+      text: "ゲーム会社の株は、発売スケジュールひとつで、ここまで動きます。次の節目は、ドラクエ12の発売日が示される瞬間。投資家にとっては、それまでが正念場です。"
+      caption: "次の節目は、発売日の発表"

@@ -1,0 +1,64 @@
+id: serendipity-microwave
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A 1945 American radar laboratory, an engineer noticing the chocolate bar in his
+      pocket has melted while standing near a humming radar device (magnetron), a decorative
+      Japanese caption "ポケットのチョコが溶けた", the visual of "a melted chocolate bar that
+      changed the world". 1940s lab, warm discovery mood.
+      Character: a 1940s American male engineer, glasses, lab coat, curious expression.
+  - id: p2
+    prompt: |
+      Close-up of the melted chocolate in the engineer's hand and the glowing radar
+      magnetron behind, a thought spark, a decorative Japanese caption "電波が、温めた?", the
+      visual of "could the radar waves have cooked it?". 1940s lab.
+      Character: same engineer.
+  - id: p3
+    prompt: |
+      The engineer experimenting — placing popcorn kernels in front of the magnetron and
+      watching them pop, a decorative Japanese caption "次はポップコーン", the visual of "he
+      tested it with popcorn — and it popped". 1940s lab, delight.
+      Character: same engineer.
+  - id: p4
+    prompt: |
+      An infographic of microwaves vibrating water molecules to create heat, a decorative
+      Japanese caption "水分子を振動させて加熱", the visual of "the waves shake water molecules
+      to heat food from inside". Clean infographic, decorative Japanese.
+  - id: p5
+    prompt: |
+      A first bulky 1940s commercial microwave oven the size of a fridge, then morphing to
+      a modern kitchen microwave, a decorative Japanese caption "どの家庭にも", the visual of
+      "from a radar accident to every kitchen on Earth". Clean illustrative.
+  - id: p6
+    prompt: |
+      Same melted chocolate bar from panel 1 with a soft glow, a decorative Japanese caption
+      "偶然が、台所を変えた", the loop image of "an accident that changed every kitchen". Warm.
+ja:
+  title: '電子レンジは溶けたチョコから生まれた #Shorts'
+  description: |
+    1945年、レーダー装置のそばでポケットのチョコが溶けた。その偶然の発見が電子レンジを生み、世界中の台所を変えた物語を解説します。
+
+    #Shorts #偶然の発見 #電子レンジ #発明 #雑学
+  hook_caption: 電子レンジは溶けたチョコから生まれた
+  series_brand: 偶然の大発見
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: ポケットの中で溶けた、一枚のチョコレート。この偶然が、世界中の台所を変えました。電子レンジの誕生です。
+      caption: 溶けたチョコが世界を変えた
+    - panel: p2
+      text: 1945年、レーダーを研究していた技師が、装置のそばに立っていると、ポケットのチョコが溶けていることに気づきます。電波が、温めたのか?
+      caption: レーダーの電波がチョコを溶かした?
+    - panel: p3
+      text: 彼はすぐに実験します。次に、ポップコーンの粒を装置の前に置くと、本当に、パチパチと弾け始めたんです。
+      caption: ポップコーンが本当に弾けた
+    - panel: p4
+      text: 仕組みはこうです。マイクロ波が、食べ物の中の水分子を激しく振動させ、内側から熱を生む。だから、速く温まるんです。
+      caption: 水分子を振動させ内側から加熱
+    - panel: p5
+      text: 最初の電子レンジは、冷蔵庫ほどの大きさでした。それが改良され、やがて、どの家庭の台所にも、当たり前に置かれるようになります。
+      caption: やがてどの家庭の台所にも
+    - panel: p6
+      text: 軍事用レーダーの、思わぬ副産物。たった一枚の溶けたチョコが、人類の食卓を、永遠に変えてしまったんです。
+      caption: 偶然が、世界中の食卓を変えた

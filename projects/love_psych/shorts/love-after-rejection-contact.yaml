@@ -1,0 +1,202 @@
+id: love-after-rejection-contact
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME close-up of a 25-year-old Japanese woman Yui''s stunned face in
+
+    the dim glow of her smartphone screen at night in her cozy modern Tokyo
+
+    apartment bedroom, her shoulder-length straight dark brown hair falling
+
+    forward, gentle warm brown eyes wide and slightly tearing, cream-colored
+
+    knit sweater visible on her shoulders, her phone screen reflected in
+
+    her pupils showing a fresh decorative Japanese chat notification 「久しぶり、
+
+    元気にしてる?」from a contact labeled 「ハルト」, her trembling hand
+
+    clutching the phone in soft focus at bottom of frame. Tokyo Japan 2026
+
+    modern apartment setting. The visual of "the message you swore you''d
+
+    never get from the man you dumped." Subject filling square center for
+
+    vertical short layout with blurred padding above/below.
+
+    Character: {female_lead}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Mid-shot of a modern bright Tokyo cafe a few weeks earlier, the same
+
+    25-year-old Japanese woman Yui in cream knit sweater seated across a
+
+    small table from the 26-year-old Japanese male Haruto in his navy
+
+    crewneck sweater, her hands folded apologetically, her gentle warm
+
+    brown eyes downcast, his face frozen in quiet shock, two untouched
+
+    coffee cups between them, soft afternoon window light. Tokyo Japan
+
+    2026 modern cafe setting. A small decorative Japanese cafe sign
+
+    「カフェ」readable in background. The visual of "the day she ended it."
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern psychology infographic on soft pastel cream background,
+
+    a giant decorative English headline centered "EGO RESTORATION" with a
+
+    smaller decorative Japanese subtitle「自尊心の回復」readable, a stylized
+
+    chibi-style anime male figure on the left with a cracked heart icon and
+
+    a thin recovering line moving from the heart toward a small mirror
+
+    reflecting his own confident smile. The visual of "he''s not contacting
+
+    you for love — he''s contacting you to feel valuable again."
+
+    Character: {male_lead}.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Same clean psychology infographic style, decorative English headline
+
+    "LOSS = VALUE" centered with a smaller decorative Japanese subtitle
+
+    「失ったから価値が見える」readable, a stylized chibi-style anime male
+
+    figure staring sadly at a small floating photograph of the woman, her
+
+    image surrounded by a soft glowing halo that wasn''t there before, the
+
+    visual of "the psychological law that what we lose suddenly feels
+
+    precious."
+
+    Character: {male_lead}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Same clean psychology infographic style, decorative English headline
+
+    "OPEN LOOP" centered with a smaller decorative Japanese subtitle
+
+    「未完了タスク」readable, a stylized chibi-style anime male figure
+
+    staring at a thought-bubble showing a half-finished checklist with
+
+    the last item unchecked, the visual of "the Zeigarnik effect — the
+
+    brain can''t stop returning to unfinished business."
+
+    Character: {male_lead}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame.
+
+    Same EXTREME close-up of Yui''s face in the dim phone glow as panel 1
+
+    but slightly later — the same Tokyo apartment bedroom, the same
+
+    shoulder-length dark brown hair and cream knit sweater, but now her
+
+    gentle warm brown eyes are calm and clear-eyed, her trembling hand
+
+    now steady on the phone, a quiet wise small smile on her lips, the
+
+    decorative Japanese notification「久しぶり、元気にしてる?」still
+
+    readable on the screen. Tokyo Japan 2026 modern apartment setting.
+
+    The loop image of "the moment you understand why he reached out —
+
+    and choose not to reply." Subject filling square center for vertical
+
+    short layout with blurred padding above/below.
+
+    Character: {female_lead}.
+
+    '
+ja:
+  title: '振った相手から連絡が来る本当の理由 #Shorts'
+  description: '別れて数週間、突然、振った相手から「久しぶり」のLINEが来る。
+
+    心理学が指摘する、その本当の理由は「あなたが恋しい」ではない。
+
+    自尊心の回復、損失効果、Zeigarnik効果——3つの心理メカニズムを、
+
+    30秒で解説します。
+
+
+    #Shorts #恋愛心理 #別れ #心理学 #復縁
+
+    '
+  hook_caption: 振った相手から連絡の真相
+  series_brand: 別れの心理
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 別れて数週間、突然、振った相手から「久しぶり」と、LINEが来る——あれ、実は「あなたが恋しい」が、理由ではないんです。
+    caption: 「久しぶり」LINEの真相
+  - panel: p2
+    text: 数週間前のカフェで、あなたが別れを告げた瞬間、相手の中では、3つの心理メカニズムが、同時に動き始めています。
+    caption: 別れた瞬間、3つの心理が動く
+  - panel: p3
+    text: 1つ目は、自尊心の回復。振られた側は「自分には価値がない」という痛みから、逃れるために、もう一度あなたの反応を、確かめたくなります。
+    caption: ①自尊心の回復のため
+  - panel: p4
+    text: 2つ目は、損失効果。心理学では、人は手に入れた時より、失った時に、価値を3倍以上、強く感じます。失ったから、急に恋しく見えるんです。
+    caption: ②失ったから価値が見える
+  - panel: p5
+    text: 3つ目は、Zeigarnik効果。脳は、未完了のことほど、繰り返し思い出す性質を、持っています。中途半端に終わった関係ほど、頭から、離れません。
+    caption: ③未完了のことほど忘れない
+  - panel: p6
+    text: つまり「久しぶり」の正体は、愛ではなく、自分を立て直すための、無意識の救難信号です。返信する前に、その3つを、思い出してください。
+    caption: 愛ではなく、無意識の救難信号
+en:
+  title: 'The REAL Reason Your Ex Texted You #Shorts'
+  description: 'Got a ''long time no see'' text from an ex? It''s probably not because they miss you.
+
+    We break down the 3 psychological reasons: Ego Restoration, Loss Aversion, and the Open Loop effect.
+
+    #Psychology #Breakups #DatingAdvice #Ex #Shorts'
+  hook_caption: That 'Hey' from your ex? It's not what you think.
+  series_brand: Breakup Psychology
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: 'Weeks after the breakup, you get that text: ''Hey, long time no see.'' But the real reason isn''t what you think.'
+    caption: That 'Hey' text...
+  - panel: p2
+    text: The moment you ended things, their brain kicked off three powerful psychological triggers.
+    caption: 3 Psychological Triggers
+  - panel: p3
+    text: First, Ego Restoration. Being rejected crushes their self-worth, so they're fishing for your reaction just to feel validated again.
+    caption: 1. Ego Restoration
+  - panel: p4
+    text: Second, Loss Aversion. Psychologically, we value things far more *after* we've already lost them.
+    caption: 2. Loss Aversion
+  - panel: p5
+    text: And third, the Open Loop effect. Our brains are wired to obsess over unfinished business... like your relationship.
+    caption: 3. The Open Loop
+  - panel: p6
+    text: So that text isn't about love. It's an unconscious SOS for their ego. Remember that before you reply.
+    caption: It's not about you.

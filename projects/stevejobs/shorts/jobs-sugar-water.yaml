@@ -1,0 +1,95 @@
+id: jobs-sugar-water
+parent_chapter: ch4
+panels:
+- id: p1
+  prompt: 'A 1985 Apple Inc. Cupertino boardroom scene, mahogany table dominant, John Sculley (50s polished corporate American man in dark suit and conservative tie) standing at the head of the table delivering
+    a cold verdict, his face stern and authoritative, late afternoon light through floor-to-ceiling windows showing the Silicon Valley office park. Tense corporate atmosphere.
+
+    '
+- id: p2
+  prompt: 'Establishing wide shot of the 1983 Manhattan PepsiCo corporate headquarters tower exterior at sunset, glass facade reflecting the Manhattan skyline, mid-1980s American urban skyscraper, golden
+    hour lighting, evocative of corporate power.
+
+    '
+- id: p3
+  prompt: 'Inside a 1983 PepsiCo executive office in Manhattan at dusk, a 28-year-old Steve Jobs (white button-down shirt, dark slacks, neat short brown hair) seated across a dark mahogany executive desk
+    from a 44-year-old John Sculley (PepsiCo president, dark grey suit, polished demeanor). Manhattan skyline behind through floor-to-ceiling windows. Polite tense recruitment meeting.
+
+    Character: {jobs_young}.
+
+    '
+- id: p4
+  prompt: 'Extreme close-up of 28-year-old Steve Jobs leaning forward intensely across the executive desk, lips parted mid-sentence delivering the legendary recruitment line, eyes burning with quiet provocation,
+    warm sunset glow on his face from a Manhattan office window.
+
+    Character: {jobs_young}.
+
+    '
+- id: p5
+  prompt: 'A 44-year-old John Sculley, polished American corporate executive in dark grey suit, seated at his Manhattan PepsiCo desk, contemplating with hand on chin, eyes searching the middle distance,
+    weighing the offer that will change his life, soft window light from behind.
+
+    '
+- id: p6
+  prompt: 'A different angle of the 1985 Apple Cupertino boardroom: John Sculley standing in profile at the head of the conference table, gesturing with one hand toward a seated figure (Steve Jobs implied,
+    his back to camera, partial silhouette), Sculley''s face cold and decisive. Other Apple board members blurred around the table. Harsh fluorescent corporate overhead light.
+
+    '
+ja:
+  title: 'ジョブズがペプシ社長を引き抜いた一言 #Shorts'
+  description: '当時28歳のスティーブ・ジョブズが、PepsiCoの社長ジョン・スカリーを Apple に引き入れるために放った伝説の一言と、その2年後に待っていた皮肉な結末。
+
+
+    #Shorts #スティーブジョブズ #Apple #人物伝
+
+    '
+  hook_caption: 2年後にジョブズを追放した男
+  series_brand: スティーブ・ジョブズ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1985年、ジョブズを Apple から追放した男が、この、ジョン・スカリーです。
+    caption: 1985年、ジョブズを追放した男
+  - panel: p2
+    text: 実は、ジョブズ本人が、その2年前、PepsiCo の社長だった彼を、Apple に引き抜いていました。
+    caption: 2年前、ジョブズが引き抜いた
+  - panel: p3
+    text: 1983年、ニューヨーク。ジョブズは、スカリーに、こう言ったんです。
+    caption: 1983年、ジョブズの伝説の口説き文句
+  - panel: p4
+    text: 「ジョン。一生、砂糖水を売って過ごしたいですか? それとも、僕と一緒に、世界を変える機会を、掴みたいですか?」
+    caption: 「砂糖水を売り続けたいですか?」
+  - panel: p5
+    text: スカリーは、長い沈黙の後、ゆっくりと頷いた。
+    caption: スカリーは頷いた
+  - panel: p6
+    text: そして、その男が、わずか2年後、自分を引き抜いたジョブズを、Apple から、追放することになる——伝説の口説き文句は、伝説の裏切りに変わったんです。
+    caption: 口説き文句は、裏切りに変わった
+en:
+  title: 'Steve Jobs'' Pitch That Cost Him His Company #Shorts'
+  description: 'The legendary story of how Steve Jobs convinced Pepsi''s president to join Apple with one question, and how it led to his own dramatic ousting two years later.
+
+
+    #Shorts #SteveJobs #Apple #Business #History'
+  hook_caption: He Hired The Man Who Fired Him
+  series_brand: The Steve Jobs Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: In 1985, this man, John Sculley, fired Steve Jobs from Apple.
+    caption: The man who fired Jobs
+  - panel: p2
+    text: But the incredible irony is that Jobs himself had poached him from PepsiCo just two years earlier.
+    caption: Hired by Jobs himself
+  - panel: p3
+    text: In 1983, a 28-year-old Jobs met with Sculley to make his now-legendary pitch.
+    caption: The legendary pitch
+  - panel: p4
+    text: 'He asked him a simple, powerful question: ''Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?'''
+    caption: '...or change the world?'
+  - panel: p5
+    text: Sculley was sold. He left his job as President of Pepsi to become the new CEO of Apple.
+    caption: He said yes
+  - panel: p6
+    text: That brilliant pitch turned into a legendary betrayal, as the man Jobs hired would be the very one to force him out of his own company.
+    caption: A fatal mistake

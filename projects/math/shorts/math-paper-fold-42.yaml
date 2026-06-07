@@ -1,0 +1,61 @@
+id: math-paper-fold-42
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A clean illustration of a single sheet of paper being folded in half, a thought-bubble
+      of the moon above, the visual of
+      "folding paper 42 times reaches the moon". Bright, curious infographic style.
+  - id: p2
+    prompt: |
+      A step infographic showing paper thickness doubling: 1, 2, 4, 8 layers stacking, small
+      arrows doubling each time, the visual of
+      "each fold doubles the thickness". Clean math illustration.
+  - id: p3
+    prompt: |
+      An infographic of exponential growth: a stack rising explosively after 10, 20, 30 folds,
+      a steep curve, the visual of "exponential
+      explosion". Clean diagram with rising curve.
+  - id: p4
+    prompt: |
+      A dramatic scale infographic: a tower of folded paper piercing the clouds and into space
+      after about 30 folds, the visual of
+      "thirty folds reaches into space". Cinematic science illustration.
+  - id: p5
+    prompt: |
+      A cosmic infographic: a thin line of folded paper stretching from Earth to the Moon,
+      a stopwatch icon, the visual of
+      "42 folds spans the distance to the moon". Clean astronomy-style diagram.
+  - id: p6
+    prompt: |
+      A thoughtful illustration of a hand holding a single small sheet of paper, the moon
+      glowing behind, the loop image of
+      "the hidden power of doubling". Calm, wondrous tone.
+ja:
+  title: '紙を42回折ると月に届く理由、指数関数の力 #Shorts'
+  description: |
+    たった1枚の紙でも、42回折りたためば、その厚さは月まで届く。にわかには信じられませんが、これは「2倍」を繰り返す指数関数の力です。倍々ゲームの恐ろしさを30秒で解説します。
+
+    #Shorts #数学 #指数関数 #数学雑学 #雑学
+  hook_caption: 紙を42回折ると月に届く
+  series_brand: 倍々ゲームの罠
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 普通の紙をたった42回折りたたむだけで、その厚さは月まで届きます。とても信じられませんが、計算するとそうなるんです。
+      caption: 紙を42回折ると厚さが月まで届く
+    - panel: p2
+      text: カギは、折るたびに厚さが2倍になることです。1回で2枚、2回で4枚、3回で8枚と、層は倍々で増えていきます。
+      caption: 折るたびに厚さが2倍になる
+    - panel: p3
+      text: 最初は地味な増え方に見えます。ところが10回も折れば、厚さは一気に1024倍。倍々の増加は、後半で爆発的に伸びるんです。
+      caption: 10回で1024倍、後半で爆発的に伸びる
+    - panel: p4
+      text: 30回折れば、厚さはおよそ100km。もう、宇宙に届く高さです。私たちの直感は、この勢いに全くついていけません。
+      caption: 30回で約100km、もう宇宙に届く
+    - panel: p5
+      text: そして42回目。厚さはおよそ44万キロに達し、ついに月までの距離を超えます。たった1枚から、です。
+      caption: 42回で約44万km、月の距離を超える
+    - panel: p6
+      text: 倍々で増える力は、私たちの想像をいとも簡単に超えてしまう。この性質を知らないと、借金の利息でも同じ罠にはまります。
+      caption: この力を知らないと借金の利息でも罠にはまる

@@ -1,0 +1,936 @@
+subject: スティーブ・ジョブズ
+total_episodes: 12
+model_used: gemini-2.5-pro
+transport: api
+research:
+  subject: スティーブ・ジョブズ
+  birth_year: 1955
+  death_year_or_null: 2011
+  timeline:
+  - year: 1955
+    age: 0
+    event: サンフランシスコで生まれ、ポールとクララ・ジョブズ夫妻の養子となる。
+    location: サンフランシスコ、カリフォルニア州
+    emotional_significance: 私は「選ばれた」存在だと聞かされて育ったが、心のどこかでは「捨てられた」という感覚が消えることはなかった。
+    factual_certainty: certain
+  - year: 1968
+    age: 13
+    event: ヒューレット・パッカードの共同創業者ビル・ヒューレットに直接電話をかけ、周波数カウンタの部品を依頼し、夏の仕事を得る。
+    location: パロアルト、カリフォルニア州
+    emotional_significance: 欲しいものがあるなら、ただ手を伸ばして掴めばいいのだと、この時学んだ。
+    factual_certainty: certain
+  - year: 1971
+    age: 16
+    event: 友人スティーブ・ウォズニアックと共に、無料で長距離電話をかけられる「ブルーボックス」を製作・販売する。
+    location: クパチーノ、カリフォルニア州
+    emotional_significance: 二人でなら、巨大なシステムを出し抜き、世界をコントロールできるのだという全能感を初めて味わった。
+    factual_certainty: certain
+  - year: 1972
+    age: 17
+    event: リード大学に入学するも、わずか1学期で中退。しかしその後も大学に居座り、カリグラフィー（書道）の授業など、興味のある科目だけを聴講する。
+    location: ポートランド、オレゴン州
+    emotional_significance: 人生の点は、後になって初めて繋がる。この無目的に見えた学びが、後にMacの美しいフォントとして結実するとは、当時は知る由もなかった。
+    factual_certainty: certain
+  - year: 1974
+    age: 19
+    event: 精神的な悟りを求め、インドへ放浪の旅に出る。ヒッピー文化と東洋思想に深く傾倒する。
+    location: インド
+    emotional_significance: 西洋の合理主義だけではない、直感と精神の世界があることを肌で感じた。この経験が、私の製品デザインの根底にあるシンプルさの哲学を形作った。
+    factual_certainty: certain
+  - year: 1976
+    age: 21
+    event: スティーブ・ウォズニアック、ロン・ウェインと共に、実家のガレージでアップルコンピュータを創業。
+    location: ロスアルトス、カリフォルニア州
+    emotional_significance: 世界を変えるという途方もない夢が、埃っぽいガレージの中で、半田ごての匂いと共に産声を上げた瞬間だった。
+    factual_certainty: certain
+  - year: 1977
+    age: 22
+    event: アップルIIを発表。個人向けコンピュータとして初めて商業的に大成功を収める。
+    location: クパチーノ、カリフォルニア州
+    emotional_significance: テクノロジーが、専門家だけでなく、すべての人の手に渡る未来が見えた。我々は革命の先頭に立っていた。
+    factual_certainty: certain
+  - year: 1978
+    age: 23
+    event: 恋人クリスアン・ブレナンとの間に娘リサが生まれるが、当初、父親であることを法的に否定する。
+    location: カリフォルニア州
+    emotional_significance: 私は自分の過去と向き合えず、最も大切なはずの存在から目を背けるという、人生最大の過ちを犯した。
+    factual_certainty: certain
+  - year: 1983
+    age: 28
+    event: ペプシコーラの社長だったジョン・スカリーを「このまま一生砂糖水を売り続けるか、私と世界を変えるか」と口説き、アップルのCEOに迎える。
+    location: クパチーノ、カリフォルニア州
+    emotional_significance: 私は自分の未熟さを棚に上げ、会社を導く「大人」を外から連れてきてしまった。それが悲劇の始まりだった。
+    factual_certainty: certain
+  - year: 1984
+    age: 29
+    event: 初代Macintoshを発表。画期的なグラフィカルユーザインタフェースを備え、伝説的なCM「1984」と共に鮮烈なデビューを飾る。
+    location: クパチーノ、カリフォルニア州
+    emotional_significance: これは単なる新製品ではなかった。コンピュータを「人のための道具」にするという、私の信念の結晶だった。
+    factual_certainty: certain
+  - year: 1985
+    age: 30
+    event: 業績不振とジョン・スカリーとの対立の末、自分が創設したアップルから追放される。
+    location: クパチーノ、カリフォルニア州
+    emotional_significance: 人生の中心だったすべてを失った。あの時の絶望感と屈辱は、言葉では言い尽くせない。
+    factual_certainty: certain
+  - year: 1985
+    age: 30
+    event: アップルを去った後、教育・研究市場向けのコンピュータを開発する新会社「NeXT」を設立。
+    location: レッドウッドシティ、カリフォルニア州
+    emotional_significance: 私は再び初心者になる必要があった。この「荒野」の時代が、結果的に私をより成熟させてくれた。
+    factual_certainty: certain
+  - year: 1986
+    age: 31
+    event: ジョージ・ルーカスからコンピュータグラフィックス部門を1000万ドルで買収し、「ピクサー」と名付ける。
+    location: エメリービル、カリフォルニア州
+    emotional_significance: テクノロジーとアートの融合。それは私がずっと追い求めてきたテーマであり、ピクサーはその完璧な表現だった。
+    factual_certainty: certain
+  - year: 1991
+    age: 36
+    event: ローレン・パウエルと結婚。ヨセミテ国立公園で仏教式の結婚式を挙げる。
+    location: ヨセミテ国立公園、カリフォルニア州
+    emotional_significance: 彼女と出会い、初めて心から安らげる場所、本当の家族を見つけることができた。
+    factual_certainty: certain
+  - year: 1995
+    age: 40
+    event: ピクサーが制作した世界初の長編フルCGアニメーション映画『トイ・ストーリー』が公開され、世界的な大ヒットとなる。
+    location: ハリウッド、カリフォルニア州
+    emotional_significance: アップルでの失敗とは全く違う形で、私は再び世界を驚かせることができた。それは最高の雪辱だった。
+    factual_certainty: certain
+  - year: 1996
+    age: 41
+    event: 経営危機に陥ったアップルがNeXTを4億2900万ドルで買収。ジョブズは「相談役」としてアップルに復帰する。
+    location: クパチーノ、カリフォルニア州
+    emotional_significance: 追放された我が家への、予期せぬ形での帰還。運命の輪が一周したのを感じた。
+    factual_certainty: certain
+  - year: 1997
+    age: 42
+    event: 暫定CEO（iCEO）に就任。「Think Different.」キャンペーンを開始し、瀕死のアップルを再建する道を歩み始める。
+    location: クパチーノ、カリフォルニア州
+    emotional_significance: 会社を救うため、私は過去の製品ラインを切り捨て、非情な決断を下した。それはアップルの魂を取り戻すための儀式だった。
+    factual_certainty: certain
+  - year: 1998
+    age: 43
+    event: 革新的なデザインのiMacを発表。大ヒットとなり、アップル復活の象徴となる。
+    location: クパチーノ、カリフォルニア州
+    emotional_significance: 退屈なベージュの箱しかなかった業界に、我々は色と楽しさを取り戻した。再び、未来は我々のものだった。
+    factual_certainty: certain
+  - year: 2001
+    age: 46
+    event: 携帯音楽プレイヤー「iPod」を発表。「ポケットに1000曲を」というコンセプトで音楽業界に革命を起こす。
+    location: クパチーノ、カリフォルニア州
+    emotional_significance: テクノロジーは、人の暮らしに寄り添い、感情を豊かにするものでなければならない。iPodはその証明だった。
+    factual_certainty: certain
+  - year: 2003
+    age: 48
+    event: 膵臓がんの診断を受ける。手術を9ヶ月間拒否し、食事療法などを試みる。
+    location: パロアルト、カリフォルニア州
+    emotional_significance: 死という現実を前に、私は自分の信念と直感を信じようとした。しかし、それは科学を軽視した傲慢さだったのかもしれない。
+    factual_certainty: certain
+  - year: 2005
+    age: 50
+    event: スタンフォード大学の卒業式で、自らの人生、愛、そして死について語る伝説的なスピーチを行う。
+    location: スタンフォード、カリフォルニア州
+    emotional_significance: 死を意識することこそが、本当に生きるための最良の道具だと、私は心から伝えたかった。「Stay hungry, stay foolish.」と。
+    factual_certainty: certain
+  - year: 2007
+    age: 52
+    event: iPhoneを発表。タッチスクリーン、携帯電話、インターネット端末を融合させ、再び世界を変える。
+    location: サンフランシスコ、カリフォルニア州
+    emotional_significance: これこそが、私が夢見てきた究極のデバイスだった。すべての点が繋がり、一つの魔法のような製品が生まれた。
+    factual_certainty: certain
+  - year: 2010
+    age: 55
+    event: タブレット端末「iPad」を発表。コンピュータとスマートフォンの間を埋める新たなカテゴリを創造する。
+    location: サンフランシスコ、カリフォルニア州
+    emotional_significance: ソファに寝転がってインターネットを楽しめる、最高にパーソナルな体験。テクノロジーが、ついにここまで来たのだ。
+    factual_certainty: certain
+  - year: 2011
+    age: 56
+    event: 8月にCEOを退任し、10月5日に家族に見守られながら自宅で死去。
+    location: パロアルト、カリフォルニア州
+    emotional_significance: 私は宇宙に痕跡を残したかった。それができたかどうかは、歴史が判断するだろう。
+    factual_certainty: certain
+  key_characters:
+  - id: paul_jobs
+    name_ja: ポール・ジョブズ
+    name_en: Paul Jobs
+    role: adoptive_father
+    description_for_visual: A gentle, working-class man with calloused hands and a kind face, often seen tinkering in his
+      garage.
+    first_appears_when: childhood
+  - id: clara_jobs
+    name_ja: クララ・ジョブズ
+    name_en: Clara Jobs
+    role: adoptive_mother
+    description_for_visual: A warm, patient woman with a loving smile, providing a stable and caring home environment.
+    first_appears_when: childhood
+  - id: steve_wozniak
+    name_ja: スティーブ・ウォズニアック
+    name_en: Steve Wozniak
+    role: cofounder
+    description_for_visual: A friendly, bearded, slightly heavy-set engineering genius with glasses and an infectious, playful
+      laugh.
+    first_appears_when: teenage_years
+  - id: chrisann_brennan
+    name_ja: クリスアン・ブレナン
+    name_en: Chrisann Brennan
+    role: early_partner
+    description_for_visual: A free-spirited, artistic woman with long hair, embodying the 1970s counter-culture.
+    first_appears_when: teenage_years
+  - id: lisa_brennan_jobs
+    name_ja: リサ・ブレナン＝ジョブズ
+    name_en: Lisa Brennan-Jobs
+    role: daughter
+    description_for_visual: An intelligent and observant young woman with a complex and often strained relationship with her
+      famous father.
+    first_appears_when: '1978'
+  - id: john_sculley
+    name_ja: ジョン・スカリー
+    name_en: John Sculley
+    role: adversary
+    description_for_visual: A tall, polished corporate executive in a sharp 1980s suit, representing the established business
+      world.
+    first_appears_when: '1983'
+  - id: laurene_powell_jobs
+    name_ja: ローレン・パウエル・ジョブズ
+    name_en: Laurene Powell Jobs
+    role: spouse
+    description_for_visual: A tall, intelligent blonde woman with a calm, grounded presence, serving as Steve's anchor.
+    first_appears_when: '1989'
+  - id: jony_ive
+    name_ja: ジョナサン・アイブ
+    name_en: Jony Ive
+    role: creative_partner
+    description_for_visual: A soft-spoken British designer with a shaved head, often seen in a simple t-shirt, deeply focused
+      on form and material.
+    first_appears_when: '1997'
+  - id: bill_gates
+    name_ja: ビル・ゲイツ
+    name_en: Bill Gates
+    role: rival
+    description_for_visual: A brilliant, pragmatic, and sometimes awkward competitor; initially a nerdy young man with large
+      glasses, later a polished global philanthropist.
+    first_appears_when: late_1970s
+  - id: mona_simpson
+    name_ja: モナ・シンプソン
+    name_en: Mona Simpson
+    role: biological_sister
+    description_for_visual: A successful novelist with a keen intellect and a deep emotional connection to the brother she
+      never knew she had.
+    first_appears_when: '1985'
+  core_themes:
+  - 「棄てられた」という原体験と、「選ばれた」という自負心の間の葛藤。
+  - テクノロジーと人文科学の交差点にある「美」の追求。
+  - 自らの意志で現実を捻じ曲げようとする強烈な情熱と、そのために犠牲になる人間関係。
+  - 死を意識することで研ぎ澄まされる、生と創造への執着。
+  recurring_motifs:
+  - id: los_altos_garage
+    description: カリフォルニア州ロスアルトスの実家の、雑然としたガレージ。
+    why_significant: 神話の始まりの場所。粗削りな天才と純粋な創造性の象徴であり、アップルの原点を表す。
+  - id: calligraphy
+    description: 美しくデザインされたセリフ体やサンセリフ体のタイポグラフィ。
+    why_significant: リード大学での経験に由来し、テクノロジーとアートの融合という彼の哲学の根幹を象徴する。
+  - id: bare_feet
+    description: 会議室やオフィスを裸足で歩く姿。
+    why_significant: 彼の反骨精神、ヒッピー的なルーツ、そして既存のルールに縛られない自由な思考を表す。
+  - id: black_turtleneck
+    description: イッセイミヤケの黒のタートルネック、リーバイス501、ニューバランスのスニーカーという象徴的な服装。
+    why_significant: 意思決定の数を減らし本質に集中するという哲学、そして彼自身がアップルのアイコンとなったことの表明。
+  - id: apples_the_fruit
+    description: かじられたリンゴ、あるいは果樹園に実るリンゴそのもの。
+    why_significant: 社名の由来であり、彼の果食主義や自然への回帰志向、そして「知恵」と「シンプルさ」のメタファー。
+  key_quotes:
+  - ja: ハングリーであれ。愚か者であれ。
+    original: Stay hungry. Stay foolish.
+    when_said: '2005'
+    context: スタンフォード大学卒業式でのスピーチの結びの言葉。
+  - ja: デザインとは、単に見た目や感覚のことではない。デザインとは、どう機能するかだ。
+    original: Design is not just what it looks like and feels like. Design is how it works.
+    when_said: '2003'
+    context: ニューヨーク・タイムズ紙のインタビューにて。
+  - ja: 未来を見て、点を繋ぐことはできない。過去を振り返って初めて、点は繋がるんだ。
+    original: You can't connect the dots looking forward; you can only connect them looking backwards.
+    when_said: '2005'
+    context: スタンフォード大学卒業式スピーチで、リード大学中退の経験を語って。
+  - ja: 宇宙に衝撃を与えたいんだ。
+    original: I want to put a ding in the universe.
+    when_said: early 1980s
+    context: Macintosh開発チームを鼓舞する際に使われた言葉。
+  - ja: このまま一生、砂糖水を売り続けたいか？ それとも私と一緒に来て、世界を変えたいか？
+    original: Do you want to sell sugared water for the rest of your life, or do you want to come with me and change the world?
+    when_said: '1983'
+    context: ペプシコーラ社長だったジョン・スカリーをアップルに引き抜く際の殺し文句。
+  - ja: 自分がもうすぐ死ぬことを思い出すのは、人生の大きな決断をする上で最も重要なツールだ。
+    original: Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big
+      choices in life.
+    when_said: '2005'
+    context: スタンフォード大学卒業式スピーチで、死との向き合い方について語って。
+  - ja: 墓場で一番の金持ちになることなんて、僕には重要じゃない。夜眠る時、僕たちが素晴らしいことをしたと言えること、それが重要なんだ。
+    original: Being the richest man in the cemetery doesn't matter to me. Going to bed at night saying we've done something
+      wonderful... that's what matters to me.
+    when_said: '1993'
+    context: ウォール・ストリート・ジャーナルのインタビューにて。
+  dramatic_high_points:
+  - id: india_trip
+    year: 1974
+    title_ja: インド放浪
+    why_dramatic: 西洋的な成功とは異なる価値観と精神世界に触れ、後のミニマリズム哲学の根源を形成する、内面的な変革の瞬間。
+    potential_climactic_image: ぼろをまとい、髪と髭を伸ばした若きジョブズが、ガンジス川のほとりで朝日を浴びて瞑想している姿。
+  - id: launching_macintosh
+    year: 1984
+    title_ja: Macintosh発表
+    why_dramatic: 業界の巨人IBMに反旗を翻す革命的な製品の発表であり、彼のビジョンが世界に示される頂点の瞬間。
+    potential_climactic_image: スポットライトを浴びたジョブズが、黒い布を剥がし、微笑むMacintoshを聴衆の熱狂の中に掲げる。
+  - id: getting_fired
+    year: 1985
+    title_ja: アップルからの追放
+    why_dramatic: 自ら作った王国から、自ら招き入れた王によって追放されるという、シェイクスピア的悲劇と最大の屈辱。
+    potential_climactic_image: 人気のないアップルの駐車場で、自分の私物が入った段ボール箱を抱え、呆然と立ち尽くすジョブズの後ろ姿。
+  - id: toy_story_triumph
+    year: 1995
+    title_ja: 『トイ・ストーリー』の成功
+    why_dramatic: コンピュータ業界での敗北の後、全く新しい分野で創造性を証明し、見事な復活を遂げる逆転劇。
+    potential_climactic_image: 映画館の暗闇の中、観客の笑い声と喝采を聞きながら、静かに涙を浮かべるジョブズの横顔。
+  - id: the_return
+    year: 1997
+    title_ja: アップルへの帰還
+    why_dramatic: 瀕死の会社に救世主として呼び戻される劇的な帰還。未来を賭けた最後のチャンス。
+    potential_climactic_image: アップルの役員会議室で、かつて自分を追い出した役員たちを前に、「これが私のプランだ」と静かに、しかし断固として語り始める。
+  - id: think_different
+    year: 1997
+    title_ja: 「Think Different.」
+    why_dramatic: 単なる広告ではなく、会社の魂を再定義し、世界に対してアップルの復活を宣言する狼煙。
+    potential_climactic_image: 編集室で、アインシュタインやガンジーの映像に「Here's to the crazy ones...」のナレーションが重なるのを、満足げに見つめるジョブズ。
+  - id: iphone_reveal
+    year: 2007
+    title_ja: iPhone発表
+    why_dramatic: 長年の夢と技術の集大成が、完璧なプレゼンテーションによって世界に披露され、歴史が変わる瞬間。
+    potential_climactic_image: 巨大なスクリーンに映し出されたiPhoneのホーム画面を、一本の指でスライドさせ、世界を沈黙させるジョブズ。
+  - id: stanford_speech
+    year: 2005
+    title_ja: スタンフォード大学スピーチ
+    why_dramatic: 癌という死の淵から生還した彼が、自らの人生の点と点を繋ぎ、次世代に最も誠実なメッセージを遺す場面。
+    potential_climactic_image: 卒業生のガウンと帽子を被った若者たちを前に、穏やかな表情で、しかし力強く「Stay hungry. Stay foolish.」と語りかける。
+episodes:
+- id: ch1
+  title_ja: 雷鳴と追放
+  title_en: Thunder and Exile
+  time_range: 1955-1972
+  ages_covered: 0-17
+  central_theme: 「選ばれた」存在であるという自負は、根源的な「捨てられた」という傷を癒せるのか？
+  emotional_arc: 物語は1985年の取締役会での追放寸前のジョブズから始まる。絶望の淵から、彼は「選ばれた子」だと教えられた幼少期を回想する。しかし、養子である事実を知り、自分が何者かという疑問が芽生える。変わり者の彼は、唯一の理解者ウォズニアックと出会い、二人なら世界をハックできるという全能感を手に入れる。
+  opening_hook: 1985年、アップルの取締役会室。ジョブズ（30歳）が、彼がCEOに引き抜いたジョン・スカリーと対峙している。スカリーは冷たく言う。「取締役会は、決定を下した」。ジョブズの顔が驚愕と屈辱に凍りつく。— V.O.「どうしてこうなったのか…それを話すには、僕が『選ばれた子』だった、あの頃から始めなければならない」
+  key_beats:
+  - 'HOOK: 1985年、取締役会での対決。'
+  - 'FLASHBACK: ポールとクララ・ジョブズ夫妻に育てられた幼少期。「お前は特別で、選ばれた子なんだ」と聞かされる。'
+  - 自分が養子であることを知り、「捨てられた」という感覚が初めて芽生える。
+  - 学校に馴染めない変わり者として孤立する。
+  - 13歳でビル・ヒューレットに電話をかけ、欲しいものは自ら掴み取ることを学ぶ。
+  - 天才的な技術者、スティーブ・ウォズニアックと出会い、いたずらで意気投合する。
+  - 二人で長距離電話を無料にできる「ブルーボックス」を製作する。
+  - ブルーボックスを学生寮で売りさばき、初めてのビジネスと、システムを出し抜く快感を味わう。
+  climax: ウォズニアックが作ったブルーボックスが完璧に機能し、二人がバチカンのローマ教皇に電話をかけようと大笑いする。彼らは無敵だと感じている。
+  cliffhanger: ブルーボックスの取引を終えた帰り道、二人が乗る車の前にパトカーが停まり、警官が降りてくる。二人の顔から笑みが消え、凍りつく。— FADE TO BLACK.
+  characters_introduced:
+  - paul_jobs
+  - clara_jobs
+  - steve_wozniak
+  - john_sculley
+  characters_returning: []
+  motifs_planted:
+  - abandoned_vs_chosen
+  motifs_paid_off: []
+  callbacks_to_earlier_episodes: []
+  notes: 'The in-media-res hook in 1985 immediately establishes the core conflict: creation and betrayal. This episode''s
+    main goal is to plant the central psychological wound of ''abandonment'' and show how his bond with Wozniak was his first
+    attempt to build a world where he felt he belonged.'
+- id: ch2
+  title_ja: 荒野と天啓
+  title_en: Wilderness and Epiphany
+  time_range: 1972-1976
+  ages_covered: 17-21
+  central_theme: 本当の価値は、社会のルールの中にあるのか、それともその外にあるのか？
+  emotional_arc: 制度的な学問（リード大学）に反発し、中退。彼は自分自身の道を求め、カリグラフィーの美や東洋思想といった、直感的で本質的なものに惹かれていく。インドでの放浪は彼を精神的に鍛え上げたが、同時に孤独も深めた。しかし、その経験の果てに、テクノロジーと精神性を融合させるという新たな天啓を得る。
+  opening_hook: リード大学の授業料が高すぎると感じ、両親に負担をかけたくないジョブズは中退を決意。しかしキャンパスに残り、興味のある授業だけを聴講し始める。
+  key_beats:
+  - リード大学を中退し、空き瓶拾いで生計を立てながらカリグラフィーの授業にもぐる。
+  - 書体の美しさに魅了される。「点は後になって繋がる」という哲学の萌芽。
+  - アタリ社でビデオゲーム開発の仕事に就くが、その奇行で夜勤に回される。
+  - 精神的な悟りを求め、すべてを捨ててインドへ旅立つ。
+  - インドでの厳しい放浪生活。西洋的な価値観が崩壊する。
+  - ヒマラヤの麓で、テクノロジーと人文科学を融合させるというビジョンを見る。
+  - 帰国後、ウォズニアックが個人で作った驚異的なコンピュータ基板（後のApple I）と再会する。
+  climax: インドから帰国し、髪を剃り、ぼろをまとったジョブズが、ウォズニアックの部屋で彼の作った基板がゲームを映し出すのを見る。その瞬間に、インドで得た精神的なビジョンと、目の前のテクノロジーが一つに繋がる。
+  cliffhanger: ジョブズはウォズニアックの基板を手に持ち、真剣な眼差しで言う。「ウォズ、これを売るんだ。会社を立ち上げよう」。いたずら好きで内気なウォズは「冗談だろ？」と困惑した表情を浮かべる。— FADE TO BLACK.
+  characters_introduced:
+  - chrisann_brennan
+  characters_returning:
+  - steve_wozniak
+  motifs_planted:
+  - calligraphy
+  - bare_feet
+  - apples_the_fruit
+  motifs_paid_off: []
+  callbacks_to_earlier_episodes: []
+  notes: This episode focuses on the philosophical foundations of his later work. The India trip is not just a hippie phase,
+    but the crucible where his core belief in intuition and simplicity was forged.
+- id: ch3
+  title_ja: ガレージの創世記
+  title_en: Garage Genesis
+  time_range: 1976-1978
+  ages_covered: 21-23
+  central_theme: 夢を形にするためには、何を犠牲にしなければならないのか？
+  emotional_arc: ガレージでアップルを創業し、世界を変えるという純粋な情熱が燃え上がる。しかし、ビジネスの現実は厳しく、彼は資金繰りに奔走し、次第に冷酷な交渉人へと変貌していく。Apple IIの成功で頂点を極めるが、その裏で恋人クリスアンの妊娠を否定し、自らが最も恐れていた「捨てる」側の人間になってしまう。
+  opening_hook: ポール・ジョブズのガレージ。ジョブズとウォズニアックが最初のApple Iコンピュータを半田付けしている。熱気と夢がガレージに満ちている。
+  key_beats:
+  - 実家のガレージでアップルコンピュータを創業。
+  - Apple Iを地元のコンピュータショップに売り込むが、苦戦する。
+  - マイク・マークラから決定的な投資を受け、会社が本格的に始動する。
+  - ウォズニアックが設計した画期的なApple IIの開発に情熱を注ぐ。
+  - 「シンプルで美しい製品」にこだわり、電源やケースのデザインにまで口を出す。
+  - 恋人クリスアン・ブレナンが妊娠を告げるが、ジョブズは冷たく突き放し、自分の子ではないと否定する。
+  - ウェストコースト・コンピュータ・フェスタでApple IIを発表。大きな注目を集める。
+  climax: Apple IIが爆発的に売れ始め、若きジョブズとウォズニアックはシリコンバレーの寵児となる。会社のオフィスでシャンパンを開け、成功を祝う。
+  cliffhanger: 成功の祝賀会の後、一人になったジョブズのもとにクリスアンから電話がかかる。「娘が生まれたわ。名前はリサ」。ジョブズは無言で電話を切り、その場に立ち尽くす。— FADE TO BLACK.
+  characters_introduced:
+  - lisa_brennan_jobs
+  - bill_gates
+  characters_returning:
+  - paul_jobs
+  - clara_jobs
+  - steve_wozniak
+  - chrisann_brennan
+  motifs_planted:
+  - los_altos_garage
+  motifs_paid_off:
+  - apples_the_fruit
+  callbacks_to_earlier_episodes:
+  - ch1:abandoned_vs_chosen
+  notes: The duality of creation is the core here. As he creates his 'chosen' family (Apple), he rejects his biological one,
+    perpetuating the cycle of abandonment he himself experienced.
+- id: ch4
+  title_ja: 楽園の父と蛇
+  title_en: The Father of Eden and the Serpent
+  time_range: 1979-1983
+  ages_covered: 24-28
+  central_theme: 完璧な世界を創ろうとする情熱は、いつ暴走し、創造主自身を破滅させるのか？
+  emotional_arc: 億万長者となったジョブズは、次なる野心的なプロジェクト「Lisa」で完璧を追求するあまり、チームを疲弊させ、プロジェクトから追放される。彼はその屈辱をバネに、社内で海賊チームを結成し「Macintosh」開発を始める。しかし、会社を経営する「大人」が自分にはいないと悟り、外から理想の父親像（ジョン・スカリー）を招き入れてしまう。
+  opening_hook: ジョブズはパロアルト研究所（Xerox PARC）で、マウスとグラフィカルユーザインタフェース（GUI）のデモを見て衝撃を受ける。「どうして君たちはこれを製品化しないんだ！」
+  key_beats:
+  - Xerox PARCでGUIの天啓を得、次世代コンピュータ「Lisa」にその技術を投入する。
+  - 完璧主義と罵詈雑言でLisaチームを恐怖で支配する。
+  - 取締役会はジョブズの暴走を問題視し、彼をLisaプロジェクトから外す。
+  - 屈辱を感じたジョブズは、社内の小さなチームを乗っ取り「Macintosh」開発を秘密裏に開始する。
+  - Macチームのオフィスに海賊の旗を掲げ、反逆者としてのアイデンティティを確立する。
+  - 自らの経営能力の未熟さを痛感し、理想の指導者を探し始める。
+  - ペプシコーラの社長、ジョン・スカリーに狙いを定める。
+  climax: ジョブズはスカリーを口説き落とすため、メトロポリタン美術館に呼び出す。そして、あの有名な殺し文句を口にする。「このまま一生、砂糖水を売り続けたいか？ それとも私と一緒に来て、世界を変えたいか？」
+  cliffhanger: スカリーはジョブズの言葉に心を動かされ、しばらく沈黙する。彼の答えはまだわからない。ジョブズは息を飲んでその表情を見つめる。— FADE TO BLACK.
+  characters_returning:
+  - steve_wozniak
+  - john_sculley
+  - lisa_brennan_jobs
+  motifs_planted: []
+  motifs_paid_off: []
+  callbacks_to_earlier_episodes: []
+  notes: This episode sets up the central tragedy. In seeking a father figure (Sculley), he invites the very man who will
+    eventually exile him from his own 'Eden' (Apple).
+- id: ch5
+  title_ja: 海賊たちの革命
+  title_en: The Pirate's Revolution
+  time_range: '1984'
+  ages_covered: '29'
+  central_theme: 革命は世界を変えるが、その熱狂は永遠には続かない。
+  emotional_arc: ジョブズとMacチームは、狂信的な情熱でMacintoshを完成させる。伝説のCM「1984」と感動的な発表会で、ジョブズは時代の寵児として頂点を極める。それは単なる製品発表ではなく、IBMという巨人に立ち向かう文化的な革命だった。しかし、その輝かしい勝利の裏で、売上不振という厳しい現実が忍び寄る。
+  opening_hook: Macintosh開発チームは発売日前の過酷なデバッグ作業に追われている。ジョブズは「素晴らしいものじゃなきゃダメなんだ！」とチームを鼓舞し、自らもコーディングに没頭する。
+  key_beats:
+  - Macintosh開発が大詰めを迎え、チームは疲労困憊している。
+  - リドリー・スコット監督による画期的なCM「1984」の制作。
+  - 取締役会は「1984」CMを嫌い、放送中止を求めるが、ジョブズは独断で放送枠を買い取り、強行する。
+  - スーパーボウルでCMが放送され、アメリカ中に衝撃を与える。
+  - 1984年1月24日、株主総会でのMacintosh発表会。ジョブズは天才的なプレゼンターとしての才能を開花させる。
+  - Macintoshが自ら「Hello」と喋り、会場は熱狂の渦に包まれる。
+  - ビル・ゲイツとのライバル関係が表面化する。
+  climax: スポットライトを浴びたジョブズが、黒いバッグからMacintoshを取り出す。フロッピーディスクを挿入すると、スクリーンに文字が現れ、合成音声が響く。「こんにちは、私はマッキントッシュです…」。聴衆は総立ちとなり、喝采が鳴り響く。
+  cliffhanger: 発表会の熱狂から数週間後。スカリーが厳しい表情で売上報告書をジョブズの机に置く。「スティーブ、問題がある」。グラフは予測を大きく下回っていた。ジョブズの得意げな表情が固まる。— FADE TO BLACK.
+  characters_returning:
+  - john_sculley
+  - steve_wozniak
+  - bill_gates
+  motifs_planted: []
+  motifs_paid_off:
+  - calligraphy
+  callbacks_to_earlier_episodes:
+  - 'ch2: The beauty of fonts finally realized in a product.'
+  notes: The ultimate high point before the fall. The episode contrasts the public perception of a massive success with the
+    internal reality of disappointing sales, setting the stage for the conflict with Sculley.
+- id: ch6
+  title_ja: 王国の失墜
+  title_en: The Fall of the Kingdom
+  time_range: '1985'
+  ages_covered: '30'
+  central_theme: 自ら作った王国から追放されるとき、人は何を見出すのか？
+  emotional_arc: Macの販売不振をめぐり、ジョブズとスカリーの対立は修復不可能なレベルに達する。ジョブズはクーデターを試みるが失敗し、自分が創設した会社から全ての役職を剥奪される。人生の中心を失い、絶望のどん底に突き落とされるが、その暗闇の中で、彼は今まで知らなかった自分のルーツ（実の妹）と繋がるという皮肉な運命に導かれる。
+  opening_hook: ジョブズとスカリーが会議室で激しく口論している。「会社を破壊する気か！」「君こそ私のビジョンを理解していない！」。二人の間の信頼は完全に崩壊している。
+  key_beats:
+  - Macの売上不振が続き、社内のジョブズへの風当たりが強まる。
+  - ジョブズはスカリーを追放しようと取締役会に働きかけるが、逆にスカリーに察知される。
+  - スカリーは取締役会を味方につけ、ジョブズの権限を剥奪することを決議させる。（Ch1のフックがここで回収される）
+  - 自分が設立した会社で、ジョブズは全ての仕事を失い、名ばかりの会長となる。
+  - 人気のないアップルの駐車場で、私物が入った段ボール箱を抱え、呆然と立ち尽くす。
+  - 数ヶ月後、彼はアップルを正式に辞任する。
+  - 失意の中、私立探偵から連絡があり、実の妹が見つかったと告げられる。
+  climax: 取締役会で、スカリーがジョブズの権限剥奪を宣告する。かつての仲間たちは目を伏せ、誰も彼を助けない。ジョブズは裏切られたという表情で、一人、会議室を後にする。
+  cliffhanger: がらんとした自宅の書斎。ジョブズは電話の受話器を握りしめている。電話の向こうから聞こえる、会ったことのない妹モナ・シンプソンの声。「もしもし…スティーブ？」。彼は言葉を発することができない。— FADE TO BLACK.
+  characters_introduced:
+  - mona_simpson
+  characters_returning:
+  - john_sculley
+  motifs_planted: []
+  motifs_paid_off:
+  - abandoned_vs_chosen
+  callbacks_to_earlier_episodes:
+  - 'ch1: The opening hook pays off in full.'
+  notes: This episode closes the first half of the series. The ultimate 'abandonment' experience forces him to confront his
+    origins in a new way by meeting his biological sister. The fall is complete, setting up the rise.
+- id: ch7
+  title_ja: 砂漠の二つの種
+  title_en: Two Seeds in the Desert
+  time_range: 1985-1991
+  ages_covered: 30-36
+  central_theme: すべてを失った時、人は再び何かを創造することができるのか？
+  emotional_arc: アップルを追われたジョブズは、「荒野」の時代に入る。彼は二つの会社、NeXTとピクサーを立ち上げる。NeXTは彼の完璧主義が再び暴走し苦戦するが、ピクサーではテクノロジーとアートの融合という新たな夢を見出す。そして、私生活ではローレン・パウエルと出会い、初めて本当の意味での安らぎと家族を得る。
+  opening_hook: アップルを辞めたジョブズが、数人の忠実な元部下と共に、がらんとしたオフィスで新会社「NeXT」を立ち上げる。彼は言う。「今度は、正しくやろう」。
+  key_beats:
+  - 教育市場向けの完璧なコンピュータを作るため、NeXTを設立。
+  - ジョージ・ルーカスからコンピュータグラフィックス部門を買収し、「ピクサー」と名付ける。
+  - NeXT Cubeは技術的には優れていたが、高価すぎて商業的に失敗する。
+  - 一方、ピクサーではジョン・ラセターの作る短編CGアニメに可能性を見出す。
+  - スタンフォード大学で講演中、聴衆の中にいたローレン・パウエルと運命的に出会う。
+  - 初めてのデートで、彼は心の壁を取り払い、彼女にプロポーズする。
+  - ヨセミテ国立公園で仏教式の結婚式を挙げ、穏やかな時間を過ごす。
+  climax: ピクサーの試写室で、ジョン・ラセターが短編アニメ『ティン・トイ』を披露する。おもちゃの視点から描かれたその作品は、技術だけでなく、心に訴えかける力を持っていた。ジョブズは、これが未来だと確信する。
+  cliffhanger: ローレンと結婚し、幸せな家庭を築いたジョブズ。しかし、NeXTの経営は悪化の一途をたどる。銀行口座の残高が底を突きかけている。ローレンが心配そうに彼を見る。「スティーブ、私たち、大丈夫よね？」。彼は何も答えられない。—
+    FADE TO BLACK.
+  characters_introduced:
+  - laurene_powell_jobs
+  characters_returning:
+  - mona_simpson
+  motifs_planted: []
+  motifs_paid_off: []
+  callbacks_to_earlier_episodes: []
+  notes: 'This episode shows a more mature Jobs, humbled by failure. His relationship with Laurene is the anchor he never
+    had. The two companies represent two paths: NeXT is the old Jobs (flawed genius), Pixar is the new one (collaborative
+    storyteller).'
+- id: ch8
+  title_ja: おもちゃの雪辱
+  title_en: Revenge of the Toys
+  time_range: 1991-1996
+  ages_covered: 36-41
+  central_theme: 一度敗れた者が、全く違う戦場で雪辱を果たすことは可能か？
+  emotional_arc: NeXTの失敗で資金的に追い詰められる中、ジョブズはピクサーに全てを賭ける。ディズニーとの厳しい交渉の末、世界初の長編フルCGアニメ『トイ・ストーリー』の製作にこぎつける。製作は困難を極めるが、彼は独裁者ではなく、クリエイターを信じる支援者として振る舞うことを学ぶ。映画の大成功とピクサーのIPOにより、彼は億万長者として、そして偉大なプロデューサーとして劇的な復活を遂げる。
+  opening_hook: ディズニーの幹部ジェフリー・カッツェンバーグが、『トイ・ストーリー』の初期バージョンを酷評し、製作中止を宣告する。ピクサーチームは絶望に包まれる。
+  key_beats:
+  - ディズニーと長編映画『トイ・ストーリー』の製作契約を結ぶ。
+  - 製作は難航。脚本は何度も書き直され、ジョブズは私財を投じ続けて会社を支える。
+  - 彼は製作には直接口を出さず、ジョン・ラセターらクリエイターの才能を信じ、守ることに徹する。
+  - ついに『トイ・ストーリー』が完成する。
+  - 公開後、映画は世界的な大ヒットとなり、アニメーションの歴史を変える。
+  - 映画公開の翌週、ピクサーは株式公開（IPO）に踏み切り、大成功を収める。
+  - ジョブズは一夜にして、アップル時代をはるかに超える資産を持つビリオネアとなる。
+  climax: 『トイ・ストーリー』のプレミア上映。エンドロールが流れ始めると、満員の観客から割れんばかりの拍手と喝采が巻き起こる。暗闇の中、ジョブズは隣に座るローレンの手を握り、静かに涙を流す。
+  cliffhanger: ビリオネアとして復活したジョブズの元に一本の電話が入る。相手はアップルの当時のCEO、ギル・アメリオ。「スティーブ、助けが必要なんだ」。電話の向こうで、かつて彼を追放した会社が瀕死の悲鳴を上げていた。— FADE
+    TO BLACK.
+  characters_returning:
+  - laurene_powell_jobs
+  motifs_planted: []
+  motifs_paid_off: []
+  callbacks_to_earlier_episodes:
+  - 'ch6: The humiliation of being fired is finally vindicated, not by beating Apple, but by succeeding spectacularly in a
+    different field.'
+  notes: The ultimate comeback story. He doesn't win by fighting his old war but by changing the battlefield. This success
+    gives him the leverage and the wisdom needed for his eventual return to Apple.
+- id: ch9
+  title_ja: 王の帰還
+  title_en: Return of the King
+  time_range: 1996-1997
+  ages_covered: 41-42
+  central_theme: 瀕死の王国を救うため、帰還した王はかつての自分自身を殺さねばならない。
+  emotional_arc: ジョブズは「相談役」として、12年ぶりにアップルに足を踏み入れる。会社は官僚主義と無駄な製品ラインで崩壊寸前だった。彼は暫定CEO（iCEO）に就任すると、過去の感傷を全て捨て、冷酷な決断力で製品ラインを切り捨て、会社を再建し始める。「Think
+    Different.」キャンペーンで、彼はアップルの失われた魂を呼び戻そうとする。
+  opening_hook: ジョブズがアップルのキャンパスを歩いている。壁には色褪せたポスター、社員には覇気がない。彼が愛した会社は見る影もなくなっていた。
+  key_beats:
+  - 経営危機に陥ったアップルが、OS獲得のためNeXTを買収。ジョブズは相談役として復帰する。
+  - 復帰後、彼は会社の惨状を目の当たりにし、自分が動かなければ会社が死ぬと悟る。
+  - 取締役会を説得し、CEOのギル・アメリオを追放。暫定CEO（iCEO）に就任する。
+  - 最初の全社ミーティングで、彼は裸足でステージに上がり、社員に正直に語りかける。「この会社は船のようなものだ。そして船底には穴が空いている」。
+  - 彼は大ナタを振るい、ニュートンを含む70%以上の製品を中止させる。社内からは悲鳴が上がる。
+  - マイクロソフトのビル・ゲイツに電話し、ライバルからの投資を取り付けるという屈辱的な決断を下す。
+  - 広告代理店と共に「Think Different.」キャンペーンを立ち上げる。
+  climax: 役員会議室で、ジョブズが巨大なホワイトボードにシンプルな4つのマスを描く。「コンシューマー、プロ。デスクトップ、ポータブル。我々が作るのは、この4つだけだ」。役員たちは彼の狂気と明晰さに息をのむ。
+  cliffhanger: 編集室で「Think Different.」のCMの最終版を見ているジョブズ。「Here's to the crazy ones...」のナレーションが流れる。彼は満足げに頷くが、その時、デザインスタジオの責任者から電話が入る。「スティーブ、見せたいものがある」。それは会社の運命を変える試作品だった。—
+    FADE TO BLACK.
+  characters_introduced:
+  - jony_ive
+  characters_returning:
+  - bill_gates
+  motifs_planted:
+  - black_turtleneck
+  motifs_paid_off:
+  - los_altos_garage
+  callbacks_to_earlier_episodes:
+  - 'ch6: His return to the kingdom he was exiled from is dramatic and charged with history.'
+  notes: This is Jobs 2.0. He's no longer just a passionate visionary but a ruthless, focused leader forged in the wilderness.
+    The 'Think Different' campaign isn't just marketing; it's a declaration of his own return and the company's rebirth.
+- id: ch10
+  title_ja: 色彩と魂
+  title_en: Color and Soul
+  time_range: 1998-2001
+  ages_covered: 43-46
+  central_theme: テクノロジーは、いかにして人の感情と繋がり、生活を豊かにすることができるのか？
+  emotional_arc: ジョブズは、デザイナーのジョナサン・アイブと魂のパートナーシップを築き、退屈なPC業界にiMacで「色」と「楽しさ」を取り戻す。アップルは劇的に復活し、彼は再び時代のアイコンとなる。iMacの成功に続き、彼は音楽という、よりパーソナルで感情的な領域に踏み込み、iPodで世界の人々の音楽体験を根底から変えてしまう。
+  opening_hook: アップルのデザインスタジオ。ジョブズとジョナサン・アイブが、半透明のプラスチックで作られたiMacの試作品を前に、何時間もディテールについて語り合っている。二人の間には完璧な共鳴があった。
+  key_beats:
+  - ジョブズとアイブの協力で、iMac G3が開発される。
+  - ボンダイブルーのiMacが発表され、大ヒット。アップル復活の象徴となる。
+  - Apple Storeの構想を練り、リテール体験そのものをデザインしようとする。
+  - 音楽業界がデジタル化の波に乗り遅れていることに気づく。
+  - 「ポケットに1000曲を」というシンプルなコンセプトのもと、iPod開発プロジェクトを極秘に開始する。
+  - エンジニアたちに不可能な小型化を要求し、現実歪曲フィールドを駆使して開発を推し進める。
+  - 2001年10月23日、iPodを発表するが、当初のメディアの反応は冷ややかだった。
+  climax: ジョブズが、試作品のiPodを水槽に落とすエピソード。「気泡が出るだろう？まだスペースがある証拠だ。もっと小さくしろ」。彼の完璧への執着と、常識を覆す発想が凝縮された瞬間。
+  cliffhanger: iPod発表後、ジョブズは家族と穏やかな時間を過ごしている。しかし、彼は密かに体の不調を感じていた。ある日、定期検診の結果を聞くために訪れた病院で、医師が深刻な顔でCTスキャン画像を指し示す。— FADE TO BLACK.
+  characters_returning:
+  - laurene_powell_jobs
+  - jony_ive
+  motifs_planted: []
+  motifs_paid_off:
+  - calligraphy
+  callbacks_to_earlier_episodes:
+  - 'ch2: The fusion of art and technology, a theme since his college days, reaches its zenith with the iMac and iPod.'
+  notes: The creative peak of the 'second coming'. The partnership with Jony Ive is the new Wozniak relationship, but this
+    time, it's about design and soul, not just engineering. The episode ends with the ultimate personal crisis, setting up
+    the final act.
+- id: ch11
+  title_ja: 点と点
+  title_en: Connecting the Dots
+  time_range: 2003-2007
+  ages_covered: 48-52
+  central_theme: 死を意識することは、いかにして最高の創造を生み出す原動力となるか？
+  emotional_arc: 膵臓がんの診断を受け、ジョブズは初めて自らの死と直面する。彼は手術を拒み、独自の治療法を試すが、それは彼の傲慢さの表れでもあった。死の淵から生還した彼は、スタンフォード大学の卒業式で自らの人生を振り返り、「点と点を繋ぐ」という哲学を語る。そして、残された時間で、自らのビジョンの集大成であるiPhoneを、狂気的な情熱で完成させようと奔走する。
+  opening_hook: 医師から膵臓がんを告知されるジョブズ。彼はその事実を受け入れられず、これは間違いだと主張する。
+  key_beats:
+  - 癌の診断を受けるが、9ヶ月間手術を拒否し、食事療法などを試みる。
+  - 家族の説得でついに手術を受け、一命をとりとめる。
+  - 2005年、スタンフォード大学の卒業式で伝説的なスピーチを行う。「ハングリーであれ。愚か者であれ」。
+  - iPodの成功に満足せず、携帯電話と融合させるプロジェクトを極秘に開始する。
+  - iPhone開発は、社内の2チームを競わせるなど、熾烈を極める。
+  - 彼の健康は回復していないが、その事実を隠し、プロジェクトを強引に推進する。
+  - 発表会直前、iPhoneのプロトタイプはまだ不安定で、デモが成功する保証はどこにもなかった。
+  climax: スタンフォード大学の卒業式のスピーチ。「自分がもうすぐ死ぬことを思い出すのは、人生の大きな決断をする上で最も重要なツールだ」。彼は穏やかに、しかし力強く、自らの死生観を語る。
+  cliffhanger: 2007年、Macworldのステージ袖。発表まであと数分。ジョブズは黒のタートルネック姿で、手の中でiPhoneのプロトタイプを握りしめている。彼の顔には汗が滲んでいる。デモが失敗すれば、すべてが終わる。彼は深く息を吸い、ステージへと一歩踏み出す。—
+    FADE TO BLACK.
+  characters_returning:
+  - laurene_powell_jobs
+  - jony_ive
+  - lisa_brennan_jobs
+  motifs_planted: []
+  motifs_paid_off:
+  - abandoned_vs_chosen
+  - calligraphy
+  callbacks_to_earlier_episodes:
+  - 'ch2: The ''connecting the dots'' quote from the Stanford speech directly calls back to his experience with calligraphy.'
+  notes: This episode interweaves his most profound public statement (the speech) with his most significant creation (the
+    iPhone) and his deepest personal crisis (cancer). It's the ultimate race against time.
+- id: ch12
+  title_ja: 宇宙の片隅に
+  title_en: A Ding in the Universe
+  time_range: 2007-2011
+  ages_covered: 52-56
+  central_theme: 人が遺せるものとは何か？ 製品か、会社か、それとも思想そのものか。
+  emotional_arc: iPhoneは世界を変え、ジョブズは生きる伝説となる。しかし、彼の体は病魔に蝕まれ、痩せ衰えていく。彼は自らの死期を悟りながらも、最後の力を振り絞り、iPadと、未来のアップルのための新社屋の設計に情熱を注ぐ。それは、彼がいなくなった後も、彼が信じた創造の精神が生き続けるための最後の戦いだった。
+  opening_hook: iPhone発表会。デモは完璧に成功し、世界は新しい時代の幕開けに熱狂する。ステージ上のジョブズは、安堵と誇りに満ちた表情を浮かべる。
+  key_beats:
+  - iPhoneの大成功により、アップルは世界で最も価値のある企業の一つになる。
+  - ジョブズの健康状態は悪化し、公の場に現れるたびにその痩せた姿が憶測を呼ぶ。
+  - 彼は病をおして、コンピュータとスマートフォンの間を埋める新デバイス、iPadの開発を指揮する。
+  - 2010年、椅子に座りながらも、気迫のこもったプレゼンでiPadを発表する。
+  - CEOをティム・クックに譲ることを決断する。
+  - 最後の仕事として、彼が「宇宙船」と呼ぶアップルの新社屋「Apple Park」の設計に没頭する。
+  - 家族に見守られながら、自宅で静かに息を引き取る。（このシーンは直接描かず、示唆するに留める）
+  climax: CEO退任後、やつれた体でクパチーノ市議会に出席し、新社屋の建設計画を自らプレゼンする。「私たちは、世界最高のオフィスビルを建てるチャンスがある」。彼の声は弱々しいが、その目には未来への確信が宿っていた。
+  cliffhanger: 最後のシーン。時間は少し遡り、ジョブズはデザインスタジオで、Apple Parkの巨大な模型を前にJony Iveと立っている。彼は模型の完璧な円を指でなぞる。「完璧でなければ意味がない。ただの円じゃない。始まりも終わりもない、無限のループなんだ」。彼は顔を上げ、チームを見つめる。その目は、病を感じさせない、かつての燃えるような情熱に満ちている。—
+    FREEZE FRAME. FADE TO BLACK.
+  characters_returning:
+  - laurene_powell_jobs
+  - jony_ive
+  motifs_planted: []
+  motifs_paid_off:
+  - black_turtleneck
+  callbacks_to_earlier_episodes:
+  - 'ch5: The ''ding in the universe'' quote becomes his final mission.'
+  notes: The final episode does not end on his death, but on his unending quest for perfection. The final image of him focused
+    on the 'infinite loop' of the new campus leaves the audience with the idea that his story and influence are not over.
+    It resonates with the core theme of creating a perfect, self-contained world to overcome the chaos of his inner 'abandonment'
+    wound.
+foreshadowing:
+- id: kokoro_no_tobira
+  description: 'A recurring INTERIOR door symbolizes Steve''s psychological state, from his initial wound of abandonment to
+    his own acts of rejection. The emotional question is: Can he ever truly open himself up to others, or will he die with
+    the door closed?'
+  type: object
+  intended_emotional_arc: A door as a child's retreat from pain transforms into a weapon of rejection, then a symbol of his
+    own exile, and finally a barrier of regret he can no longer cross.
+  chain:
+  - episode: ch1
+    beat: After learning he is adopted, young Steve quietly closes his simple wooden bedroom door on his concerned parents,
+      shutting out their comfort. The soft click is the first sound of his inner world closing off.
+    role: plant
+  - episode: ch3
+    beat: After denying paternity of Lisa, Steve closes a sleek, modern office door on Chrisann Brennan. The sharp, definitive
+      thud of the door is an act of aggressive denial, a weaponized barrier.
+    role: transform
+  - episode: ch6
+    beat: After being fired, Steve stands alone in an empty Apple office. We see him from the hallway as the boardroom door
+      is closed on him by others. The door is now a symbol of his own abandonment and powerlessness.
+    role: transform
+  - episode: ch11
+    beat: An older, sick Steve has a difficult conversation with Lisa. She leaves, leaving her bedroom door slightly ajar.
+      He looks at the sliver of light, wanting to follow, to open it fully, but remains frozen. The door becomes a symbol
+      of a final, unresolved opportunity for connection.
+    role: payoff
+- id: naritakunakatta_oya
+  description: 'The cycle of abandonment, planted by the sterile legal language of his adoption, is repeated when Steve rejects
+    his own daughter. The emotional question is: Can he recognize and break the cycle of the wound he carries?'
+  type: phrase
+  intended_emotional_arc: A phrase that defined his own feeling of being unwanted becomes the justification he uses to make
+    his own child unwanted, culminating in a moment of horrifying self-recognition and, finally, apology.
+  chain:
+  - episode: ch1
+    beat: A young Steve finds his adoption papers. A close-up shows the legal phrase:「実親による養育が困難」 ('Raising the child is difficult
+      for the biological parents'). This becomes his internal scar.
+    role: plant
+  - episode: ch3
+    beat: In a fight with a pregnant Chrisann, Steve yells, 「僕には無理だ！」 ('I can't do it!'), echoing the sentiment that raising
+      a child is too 'difficult'. He is unconsciously repeating the pattern.
+    role: echo
+  - episode: ch4
+    beat: Forced by a paternity test to pay child support, Steve tells his lawyer, 「父親としての養育は困難だ」 ('Raising her as a father
+      is difficult'). He is now consciously weaponizing the same logic that wounded him.
+    role: transform
+  - episode: ch11
+    beat: Lisa visits her ailing father and tells him, "It always felt like I was a problem that was too difficult for you."
+      Hearing the word 'difficult' from her voice, he finally sees the pattern and offers a genuine, tearful apology, breaking
+      the cycle.
+    role: payoff
+- id: kaerubeki_basho
+  description: 'Paul Jobs'' garage workbench serves as a recurring symbol of creation and paternal love. The emotional question
+    is: What is the true source of innovation—mythic genius or simple, honest craftsmanship?'
+  type: setting
+  intended_emotional_arc: The workbench transforms from a symbol of a father's love to a mythical origin story, then a standard
+    of 'soul' he finds lacking in corporate labs, and finally a memory of what truly mattered.
+  chain:
+  - episode: ch1
+    beat: 'The first flashback is a child''s-eye view of Paul Jobs'' workbench: neatly arranged tools, the smell of wood,
+      and his father''s gentle hands. It represents safety and the power of craft.'
+    role: plant
+  - episode: ch3
+    beat: The same workbench is now chaotically covered in wires and parts as Steve and Woz build the Apple I. The space has
+      been transformed from paternal craft to the crucible of revolution.
+    role: transform
+  - episode: ch9
+    beat: Returning to Apple, Steve walks through Jony Ive's sterile, state-of-the-art design lab. He runs a hand over a pristine
+      metal workbench, and for a moment, a translucent overlay of his father's wooden bench appears. He feels something is
+      missing.
+    role: echo
+  - episode: ch12
+    beat: Near the end, a frail Steve looks at an old photo of himself and his father in the garage. His gaze is fixed not
+      on the computer they built, but on his father's hands on the workbench, finally understanding that the love and values
+      his father taught him were the true foundation.
+    role: payoff
+- id: tsuuka_no_hensen
+  description: 'The meaning of specific sums of money transforms throughout Steve''s life. The emotional question is: Can
+    wealth fill the void left by his core wound, or does it merely amplify his loneliness?'
+  type: object
+  intended_emotional_arc: Money evolves from proof of worth, to fuel for ambition, to a weapon of revenge, and finally to
+    an irrelevant number in the face of mortality.
+  chain:
+  - episode: ch1
+    beat: Steve and Woz count a small wad of cash from selling Blue Boxes, around $200. The crisp bills in his hand mean 'We're
+      smarter than the system.'
+    role: plant
+  - episode: ch3
+    beat: 'The camera focuses on the first major investment check for Apple: $250,000. For Steve, this number means ''My vision
+      is real and validated.'''
+    role: echo
+  - episode: ch8
+    beat: 'After the Pixar IPO, a newspaper headline displays his new net worth: ''$1.5 Billion''. He looks at the number
+      with cold satisfaction. It means ''I have won. I have beaten those who exiled me.'''
+    role: transform
+  - episode: ch12
+    beat: A lawyer discusses his multi-billion dollar estate. Steve ignores him, looking at his family in the garden. The
+      enormous number is meaningless compared to a simple, tangible moment of life. The payoff is that the largest sum means
+      less to him than the first.
+    role: payoff
+- id: it_is_not_good_enough
+  description: 'Steve''s signature phrase of criticism, ''It''s not good enough,'' reveals his internal struggle with his
+    own perceived imperfections. The question is: Is his perfectionism a creative gift or a destructive curse?'
+  type: phrase
+  intended_emotional_arc: The phrase evolves from a passionate motivator to a tool of cruelty, then matures into focused leadership,
+    before finally being turned inward in a moment of tragic self-awareness.
+  chain:
+  - episode: ch3
+    beat: In the garage, Steve tells Wozniak an early design 'is not good enough,' with a fiery passion to make something
+      great together.
+    role: plant
+  - episode: ch4
+    beat: He screams 'It's not good enough!' at a terrified engineer on the Lisa team, turning the phrase into a weapon of
+      fear.
+    role: transform
+  - episode: ch10
+    beat: 'He tells the iPod team their prototype ''is not good enough,'' but immediately follows it with an inspiring, concrete
+      goal: ''Three clicks to any song.'' The phrase is now a tool of visionary leadership.'
+    role: transform
+  - episode: ch11
+    beat: After cancer surgery, Steve sees his gaunt, scarred reflection in a mirror and whispers to himself, 'It's not good
+      enough.' The brutal judgment he inflicted on others is finally directed at his own mortal, imperfect body.
+    role: payoff
+- id: hadashi_no_hankotsu
+  description: 'Steve''s recurring habit of walking barefoot. The emotional question is: Is his non-conformity a source of
+    genuine freedom or a defense mechanism against a world that rejected him?'
+  type: gesture
+  intended_emotional_arc: The gesture transforms from a symbol of hippie rebellion to a sign of arrogant disrespect, then
+    to a calculated branding tool, and finally to a mark of pure vulnerability.
+  chain:
+  - episode: ch2
+    beat: At Reed College, Steve walks barefoot on the campus green, an expression of counter-culture freedom.
+    role: plant
+  - episode: ch3
+    beat: He props his bare, dirty feet on a boardroom table, horrifying investors. It is an act of youthful arrogance and
+      a power play.
+    role: echo
+  - episode: ch9
+    beat: On stage for his first all-hands meeting after returning as iCEO, he is barefoot. It's a calculated signal to employees
+      that the rebellious, creative soul of Apple is back.
+    role: transform
+  - episode: ch12
+    beat: In his final days, a shot focuses on his bare feet walking slowly and unsteadily on the floor of his home. No longer
+      a statement, his bareness is now a simple, profound sign of his human frailty.
+    role: payoff
+- id: calligraphy_no_ten
+  description: 'The seemingly useless art of calligraphy becomes a central metaphor for Steve''s life philosophy. The emotional
+    question is: Can trusting in beauty and intuition, without a practical goal, lead to the greatest outcomes?'
+  type: object
+  intended_emotional_arc: A youthful, impractical passion for fonts is first seen as a frivolous distraction, then becomes
+    the secret ingredient of a revolution, and is finally articulated as the core philosophy of his life.
+  chain:
+  - episode: ch2
+    beat: At Reed College, Steve is captivated by the beautiful typography on posters for a calligraphy class he audits. This
+      is a pure, impractical love of beauty.
+    role: plant
+  - episode: ch5
+    beat: During Mac development, Steve's obsession with creating multiple, elegant fonts is a point of conflict with engineers
+      who see it as a waste of resources.
+    role: echo
+  - episode: ch5
+    beat: At the Macintosh launch, the friendly 'Hello' on screen, rendered in a beautiful font, is key to the machine's revolutionary,
+      human-centric appeal. The impractical passion is vindicated.
+    role: transform
+  - episode: ch11
+    beat: 'In his Stanford speech, he tells the calligraphy story and delivers the line: ''You can''t connect the dots looking
+      forward; you can only connect them looking backwards.'' The visual motif is explicitly transformed into his life''s
+      central philosophy.'
+    role: payoff
+- id: gates_to_iu_kagami
+  description: 'The evolving relationship with rival Bill Gates. The emotional question is: Was Gates a villain to be defeated,
+    or a mirror reflecting the pragmatic side of genius that Steve lacked?'
+  type: character_relationship
+  intended_emotional_arc: The relationship moves from arrogant dismissal to bitter betrayal, to a humiliating plea for help,
+    and finally to a quiet, profound respect between the only two men who shared a similar path.
+  chain:
+  - episode: ch3
+    beat: A young, nerdy Bill Gates visits Apple. Steve treats him with dismissive arrogance, seeing him as a lesser mind.
+    role: plant
+  - episode: ch5
+    beat: Steve discovers Microsoft is developing Windows and screams at Gates in a boardroom, 'I trusted you, and now you're
+      stealing from us!' The rivalry is now a deep personal betrayal.
+    role: transform
+  - episode: ch9
+    beat: To save a dying Apple, Steve must make a deal with Microsoft. Bill Gates appears on a giant screen behind Steve
+      at a keynote, a moment of ultimate public humiliation and pragmatism for Steve.
+    role: transform
+  - episode: ch11
+    beat: In one of their last joint interviews, years later, the animosity is gone. They trade compliments and share insights,
+      having reached a place of mutual, hard-earned respect. The war is over.
+    role: payoff
+- id: kuro_no_turtleneck
+  description: 'The color black, from the NeXT Cube to his iconic turtleneck, represents his evolving philosophy of simplicity
+    and control. The emotional question is: Is simplicity a tool for clarity or a means of erasure?'
+  type: color_palette
+  intended_emotional_arc: Black evolves from a symbol of impractical, sophisticated failure to a uniform of absolute control,
+    and finally to a stark metaphor for the ultimate reality of death.
+  chain:
+  - episode: ch7
+    beat: The perfect, matte black NeXT Cube is revealed. It is an aesthetic masterpiece and a commercial failure. Black here
+      means beautiful but impractical perfection.
+    role: plant
+  - episode: ch9
+    beat: 'Upon his return to Apple, Steve adopts his uniform: the black turtleneck. Black now symbolizes his new, focused,
+      ruthless efficiency and the creation of his own iconic brand.'
+    role: transform
+  - episode: ch11
+    beat: At the iPhone keynote, he is a lone figure in black on a dark stage, holding a black device. He has merged with
+      his creation. Black represents the peak of his reality distortion field—a perfect, controlled universe.
+    role: transform
+  - episode: ch12
+    beat: The final shot of the series is not of Steve, but a final, silent FADE TO BLACK. The ultimate simplicity, no longer
+      a design choice but the inevitable void he has spent his life trying to fill with 'dents in the universe.'
+    role: final
+- id: ringo_to_iu_kajitsu
+  description: 'The literal apple fruit appears at key moments, its meaning changing with Steve''s philosophy and health.
+    The emotional question is: What is the true source of life—radical ideology or simple nature?'
+  type: object
+  intended_emotional_arc: The apple transforms from a symbol of quirky identity, to a weapon of ideological purity, to a flawed
+    tool of denial against death, and finally back to a simple, life-giving fruit.
+  chain:
+  - episode: ch2
+    beat: During his fruitarian phase, a young Steve is constantly eating an apple. It's the source of his company's name
+      and part of his counter-culture identity.
+    role: plant
+  - episode: ch3
+    beat: While arguing with Chrisann about her pregnancy, he bites into an apple while lecturing her on purity and diet.
+      The fruit becomes a symbol of his rigid, controlling ideology.
+    role: transform
+  - episode: ch11
+    beat: Diagnosed with cancer, he attempts to cure himself with a radical fruit diet. His kitchen is full of apples. The
+      fruit is now a symbol of his hubris and his belief that he can bend reality to his will.
+    role: transform
+  - episode: ch12
+    beat: In his final days, Laurene brings him a single, peeled and sliced apple. He manages one small bite. The apple is
+      no longer a brand or an ideology; it is simply food, a final, humble connection to the natural world.
+    role: payoff
+- id: tatta_hitotsu_no_button
+  description: 'The design obsession with removing buttons, culminating in the iPhone''s Home button. The emotional question:
+    Is ultimate simplicity a gift to the user, or the ultimate act of control by the creator?'
+  type: object
+  intended_emotional_arc: The quest for fewer buttons evolves from a niche design principle to a ruthless development mantra,
+    and finally becomes the ultimate symbol of his philosophy to make technology disappear.
+  chain:
+  - episode: ch4
+    beat: Shown a three-button Xerox mouse, Steve immediately insists, 'It has to have one.' This plants his core hardware
+      philosophy.
+    role: plant
+  - episode: ch10
+    beat: While designing the iPod, he rejects a multi-button layout and demands the creation of the simple, intuitive scroll
+      wheel. His obsession with reduction is intensifying.
+    role: echo
+  - episode: ch11
+    beat: 'In a secret iPhone meeting, Steve makes the final call: no physical keyboard, just one button on the face. The
+      Home button. It is the ultimate act of dictating the user''s experience.'
+    role: transform
+  - episode: ch12
+    beat: A final montage of people effortlessly using iPhones and iPads shows that his goal was not just to remove buttons,
+      but to make the interface so direct that the technology itself becomes invisible, leaving only the experience. The user's
+      finger is the final 'button.'
+    role: payoff

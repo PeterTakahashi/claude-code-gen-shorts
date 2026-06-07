@@ -1,0 +1,62 @@
+id: jp-oshibori-real
+parent_chapter: null
+image_style: photorealistic
+panels:
+  - id: p1
+    prompt: |
+      A Western tourist sitting at a Japanese restaurant receiving a warm rolled wet towel
+      (oshibori) from a smiling staff member, the tourist looking pleasantly surprised, a
+      decorative Japanese caption "おしぼり文化", the visual of "the small free hospitality that
+      amazes foreigners". Warm restaurant, clearly Japan.
+  - id: p2
+    prompt: |
+      Close-up of hands unrolling a steaming hot oshibori towel, a decorative Japanese caption
+      "無料で、温かい", the visual of "a hot towel, given for free, before you even order". Warm,
+      inviting, clearly Japanese restaurant.
+  - id: p3
+    prompt: |
+      A split scene — a cold towel in summer and a hot towel in winter, a decorative Japanese
+      caption "夏は冷たく、冬は温かい", the visual of "chilled in summer, warm in winter — adjusted
+      to the season". Clean, warm.
+  - id: p4
+    prompt: |
+      The Western tourist wiping their hands, visibly moved by the thoughtfulness, a decorative
+      Japanese caption "求めてないのに、出てくる", the visual of "no one asked, yet here it is —
+      hospitality given freely". Warm restaurant, clearly Japan.
+  - id: p5
+    prompt: |
+      An infographic-style note on the concept of "omotenashi", a decorative Japanese caption
+      "おもてなしの心", a heart and a bowing staff, the visual of "anticipating a guest's needs
+      before they ask". Clean, warm.
+  - id: p6
+    prompt: |
+      Same tourist holding the warm oshibori, smiling gratefully, a decorative Japanese caption
+      "小さな思いやりの国", the loop image of "a country of small kindnesses". Warm, clearly Japan.
+ja:
+  title: '外国人が驚いた、無料で出てくるおしぼり文化 #Shorts'
+  description: |
+    席に着くだけで、温かいおしぼりが無料で出てくる。求めていないのに差し出される日本のおもてなしに、外国人が驚く理由を解説します。
+
+    #Shorts #日本 #海外の反応 #おしぼり #おもてなし
+  hook_caption: 無料で出てくる、おしぼり文化
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 席に着いただけで、温かいおしぼりが、無料で出てくる。この何気ない文化に、外国人は驚くんです。
+      caption: 無料で出てくるおしぼり文化
+    - panel: p2
+      text: 注文する前から、湯気の立つ温かいおしぼりが、当たり前のように差し出される。海外では、なかなか見ない光景です。
+      caption: 注文前に、温かいおしぼりが
+    - panel: p3
+      text: しかも、夏は冷たく、冬は温かく。季節に合わせて、さりげなく変えてくれる店も、少なくありません。
+      caption: 夏は冷たく、冬は温かく
+    - panel: p4
+      text: 求めてもいないのに、出てくる。この「気遣いが先回りしている」感覚に、外国人は、心を動かされるんです。
+      caption: 求める前に、差し出される気遣い
+    - panel: p5
+      text: その根っこにあるのが、「おもてなし」の心。相手が望む前に、必要なものを、そっと用意しておく文化です。
+      caption: 望む前に用意する「おもてなし」
+    - panel: p6
+      text: たった一枚のおしぼり。でもそこには、小さな思いやりを当たり前にする、日本という国の姿が、表れているんです。
+      caption: 小さな思いやりを当たり前にする国

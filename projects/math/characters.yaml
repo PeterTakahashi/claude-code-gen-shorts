@@ -1,0 +1,48 @@
+characters:
+  - id: professor
+    name_ja: バルトゥーン教授
+    description_en: >-
+      a friendly middle-aged male math professor in his early 50s, of mixed
+      European descent, warm intelligent face with round wire-rimmed
+      eyeglasses, salt-and-pepper short curly hair, neatly trimmed grey
+      beard, expressive gentle hazel eyes that light up when explaining
+      ideas, an enthusiastic "ah-ha" expression, kind smiling mouth, soft
+      build, the visual of a beloved university professor mid-lecture
+    outfit_en: >-
+      a warm earth-tone tweed blazer with elbow patches over a soft cream
+      knit sweater, a thin burgundy bow tie, dark brown corduroy slacks,
+      sometimes carrying a piece of chalk or a small notebook
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+
+  - id: hilbert
+    name_ja: ヒルベルト
+    description_en: >-
+      a 50-something German mathematician circa 1924, slim build, thinning
+      grey hair brushed back from a high forehead, a neatly trimmed grey
+      mustache and short beard, round wire-rimmed eyeglasses perched on a
+      sharp nose, calm scholarly intelligent expression, the visual of a
+      Göttingen mathematician of the early 20th century
+    outfit_en: >-
+      a dark three-piece wool suit with a stiff white wing collar, a dark
+      bow tie, a gold pocket-watch chain across the waistcoat
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+
+  - id: mochizuki_shinichi
+    name_ja: 望月新一 (京都大学 数理解析研究所教授)
+    description_en: >-
+      a 50-something reclusive Japanese male mathematician at Kyoto
+      University, slim build, neatly combed shoulder-length black hair
+      slightly greying at the temples, a long thin pale studious face,
+      thoughtful narrow eyes behind plain rectangular silver-rimmed
+      glasses, a quiet introverted contemplative expression, the visual
+      of a genius mathematician who spent twenty years alone building a
+      single theory and rarely leaves Kyoto
+    outfit_en: >-
+      a plain dark navy-blue cardigan over a soft pale-grey collared
+      shirt, dark grey slacks, no necktie, no jewelry, simple brown
+      leather loafers, the deliberately quiet silhouette of a Kyoto
+      university researcher who avoids public appearances
+    voice_style_id: 1310138977
+    voice_speed: 1.4

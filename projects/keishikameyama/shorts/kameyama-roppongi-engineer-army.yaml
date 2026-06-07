@@ -1,0 +1,186 @@
+id: kameyama-roppongi-engineer-army
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2018, a Silicon-Valley-style open-plan tech office on a high
+
+    floor of 六本木ヒルズ Tokyo. A 60-something Keishi Kameyama stands
+
+    casually at the center of the wide office floor in his usual black
+
+    t-shirt and jeans, hands in his pockets, with about fifty young
+
+    Japanese engineers in hoodies and t-shirts visible all around him at
+
+    standing desks with multiple monitors, exposed-concrete ceilings,
+
+    colorful beanbags in a break corner. Soft daylight through massive
+
+    windows showing the Tokyo skyline behind. The owner of an
+
+    unexpectedly modern tech company.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2008, a plain modest DMM head office in 加賀 Ishikawa. A boxy
+
+    two-story low-rise commercial building in a quiet Hokuriku suburban
+
+    street, a simple sign reading DMM.com on the front, a parking lot
+
+    with a few local cars, surrounded by rice fields and low mountains in
+
+    the background. Daylight, soft overcast Hokuriku sky. Wide
+
+    establishing shot, no figures. The original humble headquarters.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 2010s, the Ishikawa office boardroom. A 50-something Keishi
+
+    Kameyama sits at a simple wooden table with several brochures and
+
+    printed photos of the 六本木ヒルズ tower spread before him, one finger
+
+    tapping on a glossy image of the high-rise, his expression calm and
+
+    decisive. A junior Japanese executive sits across from him looking
+
+    faintly surprised. The exact moment a Hokuriku regional company
+
+    decides to move to the very center of Tokyo. Side framing.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid 2010s morning, the new DMM 六本木ヒルズ office on its first day.
+
+    A wave of around thirty young Japanese engineers in casual hoodies
+
+    and t-shirts streaming into the open glass entrance carrying laptops
+
+    and tote bags, smiling and chatting, a fresh DMM logo sign visible on
+
+    the entrance wall, big floor-to-ceiling windows behind showing the
+
+    Tokyo skyline. Bright optimistic morning light. The arrival of the
+
+    new generation.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A wide bright interior of the DMM 六本木ヒルズ engineering floor in the
+
+    late 2010s. Young Japanese engineers in casual t-shirts and hoodies
+
+    working in small clusters around standing desks with multiple
+
+    monitors displaying code editors, a small group in a glass-walled
+
+    meeting room sketching on a whiteboard, a casual lounge corner with a
+
+    colorful sofa and a coffee bar in the back. Exposed concrete ceiling
+
+    and industrial lighting. The unmistakable Silicon-Valley-influenced
+
+    modern tech aesthetic dropped into Tokyo.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2020 late evening, the 六本木ヒルズ DMM corporate floor. Over-
+
+    the-shoulder view from behind a 60-something Keishi Kameyama who
+
+    stands alone by a vast floor-to-ceiling window, the glowing 六本木
+
+    skyline of Tokyo Tower and surrounding skyscrapers spreading out
+
+    below him in a sea of city lights, hands loosely in his jeans
+
+    pockets, his faint reflection in the glass. Conveys the quiet 50-year
+
+    arc from 加賀温泉郷 street stalls to the top of Tokyo. Cinematic
+
+    framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '石川のテキ屋が六本木ヒルズに来た日 #Shorts'
+  description: '2010年代、亀山敬司は本社を石川から東京の六本木ヒルズへ移し、
+
+    シリコンバレー風オフィスに、若いエンジニアを大量採用。
+
+    田舎の貸ビデオ店は、本格的IT企業へと変貌した。
+
+
+    #Shorts #亀山敬司 #DMM #六本木ヒルズ #人物伝
+
+    '
+  hook_caption: 石川のテキ屋が六本木ヒルズへ
+  series_brand: 亀山敬司伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 石川県の貸ビデオ店主が、ある日、本社ごと、六本木ヒルズに引っ越しました。
+    caption: 本社を六本木ヒルズへ移転
+  - panel: p2
+    text: 2008年頃まで、DMMの本社は、石川県加賀市の、地味な郊外ビルの中にありました。
+    caption: 2008年頃まで、本社は石川
+  - panel: p3
+    text: しかし亀山敬司は、ITで本気で戦うなら、東京の中心、そして、最新のオフィスが、必要だと判断します。
+    caption: 東京の中心、最新オフィスが必要
+  - panel: p4
+    text: 2010年代、彼は本社機能を、東京の六本木ヒルズに、移しました。
+    caption: 2010年代、六本木ヒルズへ
+  - panel: p5
+    text: オフィスは、シリコンバレー風。若いエンジニアを、数百人単位で、大量採用したんです。
+    caption: シリコンバレー風オフィスへ
+  - panel: p6
+    text: 田舎のテキ屋が、本格IT企業に変貌した瞬間、それが、この六本木の夜景だったんです。
+    caption: 田舎のテキ屋が、IT企業へ変貌
+en:
+  title: 'How a Small-Town Hustler Took Over Tokyo''s Richest Zip Code #Shorts'
+  description: 'In the 2010s, Keishi Kameyama moved his company DMM from a sleepy rural town to Tokyo''s prestigious Roppongi Hills.
+
+    He built a Silicon Valley-style office, hired hundreds of young engineers, and transformed his video rental business into a tech empire.
+
+    #Shorts #KeishiKameyama #DMM #Tokyo #Business'
+  hook_caption: He Moved His Office From Here... To HERE
+  series_brand: The Keishi Kameyama Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: Until 2008, this modest building in rural Ishikawa was the headquarters for one of Japan's future tech giants, DMM.
+    caption: Humble Beginnings
+  - panel: p3
+    text: But its founder, Keishi Kameyama, knew that to truly compete in tech, they needed to be in the heart of Tokyo.
+    caption: A Bold Decision
+  - panel: p4
+    text: So in the 2010s, he moved the entire company to Roppongi Hills, one of the most prestigious addresses in Japan.
+    caption: The Big Move
+  - panel: p5
+    text: He built a Silicon Valley-style campus and went on a massive hiring spree for young engineering talent.
+    caption: Silicon Valley Vibe
+  - panel: p1
+    text: The small-town video rental business had officially transformed into a legitimate IT powerhouse.
+    caption: A Tech Giant is Born
+  - panel: p6
+    text: This view from the top wasn't just a skyline. It was a statement.
+    caption: View From The Top

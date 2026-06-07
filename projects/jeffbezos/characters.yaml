@@ -1,0 +1,81 @@
+# ジェフ・ベゾス cast — visual character sheets for anime/webtoon shorts.
+# Two life-stage variants of Jeff Bezos:
+#   - subject_young: 30 years old, 1994 Amazon-founding era, still has thinning hair, slim
+#   - subject_adult: late-50s to early-60s, post-Amazon-CEO / Blue Origin era, fully bald, muscular
+characters:
+  - id: subject_adult
+    name_ja: ジェフ・ベゾス (50代後半-60代)
+    description_en: |
+      A white American man in his late 50s to early 60s with the characteristic
+      mature Jeff Bezos facial features: a completely shaved bald head with a
+      smooth round cranium, prominent strong square jaw, deeply tanned to slightly
+      sun-weathered fair skin, piercing pale-blue eyes set under thick straight
+      eyebrows, a broad straight nose, full expressive mouth that very often breaks
+      into his trademark loud open-mouthed wide laugh showing teeth, faint
+      crow's-feet lines at the corners of the eyes, thick muscular neck and broad
+      shoulders from intense recent gym training, a visibly bodybuilder-style
+      muscular chest and arms straining under his shirts, the charismatic
+      confident bearing of one of the richest men in the world, average height
+      but powerful build, never wears glasses.
+    outfit_en: |
+      the modern post-CEO Jeff Bezos casual-power uniform — a fitted solid black
+      V-neck t-shirt or a fitted dark polo shirt showing off the muscular arms,
+      sometimes layered under an unbuttoned tailored dark vest or a fitted casual
+      navy blazer, well-fitting dark indigo jeans or fitted dark trousers, clean
+      brown leather boots or low-top sneakers, occasionally a sharp dark navy or
+      charcoal business suit for keynote moments; for the Blue Origin spaceflight
+      a sky-blue Blue Origin flight suit with a small Feather logo patch and a
+      cowboy hat held in one hand. Never a tie unless suited up.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - loud open-mouthed wide trademark laugh
+      - intense composed thinking before a decision
+      - childlike grinning awe looking at a rocket
+      - confident wide-stance keynote pose
+      - quiet contemplative gaze out a window
+    poses:
+      - "Three-quarter view standing arms crossed showing muscular forearms"
+      - "Front view roaring laughter head tilted back"
+      - "Side profile gazing up at a rising rocket"
+      - "Wide-stance hands on hips in front of a blue origin spacecraft"
+
+  - id: subject_young
+    name_ja: ジェフ・ベゾス (30歳)
+    description_en: |
+      A 30-year-old white American man in 1994 with the characteristic young
+      Jeff Bezos facial features: a round slightly boyish face with a strong
+      square jaw beginning to define, fair skin, alert intelligent pale-blue
+      eyes, a broad straight nose, full expressive mouth quick to break into a
+      wide trademark open-mouthed laugh, dark brown hair very visibly thinning
+      on top with a high receding hairline and the remaining hair trimmed short
+      around the sides — NOT yet bald, just clearly balding, no glasses, lean
+      slim build with narrow shoulders (not yet muscular), the eager intense
+      bearing of a 30-year-old DE Shaw VP about to abandon a Wall Street career
+      to start an internet bookstore.
+    outfit_en: |
+      mid-1990s dot-com-founder casual — a plain solid-color button-down dress
+      shirt (white, light blue, or pale checked pattern) often with sleeves
+      rolled up to the forearms, sometimes a plain cotton polo shirt, tucked
+      into well-worn khaki chinos or faded blue jeans, a simple leather belt,
+      brown loafers or plain sneakers; for the Wall Street DE Shaw scenes a
+      slightly rumpled charcoal or navy suit with a plain dark tie, white
+      dress shirt; for the garage scenes the rolled-sleeve button-down with
+      chinos and sometimes a casual zip fleece against the Seattle chill.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - eager wide-eyed determination at a CRT monitor
+      - quiet thoughtful staring out a Manhattan office window
+      - excited open-mouthed laugh at a brainstorm
+      - composed serious explanation to his wife
+      - exhausted but exhilarated late-night packing of boxes
+    poses:
+      - "Three-quarter view leaning over a desktop computer in a garage"
+      - "Side profile typing on a beige 1990s keyboard"
+      - "Front view standing arms folded by a hand-painted Amazon sign"
+      - "Wide shot loading cardboard boxes into a station wagon"

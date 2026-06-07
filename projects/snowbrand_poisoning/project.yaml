@@ -1,0 +1,32 @@
+# 雪印乳業集団食中毒事件 shorts-only project. No long-form chapters yet.
+id: snowbrand_poisoning
+title_ja: "雪印集団食中毒事件"
+title_en: "雪印集団食中毒事件"
+subject: "雪印乳業集団食中毒事件"
+language: ja
+
+era: "2000-2001, post-bubble Japan"
+locale_hint: "Osaka and Tokyo Japan"
+
+style:
+  description: "full-color modern anime / webtoon style, soft cel shading, expressive line art, cinematic lighting, biographical drama tone"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face, photorealistic, photograph, 3D render"
+
+chapters: []
+
+narrator:
+  voice_style_id: 1310138977
+  voice_speed: 1.0
+  instructions: |
+    Read with calm reflective intensity, first-person memoir tone.
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+
+bubbles:
+  font_path: /Users/apple/dev/claude-code/webtoon-gen/assets/fonts/NotoSansJP-Regular.otf
+  font_index: 0
+  font_scale: 4.0
+
+output_targets: []

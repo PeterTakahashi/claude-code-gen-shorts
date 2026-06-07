@@ -1,0 +1,65 @@
+characters:
+  - id: fleming
+    name_ja: アレクサンダー・フレミング
+    description_en: >-
+      a 47-year-old Scottish bacteriologist man in 1928 London, short stature
+      with a thick neat moustache, slightly receding sandy-brown hair combed
+      back, sharp pale blue eyes behind small round wire-rim spectacles,
+      square jaw, calm contemplative slightly amused expression, the look
+      of a meticulous scientist who notices small things others overlook
+    outfit_en: >-
+      a long white laboratory coat over a brown three-piece tweed suit,
+      a dark knit tie, leather oxford shoes, occasionally holding a glass
+      petri dish in one hand
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: art_fry
+    name_ja: アート・フライ
+    description_en: >-
+      a 43-year-old American 3M chemical engineer man around 1974 in
+      Minnesota, average height with neatly combed light-brown hair parted
+      to the side, slightly round friendly face, gentle eyes behind
+      large 1970s-style square plastic-frame glasses, the relatable look
+      of a corporate R&D engineer who sings in his church choir on Sundays
+    outfit_en: >-
+      a beige short-sleeve button-down shirt with a thin brown knit tie,
+      dark brown slacks, brown leather loafers, a row of pens in a shirt
+      pocket protector
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: iijima
+    name_ja: 飯島澄男
+    description_en: >-
+      a 52-year-old Japanese senior research scientist man in 1991 at NEC
+      Tsukuba Fundamental Research Laboratory, medium-tall slim build, short
+      neatly combed black hair lightly greying at the temples, sharp narrow
+      dark intelligent eyes behind clean square wire-rim glasses, slightly
+      pronounced cheekbones, clean-shaven, calm intensely academic expression
+      with the focused gaze of an electron-microscope specialist who has spent
+      thirty years staring at atoms, faint smile lines at the corners of his
+      eyes
+    outfit_en: >-
+      a crisp white knee-length laboratory coat over a pale blue dress shirt
+      with a thin navy necktie, dark grey slacks, soft brown leather indoor
+      shoes, a small NEC researcher ID badge clipped to his breast pocket,
+      occasionally holding a printed micrograph or a small dark soot-covered
+      sample tube
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: jh_kellogg
+    name_ja: ジョン・ハーヴェイ・ケロッグ博士
+    description_en: >-
+      a 42-year-old American physician man in 1894 Battle Creek Michigan,
+      medium height with a full neatly trimmed white beard and white
+      moustache contrasting his still dark eyebrows, balding crown with
+      short greying side hair, sharp piercing pale blue eyes behind small
+      rimless pince-nez spectacles, fair complexion, the earnest intense
+      look of a Seventh-day Adventist health reformer and sanitarium
+      director obsessed with patients' digestion
+    outfit_en: >-
+      an immaculate full white three-piece physician suit — white jacket,
+      white waistcoat, white trousers, a white bow tie at a starched
+      high collar, white leather shoes, the iconic all-white uniform he
+      wore at the Battle Creek Sanitarium
+    voice_style_id: 1310138977
+    voice_speed: 1.4

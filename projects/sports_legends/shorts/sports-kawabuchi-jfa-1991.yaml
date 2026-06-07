@@ -1,0 +1,209 @@
+id: sports-kawabuchi-jfa-1991
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME close-up dramatic shot of a 55-year-old Japanese sports
+
+    administrator''s face, intense determined dark eyes under thick dark
+
+    eyebrows fixed directly forward, strong square jaw set with quiet
+
+    defiance, neatly combed short black hair lightly greying at the
+
+    temples, faint permanent crease between his brows, dark navy business
+
+    suit shoulder visible, soft-focus 1991 JFA Tokyo office interior with
+
+    a Japanese flag and a faint old-style JFA emblem on the wall behind
+
+    him. Cool late-afternoon office light. The visual of "the day one
+
+    ex-player decided to burn down amateur soccer." Subject filling
+
+    square center for vertical short layout with blurred padding above
+
+    and below.
+
+    Character: {kawabuchi}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of the 1991 Japan Football Association headquarters office
+
+    in Tokyo, mid-shot of the same 55-year-old Japanese sports
+
+    administrator in a tailored dark navy suit standing in front of a
+
+    large wooden conference table, slapping his palm down on a thick
+
+    bound report titled in decorative English "J.LEAGUE 100-YEAR PLAN",
+
+    a row of older Japanese soccer-federation board members in grey suits
+
+    seated around him looking visibly shocked, decorative Japanese sign
+
+    on the wall「日本サッカー協会」readable, late-afternoon Tokyo window
+
+    light. The visual of "the meeting where amateur Japan was told it
+
+    was over." Clearly 1991 Japanese office setting.
+
+    Character: {kawabuchi}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern soft cream background, decorative bold English headline
+
+    "AMATEUR → PRO" centered, smaller decorative Japanese label beneath
+
+    「1991年: JFA会長就任 / 1993年: Jリーグ開幕 / 2002年: W杯共催」readable,
+
+    a small chibi figure of the same Japanese administrator in a navy
+
+    suit standing between two stylized icons — a small grey factory
+
+    logo on the left and a glowing green soccer ball on the right,
+
+    a thin arrow between them. The visual of "amateur company-team
+
+    soccer was rebuilt into a professional league in 2 years."
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    May 1993 Tokyo National Stadium opening night of the J-League, wide
+
+    mid-shot of the lit stadium pitch with two professional teams in
+
+    bright kits walking out under fireworks, a roaring sold-out Japanese
+
+    crowd in the stands waving team flags, decorative English stadium
+
+    signage "J.LEAGUE OPENING / 1993" readable on a giant scoreboard,
+
+    a smaller Japanese banner「Jリーグ 開幕」visible in the stands. The
+
+    same 55-year-old Japanese administrator standing in a VIP balcony
+
+    in a dark suit, hands resting on the railing, expression quietly
+
+    proud, the visual of "1993, the night Japanese soccer became
+
+    professional." Clearly 1993 Tokyo stadium setting.
+
+    Character: {kawabuchi}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    June 2002 Yokohama Stadium final of the FIFA World Cup co-hosted by
+
+    Japan and Korea, wide shot of the brightly lit stadium with a giant
+
+    decorative English scoreboard reading "2002 FIFA WORLD CUP / JAPAN
+
+    KOREA", massive Japanese and Korean flags in the stands, the same
+
+    Japanese administrator now 66 years old in a dark suit standing on
+
+    the sideline beside FIFA officials, his expression calm and quietly
+
+    satisfied, the visual of "11 years after one meeting, Japan hosted
+
+    the World Cup." Clearly 2002 Yokohama setting.
+
+    Character: {kawabuchi}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame.
+
+    Same EXTREME close-up as panel 1 but slightly later — the same
+
+    55-year-old Japanese sports administrator''s face, intense dark eyes
+
+    now softening into a small quiet proud smile at the corners, the
+
+    faint crease between his brows now slightly relaxed, the same dark
+
+    navy suit shoulder and soft-focus 1991 JFA office interior, late
+
+    afternoon light slightly warmer. The loop image of "the man who
+
+    bet 100 years on Japanese soccer." Subject filling square frame
+
+    for vertical short with blurred padding above and below.
+
+    Character: {kawabuchi}.
+
+    '
+ja:
+  title: '川淵三郎が日本サッカーを変えた1991年 #Shorts'
+  description: '35年前の1991年、元プロサッカー選手だった川淵三郎は、JFA会長として、アマチュアだった日本サッカーを、プロ化する決断をしました。
+
+    2年後にJリーグが開幕し、11年後の2002年には、日本がW杯を共催するまでに、なります。
+
+
+    #Shorts #Jリーグ #川淵三郎 #JFA #サッカー
+
+    '
+  hook_caption: 川淵が日本サッカーを変えた
+  series_brand: J-League誕生
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「アマチュアでは、世界に勝てない」——35年前の1991年、当時55歳の川淵三郎は、ひとりで日本サッカーの構造を、壊し始めたんです。
+    caption: 1991年、川淵三郎の決断
+  - panel: p2
+    text: 古河電工出身の元日本代表だった彼は、JFA会長として、「100年計画」と題した分厚い報告書を、保守的な役員たちの前に、叩きつけました。
+    caption: 100年計画を役員に叩きつけた
+  - panel: p3
+    text: 当時の日本サッカーは、企業の部活動が主流で、選手は社員でした。それをプロ化するというのは、業界の常識を、根底から、覆す決断だったんです。
+    caption: 企業部活からプロ化への大転換
+  - panel: p4
+    text: そして33年前の1993年、Jリーグが開幕。10チームでスタートしたプロリーグは、日本人の「夜の楽しみ」を、一気に書き換えました。
+    caption: 1993年、Jリーグ開幕
+  - panel: p5
+    text: そのうえ、24年前の2002年には、日本と韓国の共催で、FIFAワールドカップが、実現します。アマチュアだった国が、たった11年で、W杯開催国になったんです。
+    caption: 11年後、W杯開催国へ
+  - panel: p6
+    text: 100年計画は、まだ65年も、残っている——川淵三郎が1991年のあの夜にひとりで切った決断は、今も、日本サッカーの未来を、押し上げ続けています。
+    caption: 100年計画はまだ65年残っている
+en:
+  title: 'He Built Japan''s Pro Soccer League From Scratch #Shorts'
+  description: 'In 1991, Japanese soccer was a purely amateur affair. Saburo Kawabuchi launched a radical ''100-Year Plan'' to change that.
+
+    This is the story of how he created the J-League and helped Japan co-host the World Cup just 11 years later.
+
+
+    #Shorts #JLeague #Soccer #History #Japan'
+  hook_caption: He Built A Pro Soccer League From Nothing
+  series_brand: The Birth of the J-League
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: In 1991, Japanese soccer was completely amateur. This man, Saburo Kawabuchi, had a plan to tear it all down.
+    caption: A radical idea
+  - panel: p2
+    text: As head of the Football Association, he presented a bold '100-Year Plan' to build a professional sport from the ground up.
+    caption: The 100-Year Plan
+  - panel: p3
+    text: His vision was to replace corporate teams of employees with fully professional clubs—a move many thought was impossible.
+    caption: Amateur to Pro
+  - panel: p4
+    text: But just two years later, the J-League was born, and its 10 founding teams immediately captivated the entire nation.
+    caption: The J-League Begins
+  - panel: p5
+    text: The result? In a stunning 11 years, Japan went from having no pro league to co-hosting the 2002 FIFA World Cup.
+    caption: World Cup Hosts
+  - panel: p6
+    text: Kawabuchi's 100-year plan is still in motion today, a legacy born from one man's impossible dream.
+    caption: A lasting legacy

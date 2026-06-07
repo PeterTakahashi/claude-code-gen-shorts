@@ -1,0 +1,165 @@
+id: dario-physics-phd
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2024, inside Anthropic''s data center corridor. Dario Amodei standing between
+
+    two towering rows of glowing GPU server racks, the cool blue light reflecting
+
+    on his thoughtful face, his expression that of a scientist contemplating his
+
+    own creation. Wide-mid shot with deep symmetrical perspective down the
+
+    corridor. Cinematic technological sublime.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2010 Princeton University biophysics laboratory. A 27-year-old Dario Amodei
+
+    (younger, less weathered, same Italian-American features, thick wavy dark
+
+    brown hair worn long), wearing a plain grey t-shirt under an open zip-up
+
+    hoodie, peering intently into a microscope. On the lab bench, a printout of
+
+    a neural circuit diagram and a stack of biophysics papers. The bearing of an
+
+    earnest PhD student.
+
+    Character: {subject_phd}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2013 Princeton, a small graduate student office at night. The young Dario
+
+    Amodei seated at a desk with two side-by-side monitors: the left screen
+
+    shows a microscope image of biological neurons firing in a brain slice; the
+
+    right screen shows a stylized artificial neural network diagram with the
+
+    title "Deep Learning". His face lit from both screens, eyes wide with a
+
+    sudden insight, the moment of realizing the parallel between brain and
+
+    machine. Late-night academic lighting.
+
+    Character: {subject_phd}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2015, inside a modern Silicon Valley AI research office (suggesting Google
+
+    Brain or Baidu Research). The mid-20s Dario Amodei in a navy crew-neck
+
+    sweater seated at a desk with three monitors displaying training loss
+
+    curves and Python code, other AI researchers visible at adjacent desks,
+
+    whiteboards covered in equations behind him. Bright daylight, the bearing
+
+    of a young scientist who has just pivoted from neuroscience to AI.
+
+    Character: {subject_phd}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2019 OpenAI office. The now slightly older Dario Amodei (closer to current
+
+    adult appearance) standing at a large whiteboard drawing a smooth log-scale
+
+    curve labeled "Scaling Laws" with axes "Compute" and "Capability", an
+
+    expression of awed recognition on his face, three colleagues watching from
+
+    seated positions. Modern startup lighting.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2024 Anthropic data center, a tight three-quarter shot of Dario Amodei
+
+    standing in the GPU corridor, his right hand lightly resting on the glass
+
+    panel of a server rack, the blue rack-light glow on his contemplative face,
+
+    the same row of servers stretching behind him into shallow focus. The visual
+
+    feeling of a physicist who chose to build, not just study.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '物理学PhDがAIのCEOになった理由 #Shorts'
+  description: 'ダリオ・アモデイは、プリンストン大学で計算神経科学のPhDを取得した物理学者だった。
+
+    脳の仕組みを研究していた男が、なぜAI企業のCEOになったのか。
+
+    #Shorts #ダリオアモデイ #Anthropic #Claude #人物伝
+
+    '
+  hook_caption: 物理学PhDがAIのCEOに
+  series_brand: ダリオ・アモデイ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 今、Anthropicを率いるダリオ・アモデイ。実は、AI研究者ではなく、物理学者として、出発した男です。
+    caption: もともとは物理学者
+  - panel: p2
+    text: プリンストン大学で、計算神経科学のPhDを取得し、2014年まで、脳の仕組みを、ひたすら、研究していました。
+    caption: プリンストンで計算神経科学PhD
+  - panel: p3
+    text: ある日、彼は気づいたんです——生物の神経細胞と、人工ニューラルネットの、計算原理が、驚くほど、似ている、と。
+    caption: 脳とAIは計算原理が似ている
+  - panel: p4
+    text: だから、彼は、神経科学を離れて、Baidu、Google Brain、そしてOpenAIへと、AI研究の最前線に、飛び込んでいきました。
+    caption: Baidu→Google→OpenAIへ
+  - panel: p5
+    text: OpenAIで、彼は、有名な「Scaling Laws」を発見します——計算量を増やせば、AIは、予測可能な形で、賢くなる。
+    caption: Scaling Laws の発見
+  - panel: p6
+    text: 脳を理解しようとした男が、今は、脳より大きな知性を、自分の手で、設計している——科学者として、これほど、劇的な転身は、無いんです。
+    caption: 脳を超える知性を設計する物理学者
+en:
+  title: 'This Physicist Quit Brain Science to Build a Super-AI #Shorts'
+  description: 'Dario Amodei started as a physicist studying the brain. So how did he become the CEO of Anthropic, a company building one of the world''s most powerful AIs?
+
+    #Shorts #DarioAmodei #Anthropic #Claude #AI'
+  hook_caption: He studied our brain... to build an artificial one.
+  series_brand: The Dario Amodei Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: This is Dario Amodei, CEO of the AI giant Anthropic. But he didn't start in tech... he started as a physicist.
+    caption: From Physics to AI
+  - panel: p2
+    text: At Princeton, he earned a PhD in computational neuroscience, dedicating himself to understanding the human brain.
+    caption: Studying the brain
+  - panel: p3
+    text: 'Then, he had a breakthrough: the math behind biological neurons was shockingly similar to artificial neural networks.'
+    caption: A shocking realization
+  - panel: p4
+    text: So he pivoted. He left neuroscience and jumped to the front lines of AI at Baidu, Google Brain, and eventually, OpenAI.
+    caption: The pivot to AI
+  - panel: p5
+    text: There, he helped discover the 'Scaling Laws'—proof that AI gets predictably smarter the more computing power you give it.
+    caption: The Scaling Laws
+  - panel: p6
+    text: The man who started by studying our brain is now designing an intelligence far more powerful than our own.
+    caption: Building a new mind

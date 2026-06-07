@@ -1,0 +1,22 @@
+characters:
+  - id: ghosn
+    name_ja: カルロス・ゴーン (元日産会長)
+    description_en: |
+      Carlos Ghosn, former Nissan chairman, a man in his mid-60s of Lebanese-Brazilian-
+      French heritage, short build, prominent dark heavy eyebrows, balding with short
+      dark hair at the sides, a stern intense recognizable face, dark business suit; in
+      escape scenes a more casual disguise.
+    outfit_en: |
+      sharp dark business suit and tie for corporate scenes; plain casual jacket/cap for
+      the escape scenes
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - confident corporate authority
+      - shock at arrest
+      - tense determination during escape
+    poses:
+      - "Front view confident at a corporate podium"
+      - "Three-quarter tense, collar up, moving through an airport"

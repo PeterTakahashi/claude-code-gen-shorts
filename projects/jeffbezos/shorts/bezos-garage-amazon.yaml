@@ -1,0 +1,181 @@
+id: bezos-garage-amazon
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    1994 late summer in a small suburban Seattle garage converted into a workspace.
+
+    A 30-year-old Jeff Bezos sits at a cheap wooden door used as a desk, three
+
+    beige CRT-monitor desktop computers on the door-desk, stacks of hardcover
+
+    books piled around him, cardboard boxes labeled "BOOKS" leaning against the
+
+    garage wall, a hand-painted cardboard sign saying "Amazon.com" taped to the
+
+    wall, the open garage door behind him showing a grey Pacific Northwest
+
+    afternoon. He leans intently toward a CRT monitor, an eager half-smile on
+
+    his face. Mid-shot, the cluttered birthplace of a trillion-dollar company.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 1994 inside a polished Manhattan DE Shaw hedge fund office, floor-to-
+
+    ceiling windows showing the Wall Street skyline at dusk, a 30-year-old Jeff
+
+    Bezos in a slightly rumpled charcoal suit and plain dark tie standing by his
+
+    desk holding a printed list titled "Products to Sell Online", his expression
+
+    thoughtful and torn, monochrome Bloomberg-style terminal screens glowing
+
+    behind him. The corporate world he is about to abandon. Mid-shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Summer 1994 a wide cinematic shot of a beige 1988 Chevy Blazer station wagon
+
+    driving west on a sun-bleached American interstate highway through the
+
+    Wyoming high plains, big sky country, a 30-year-old Jeff Bezos at the
+
+    passenger seat typing on a chunky 1990s laptop drafting a business plan,
+
+    his wife MacKenzie (a young dark-haired white American woman in her early
+
+    20s) at the wheel, cardboard boxes and luggage stacked in the back. The
+
+    open road of a leap of faith. Side-three-quarter shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Tight close-up of a beige 1995 CRT computer monitor in a dim garage, the
+
+    screen showing a primitive grey-and-blue mid-1990s Amazon.com website
+
+    homepage with a simple text logo, a search box, and a list of book titles
+
+    in plain serif font, the reflection of a young man''s intent face faintly
+
+    visible on the curved glass, a black ballpoint pen and a coffee mug beside
+
+    the chunky beige keyboard.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late one night July 1995 in the Seattle garage, a 30-year-old Jeff Bezos
+
+    standing arms raised in a burst of joy, his open-mouthed trademark wide
+
+    laugh visible, three other young casual employees in flannel shirts and
+
+    t-shirts behind him cheering quietly, a CRT monitor on the door-desk
+
+    glowing with a single new order on the screen, stacks of hardcover books
+
+    and shipping boxes around them, warm pool of desk-lamp light against the
+
+    dark garage. The first sale of Amazon.com. Mid-shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The same Seattle garage at dawn, soft grey morning light through the open
+
+    garage door, a 30-year-old Jeff Bezos kneeling on the concrete floor
+
+    carefully packing a single hardcover book into a brown cardboard shipping
+
+    box, a "from: Amazon.com Seattle WA" handwritten label on the box, an
+
+    exhausted but glowing satisfied smile on his face, the door-desk and three
+
+    CRT monitors visible in the background, the quiet weight of a small
+
+    beginning. Three-quarter shot, the future trillion-dollar company has
+
+    just shipped its first book.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: 'シアトルのガレージから始まったAmazon #Shorts'
+  description: '1994年、30歳のジェフ・ベゾスは、Wall Street の高給職を辞め、
+
+    妻 MacKenzie と西海岸へ車で向かい、シアトルのガレージで Amazon を創業した。
+
+
+    #Shorts #ジェフベゾス #Amazon #人物伝
+
+    '
+  hook_caption: ガレージから始まったAmazon
+  series_brand: ジェフ・ベゾス伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1994年、ウォール街の高給職を捨てて、ガレージで本屋を始めた男がいます。
+    caption: 高給職を捨ててガレージで創業
+  - panel: p2
+    text: 30歳のジェフ・ベゾスは、ヘッジファンド DE Shaw の副社長として、年収数千万を稼いでいました。
+    caption: DE Shaw の副社長、年収数千万
+  - panel: p3
+    text: しかしある日、彼は妻 MacKenzie と一緒に車に乗り、西海岸のシアトルへ向かったんです。
+    caption: 妻 MacKenzie と西海岸へ
+  - panel: p4
+    text: 選んだ商品は、本。理由は、世界中に何百万冊もあって、在庫管理が楽だったからでした。
+    caption: 最初の商品は本
+  - panel: p5
+    text: そして 1995年7月、シアトルのガレージから、Amazon.com の最初の注文が、入ったんです。
+    caption: 1995年7月、最初の注文
+  - panel: p6
+    text: 30年後、その小さなガレージは、時価総額2兆ドル超の帝国に、なったわけです。
+    caption: 30年後、2兆ドルの帝国に
+en:
+  title: 'How Amazon Started in a Garage #Shorts'
+  description: 'In 1994, Jeff Bezos quit his high-paying Wall Street job to start an online bookstore. From a Seattle garage, he built Amazon into a multi-trillion dollar company.
+
+
+    #Shorts #JeffBezos #Amazon #Biography #Entrepreneur'
+  hook_caption: He Quit Wall Street For THIS?
+  series_brand: The Jeff Bezos Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1994, 30-year-old Jeff Bezos was a high-flying Vice President at a top Wall Street hedge fund.
+    caption: A Wall Street VP
+  - panel: p3
+    text: But he saw the internet was growing 2,300% a year and decided to bet everything on it.
+    caption: The Big Bet
+  - panel: p1
+    text: He quit his job, and he and his wife MacKenzie drove to Seattle to launch a new company from a garage.
+    caption: Garage Startup
+  - panel: p4
+    text: His idea? An online bookstore that could offer millions of titles, far more than any physical shop.
+    caption: Why books?
+  - panel: p5
+    text: Then, in July 1995, the very first order for a little site called Amazon.com came through.
+    caption: The First Sale
+  - panel: p6
+    text: From that single package, a two trillion dollar empire would grow.
+    caption: $2 Trillion Empire

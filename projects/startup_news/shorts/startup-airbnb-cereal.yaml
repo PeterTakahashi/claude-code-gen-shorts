@@ -1,0 +1,67 @@
+id: startup-airbnb-cereal
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A 2008 San Francisco apartment, two young exhausted men in their late 20s sitting on
+      a couch surrounded by stacks of brightly colored cereal boxes, decorative English
+      labels "OBAMA O'S" and "CAP'N McCAIN'S" on the boxes, a decorative Japanese caption
+      "シリアル箱で会社を救った", the visual of "the cereal boxes that saved a dying startup".
+      Warm, gritty startup tone.
+  - id: p2
+    prompt: |
+      An infographic of the early Airbnb in 2008 — three founders Brian Chesky, Joe
+      Gebbia, and Nathan Blecharczyk with a tiny website, almost no users, decorative
+      English caption "AIRBED & BREAKFAST — 2008", the visual of "their air-mattress
+      rental site was going nowhere". Clean infographic with portraits.
+  - id: p3
+    prompt: |
+      A 2008 American presidential election scene with Barack Obama and John McCain on TV,
+      the two founders watching with a sudden idea, a small thought bubble of a cereal
+      box, the visual of "the election gave them a wild idea". Vintage 2008 living room
+      tone.
+  - id: p4
+    prompt: |
+      An infographic of their plan — buy plain cereal, design Obama O's and Cap'n McCain's
+      boxes by hand, sell them for $40 each at the Democratic National Convention,
+      decorative English caption "500 BOXES × $40 = $30,000", the visual of "they made
+      $30,000 selling election-themed cereal". Clean infographic with cereal box icons.
+  - id: p5
+    prompt: |
+      A scene of Paul Graham at Y Combinator listening to the founders' story, then
+      laughing and saying "if you can convince people to pay $40 for cereal, you can do
+      anything", the visual of "Paul Graham accepted them into YC because of the cereal".
+      Modern startup office scene.
+  - id: p6
+    prompt: |
+      A montage of modern Airbnb listings across Tokyo, Paris, New York, and a small cereal
+      box icon glowing in the corner, a decorative Japanese caption "シリアルから始まった巨大企業",
+      the loop image of "from cereal boxes to a $100 billion company". Calm, hopeful tone.
+ja:
+  title: 'Airbnb、シリアル箱で会社を救った創業話 #Shorts'
+  description: |
+    2008年、Airbnbの創業者3人は資金が尽きかけていた。彼らは大統領選にあわせて、Obama O'sとCap'n McCain'sというオリジナルシリアルを手作りし、1箱40ドルで売って3万ドルを稼ぐ。Y Combinatorに採用される伝説のエピソードを30秒で解説します。
+
+    #Shorts #Airbnb #スタートアップ #シリアル #シリコンバレー
+  hook_caption: シリアル箱で会社を救った創業話
+  series_brand: スタートアップNEWS
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 創業まもないスタートアップが、シリアルを手作りして売り、潰れかけの会社を救った話を、知っていますか。今や時価総額10兆円超えの、Airbnbの話です。
+      caption: シリアルで救われた会社の名はAirbnb
+    - panel: p2
+      text: 2008年、ブライアン・チェスキーら3人の創業者は、空気マットレスを貸し出すサイトを運営していましたが、ユーザーは伸びず、借金だけが膨らんでいきました。
+      caption: 2008年、ユーザーが伸びず借金だけ増加
+    - panel: p3
+      text: そんなとき、アメリカ大統領選が、彼らに、突拍子もないアイデアを、与えます。オバマとマケインをパッケージにした、選挙シリアルを、作ろう、と。
+      caption: 大統領選から閃いたシリアル作戦
+    - panel: p4
+      text: 彼らは「Obama O's」と「Cap'n McCain's」という箱を、手で切り貼りして作り、500箱を1箱40ドルで、売りさばきます。約3万ドルの、運転資金が、生まれました。
+      caption: 500箱×40ドルで3万ドルを稼ぐ
+    - panel: p5
+      text: この話に大笑いした、Y Combinator創業者のポール・グレアムは、「シリアルを40ドルで売れる奴らなら、何でもできる」と言って、Airbnbを採択しました。
+      caption: ポール・グレアムがYCに採択
+    - panel: p6
+      text: 現在、Airbnbの時価総額は、およそ800億ドル。あのシリアルがなければ、会社は、つぶれていたかもしれない——逆境の発想こそが、Airbnbの本当のDNAなんです。
+      caption: 逆境の発想がAirbnbのDNA

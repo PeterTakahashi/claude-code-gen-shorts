@@ -1,0 +1,199 @@
+id: seren-iijima-nanotube-1991
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME close-up dramatic shot of a 52-year-old Japanese scientist''s
+
+    face frozen in stunned realization, sharp narrow dark eyes wide behind
+
+    clean square wire-rim glasses, mouth slightly parted, a faint reflection
+
+    of a black-and-white electron-microscope image of tiny perfect carbon
+
+    tubes glowing on his glass lenses, short neatly combed black hair lightly
+
+    greying at the temples, crisp white lab coat collar visible at his
+
+    shoulders, soft-focus NEC Tsukuba electron-microscope room behind him
+
+    with a dark cylindrical microscope column looming. Cool blue-grey 1991
+
+    Japanese research-lab light. The visual of "the soot just gave me a
+
+    Nobel-class discovery." Subject filling square center for vertical
+
+    short layout with blurred padding above and below.
+
+    Character: {iijima}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of NEC Tsukuba Fundamental Research Laboratory in 1991 Japan,
+
+    mid-shot of the same 52-year-old Japanese scientist in a crisp white
+
+    lab coat seated at a cluttered workbench, an arc-discharge fullerene
+
+    synthesis apparatus humming on the bench, a small glass vial of
+
+    jet-black soot in his gloved fingers held curiously up to the desk
+
+    lamp, decorative English equipment label "NEC" small on the apparatus,
+
+    a tiny decorative Japanese sign on the wall「電子顕微鏡室」readable. Late
+
+    evening lab light, the visual of "the soot most people would throw
+
+    away." Clearly Japanese 1991 research-lab interior.
+
+    Character: {iijima}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    EXTREME macro view through an electron microscope screen, a perfect
+
+    cylindrical lattice of carbon hexagons rolled into a tiny tube with
+
+    multiple concentric walls, a clean black-and-white scientific look,
+
+    a decorative English label floating to one side reading
+
+    "MULTI-WALL CARBON NANOTUBE", a tiny scale bar reading "10 nm",
+
+    the visual of "the molecule nobody knew existed until that
+
+    afternoon." Scientific micrograph composition. No people.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern soft cream background, decorative bold English headline
+
+    "1 / 50,000" centered, smaller decorative Japanese label beneath
+
+    「人の髪の毛の5万分の1の太さ / 鋼の100倍の強度 / 銅より高い導電性」readable,
+
+    a tiny chibi figure of the same scientist in a white lab coat
+
+    holding a magnifying glass next to a stylized carbon-nanotube tube
+
+    graphic, soft hexagon accents in the corners. The visual of "thinner
+
+    than hair, stronger than steel."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A bright modern 2024 Tokyo materials-science exhibition hall, wide
+
+    mid-shot of a sleek transparent glass display case housing a coil of
+
+    jet-black carbon-nanotube fiber, decorative English signage above the
+
+    case reading "CARBON NANOTUBE / 1991-2024", a small group of young
+
+    Japanese university students in casual clothing leaning in to read
+
+    the panel, a separate decorative wall photo of the same scientist in
+
+    a white lab coat from 1991 framed beside the case, a small Japanese
+
+    caption「飯島澄男 / NEC / 1991年発見」readable. Clean modern Tokyo
+
+    museum lighting, the visual of "33 years later, the soot powers the
+
+    future."
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame.
+
+    Same EXTREME close-up as panel 1 but slightly later — the same
+
+    52-year-old Japanese scientist''s face, sharp dark eyes behind square
+
+    wire-rim glasses now softening into a small quiet humble smile, the
+
+    reflection of the electron-microscope image of carbon tubes still
+
+    faintly visible on his lenses, same crisp white lab coat collar and
+
+    soft-focus NEC Tsukuba microscope-room background but warmer now. The
+
+    loop image of "the night a Japanese researcher found a new molecule
+
+    inside soot." Subject filling square frame for vertical short with
+
+    blurred padding above and below.
+
+    Character: {iijima}.
+
+    '
+ja:
+  title: '煤からノーベル級発見、飯島澄男1991年の夜 #Shorts'
+  description: '35年前の1991年、NEC筑波研究所の飯島澄男は、捨てるはずの煤を電子顕微鏡で覗いていて、世界を変える新しい炭素分子、カーボンナノチューブを、見つけてしまったんです。
+
+    その「煤」から生まれた素材は、髪の毛の5万分の1の太さで、鋼の100倍の強度を持ちます。
+
+
+    #Shorts #カーボンナノチューブ #飯島澄男 #NEC #偶然 #serendipity
+
+    '
+  hook_caption: 煤からノーベル級発見
+  series_brand: ナノチューブ発見
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「捨てるはずの煤の中に、世界を変える分子が、入っていた」——35年前の1991年、NEC筑波研究所で本当にあった偶然の発見を、知っていますか。
+    caption: 煤の中にノーベル級の分子があった
+  - panel: p2
+    text: 当時52歳の飯島澄男は、フラーレンを作るためのアーク放電装置から出る黒い煤を、本来なら捨てるはずでしたが、なぜか電子顕微鏡で覗いてみたんです。
+    caption: 捨てるはずの煤を覗いた飯島澄男
+  - panel: p3
+    text: そこに写っていたのは、炭素原子が六角形に並んで、筒状に巻かれた、誰も見たことのない新しい分子、カーボンナノチューブでした。
+    caption: 炭素が筒状に巻かれた新分子
+  - panel: p4
+    text: 太さは、人の髪の毛の5万分の1で、強度は鋼の約100倍、銅より導電性が高い——素材科学を根本から書き換える、化け物のような性質を持っていました。
+    caption: 髪の5万分の1、鋼の100倍の強度
+  - panel: p5
+    text: 33年後の現在、カーボンナノチューブは、軽量バッテリー、宇宙エレベーター構想、半導体配線まで、応用が広がっていて、世界中の研究者が今も追いかけています。
+    caption: 33年後、宇宙から半導体まで応用
+  - panel: p6
+    text: もし飯島澄男が、煤を「ただのゴミ」として捨てていたら、ナノチューブの発見は、何十年も遅れていたかもしれない——偶然は、観察する人のもとに、しか落ちてこないんです。
+    caption: 偶然は観察する人にしか落ちない
+en:
+  title: 'He Found a Nobel Prize in the Trash #Shorts'
+  description: 'In 1991, scientist Sumio Iijima almost threw away some lab waste. Instead, he put it under a microscope and made a discovery that would change materials science forever.
+
+
+    #Shorts #Science #History #Innovation #Serendipity'
+  hook_caption: He Found a Nobel Prize in the Trash
+  series_brand: The Nanotube Discovery
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In 1991, a Japanese scientist almost threw away a Nobel Prize-winning discovery.
+    caption: A historic mistake
+  - panel: p2
+    text: At the NEC Research Lab, Sumio Iijima was supposed to discard the black soot from an experiment. But on a whim, he decided to examine it.
+    caption: Just some leftover dust...
+  - panel: p3
+    text: 'Under his electron microscope, he saw a structure no one had ever witnessed: a perfect, hollow tube of carbon atoms.'
+    caption: A new form of matter
+  - panel: p4
+    text: This 'carbon nanotube' was 1/50,000th the width of a hair, but 100 times stronger than steel.
+    caption: Small but mighty
+  - panel: p5
+    text: Today, his accidental find is foundational to new technologies, from advanced batteries to next-gen computer chips.
+    caption: Powering the future
+  - panel: p6
+    text: If he hadn't been curious about a bit of dust, the world might have waited decades for this breakthrough.
+    caption: Curiosity changes everything

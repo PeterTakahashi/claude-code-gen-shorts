@@ -1,0 +1,175 @@
+id: gates-ibm-dos-deal
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 1980, a wood-paneled conference room in a Seattle office building, a
+
+    24-year-old skinny bespectacled young man in an ill-fitting grey suit and
+
+    slightly crooked tie shaking hands across a long table with a tall middle-aged
+
+    IBM executive in a sharply pressed dark-blue three-piece suit, white shirt,
+
+    striped tie, neatly cut grey hair, a row of similarly suited IBM executives
+
+    seated behind him with stoic expressions, the contrast between the boyish
+
+    founder and the corporate giants extreme but the handshake firm. Mid-shot
+
+    framing both men.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A summer 1980 IBM secret development lab in Boca Raton, Florida, fluorescent-
+
+    lit windowless room, a small dozen of IBM engineers in short-sleeved white
+
+    shirts and dark ties huddled around an early prototype of the IBM Personal
+
+    Computer — a beige boxy machine with a separate CRT monitor — chalkboard
+
+    diagrams behind them with the word "Project Chess" partly visible, a sense
+
+    of corporate secrecy and urgency.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    1980, a well-lit charity board meeting room, a poised middle-aged white
+
+    woman in her early fifties — Mary Gates — wearing a refined wool suit
+
+    jacket with a brooch, neatly styled brown hair, kind intelligent eyes,
+
+    seated at a polished wooden boardroom table beside an older bald
+
+    distinguished executive (IBM chairman John Opel), papers spread between
+
+    them, the warm subtle suggestion of a casual conversation that would
+
+    change history. Mid-shot focused on the two figures.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 1980 Seattle law office at night, a tall imposing well-built white man
+
+    in his mid-fifties — Bill Gates Sr — in a crisp white dress shirt with
+
+    sleeves rolled up, a loosened striped tie, wire-rimmed glasses, sitting
+
+    at a heavy oak desk piled with thick contract drafts, a yellow legal pad
+
+    filled with notes, a single brass desk lamp, intense concentration on his
+
+    face — the seasoned attorney father working the IBM contract for his son.
+
+    Mid-shot.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modest 1980 small-business office in suburban Seattle of Seattle Computer
+
+    Products, a hand-drawn check made out for "$50,000" being slid across a
+
+    cheap wood-veneer desk by a young hand, on the other side a programmer in
+
+    his late 20s with a thick beard and oversized glasses looking down at it
+
+    with mild confusion, behind him a wall of floppy disks labeled "QDOS",
+
+    fluorescent lighting, an entirely unglamorous setting. Close-mid shot on
+
+    the check changing hands.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    August 1981, a Microsoft office desk, an unfolded Wall Street Journal
+
+    newspaper with a front-page article about the new "IBM Personal Computer"
+
+    shipping with "Microsoft MS-DOS" prominently named, a young hand resting
+
+    on it, in soft focus behind the newspaper a 25-year-old skinny
+
+    bespectacled young man in a button-down shirt and slacks giving a small
+
+    private satisfied closed-mouth smile, soft morning Seattle daylight
+
+    through the office window. The day the world started running on his code.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '5万ドルで買った世界覇権 #Shorts'
+  description: '1980年、IBM が秘密プロジェクトのために若き Microsoft を訪ねた。
+
+    ビル・ゲイツは、自社では持っていなかった OS を、近所の会社から5万ドルで買い取り、ライセンスとして IBM に貸し出すという、史上最大の取引を、まとめた。
+
+
+    #Shorts #ビルゲイツ #Microsoft #IBM #人物伝
+
+    '
+  hook_caption: 5万ドルで世界を取った男
+  series_brand: ビル・ゲイツ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1980年、当時24歳のビル・ゲイツが、世界最大の企業 IBM を、たった5万ドルで、出し抜いた話です。
+    caption: 24歳が IBM を出し抜いた
+  - panel: p2
+    text: IBM は、秘密の Personal Computer 計画のために、その OS を、若き Microsoft に、発注しに来ました。
+    caption: IBM が PC の OS を発注しに来た
+  - panel: p3
+    text: ところが、Microsoft は当時、OS を、持っていなかった。それでもゲイツは、案件を、引き受けたんです。
+    caption: 実は OS を持っていなかった
+  - panel: p4
+    text: 彼は、近所の Seattle Computer Products から、QDOS というソフトを、わずか5万ドルで、買い取りました。
+    caption: 近所の会社から5万ドルで買収
+  - panel: p5
+    text: そして父親の弁護士の助言で、買取ではなく、ライセンスで、IBM に貸す契約を、結んだんです。
+    caption: 売らずにライセンスで貸した
+  - panel: p6
+    text: その判断が、Microsoft を、世界最大のソフト会社へと、押し上げました——5万ドルが、生んだ帝国でした。
+    caption: 5万ドルが帝国を生んだ
+en:
+  title: 'The $50,000 Deal That Made Bill Gates #Shorts'
+  description: 'In 1980, IBM asked Bill Gates for an operating system he didn''t have. His response was a legendary bluff—a $50,000 gamble that created a software empire and changed tech history forever.
+
+
+    #Shorts #BillGates #Microsoft #IBM #History'
+  hook_caption: The $50,000 Bluff That Built an Empire
+  series_brand: The Bill Gates Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1980, tech giant IBM needed an operating system for their secret new 'Personal Computer'.
+    caption: IBM's secret project
+  - panel: p1
+    text: They went to 24-year-old Bill Gates. The only problem? His company, Microsoft, didn't have one.
+    caption: He had nothing to sell
+  - panel: p5
+    text: So Gates scrambled, buying a simple OS from a local competitor for just $50,000.
+    caption: A $50,000 gamble
+  - panel: p4
+    text: But on the advice of his father, a sharp lawyer, he made his legendary move.
+    caption: A father's advice
+  - panel: p1
+    text: He didn't sell the software to IBM. He licensed it—earning a fee for every single computer they sold.
+    caption: The masterstroke
+  - panel: p6
+    text: That single move turned a $50,000 bet into the Microsoft empire.
+    caption: An empire is born

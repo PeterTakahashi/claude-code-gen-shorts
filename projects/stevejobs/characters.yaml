@@ -1,0 +1,160 @@
+# Cast for the Steve Jobs biographical short.
+# Three life-stage variants of Jobs (child / young adult / mature) get visual designs.
+# Family, partners, and minor figures are description-only (text injection in
+# panel prompts; no individual stylesheet generated initially).
+
+characters:
+  - id: jobs_child
+    name_ja: スティーブ (10歳)
+    description_en: "a thin slightly intense white boy of about 10 years old with the characteristic young-Steve-Jobs facial features: a slightly long oval face, deep-set dark intelligent eyes, a slightly broad straight nose, a serious thoughtful mouth, brown shaggy hair somewhat untidy and falling near eyebrows, pale skin, a watchful introspective bearing"
+    outfit_en: "a casual late-1960s California schoolboy outfit — simple striped or plain t-shirt, faded jeans, sneakers, sometimes a denim jacket"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - intent absorbed reading
+      - quiet defiant gaze
+      - small precise focus on a mechanical object
+      - lonely watching other children play
+      - thoughtful curiosity
+    poses:
+      - "Front view crouched looking at an electronic component"
+      - "Three-quarter sitting on a curb reading a book"
+      - "Side profile gazing thoughtfully out a window"
+      - "Back view walking through an orchard alone"
+
+  - id: jobs_young
+    name_ja: スティーブ (20歳前後)
+    description_en: "a young adult of about 18-25 in the mid 1970s with the characteristic young-Steve-Jobs facial features: oval face, dark intense eyes set slightly close, slightly broad straight nose, full lips often pressed into a serious line, brown shoulder-length hair somewhat hippie style, often barefoot, slim lanky build, sometimes patchy beard, the seeker bearing of someone who has just returned from India"
+    outfit_en: "1970s counterculture / Reed-college dropout aesthetic — well-worn t-shirts, simple linen or cotton tops, jeans, sometimes traditional Indian kurta after the India trip, often barefoot, sometimes simple sandals"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - quiet intensity at a workbench
+      - seeker-like meditative calm
+      - intense pitching to investors
+      - young charismatic founder presenting
+      - private moment of doubt
+
+  - id: jobs_adult
+    name_ja: スティーブ (40歳前後)
+    description_en: "the iconic mature Steve Jobs aged 40-55 with characteristic Jobs features: oval face with sharper bone structure, deep-set dark piercing eyes, slightly broad straight nose, thin lips often pressed into a precise line, clean-shaven, characteristic round wire-rimmed glasses (rimless or thin-rimmed), short-cropped hair beginning to thin and grey, slim athletic build, the stage-magic bearing of a master presenter"
+    outfit_en: "the iconic Steve Jobs uniform — black mock-turtleneck (Issey Miyake), faded blue Levi's 501 jeans, New Balance sneakers (grey or white). For sick periods after 2003: noticeably thinner build, the same outfit but looser"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - presenting onstage with quiet authority
+      - intense conversation with a designer
+      - private moment of vulnerability illness
+      - reverent attention to a beautiful object
+      - calm confronting illness
+
+  # ===== Family / supporting cast =====
+  - id: paul_jobs
+    name_ja: ポール・ジョブズ (養父)
+    description_en: "Steve's adoptive father — a working-class white American man in his 40s-60s, weathered hands, short cropped hair greying at temples, kind serious face with lined eyes, the bearing of a mechanic who taught his son craft"
+    outfit_en: "1960s-1970s working man — short-sleeved button shirt, worn jeans, sturdy work boots, sometimes mechanic overalls with grease stains"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: clara_jobs
+    name_ja: クララ・ジョブズ (養母)
+    description_en: "Steve's adoptive mother — a gentle white American woman in her 40s-60s, brown hair sometimes greying tied back, kind warm face with thoughtful eyes, the bearing of a former accountant who deeply loved her son"
+    outfit_en: "1960s-1970s suburban housewife — modest dress or blouse with skirt, simple jewelry, comfortable house shoes"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: woz
+    name_ja: スティーブ・ウォズニアック (ウォズ)
+    description_en: "Steve Wozniak — a slightly stocky white American man around the same age as Jobs, curly dark brown hair, full beard often unkempt, round warm face with kind smiling eyes, the bearing of a genius engineer who is genuinely happy at his workbench"
+    outfit_en: "1970s engineer hobbyist — plaid button-down shirt over plain t-shirt, jeans, sometimes a wide tie pulled loose, often with a soldering iron in hand or pocket protector full of pens"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: chrisann_brennan
+    name_ja: クリスアン・ブレナン
+    description_en: "Chrisann Brennan in her late teens and 20s — slim white woman with long straight light brown or strawberry blonde hair often parted in the middle hippie-style, oval face with thoughtful expressive blue eyes, fair skin, a gentle artistic bearing with quiet melancholy beneath, looks slightly bohemian"
+    outfit_en: "1970s hippie / artist California aesthetic — simple long flowing dresses or long skirts with peasant blouses, often barefoot or in simple sandals, sometimes a denim jacket, simple jewelry, occasionally with a baby in arms"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: lisa_brennan_jobs
+    name_ja: リサ・ブレナン・ジョブズ (赤ちゃん)
+    description_en: "Lisa Brennan-Jobs as a newborn infant in 1978 — small healthy baby with downy light hair, round face, the typical newborn appearance, often shown swaddled in white blankets in mother's arms"
+    outfit_en: "newborn baby in 1978 — simple white cotton swaddling blanket, sometimes a small knitted cap or onesie"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: mike_markkula
+    name_ja: マイク・マークラ
+    description_en: "Mike Markkula in his mid-30s — slightly stocky white American man with neatly cut short brown hair, clean-shaven, square reliable face with warm intelligent eyes behind thin glasses, the bearing of an early-retired Intel marketing executive turned angel investor"
+    outfit_en: "1970s casual Silicon Valley business — open-collar dress shirt under a sport jacket, slacks, simple loafers, sometimes a checkered button-down"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: john_sculley
+    name_ja: ジョン・スカリー
+    description_en: "John Sculley, ex-Pepsi president brought in to lead Apple — a tall polished white American man in his 50s, neatly combed grey-brown hair, square clean-shaven face, expensive understated grooming, the bearing of a corporate marketing executive"
+    outfit_en: "1980s-90s corporate American CEO — dark blue or grey suit, white shirt, conservative striped tie, polished black oxfords"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: bill_gates
+    name_ja: ビル・ゲイツ
+    description_en: "young Bill Gates in his 20s-40s — slightly awkward white American man, light brown hair sometimes greasy and unkempt, large clear-rimmed glasses, narrow face with intent eyes, the slightly hunched posture of a programmer"
+    outfit_en: "1980s-90s tech founder casual — open-collar button-down shirts in pale colors over plain t-shirts, sometimes plain sweaters, simple slacks or jeans"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: laurene_powell
+    name_ja: ローレン・パウエル
+    description_en: "Laurene Powell Jobs in her 20s-50s — graceful slender white American woman, long blonde or light brown hair often loose, oval face with warm intelligent eyes, the elegant bearing of a Stanford MBA who chose family over career advancement"
+    outfit_en: "minimalist California-Stanford casual — simple blouses or sweaters in neutral tones, well-cut jeans, simple jewelry, sometimes elegant dresses for events"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: tim_cook
+    name_ja: ティム・クック
+    description_en: "Tim Cook in his 40s-50s — tall lean white American man, short neatly trimmed silver-grey hair, narrow earnest face with kind serious eyes, the calm steady bearing of an operations master"
+    outfit_en: "2000s-2010s Apple executive — clean button-down shirts often blue or grey, simple slacks, dark dress shoes, sometimes the Apple uniform of dark untucked button-down over jeans"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: mona_simpson
+    name_ja: モナ・シンプソン
+    description_en: "Mona Simpson, Steve's biological sister, in her late 20s to 40s — a slim white American woman with shoulder-length wavy brown hair, oval face with warm intelligent eyes, the bearing of a thoughtful novelist, sometimes with reading glasses"
+    outfit_en: "1985-2000s American intellectual / writer aesthetic — simple long-sleeved blouses or knit sweaters in muted earth tones, dark slacks or simple skirts, sometimes a long cardigan, minimal jewelry"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: gil_amelio
+    name_ja: ギル・アメリオ
+    description_en: "Gil Amelio in his mid-50s — a slightly stocky white American man with neatly combed gray hair, square clean-shaven face with stressed worried eyes behind glasses, the bearing of a turnaround CEO under siege"
+    outfit_en: "mid-1990s corporate American executive — dark business suit, white shirt, conservative tie, polished black shoes, sometimes with sleeves rolled in his office"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: jonathan_ive
+    name_ja: ジョナサン・アイブ
+    description_en: "Jony Ive — a slim British man in his 30s-40s, short closely-cropped hair beginning to bald, prominent forehead, kind quiet face with thoughtful blue-grey eyes, the meditative bearing of a hands-on industrial designer"
+    outfit_en: "minimalist designer uniform — plain dark t-shirt or sweater, well-cut chinos or dark trousers, sometimes a plain black or grey jacket, always understated and precise"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null

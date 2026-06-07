@@ -1,0 +1,232 @@
+id: math-iut-mochizuki
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic close-up of a thick stack of mathematical research
+
+    papers filling the square frame, the top page showing a decorative
+
+    English title "INTER-UNIVERSAL TEICHMÜLLER THEORY" in serif font,
+
+    below it the decorative English author line "BY SHINICHI MOCHIZUKI
+
+    — KYOTO UNIVERSITY — 2012", the stack visibly thick at the side
+
+    with a small decorative English page-count label "600 PAGES",
+
+    strange swirling mathematical symbols and Greek letters faintly
+
+    visible bleeding through the cover page, soft warm desk-lamp
+
+    yellow light, a single pencil resting diagonally on top. Subject
+
+    filling square center for vertical short layout with blurred padding
+
+    above and below. Clearly Kyoto University Japan academic-paper
+
+    setting. Decorative English text on cover OK.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Year 2012 daytime, mid-shot of a 50-something reclusive Japanese
+
+    male mathematician with neatly combed shoulder-length black hair
+
+    lightly greying at the temples, plain rectangular silver-rimmed
+
+    glasses, a long thin pale studious face, dark navy cardigan over
+
+    a soft pale-grey collared shirt, dark grey slacks, sitting alone
+
+    at a wide cluttered wooden desk in a quiet wood-paneled Kyoto
+
+    University office, the desk covered in handwritten mathematical
+
+    notes, a tall window behind him showing the green wooded slopes
+
+    of Mount Yoshida in early autumn, a small wall plaque decorated
+
+    with kanji 「京都大学 数理解析研究所」 readable, the visual of
+
+    "the recluse who emerged with 600 pages". Clearly Kyoto University
+
+    RIMS office Japan setting. Mid-shot.
+
+    Character: {mochizuki_shinichi}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern infographic on warm parchment-cream background, a large
+
+    decorative English headline at the top "ABC CONJECTURE" in bold
+
+    serif font, beneath it the decorative English equation "a + b = c"
+
+    with each letter colored separately, a decorative English subhead-
+
+    line reading "PROPOSED 1985 — UNSOLVED FOR 27 YEARS", below that
+
+    a single horizontal timeline arrow labeled decoratively in English
+
+    "OESTERLÉ — MASSER — MOCHIZUKI", the visual of "the problem
+
+    Mochizuki claimed to have cracked". Pure infographic composition.
+
+    Decorative English text only. No people.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Year 2018 daytime, a wide mid-shot of an international academic
+
+    mathematics conference hall, on a small raised stage two stern
+
+    40-something male European mathematicians (one fair-haired with a
+
+    grey beard, one balding with thin glasses) in dark suits stand at
+
+    a podium beside a decorative English projected slide reading
+
+    "SERIOUS FLAW IN PROOF — SCHOLZE & STIX 2018", in the audience
+
+    rows of mathematicians from many countries leaning forward in
+
+    shocked attention, the visual of "two famous outside experts
+
+    publicly disputed the proof six years later". Wide shot. Clearly
+
+    international academic conference setting. Decorative English
+
+    text only.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Year 2020 daytime, a Kyoto University publication press
+
+    conference room, mid-shot of the same 50-something Japanese
+
+    mathematician with shoulder-length black hair, silver-rimmed
+
+    glasses, dark navy cardigan over pale-grey shirt, standing
+
+    quietly beside a small podium with a published bound copy of
+
+    a peer-reviewed mathematics journal in his hand, the journal
+
+    cover showing the decorative English title "PUBLICATIONS OF RIMS
+
+    — VOL.57", a small modest decorative kanji caption on a wall
+
+    behind him 「京都大学 数理解析研究所」 readable, a small group of
+
+    Japanese academic journalists in dark suits politely listening,
+
+    the visual of "in 2020 the paper was finally published in a peer-
+
+    reviewed journal". Clearly Kyoto University Japan academic
+
+    setting. Mid-shot.
+
+    Character: {mochizuki_shinichi}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic close-up framing as panel 1 of the thick
+
+    stack of mathematical research papers filling the square center,
+
+    this time slightly later — the same top page reading decorative
+
+    English "INTER-UNIVERSAL TEICHMÜLLER THEORY — BY SHINICHI
+
+    MOCHIZUKI — KYOTO UNIVERSITY", but now a fresh decorative English
+
+    stamp on top reading "PUBLISHED 2020 — RIMS" in cool blue ink,
+
+    the small decorative English page-count label still reading "600
+
+    PAGES", the swirling mathematical symbols on the cover slightly
+
+    sharper, soft warm desk-lamp yellow light still warm, the same
+
+    pencil resting diagonally on top, the loop image of "a Japanese
+
+    mathematician''s 600-page answer to a 35-year-old problem — still
+
+    debated, but published". Subject filling square center for
+
+    vertical short layout with blurred padding above and below.
+
+    '
+ja:
+  title: '日本人が解いたabc予想、望月新一のIUT理論 #Shorts'
+  description: '14年前の2012年、京都大学の望月新一が、600ページに及ぶIUT理論を発表した。
+
+    数学界最難問abc予想の証明をめぐる、日本発の論争を、30秒で振り返ります。
+
+
+    #Shorts #数学 #IUT理論 #abc予想 #望月新一
+
+    '
+  hook_caption: 日本人が解いた世紀の難問
+  series_brand: IUT理論
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 14年前の2012年8月、京都大学の数学者が、自身のホームページに、600ページに及ぶ4本の論文を、静かに公開しました。
+    caption: 2012年、京大から600ページの論文
+  - panel: p2
+    text: 著者は望月新一、当時43歳。10代でプリンストン大学に入学した日本の天才数学者で、彼は20年近く、京都の研究室にこもって、独自の理論を、組み立て続けていました。
+    caption: 望月新一、20年こもって独自理論
+  - panel: p3
+    text: その理論が証明すると主張したのは、1985年に提示されたabc予想という、数学界最難問の一つでした。整数の足し算と掛け算の深い関係を、説明する未解決問題だったんです。
+    caption: 27年解けなかったabc予想に挑戦
+  - panel: p4
+    text: しかし、6年後の2018年、ドイツのショルツェとシュティックスが、証明の核心部に重大な欠陥がある、と公に指摘したので、世界の数学界は、二分されました。
+    caption: 2018年、欠陥指摘で世界が二分
+  - panel: p5
+    text: それでも、8年後の2020年、京都大学数理解析研究所の査読付き専門誌が、論文の掲載を、正式に承認しました。望月本人が編集長を務める、京大誌での掲載でした。
+    caption: 2020年、京大の査読誌が掲載を承認
+  - panel: p6
+    text: IUT理論は、今も世界の数学者の評価が、完全には一致していません。それでも、日本人が、世紀の難問に独自の答えを出したことは、紛れもない事実です。
+    caption: 評価は割れたまま、しかし日本発の答え
+en:
+  title: 'This Genius''s 600-Page Proof Divided the Math World #Shorts'
+  description: 'In 2012, mathematician Shinichi Mochizuki released a 600-page proof for the infamous ABC Conjecture. The only problem? Almost no one else could understand it. Here''s the story of the controversial
+    theory that split the world of mathematics.
+
+
+    #Shorts #math #science #academia #mystery'
+  hook_caption: He solved an impossible math problem... or did he?
+  series_brand: IUT Theory
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In 2012, a reclusive mathematician dropped a stack of papers on his website—a 600-page proof.
+    caption: A 600-page proof
+  - panel: p2
+    text: 'The author: Shinichi Mochizuki, a prodigy who spent 20 years in isolation building a radical new type of mathematics he called IUT Theory.'
+    caption: Radical new math
+  - panel: p3
+    text: It claimed to solve the ABC Conjecture, one of the deepest, most difficult problems in all of math.
+    caption: An 'impossible' problem
+  - panel: p4
+    text: But the proof was so alien, almost no one could understand it. After years of review, two of the world's top mathematicians declared it had a fatal flaw.
+    caption: A fatal flaw?
+  - panel: p5
+    text: Yet, in 2020, the proof was officially published... in a journal where Mochizuki himself was the editor-in-chief.
+    caption: Published anyway
+  - panel: p6
+    text: To this day, the math community is split. Is IUT Theory a revolutionary breakthrough, or a beautiful, complex dead end?
+    caption: Breakthrough or dead end?

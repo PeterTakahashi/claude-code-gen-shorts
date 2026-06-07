@@ -1,0 +1,74 @@
+id: news-nvidia-ceo-tsinghua
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Extreme close-up of Jensen Huang's face in his signature black leather
+      jacket, a faintly visible Chinese Communist Party flag and the Tsinghua
+      University gate softly out of focus behind him on opposite sides — the
+      visual of "Nvidia's CEO joins China's most elite university board, mid
+      US-China chip war". Tense geopolitical tone, modern photoreal-leaning
+      illustration.
+  - id: p2
+    prompt: |
+      A modern Tokyo newsroom — the anchor at her desk, behind her a large
+      studio monitor showing Jensen Huang's portrait next to the Tsinghua
+      School of Economics and Management logo, a lower-third reading "清華大
+      諮問委員に就任". Composed news-broadcast lighting.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      The historic gate of Tsinghua University in Beijing at golden hour, the
+      Chinese characters carved on the gate visible, students walking by with
+      backpacks, a banner subtly visible reading "Tsinghua SEM", the visual of
+      "China's top business school". Cinematic realistic.
+  - id: p4
+    prompt: |
+      An infographic panel on a dark blue background — four portrait icons in a
+      row: Tim Cook (Apple), Elon Musk (Tesla), Mark Zuckerberg (Meta), Satya
+      Nadella (Microsoft), with a fifth new slot lit up showing Jensen Huang
+      with a Nvidia logo, the visual of "the elite advisory board he is now
+      joining". Clean modern news graphic.
+  - id: p5
+    prompt: |
+      A US Capitol building exterior at dusk, faint warning red glow, a tilted
+      headline overlay reading "EXPORT CONTROLS — H200", the silhouette of a
+      Nvidia GPU chip prominent in the foreground, the visual of "Washington's
+      chip restrictions complicate the China move". Tense political tone.
+  - id: p6
+    prompt: |
+      The anchor again at her newsroom desk, behind her a split-screen monitor:
+      left a Tsinghua University crest, right the Nvidia logo, a thin glowing
+      line connecting them — a calm "what this means" closing shot.
+      Character: {anchor}.
+
+ja:
+  title: "エヌビディアCEO、中国・清華大の諮問委員に就任の衝撃 #Shorts"
+  description: |
+    米中の半導体覇権争いが続く中、エヌビディアのジェンスン・ファンCEOが中国の名門・清華大学
+    経済管理学院の諮問委員に就任。クック、マスク、ザッカーバーグ、ナデラに並ぶこの動きの意味を、
+    30秒で解説。
+
+    #Shorts #ニュース #テック #エヌビディア #清華大学 #米中
+  hook_caption: "エヌビCEO、中国に深く踏み込む"
+  series_brand: "ジェンスンの中国布石"
+  voice_speed: 1.35
+  narration:
+    - panel: p1
+      text: "エヌビディアのジェンスン・ファンCEOが、中国の名門・清華大学の諮問委員に就任することがわかりました。米中の半導体冷戦のさなかでの、攻めの一手です。"
+      caption: "エヌビCEO、清華大諮問委員に"
+    - panel: p2
+      text: "舞台は、清華大学の経済管理学院。中国の超エリートを育てる経営大学院の、外部諮問ボードのメンバーに、新たに加わります。"
+      caption: "舞台は、清華大の経営大学院"
+    - panel: p3
+      text: "清華大は、習近平国家主席の母校でもある、中国を代表する大学。その意思決定に影響を与えるポジションに、米テック企業のトップが座る意味は小さくありません。"
+      caption: "清華大は、習主席の母校"
+    - panel: p4
+      text: "実は、同じ諮問委員には、すでにアップルのクックCEO、テスラのマスク氏、メタのザッカーバーグ氏、マイクロソフトのナデラCEOが名を連ねます。「米テックの大物クラブ」に、ファン氏も加わる形です。"
+      caption: "クック、マスク、ザッカーバーグの隣に"
+    - panel: p5
+      text: "ただ、米政府は最先端半導体の中国輸出を厳しく制限しています。それでも今年、性能を抑えた「H200」が条件付きで認められ、エヌビディアは中国市場への足がかりを残しました。"
+      caption: "米政府の輸出規制を、すり抜ける"
+    - panel: p6
+      text: "ビジネスは規制よりも先に、関係作りで動く。半導体覇権の最前線で、エヌビディアが選んだのは、中国とのパイプを「太くする」道でした。"
+      caption: "規制よりも先に、関係を太くする"

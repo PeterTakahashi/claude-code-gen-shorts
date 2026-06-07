@@ -1,0 +1,62 @@
+id: animals-mantis-shrimp
+image_style: photorealistic
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A photorealistic close-up of a peacock mantis shrimp in a tropical reef, its body
+      glowing with iridescent rainbow colors, two large complex eyes staring at the camera,
+      dramatic underwater lighting, wildlife documentary photography.
+  - id: p2
+    prompt: |
+      A vivid macro shot focusing on the mantis shrimp's two stalked compound eyes, each
+      split into multiple zones, conveying an alien-looking optical system, sharp detail,
+      nature photography.
+  - id: p3
+    prompt: |
+      A photorealistic underwater scene of a mantis shrimp launching its hammer-like
+      raptorial claw at a crab shell with explosive speed, a tiny cavitation bubble forming
+      in the water from the impact, dynamic action, wildlife photography.
+  - id: p4
+    prompt: |
+      A close-up of a cracked aquarium glass wall in a marine research lab, the mantis shrimp
+      visible inside the tank, suggesting "they can break aquarium glass with one punch",
+      naturalistic lighting.
+  - id: p5
+    prompt: |
+      A photorealistic underwater scene of two mantis shrimps facing each other in a
+      territorial standoff on the reef, vivid colors flashing on their bodies as warning
+      signals, atmospheric reef lighting.
+  - id: p6
+    prompt: |
+      A serene photorealistic portrait of a mantis shrimp peeking from its burrow at golden
+      hour underwater, peaceful but with one claw cocked, vibrant reef colors around it,
+      cinematic wildlife photography.
+ja:
+  title: 'パンチで水を爆発させる、シャコの異常な能力 #Shorts'
+  description: |
+    シャコの一種モンハナシャコは、時速80kmで腕を振り、水中に泡を爆発させて獲物を砕く。さらに人間の3倍以上の色を見分ける目を持つ。海底に潜む小さな格闘王の異常な能力を30秒で解説します。
+
+    #Shorts #動物雑学 #シャコ #海の生き物 #雑学
+  hook_caption: パンチで水を爆発させるシャコ
+  series_brand: 規格外の生き物
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 鮮やかな色をまとった、小さな海の住人、モンハナシャコ。一見きれいなだけのこの生き物が、海の中で最強クラスのパンチを放ちます。
+      caption: 海で最強クラスのパンチを放つシャコ
+    - panel: p2
+      text: その目は、人間の3倍以上、12種類以上の色を見分けると言われています。私たちには見えない世界を、彼らは普通に見ているんです。
+      caption: 人間の3倍、12種以上の色を見分ける目
+    - panel: p3
+      text: 攻撃のときは、ハンマーのような腕を、時速80キロ近くで振り抜きます。水が一瞬で蒸発し、小さな爆発が起こるほどの速さです。
+      caption: 時速80キロの腕で水を爆発させる
+    - panel: p4
+      text: その威力は、カニの硬い殻を一撃で粉砕し、なんと、水族館の分厚いガラス水槽さえ割ってしまうほど。飼育する側は、本気で警戒します。
+      caption: 水族館のガラスさえ割る一撃の威力
+    - panel: p5
+      text: しかも、その爆発の瞬間、強烈な光と音波も発生します。獲物は、衝撃で気絶してから、捕食されるんです。
+      caption: 衝撃で気絶させてから捕食する
+    - panel: p6
+      text: 見たこともない色を見て、水を爆発させる腕を持つ生き物。地味な海底の片隅で、自然はとんでもないものを作っていたのです。
+      caption: 自然は海底の片隅にも規格外を生む

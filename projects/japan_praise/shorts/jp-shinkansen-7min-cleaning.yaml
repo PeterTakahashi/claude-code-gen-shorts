@@ -1,0 +1,178 @@
+id: jp-shinkansen-7min-cleaning
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic shot of a 40-something German engineer''s astonished
+
+    face, mouth slightly open in shock, blue eyes wide and focused, neat short
+
+    blond hair, wire-frame glasses, navy business jacket, the gleaming white
+
+    curved nose of a Shinkansen Series N700S bullet train looming massively in
+
+    soft-focus right behind him at Tokyo Station. A small JR East logo visible
+
+    on the train, decorative Japanese text on the platform "新幹線のりば".
+
+    Late afternoon golden light. The visual of "what just happened in front
+
+    of me?" Subject filling the square center for vertical short layout with
+
+    blurred padding above/below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Tokyo Station Shinkansen platform 2023, mid-shot of a freshly arrived
+
+    gleaming white bullet train doors open, a team of seven Japanese cleaners
+
+    in matching cherry-pink uniforms with the TESSEI logo visible on their
+
+    jacket backs, all bowing in a perfect synchronized 90-degree formation
+
+    toward the still-disembarking passengers, the visual of "the bow that
+
+    starts the seven minutes". Decorative Japanese platform signage like
+
+    「13番線」readable but small. American/European tourists stepping off the
+
+    train with luggage, visibly impressed.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of a Shinkansen N700S carriage during the 7-minute turnaround,
+
+    mid-shot showing two of the same cherry-pink TESSEI uniformed Japanese
+
+    cleaners moving with surgical precision — one rotating the entire row of
+
+    seats 180 degrees in one practiced motion, another wiping down trays at
+
+    lightning speed, a folded white trash bag tucked into a holster on their
+
+    belt, a small wall clock visible showing "残り3:42" in decorative Japanese
+
+    red digits. Bright clean interior lighting, the sense of choreographed
+
+    industrial ballet.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on soft cream background, decorative
+
+    bold English headline "7 MINUTES" centered, smaller decorative Japanese
+
+    label beneath「車両1編成 / 16両 / 客室1,323席」readable, a tiny chibi
+
+    cherry-pink-uniformed cleaner figure between them. The visual of
+
+    "1,323 seats wiped and reset in 7 minutes."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A modern London King''s Cross station 2015 platform, a 50-something British
+
+    transport executive in a dark suit holding a clipboard, watching closely as
+
+    a small group of British rail station staff in high-visibility orange
+
+    vests train under the supervision of a visiting cherry-pink TESSEI
+
+    Japanese senior cleaner instructor demonstrating the 90-degree bow.
+
+    The visual of "the philosophy that crossed the world." Clearly British
+
+    station setting, no Japanese architectural elements. Decorative English
+
+    signage "PLATFORM 9" readable.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic shot as panel 1 but slightly later — the
+
+    same 40-something German engineer''s face, mouth still slightly open but
+
+    now a small respectful smile breaking through his shock, blue eyes
+
+    brimming with quiet emotion, the same Shinkansen N700S nose in soft
+
+    focus behind him at Tokyo Station, golden hour light slightly warmer.
+
+    The loop image of "the moment a foreigner understood Japan." Subject
+
+    filling square frame for vertical short with blurred padding above/below.
+
+    '
+ja:
+  title: '7分間で新幹線を蘇らせる仕事、ドイツ人が震えた #Shorts'
+  description: '新幹線が東京駅に到着してから、次の出発まで、わずか12分。そのうち清掃に使えるのは7分だけ。
+
+    1編成1,323席を、たった7分で完璧に蘇らせる日本人の仕事を見て、ドイツの鉄道エンジニアは、涙を浮かべた。
+
+
+    #Shorts #新幹線 #TESSEI #日本礼賛 #海外の反応
+
+    '
+  hook_caption: 7分で新幹線を蘇らせる仕事
+  series_brand: 7分間の奇跡
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 東京駅でドイツ人エンジニアが、目の前の出来事に、固まって動けなくなったことが、あるんです。彼が見たのは、新幹線の清掃チームでした。
+    caption: ドイツ人が新幹線清掃で固まった日
+  - panel: p2
+    text: ピンクの制服のチームは、TESSEI、新幹線整備の精鋭7人組です。彼らは到着した乗客に対し、深く一礼してから、車内に入ります。
+    caption: TESSEI、ピンクの精鋭7人
+  - panel: p3
+    text: 全座席を180度回転させ、ゴミを集め、トレイを拭き、忘れ物を確認する——それを、たった7分で、終わらせます。
+    caption: 全座席180度回転、ゴミ・トレイ・忘れ物
+  - panel: p4
+    text: 1編成は16両、1,323席。1席あたり、わずか0.3秒で、リセットしています。世界中の航空会社が、教えを求めた仕組みです。
+    caption: 1席0.3秒、世界が学んだ仕組み
+  - panel: p5
+    text: 2015年、ロンドンの King's Cross 駅は、TESSEIから指導員を招き、英国の駅員に、90度のお辞儀から教わりました。
+    caption: 2015年、King's Cross が日本に学んだ
+  - panel: p6
+    text: 単なる清掃ではなく、誇りと、お客様への敬意——ドイツ人エンジニアが涙を浮かべたのは、その哲学を、肌で感じた瞬間でした。
+    caption: 誇りと敬意、ドイツ人が涙した瞬間
+en:
+  title: 'Japan''s ''7-Minute Miracle'' That Made a German Engineer Weep #Shorts'
+  description: 'A bullet train arrives at Tokyo Station. The crew has just 7 minutes to clean all 1,323 seats before the next departure. This incredible display of efficiency and pride is known as the ''7-Minute
+    Miracle,'' and it once moved a German engineer to tears.
+
+
+    #Shorts #Shinkansen #Japan #Efficiency #TESSEI'
+  hook_caption: Why Japan's Trains Make Engineers Cry
+  series_brand: The 7-Minute Miracle
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: A German railway engineer stood frozen on a platform in Tokyo, in complete disbelief at what he was seeing.
+    caption: Frozen in Disbelief
+  - panel: p2
+    text: He was watching Japan's legendary Shinkansen cleaning team, TESSEI, bow deeply before beginning their mission.
+    caption: The Legendary TESSEI
+  - panel: p3
+    text: 'Their task: to perfectly clean, inspect, and rotate all 1,323 seats of the entire train...'
+    caption: 1,323 seats...
+  - panel: p4
+    text: '...in just seven minutes.'
+    caption: '...in 7 minutes.'
+  - panel: p5
+    text: This system is so famous, it's been studied by transport officials from around the world, from airlines to London's King's Cross station.
+    caption: A World-Famous System
+  - panel: p6
+    text: 'But it wasn''t the speed that brought tears to the engineer''s eyes. It was the philosophy: a performance of profound pride and respect.'
+    caption: More Than Just a Job

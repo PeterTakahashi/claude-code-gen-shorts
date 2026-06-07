@@ -1,0 +1,186 @@
+id: love-line-slow-reply-psychology
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A bright contemporary Tokyo apartment bedroom at night, a young
+
+    25-year-old Japanese woman with shoulder-length dark brown hair
+
+    sitting on her bed in a cream-colored knit sweater, holding her
+
+    smartphone with both hands, staring at the chat screen with a
+
+    mixed expression of mild worry and confusion, a soft floating
+
+    decorative English chat-bubble graphic above the phone reading
+
+    "Read 18h ago", soft warm bedside lamp light. The visual of
+
+    "why hasn''t he replied?" Mid-shot. Clearly contemporary Japanese
+
+    apartment setting. No Japanese text.
+
+    Character: {female_lead}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean infographic-style panel on soft pastel background,
+
+    decorative English headline "REASON 1: ALREADY DECIDED" centered
+
+    prominently, a small chibi-style Japanese male office worker
+
+    thinking with a finger on his chin and a small thought-bubble
+
+    with a checkmark inside, framing communicates "he saw it, he
+
+    will reply, no urgency". Infographic composition. Decorative
+
+    English text only. No Japanese text.
+
+    Character: {male_lead}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic style, decorative English headline
+
+    "REASON 2: OVERTHINKING THE PERFECT REPLY" centered, the chibi-
+
+    style male office worker hunched over his phone, sweating,
+
+    multiple draft chat bubbles around his head with crossed-out
+
+    decorative English drafts visible ("Hi!" → "Hey." → "How was
+
+    your day?"), framing the visual of writing-and-deleting
+
+    paralysis. Decorative English text only. No Japanese text.
+
+    Character: {male_lead}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic style, decorative English headline
+
+    "REASON 3: GENUINELY BUSY" centered, the chibi-style male
+
+    office worker drowning in a chaotic pile of decorative English-
+
+    labeled work items: spreadsheet papers, meeting reminders, a
+
+    clock showing late hours, the visual of "he literally cannot
+
+    check his phone right now". Decorative English text only.
+
+    No Japanese text.
+
+    Character: {male_lead}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic style, decorative English headline
+
+    "REASON 4: NOT INTERESTED ANYMORE" centered, in a soft greyer
+
+    tone, the chibi-style male office worker casually scrolling
+
+    another woman''s social media on his phone, framing the
+
+    painful possibility neutrally — no exaggerated villain look,
+
+    just realistic distraction. Decorative English text only.
+
+    No Japanese text.
+
+    Character: {male_lead}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same bright contemporary Tokyo apartment bedroom at night as
+
+    panel 1, the same Japanese woman in cream knit sweater on her
+
+    bed, this time setting her phone face-down on the nightstand
+
+    with a small relieved smile, picking up an open paperback book
+
+    from the bedside, soft warm lamp light, the loop image of
+
+    "the healthiest move is to put the phone down". Mid-shot.
+
+    No Japanese text.
+
+    Character: {female_lead}.
+
+    '
+ja:
+  title: 'LINE返信が遅い男性の本当の心理 #Shorts'
+  description: '送ったLINE、既読が付いて、もう半日。彼は、なぜ返してくれないのか。
+
+    実は、考えられる理由は、たった4つです。心理学者の研究をもとに、解説します。
+
+
+    #Shorts #恋愛心理 #LINE #既読スルー #心理学
+
+    '
+  hook_caption: LINE返信が遅い男性の本当の心理
+  series_brand: 恋愛科学Anime
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 既読は付いた、でも、半日経っても、返信が、来ない。彼は今、何を考えているのか?——可能性は、たった4つです。
+    caption: 既読半日、彼は何を考えている?
+  - panel: p2
+    text: 1つ目は、もう返事を決めていて、急いでいない。男性は、決断したらタスクが終わった気になる、と心理学が、指摘しています。
+    caption: ①返事を決めて急がない
+  - panel: p3
+    text: 2つ目は、完璧な返信を、考えすぎている。あなたを気にしすぎているからこそ、何度も下書きを、書いては消しているんです。
+    caption: ②完璧な返信を考えすぎている
+  - panel: p4
+    text: 3つ目は、本当に忙しい。これは、いちばん多い、シンプルな理由です。仕事中は、スマホを見られない男性が、想像よりずっと多いんです。
+    caption: ③本当に忙しいだけ
+  - panel: p5
+    text: そして4つ目は、興味が、薄れた。これは辛いですが、可能性の一つとして、認めるべきです。脈が無い相手に、時間を費やすのは、もったいないからです。
+    caption: ④興味が薄れた、という可能性
+  - panel: p6
+    text: 結論。あなたができる、いちばん健全な行動は、スマホを伏せて、自分の時間を、過ごすこと。返信を待つ時間ほど、人生で、もったいないものは、ありません。
+    caption: 一番健全なのはスマホを伏せること
+en:
+  title: 'Why He Hasn''t Texted Back (Psychology Explained) #Shorts'
+  description: 'He left you on read hours ago. What''s going on in his head? Here are the 4 most common reasons, according to psychologists.
+
+    #psychology #datingadvice #texting #relationships #Shorts'
+  hook_caption: The 4 Real Reasons He Left You on Read
+  series_brand: Love Science
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: He saw your text hours ago. So... why hasn't he replied? Psychologists say there are only four real reasons.
+    caption: Left on read?
+  - panel: p2
+    text: 'First: He already knows his reply. In his mind, the task is ''done'', so he doesn''t feel the urgency to type it out just yet.'
+    caption: 1. He's already decided
+  - panel: p3
+    text: 'Second: He''s obsessing over the perfect response. He''s so worried about impressing you that he''s stuck rewriting drafts.'
+    caption: 2. Overthinking it
+  - panel: p4
+    text: 'Third: He''s just genuinely busy. This is the most common reason—he''s swamped with work and literally can''t get to his phone.'
+    caption: 3. Actually busy
+  - panel: p5
+    text: 'And fourth, the tough one: he might not be that interested anymore. It hurts, but it''s better than wasting your time waiting.'
+    caption: 4. He lost interest
+  - panel: p6
+    text: So what's the healthiest thing you can do? Put your phone down and live your life. Waiting for a text is the biggest waste of time there is.
+    caption: Put the phone down

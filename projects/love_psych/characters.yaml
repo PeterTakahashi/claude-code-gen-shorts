@@ -1,0 +1,25 @@
+characters:
+  - id: male_lead
+    name_ja: ハルト (男性主人公)
+    description_en: >-
+      a contemporary 26-year-old Japanese office-worker man with neatly cut
+      slightly wavy black hair, clean-shaven, soft kind eyes, gentle thin
+      eyebrows, slightly slim athletic build, the relatable everyman face
+      of a young salaryman who is shy and overthinks
+    outfit_en: >-
+      a fitted navy crewneck sweater over a white dress shirt collar,
+      slim charcoal slacks, brown leather casual shoes
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: female_lead
+    name_ja: ユイ (女性主人公)
+    description_en: >-
+      a contemporary 25-year-old Japanese woman with shoulder-length
+      straight dark brown hair often with soft natural waves at the ends,
+      pale clear skin, gentle warm brown eyes, soft natural makeup,
+      friendly approachable expression, slim frame
+    outfit_en: >-
+      a cream-colored knit sweater over a high-waist beige skirt, simple
+      gold pendant necklace
+    voice_style_id: 1310138977
+    voice_speed: 1.4

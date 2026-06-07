@@ -1,0 +1,32 @@
+# Reusable everyman archetypes for the money-failure channel.
+# INVENTED COMPOSITES (not real people) — the protagonist is a stand-in for the
+# viewer. Keep faces specific for in-short consistency; reuse across shorts for
+# channel identity.
+characters:
+  - id: kana_office_worker
+    name_ja: 加奈（28歳・会社員）
+    description_en: >-
+      an ordinary 28-year-old Japanese woman, average height and build, neat
+      shoulder-length dark brown hair, a gentle ordinary face — pretty in a
+      normal everyday way, not a glamorous model, expressive eyes that shift
+      from cheerful to anxious to exhausted across the story, the everyman look
+      of a typical young Japanese office worker a viewer reads as "could be me"
+    outfit_en: >-
+      a simple beige blouse with a thin cardigan and a knee-length skirt for
+      work, or plain casual home wear (oversized sweater) when alone at her
+      apartment, ordinary modern Japanese young-adult clothing
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: debt_lawyer
+    name_ja: 弁護士（相談相手）
+    description_en: >-
+      a calm trustworthy Japanese lawyer in their 40s, neat short black hair,
+      composed reassuring expression, the visual of a dependable legal
+      professional who helps ordinary people restructure debt — kind but
+      competent, not intimidating
+    outfit_en: >-
+      a clean dark navy business suit, white shirt, simple tie, a small lawyer's
+      sunflower-style badge on the lapel, the silhouette of a Japanese attorney
+      in a tidy consultation office
+    voice_style_id: 1310138977
+    voice_speed: 1.4

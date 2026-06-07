@@ -1,0 +1,178 @@
+id: geohot-tinygrad-pytorch
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid 2023, a dim home office at 1am during a live Twitch coding stream.
+
+    A 33-year-old George Hotz sitting in a worn office chair in front of
+
+    three monitors, shirtless in baggy black gym shorts, dishevelled curly
+
+    hair sticking up, faint stubble, fingers flying on a mechanical
+
+    keyboard. The main center monitor shows lines of Python code titled
+
+    "tinygrad.py" in a code editor. The right monitor shows a Twitch chat
+
+    sidebar scrolling rapidly with viewer messages. A small live webcam
+
+    box visible in the bottom corner of the main screen. Cool blue
+
+    monitor light. Three-quarter rear view. Conveys: thousands watching
+
+    him build an AI framework in real time.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A close-up shot of a laptop screen showing a GitHub repository named
+
+    "pytorch/pytorch" with a visible file counter "thousands of files" and
+
+    a star count over 70,000. The screen is reflected faintly in glasses
+
+    laying next to the laptop on a wooden desk. The implied scale: a
+
+    massive open-source framework, the industry standard. Cold daylight.
+
+    No people.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside a vast modern AI data center in 2023, endless rows of glossy
+
+    black server racks stacked with green NVIDIA H100 GPU cards, the
+
+    NVIDIA logo subtly visible on each, cold blue and green LED lights
+
+    reflecting on the polished floor. A single human silhouette of a
+
+    worker walking down the aisle at the far end for scale. The visual
+
+    statement: NVIDIA owns the entire AI hardware world.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid 2023, the tiny corp office workshop. A 33-year-old George Hotz
+
+    standing at a workbench, hands carefully sliding a large red-and-black
+
+    AMD Radeon GPU card into the PCIe slot of an open custom PC tower, the
+
+    red AMD logo clearly visible on the card. A small "tiny corp" sticker
+
+    on the desk. Plain black t-shirt, curly hair. Warm workshop light.
+
+    Side mid-shot. Conveys: choosing the underdog hardware to break the
+
+    monopoly.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A laptop screen filling the frame showing the GitHub repository
+
+    "tinygrad/tinygrad" with a clean minimalist README visible, a large
+
+    star counter visibly ticking upward past "20,000 stars", and a line
+
+    reading "smaller than PyTorch in lines of code". The screen lit warm
+
+    against a dark surrounding office. No people. The visual: a
+
+    one-thousand-line framework competing with a giant.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same home office, predawn light beginning to enter through the window
+
+    blinds. A 33-year-old George Hotz leaning back in his office chair,
+
+    hands behind his head, looking at his three monitors with a quiet
+
+    satisfied half-smirk, the tinygrad code still on the main screen, the
+
+    Twitch stream now offline. Dishevelled curly hair, black t-shirt,
+
+    faint stubble. The quiet moment after a 12-hour live coding session.
+
+    Front-three-quarter portrait framing. Conveys: a man rebuilding deep
+
+    learning from scratch, on his own terms.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'PyTorchより小さく速いAIフレームワーク #Shorts'
+  description: '2020年、ジョージ・ホッツが、PyTorchより遥かに小さい深層学習フレームワークtinygradを公開した。
+
+    目的は、NVIDIAの独占を、AMDのGPUで、破ること。
+
+
+    #Shorts #ジョージホッツ #tinygrad #AI #人物伝
+
+    '
+  hook_caption: PyTorchを倒すAIを作る男
+  series_brand: ジョージ・ホッツ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: PyTorchより、遥かに小さくて、しかも速い、AIフレームワークを、たった1人で書いた男がいます。
+    caption: 1人でPyTorch対抗AIを書いた
+  - panel: p2
+    text: 2020年、ジョージ・ホッツは、tinygradという、深層学習フレームワークを、公開しました。
+    caption: 2020年、tinygrad公開
+  - panel: p3
+    text: コード行数は、PyTorchの数百分の1。それでも、同じニューラルネットを、動かせるんです。
+    caption: コード行数は数百分の1
+  - panel: p4
+    text: 彼の目的は、NVIDIAの、GPU独占を、安価なAMDのGPUで、破ることでした。
+    caption: NVIDIA独占をAMDで破る
+  - panel: p5
+    text: そして3年後、tinygradのGitHubは、2万スターを超え、tiny corpという会社まで、生まれました。
+    caption: 3年後、2万スター達成
+  - panel: p6
+    text: PyTorchより小さく、より速く——それが、彼が、AIに突きつけた、答えだったんです。
+    caption: 小さく速く、それが彼の答え
+en:
+  title: 'He Built an AI Framework to Slay a Giant #Shorts'
+  description: 'Legendary hacker George Hotz created ''tinygrad''—a super-lean AI framework. His goal? To challenge the industry-standard PyTorch and break NVIDIA''s expensive hardware monopoly.
+
+    #Shorts #GeorgeHotz #tinygrad #AI #Programming'
+  hook_caption: He’s fighting a $2 TRILLION giant… ALONE.
+  series_brand: The Legend of George Hotz
+  voice_speaker: Ryan
+  narration:
+  - panel: p3
+    text: 'The entire world of AI runs on hardware from one company: NVIDIA.'
+    caption: The AI Monopoly
+  - panel: p4
+    text: But legendary hacker George Hotz had a plan to break their grip... using affordable AMD gaming cards.
+    caption: The Challenger
+  - panel: p1
+    text: Working alone, he coded a brand new AI framework from scratch, calling it tinygrad.
+    caption: Built from scratch
+  - panel: p2
+    text: It's a tiny fraction of the size of the industry standard, PyTorch, yet runs the same powerful models.
+    caption: Lean & Mean
+  - panel: p5
+    text: The project exploded, earning over 20,000 stars on GitHub and launching his new company, the tiny corp.
+    caption: 20,000+ Stars
+  - panel: p6
+    text: 'His message was clear: AI should be smaller, faster, and open to everyone.'
+    caption: AI for everyone

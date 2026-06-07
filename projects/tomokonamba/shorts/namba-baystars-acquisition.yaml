@@ -1,0 +1,165 @@
+id: namba-baystars-acquisition
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 2011, daytime press conference at Yokohama Stadium home plate.
+
+    Tomoko Namba in her late 40s wearing a navy and blue Yokohama BayStars team
+
+    jacket over a white blouse, bowing deeply alongside a row of Japanese male
+
+    players in BayStars baseball uniforms. The stadium stands visible in the
+
+    background, photographers crouched in front. Her expression composed and
+
+    humble. The exact moment an IT company officially takes over a struggling
+
+    Japan pro baseball team. No readable text on uniforms or signage.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2010, a melancholic wide shot of Yokohama Stadium during a regular
+
+    season game, mostly empty seats with only scattered small clusters of
+
+    die-hard fans in blue jerseys, late afternoon overcast light. The scoreboard
+
+    shows a clearly losing situation (no readable numbers). A single tired
+
+    Japanese fan in the foreground stands and quietly leaves. The mood of a
+
+    perpetually last-place pro baseball team that no one wants.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-2011, a tense formal Japan pro baseball owners meeting room. Around a
+
+    long polished dark-wood table, a dozen older Japanese male owners in
+
+    conservative dark suits sit with grim folded arms, several with shadowed
+
+    stern expressions. An empty chair at the far end. The atmosphere is
+
+    conservative, exclusionary, deeply skeptical of the proposed IT company
+
+    acquisition. Warm but harsh chandelier lighting. No readable text or logos.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Fall 2011 night, Tomoko Namba in casual home clothes sitting at a kitchen
+
+    table in her Tokyo home, a thick stack of acquisition contract documents
+
+    spread out, a phone pressed to her ear in serious negotiation, her face
+
+    composed but tired. A half-finished cup of tea beside her. Behind her, the
+
+    faint silhouette of a hospital-style guidance pamphlet on a shelf, hinting
+
+    at her husband''s illness. The personal cost of the deal made visible.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A few years after 2011, a vibrant evening scene at Yokohama Stadium now
+
+    packed with cheerful fans of all ages — young families with children waving
+
+    blue towels, young women in BayStars jerseys, beer vendors, bright stadium
+
+    lights, a festive atmosphere. The team logo subtly visible on caps. The
+
+    cultural transformation of a perpetual last-place team into a community
+
+    entertainment phenomenon. No readable text on signage.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A quiet contemplative moment at Yokohama Stadium during a night game, Tomoko
+
+    Namba sitting alone in a high seat in the stands wearing a casual BayStars
+
+    jacket, a paper food container in her lap, watching the brightly lit field
+
+    below where small player figures play. Her expression is softly proud and
+
+    reflective. The stadium lights warm her face. The owner who chose to be a
+
+    fan first. Side three-quarter framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'IT企業がプロ野球球団を買った日 #Shorts'
+  description: '2011年、DeNAがTBSから、万年最下位の横浜ベイスターズを買収した。
+
+    プロ野球界は猛反対し、12球団のオーナー会議で、IT企業は2度否決されていた。
+
+
+    #Shorts #南場智子 #DeNA #ベイスターズ
+
+    '
+  hook_caption: IT企業が万年最下位の球団買収
+  series_brand: 南場智子伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: IT企業が、万年最下位のプロ野球球団を買収して、立て直した話があります。
+    caption: IT企業が万年最下位球団を再建
+  - panel: p2
+    text: 2011年、DeNAは、TBSから、横浜ベイスターズを、約95億円で買収すると発表しました。
+    caption: 2011年、TBSから95億円で買収
+  - panel: p3
+    text: しかし、当時のプロ野球界では、IT企業の参入は、過去2度、オーナー会議で否決されていました。
+    caption: IT企業の参入は過去2度否決
+  - panel: p4
+    text: 南場智子は、保守的な古参オーナーたちを、一軒一軒、訪ねて、頭を下げ続けたんです。
+    caption: 古参オーナーを一軒一軒訪ねて説得
+  - panel: p5
+    text: そして、12月、ついに承認され、横浜DeNAベイスターズが、誕生しました。
+    caption: 2011年12月、横浜DeNAベイスターズ誕生
+  - panel: p6
+    text: 数年後、閑散としていたスタジアムは、若い家族連れで、毎試合満員になっていったんです。
+    caption: 数年後、スタジアムは毎試合満員に
+en:
+  title: 'How a Tech CEO Saved Japan''s Worst Baseball Team #Shorts'
+  description: 'In 2011, Tomoko Namba''s tech company DeNA tried to buy the failing Yokohama BayStars. The old boys'' club of Japanese pro baseball rejected her... twice. This is how she changed their minds
+    and an entire team''s future.
+
+
+    #Shorts #TomokoNamba #Baseball #DeNA #Japan'
+  hook_caption: They Rejected Her Twice. She Bought The Team Anyway.
+  series_brand: The Tomoko Namba Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 2011, the Yokohama BayStars were the worst team in Japanese pro baseball, playing to a nearly empty stadium.
+    caption: Worst team in Japan
+  - panel: p3
+    text: The league's conservative owners weren't looking for change, and had already rejected two other tech companies from joining their ranks.
+    caption: An old boys' club
+  - panel: p1
+    text: So when tech CEO Tomoko Namba announced her company, DeNA, was buying the team, she was met with fierce opposition.
+    caption: A tech CEO's plan
+  - panel: p4
+    text: But Namba didn't back down. She personally visited every single owner to humbly persuade them to approve the deal.
+    caption: She wouldn't give up
+  - panel: p5
+    text: Finally, they agreed. Just a few years later, the revitalized team was playing to sold-out crowds filled with a new generation of fans.
+    caption: A sold-out stadium

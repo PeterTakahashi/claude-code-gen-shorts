@@ -1,0 +1,146 @@
+# Flagship exemplar for the housing_regret channel — the 7-beat failure arc.
+# Beats: 1 crater(p1) / 2 relatability(p2) / 3 fatal decision(p3-p4) /
+#        4-5 spiral(p5-p7) / 6 rock bottom(p8-p9) / 7 AVOIDANCE-lesson(p10-p11).
+# The lesson beat is the payoff AND the FP/借り換え native-ad slot. JA-only (EN paused).
+id: housing-loan-hell-pair
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: a still-new 3-year-old
+      Japanese suburban family house interior, an almost-empty living room with
+      a few cardboard moving boxes stacked by the wall, late-afternoon light
+      through bare windows, an ordinary 35-year-old Japanese husband standing
+      alone in the middle of the empty room looking down quietly, the heavy
+      stillness of "the day we gave up our dream home". Mid shot. Clearly modern
+      suburban Japan setting. No Japanese text in image. Character:
+      {tanaka_husband}.
+  - id: p2
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: a small ordinary Japanese
+      rental apartment a few years earlier, a cheerful young couple — an
+      everyman husband and wife in their early 30s — sitting close on the floor
+      looking happily at a glossy house brochure spread on a low table, warm
+      hopeful evening light, the visual of "an ordinary couple dreaming of a
+      home". Mid shot. Clearly modern Japan setting. No Japanese text in image.
+      Characters: {tanaka_husband}, {tanaka_wife}.
+  - id: p3
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: a bright modern Japanese
+      bank / home-builder loan counter, the same young couple seated across from
+      a polite suited loan officer, both signing a thick stack of mortgage
+      papers with hopeful smiles, a small house-key model on the desk, clean
+      corporate lighting, the visual of "signing a huge loan with full
+      confidence". Mid shot. Clearly modern Japan setting. No Japanese text in
+      image. Characters: {tanaka_husband}, {tanaka_wife}.
+  - id: p4
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: the couple standing
+      joyfully at the front door of their brand-new bright Japanese
+      single-family house, the husband holding up a single house key, the wife
+      smiling beside him, blue sky, fresh facade, the visual of "the happiest
+      day — moving into the dream home". Wide shot. Clearly modern suburban
+      Japan setting. No Japanese text in image. Characters: {tanaka_husband},
+      {tanaka_wife}.
+  - id: p5
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: inside the same house a
+      couple of years later, the wife now visibly pregnant sitting on the sofa
+      resting a hand on her belly with a slightly anxious smile, a wall calendar
+      nearby, softer muted light, the husband glancing over with quiet worry,
+      the visual of "income about to shrink as she leaves work". Mid shot.
+      Clearly modern Japan setting. No Japanese text in image. Characters:
+      {tanaka_husband}, {tanaka_wife}.
+  - id: p6
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: late at night in the
+      living room, the husband alone at the dining table illuminated by a laptop
+      screen showing a plain rising line graph (no readable text), his brow
+      furrowed, a bank passbook and a calculator beside him, cold blue night
+      light, the visual of "the variable interest rate creeping upward". Mid
+      close-up. Clearly modern Japan setting. No Japanese text in image.
+      Character: {tanaka_husband}.
+  - id: p7
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: the husband and wife at
+      the kitchen table at night, a worried stack of envelopes and bills between
+      them, an almost-empty piggy bank tipped over, both faces tense and tired,
+      a single dim ceiling light, the visual of "draining the savings to keep
+      paying". Mid shot. Clearly modern Japan setting. No Japanese text in
+      image. Characters: {tanaka_husband}, {tanaka_wife}.
+  - id: p8
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: the family carrying
+      cardboard boxes out the front door of the house into a small moving van on
+      an overcast day, a generic blank real-estate sale board planted in the
+      front yard (no readable text), shoulders slumped, the visual of "leaving
+      the home we lost". Wide shot. Clearly modern suburban Japan setting. No
+      Japanese text in image. Characters: {tanaka_husband}, {tanaka_wife}.
+  - id: p9
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: a cramped small rental
+      apartment at night, the husband sitting alone on the floor against the
+      wall, head lowered, a single sheet of loan paperwork in his loose hand, a
+      heavy crushed expression, dim lonely lighting, the visual of "the house is
+      gone but the debt remains". Mid close-up. Clearly modern Japan setting. No
+      Japanese text in image. Character: {tanaka_husband}.
+  - id: p10
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: a calm bright financial
+      consultation desk, a friendly suited financial planner gesturing
+      reassuringly toward a simple printed payment-plan sheet (no readable
+      text), an ordinary couple listening attentively, warm trustworthy
+      lighting, the visual of "the safe plan we should have made first". Mid
+      shot. Clearly modern Japan setting. No Japanese text in image. Characters:
+      {tanaka_husband}, {tanaka_wife}.
+  - id: p11
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: the same couple shaking
+      hands with a trustworthy financial planner across a tidy desk before
+      signing anything, calm hopeful morning light through a window, a small
+      house-key model on the desk, the visual of "asking an expert BEFORE you
+      commit". Mid shot. Clearly modern Japan setting. No Japanese text in
+      image. Characters: {tanaka_husband}, {tanaka_wife}.
+ja:
+  title: '築3年でマイホームを手放した夫婦の話 #Shorts'
+  description: |
+    「低金利だから大丈夫」——そう信じてペアローンを組んだ共働き夫婦が、わずか築3年でマイホームを手放すまでの話です。住宅ローンで後悔しないために。
+
+    #Shorts #住宅ローン #マイホーム #ペアローン #後悔 #変動金利
+  hook_caption: 築3年で家を手放した理由
+  series_brand: 住宅の後悔
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 築3年で、家を手放しました。
+      caption: 築3年で手放した新築
+    - panel: p2
+      text: 年収550万、普通の共働き夫婦です。
+      caption: 年収550万の共働き夫婦
+    - panel: p3
+      text: 頭金なしのペアローンで、4500万円。
+      caption: 頭金なしのペアローン4500万
+    - panel: p4
+      text: 低金利だから返せる、と信じてました。
+      caption: 「低金利だから大丈夫」
+    - panel: p5
+      text: でも妻の産休で、世帯収入が半分に。
+      caption: 産休で世帯収入が半減
+    - panel: p6
+      text: 変動金利は上がり、返済額も増えた。
+      caption: 変動金利が上がり返済増
+    - panel: p7
+      text: ボーナス払いも重く、貯金は底へ。
+      caption: 貯金を取り崩す日々
+    - panel: p8
+      text: 滞納の末、家は任意売却に。
+      caption: 滞納の末に任意売却
+    - panel: p9
+      text: 売っても、数百万の借金だけが残った。
+      caption: 残ったのは数百万の残債
+    - panel: p10
+      text: 戻れるなら、返済は手取りの2割まで。
+      caption: 返済は手取りの2割まで
+    - panel: p11
+      text: 契約前にFPへ相談すれば、防げました。
+      caption: 契約前にFPへ相談を

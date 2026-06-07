@@ -1,0 +1,13 @@
+characters:
+  - id: ishikawa_ceo
+    name_ja: 石川哲郎 (雪印乳業 当時の社長)
+    description_en: >-
+      a 60-something Japanese man with thinning grey hair combed back,
+      narrow rectangular eyeglasses, tired heavy bags under his eyes,
+      grey-and-black silk necktie, a worn corporate veteran's tense
+      expression of someone losing control of a crisis
+    outfit_en: >-
+      a conservative dark navy single-breasted business suit, white
+      dress shirt, silver tie pin, posture stiff under pressure
+    voice_style_id: 1310138977
+    voice_speed: 1.4

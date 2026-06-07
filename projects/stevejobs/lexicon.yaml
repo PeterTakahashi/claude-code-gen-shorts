@@ -1,0 +1,81 @@
+# English proper nouns and number/date readings for Aivis TTS.
+# Subtitle text keeps the Roman / Arabic form; this lexicon only rewrites
+# the string that goes to OpenJTalk G2P so the audio sounds natural.
+
+words:
+  # ===== Companies / products =====
+  - { surface: "Apple",        reading: "あっぷる",            kind: name }
+  - { surface: "Apple I",      reading: "あっぷるわん",         kind: name }
+  - { surface: "Apple II",     reading: "あっぷるつー",         kind: name }
+  - { surface: "Macintosh",    reading: "まっきんとっしゅ",     kind: name }
+  - { surface: "Mac",          reading: "まっく",              kind: name }
+  - { surface: "iPod",         reading: "あいぽっど",          kind: name }
+  - { surface: "iPhone",       reading: "あいふぉん",          kind: name }
+  - { surface: "iPad",         reading: "あいぱっど",          kind: name }
+  - { surface: "iTunes",       reading: "あいちゅーんず",      kind: name }
+  - { surface: "iMac",         reading: "あいまっく",          kind: name }
+  - { surface: "MacBook",      reading: "まっくぶっく",        kind: name }
+  - { surface: "NeXT",         reading: "ねくすと",            kind: name }
+  - { surface: "Pixar",        reading: "ぴくさー",            kind: name }
+  - { surface: "Microsoft",    reading: "まいくろそふと",      kind: name }
+  - { surface: "Windows",      reading: "うぃんどうず",        kind: name }
+  - { surface: "Lisa",         reading: "りさ",                kind: name }
+  - { surface: "HP",           reading: "えいちぴー",          kind: name }
+  - { surface: "Hewlett-Packard", reading: "ひゅーれっと・ぱっかーど", kind: name }
+  - { surface: "Atari",        reading: "あたり",              kind: name }
+  - { surface: "Xerox",        reading: "ぜろっくす",          kind: name }
+  - { surface: "PARC",         reading: "ぱーく",              kind: name }
+  - { surface: "Disney",       reading: "でぃずにー",          kind: name }
+  - { surface: "Toy Story",    reading: "といすとーりー",      kind: name }
+  - { surface: "Pepsi",        reading: "ぺぷし",              kind: name }
+  - { surface: "Reed College", reading: "りーどかれっじ",      kind: name }
+  - { surface: "Stanford",     reading: "すたんふぉーど",      kind: name }
+  - { surface: "Homebrew Computer Club", reading: "ほーむぶりゅーこんぴゅーたーくらぶ", kind: name }
+  - { surface: "Think Different", reading: "しんくでぃふぁれんと", kind: name }
+  - { surface: "Reality Distortion Field", reading: "りありてぃーでぃすとーしょんふぃーるど", kind: name }
+
+  # ===== People =====
+  - { surface: "Steve Jobs",   reading: "すてぃーぶ・じょぶず", kind: name }
+  - { surface: "Steve Wozniak", reading: "すてぃーぶ・うぉずにあっく", kind: name }
+  - { surface: "Wozniak",      reading: "うぉずにあっく",      kind: name }
+  - { surface: "Paul Jobs",    reading: "ぽーる・じょぶず",    kind: name }
+  - { surface: "Clara Jobs",   reading: "くらら・じょぶず",    kind: name }
+  - { surface: "John Sculley", reading: "じょん・すかりー",    kind: name }
+  - { surface: "Sculley",      reading: "すかりー",            kind: name }
+  - { surface: "Bill Gates",   reading: "びる・げいつ",        kind: name }
+  - { surface: "Gates",        reading: "げいつ",              kind: name }
+  - { surface: "Tim Cook",     reading: "てぃむ・くっく",      kind: name }
+  - { surface: "Jonathan Ive", reading: "じょなさん・あいぶ",  kind: name }
+  - { surface: "Jony Ive",     reading: "じょにー・あいぶ",    kind: name }
+  - { surface: "Laurene Powell", reading: "ろーれん・ぱうえる", kind: name }
+  - { surface: "Bob Dylan",    reading: "ぼぶ・でぃらん",      kind: name }
+
+  # ===== Places =====
+  - { surface: "Los Altos",    reading: "ろさんとす",          kind: place }
+  - { surface: "Cupertino",    reading: "くぱちーの",          kind: place }
+  - { surface: "Mountain View", reading: "まうんてんびゅー",   kind: place }
+  - { surface: "Silicon Valley", reading: "しりこんばれー",    kind: place }
+  - { surface: "Portland",     reading: "ぽーとらんど",        kind: place }
+  - { surface: "Reed",         reading: "りーど",              kind: place }
+  - { surface: "Kobun",        reading: "こうぶん",            kind: place }
+  - { surface: "Palo Alto",    reading: "ぱろあると",          kind: place }
+  - { surface: "Macworld",     reading: "まっくわーるど",      kind: place }
+
+  # ===== Common date readings =====
+  - { surface: "1955年",       reading: "せんきゅうひゃくごじゅうごねん",     kind: date }
+  - { surface: "1971年",       reading: "せんきゅうひゃくななじゅういちねん", kind: date }
+  - { surface: "1976年",       reading: "せんきゅうひゃくななじゅうろくねん", kind: date }
+  - { surface: "1977年",       reading: "せんきゅうひゃくななじゅうななねん", kind: date }
+  - { surface: "1984年",       reading: "せんきゅうひゃくはちじゅうよねん",   kind: date }
+  - { surface: "1985年",       reading: "せんきゅうひゃくはちじゅうごねん",   kind: date }
+  - { surface: "1986年",       reading: "せんきゅうひゃくはちじゅうろくねん", kind: date }
+  - { surface: "1996年",       reading: "せんきゅうひゃくきゅうじゅうろくねん", kind: date }
+  - { surface: "1997年",       reading: "せんきゅうひゃくきゅうじゅうななねん", kind: date }
+  - { surface: "1998年",       reading: "せんきゅうひゃくきゅうじゅうはちねん", kind: date }
+  - { surface: "2001年",       reading: "にせんいちねん",      kind: date }
+  - { surface: "2003年",       reading: "にせんさんねん",      kind: date }
+  - { surface: "2004年",       reading: "にせんよねん",        kind: date }
+  - { surface: "2005年",       reading: "にせんごねん",        kind: date }
+  - { surface: "2007年",       reading: "にせんななねん",      kind: date }
+  - { surface: "2010年",       reading: "にせんじゅうねん",    kind: date }
+  - { surface: "2011年",       reading: "にせんじゅういちねん", kind: date }

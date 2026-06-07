@@ -1,0 +1,170 @@
+id: gates-lakeside-pdp10
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A late-1968 night scene inside the cramped computer room of Lakeside School in
+
+    Seattle, a 13-year-old skinny boy in a school sweater hunched intensely close
+
+    to a clattering ASR-33 teletype terminal printing green-and-white tractor-feed
+
+    paper, his oversized brown plastic eyeglasses reflecting a faint amber glow,
+
+    his messy sandy hair falling over his forehead, a half-eaten sandwich and an
+
+    empty milk carton forgotten beside him, the rest of the school dark and empty
+
+    through a small window behind him. Tight mid-shot capturing total absorption.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A wide daytime establishing shot of Lakeside School in Seattle in autumn 1968,
+
+    a red-brick American private preparatory school building under tall Pacific
+
+    Northwest evergreens, students in matching navy blazers and grey trousers
+
+    walking up the path with leather satchels, soft overcast Seattle daylight,
+
+    the quiet privileged calm of a place where only the wealthiest local boys
+
+    study. Wide architectural framing.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A late-1968 American school gymnasium with a colorful "Mothers'' Club Rummage
+
+    Sale" handwritten cardboard banner overhead, well-dressed suburban Seattle
+
+    mothers in 1960s skirts and cardigans sorting donated items on long folding
+
+    tables, a small chalkboard tally showing a fundraising total of "$3000" being
+
+    counted out — the exact money that bought time on a PDP-10 mainframe for the
+
+    school. Warm community atmosphere, mid-shot of the tally board with mothers
+
+    around it.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A late-1960s industrial computer room of a Seattle commercial timesharing
+
+    company, a towering blue-and-grey PDP-10 mainframe filling an entire wall,
+
+    with spinning tape reels, blinking indicator lights, white-coated technicians
+
+    in horn-rimmed glasses tending to it, fluorescent ceiling lighting, the cold
+
+    hum of a multi-million-dollar machine. The framing emphasizes its enormous
+
+    scale — what a 13-year-old was somehow getting access to through a phone line.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The same Lakeside computer room in 1968, a 13-year-old skinny bespectacled
+
+    boy with messy sandy hair seated at the teletype, beside him a slightly older
+
+    15-year-old taller boy with shaggy dark-brown hair, a faint moustache starting
+
+    to form, wearing a red-and-black plaid wool shirt over jeans, leaning over
+
+    his shoulder pointing at a line of BASIC code on the printout, both faces
+
+    lit by the desk lamp, a wordless meeting of two future founders. Mid-shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The same Lakeside School computer room at dawn the next morning, soft pink
+
+    and gold sunlight slanting through the small window onto a thick stack of
+
+    tractor-feed paper printouts piled beside the teletype, the same 13-year-old
+
+    boy still seated, eyes red-rimmed but bright behind his big eyeglasses, a
+
+    pencil tucked behind his ear, a quiet satisfaction on his face — the very
+
+    first all-nighter of a programmer who would go on to change computing.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '13歳でプログラミングを始めた少年 #Shorts'
+  description: '1968年、シアトルの私立校で13歳のビル・ゲイツは、当時希少だった PDP-10 に出会った。
+
+    彼はパソコンが普及する10年以上前にコードを書き始め、後の Microsoft 共同創業者ポール・アレンと、ここで出会った。
+
+
+    #Shorts #ビルゲイツ #Microsoft #人物伝
+
+    '
+  hook_caption: 13歳でコードを書いた少年
+  series_brand: ビル・ゲイツ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 彼が初めてコードを書いたのは、1968年、なんとパソコンが普及する10年以上前のことです。
+    caption: 1968年、パソコン普及の10年前
+  - panel: p2
+    text: 場所は、シアトルの、Lakeside School。当時13歳の、ビル・ゲイツが、通っていた、私立校でした。
+    caption: シアトルの私立校 Lakeside
+  - panel: p3
+    text: 学校の母親会が、バザーで集めた約3000ドルで、商用 PDP-10 への、通信回線を、買い与えたんです。
+    caption: 母親会が PDP-10 回線を寄付
+  - panel: p4
+    text: 彼は授業をサボってまで、夜通しコードを書き続け、数か月で、規定の利用枠を、使い切ったといいます。
+    caption: 夜通しコードを書き続けた
+  - panel: p5
+    text: そしてここで、後の Microsoft 共同創業者となる、2歳年上のポール・アレンと、運命的に、出会いました。
+    caption: ここでポール・アレンと出会う
+  - panel: p6
+    text: 13歳の夜のキーボード——そこから、世界最大のソフトウェア帝国は、静かに、始まっていたわけです。
+    caption: ここから帝国が始まった
+en:
+  title: 'How a School Rummage Sale Created Bill Gates #Shorts'
+  description: 'In 1968, a $3000 donation from a Mothers'' Club gave a 13-year-old Bill Gates access to a rare computer. This is the story of where he met Paul Allen and started the journey to founding
+    Microsoft.
+
+
+    #Shorts #BillGates #Microsoft #History #Tech'
+  hook_caption: How a Rummage Sale Created a Billionaire
+  series_brand: The Bill Gates Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1968, at a private school in Seattle, a 13-year-old boy was about to get his hands on a computer.
+    caption: Seattle, 1968
+  - panel: p3
+    text: His school’s Mothers’ Club had just raised $3,000 at a rummage sale to buy a terminal.
+    caption: A $3,000 investment
+  - panel: p4
+    text: It connected to a massive mainframe computer, and for young Bill Gates, it was an instant obsession.
+    caption: Instant obsession
+  - panel: p1
+    text: He skipped classes and coded all night, burning through the school's entire annual computer budget in weeks.
+    caption: Coding all night
+  - panel: p5
+    text: 'In that very computer room, he met an older student who shared his passion: Paul Allen.'
+    caption: Meeting Paul Allen
+  - panel: p6
+    text: From those late nights at a high school keyboard, the seeds of the world's largest software empire were sown.
+    caption: An empire begins

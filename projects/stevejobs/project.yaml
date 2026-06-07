@@ -1,0 +1,78 @@
+# Steve Jobs biography — childhood through return to Apple and beyond.
+
+id: stevejobs
+title_ja: "スティーブ・ジョブズ"
+title_en: "Steve Jobs"
+subject: "スティーブ・ジョブズ"
+author: "(imagined first-person memoir)"
+language: ja
+
+# Era / locale strings injected into every panel prompt.
+era: "late 1950s through 2010s"
+locale_hint: "Mountain View / Los Altos / Cupertino California, the heart of Silicon Valley"
+
+style:
+  description: "full-color modern anime / webtoon style, soft cel shading, expressive line art, cinematic lighting, biographical drama tone"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face, samurai, kimono, asian period clothing"
+
+# Multi-chapter biography. Each chapter has its own novel.txt under
+# work/chapters/<id>/novel.txt.
+chapters:
+  - id: ch1
+    title: "第一話 雷鳴と追放"
+  - id: ch2
+    title: "第二話 荒野と天啓"
+  - id: ch3
+    title: "第三話 ガレージの創世記"
+  - id: ch4
+    title: "第四話 楽園の父と蛇"
+  - id: ch5
+    title: "第五話 失墜と帰郷"
+  - id: ch6
+    title: "第六話 砂漠の二つの種"
+  - id: ch7
+    title: "第七話 おもちゃの雪辱"
+  - id: ch8
+    title: "第八話 王の帰還"
+  - id: ch9
+    title: "第九話 色彩と魂"
+  - id: ch10
+    title: "第十話 影の中の点"
+  - id: ch11
+    title: "第十一話 点と点"
+  - id: ch12
+    title: "第十二話 宇宙の片隅に"
+
+narrator:
+  voice_style_id: 1310138977   # Aivis: 阿井田 茂 / Calm — same calm reflective voice used for Musk
+  voice_speed: 0.95
+  instructions: |
+    Read as if you ARE Steve Jobs in his later years, looking back on his
+    own life with the same calm, reflective intensity he had on stage.
+    First-person memoir tone. Quiet, measured, contemplative — the voice
+    of a man who has built and lost and rebuilt empires. Linger on the
+    interior conflicts (adoption shadow, NeXT exile, mortality). Brighten
+    subtly at the moments of pure creation. Closing lines carry a stillness,
+    not triumph.
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+  verify: false
+  similarity_threshold: 0.88
+  whisper:
+    model: large-v3
+
+bubbles:
+  font_path: /Users/apple/dev/claude-code/webtoon-gen/assets/fonts/NotoSansJP-Regular.otf
+  font_index: 0
+  font_scale: 4.0
+
+webtoon:
+  width_px: 800
+  panel_gap_px:
+    tight: 20
+    breath: 80
+    jump: 200
+
+output_targets: []

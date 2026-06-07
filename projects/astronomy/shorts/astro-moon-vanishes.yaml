@@ -1,0 +1,85 @@
+id: astro-moon-vanishes
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+      A dramatic night sky over a dark Earth horizon, the full Moon caught mid-
+      disappearance — the right half still glowing pale silver-white with visible
+      craters while the left half is vanishing into a clean circular slice of pure
+      black void, a sharp boundary between the halves, the starfield visible right up
+      against the cut edge, a small decorative English caption "THE MOON IS GONE",
+      the visual of "the night the Moon stopped existing". Subject filling the square
+      center for vertical short layout with blurred padding above/below. Eerie cosmic
+      tone. Decorative English text only. No Japanese text.
+  - id: p2
+    prompt: |
+      Square 1:1 anime/webtoon style infographic-style panel.
+      Clean physics infographic on a midnight-blue background, a coastline shown
+      twice side by side — a "BEFORE" version with a wide high-tide line and an
+      "AFTER" version with the water barely moving, a decorative English headline
+      "TIDES SHRINK TO 1/3" and a small caption "SUN'S PULL ONLY", the visual of "the
+      ocean's heartbeat fading". Infographic composition. Decorative English text
+      only. No Japanese text.
+  - id: p3
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A pitch-black moonless night landscape, a forest under a sky full of stars but
+      with no Moon anywhere, a few nocturnal animals (an owl, a sea turtle) looking
+      disoriented in the deep darkness, a thin decorative English caption "NIGHTS GO
+      DARK", the visual of "creatures losing the light they depended on". Mid-shot,
+      very dark cool palette. Decorative English text only. No Japanese text.
+  - id: p4
+    prompt: |
+      Square 1:1 anime/webtoon style infographic-style panel.
+      Clean physics infographic on a dark starfield background, a stylized Earth shown
+      with its rotation axis as a glowing arrow, the axis wobbling wildly between
+      several angles with motion lines, a decorative English headline "AXIS: 23.5°
+      → CHAOS" and a small caption "MOON NO LONGER STABILIZES THE TILT", the visual
+      of "the planet starting to wobble". Infographic composition. Decorative English
+      text only. No Japanese text.
+  - id: p5
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A surreal split-climate Earth from space showing extreme chaos — one hemisphere
+      scorched red and desert-cracked, the other buried in white ice and storms, no
+      Moon anywhere in the frame, a thin decorative English caption "SEASONS BREAK",
+      the visual of "a world with no stable climate". Wide cosmic shot. Decorative
+      English text only. No Japanese text.
+  - id: p6
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      The same night sky over Earth as panel 1 but now the Moon is completely gone,
+      only an empty patch of starfield where it used to be, a faint ghostly circular
+      outline lingering, a thin decorative English caption "WHY WE NEED THE MOON",
+      the loop image of "the silent partner that kept Earth stable". Subject filling
+      the square center for vertical short layout with blurred padding above/below.
+      Decorative English text only. No Japanese text.
+ja:
+  title: 'もし月が突然消えたら、地球はどうなる #Shorts'
+  description: |
+    今夜、月が突然消えたら——潮は弱まり、夜は闇に沈み、やがて地軸が暴れ出す。月が地球を支えていた事実を30秒で解説します。
+
+    #Shorts #宇宙 #月 #地球 #thoughtexperiment
+  hook_caption: 月が消えたら地球はどうなる
+  series_brand: 月が消えたら
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: もし今夜、月が突然消えたら、地球はどうなると思いますか?変化は静かに、しかし確実に始まります。
+      caption: 月が突然消えたら地球はどうなる
+    - panel: p2
+      text: まず潮の満ち引きが、3分の1ほどに弱まります。潮は主に月の重力が作るので、太陽の分しか、残らないからです。
+      caption: 潮の満ち引きが3分の1に
+    - panel: p3
+      text: 夜は、本物の暗闇になります。月明かりを頼りに生きてきた動物たちは、狩りも繁殖も、狂わされていきます。
+      caption: 夜は真の暗闇、生態系が乱れる
+    - panel: p4
+      text: さらに深刻なのが地軸です。月は地球の傾き23.5度を、長く安定させてきました。それが消えると、地軸は大きくぐらつき始めます。
+      caption: 月は地軸23.5度を安定させていた
+    - panel: p5
+      text: 傾きが暴れれば、季節は極端になり、ある地域は灼熱、別の地域は氷漬けへ。安定した気候は、終わりを迎えます。
+      caption: 地軸が暴れ季節が極端になる
+    - panel: p6
+      text: 月は、ただ夜を照らす石ではありません。地球の安定そのものを、静かに支えてきた、もう一つの主役だったんです。
+      caption: 月は地球の安定を支える主役だった

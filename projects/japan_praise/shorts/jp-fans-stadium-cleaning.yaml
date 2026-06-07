@@ -1,0 +1,194 @@
+id: jp-fans-stadium-cleaning
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    June 2018 in Saransk Russia at FIFA World Cup, the stands of a
+
+    modern football stadium right after the final whistle, the
+
+    Japanese national team supporters'' section visible — a group of
+
+    Japanese fans in blue football jerseys, many with painted blue
+
+    cheeks and small Japanese flag accessories, smiling gently as
+
+    they kneel and pick up empty plastic bottles and crumpled paper
+
+    into clear blue plastic trash bags they brought themselves, the
+
+    stadium lighting bright golden evening sun, the visual of
+
+    effortless quiet courtesy after a hard-fought loss. Clearly
+
+    international football stadium setting in Russia. Mid-shot. No
+
+    Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same stadium moments later, a few foreign stadium cleaning staff
+
+    in orange high-visibility vests pausing and staring in visible
+
+    surprise as Japanese fans in blue jerseys hand them tied-off
+
+    bags of trash with small respectful bows, a confused-but-touched
+
+    expression on the European cleaners'' faces, surrounding empty
+
+    seats already spotless, the visual of crew members realizing
+
+    their job is already done. Clearly international football
+
+    stadium setting. Mid-shot. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An infographic-style overlay panel, soft pastel sky-blue
+
+    background, a stylized globe of the Earth in the center with
+
+    decorative English captions floating around it like social
+
+    media post bubbles "WHY?", "WE LOST AND STILL CLEANED",
+
+    "RESPECT JAPAN", small chibi-style world citizens of different
+
+    ethnicities below the globe looking up at it in amazement, the
+
+    visual of a worldwide reaction going viral. Decorative English
+
+    only. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern Japanese elementary school classroom in present-day
+
+    Tokyo at end of the school day, a group of Japanese children
+
+    around age 9 in indoor school slippers cheerfully sweeping the
+
+    floor with small brooms, wiping desks with damp cloths, a
+
+    Japanese teacher in a tracksuit smiling gently beside them, the
+
+    visual of "this is just what we learn from age 6". Clearly
+
+    Japanese elementary school setting. Mid-shot. No Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside the Japanese national team''s locker room right after the
+
+    same 2018 match in Russia, completely empty of players, the
+
+    benches wiped clean, the floor spotless, a small handwritten
+
+    paper note in decorative English only "THANK YOU" placed
+
+    respectfully in the center of a folded white towel on the
+
+    bench, soft warm fluorescent light, the visual of leaving a
+
+    space cleaner than you found it. Clearly football locker room
+
+    setting. No people. No Japanese text other than the English
+
+    thank-you note.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 2022 in Doha Qatar at FIFA World Cup, the stands of a
+
+    modern football stadium right after another match, the same
+
+    visual pattern as panel 1 — Japanese supporters in blue
+
+    jerseys with painted cheeks and small Japanese flag accessories
+
+    kneeling and quietly picking up trash into blue bags, this
+
+    time joined by a few foreign fans from other countries copying
+
+    them with curious smiles, warm evening stadium lighting, the
+
+    visual of a cultural habit quietly spreading worldwide.
+
+    Loop-back framing matching panel 1. Clearly international
+
+    football stadium setting. Mid-shot. No Japanese text.
+
+    '
+ja:
+  title: '負けてもスタジアムを掃除する日本人サポーター #Shorts'
+  description: '8年前の2018年ワールドカップ、ロシアでの試合後、日本人サポーターが、負けたのに、スタジアムの席を黙々と掃除して帰った。
+
+    その姿を見た海外メディアと現地スタッフが、SNSで拡散。2022年カタール大会では、他国のファンも真似するようになった、文化が静かに広がった話を紹介します。
+
+
+    #Shorts #日本礼賛 #ワールドカップ #海外の反応 #日本文化
+
+    '
+  hook_caption: 負けたのに掃除して帰った
+  series_brand: バルトゥーン日本礼賛
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 8年前の2018年、ロシアでのワールドカップの試合後、日本人サポーターが、負けたばかりなのに、観客席を黙々と掃除して帰った光景を、覚えていますか?
+    caption: 負けたのに席を掃除して帰った
+  - panel: p2
+    text: 持参した青いゴミ袋にゴミを集め、現地スタッフに丁寧に手渡した彼らの姿に、海外の清掃員たちは、仕事を奪われたと笑いながら、感謝の写真を撮りました。
+    caption: 現地スタッフが驚いて写真を撮った
+  - panel: p3
+    text: その写真はSNSで爆発的に拡散し、「負けても誇りを保つとはこういうことか」と、世界中から称賛のコメントが、寄せられたんです。
+    caption: 世界中から称賛が殺到
+  - panel: p4
+    text: なぜできるのかというと、日本の小学校では、生徒自身が毎日教室を掃除する文化があるから。6歳から自然に身についた習慣だったんです。
+    caption: 小学校で毎日掃除する文化
+  - panel: p5
+    text: さらに同じ大会、日本代表のロッカールームも、ピカピカに片付けられ、ロシア語で「ありがとう」と書かれた紙が、残されていました。
+    caption: ロッカーには「ありがとう」の紙
+  - panel: p6
+    text: そして4年後のカタール大会では、他国のファンも、日本人を真似て掃除を始めました。誇るべきは試合結果ではなく、こういう静かな文化なのかもしれません。
+    caption: 他国のファンも真似し始めた
+en:
+  title: 'They Lost The Game, But Won The World''s Respect #Shorts'
+  description: 'At the 2018 World Cup, Japanese fans stunned the world by cleaning the stadium after a heartbreaking loss. This small act of respect, rooted in Japanese school culture, went viral and inspired
+    fans around the globe to do the same.
+
+
+    #Shorts #WorldCup #Japan #Sportsmanship #Culture'
+  hook_caption: They Lost The Game... Then Did THIS.
+  series_brand: Barutoon Japan Praise
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: At the 2018 World Cup, after a crushing last-minute defeat, Japanese fans did something unbelievable.
+    caption: After a crushing defeat...
+  - panel: p2
+    text: They stayed behind to clean the entire stadium, leaving the stadium staff in complete disbelief.
+    caption: They cleaned the stadium
+  - panel: p3
+    text: Photos of their actions went viral, earning praise from across the globe for their incredible sportsmanship.
+    caption: Praised by the world
+  - panel: p4
+    text: This sense of responsibility is taught early in Japan, where students clean their own classrooms every day.
+    caption: A childhood tradition
+  - panel: p5
+    text: Even the national team did it, leaving their locker room spotless with a 'Thank You' note in Russian.
+    caption: The players did it too
+  - panel: p6
+    text: By the next World Cup, fans from other countries had started following their lead, spreading this beautiful tradition.
+    caption: A new tradition spreads

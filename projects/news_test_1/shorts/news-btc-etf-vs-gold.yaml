@@ -1,0 +1,71 @@
+id: news-btc-etf-vs-gold
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Extreme close-up infographic on a dark navy background: two glowing bars —
+      left a bright orange "BTC ETF" bar tall, right a duller gold "GOLD ETF"
+      bar shorter, a giant white "$150B" label hovering over the BTC bar, the
+      visual of "Bitcoin spot ETFs eclipse gold". Clean modern financial news
+      graphic. No people.
+  - id: p2
+    prompt: |
+      A modern Tokyo newsroom — the anchor at her desk, behind her a large
+      studio monitor showing the Bitcoin orange logo next to the gold bullion
+      icon, a lower-third reading "BTC現物ETF". Composed news lighting.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      Wall Street brokerage floor at dawn — institutional traders in suits in
+      front of curved monitors, charts showing relentless upward ETF inflow
+      flows, a large screen overhead showing "BITCOIN SPOT ETF • INFLOWS",
+      the visual of "institutional money pours into BTC ETFs". Modern realistic.
+  - id: p4
+    prompt: |
+      A dual-pane infographic on dark blue — left pane a stack of physical gold
+      bars labeled "GOLD ETF", right pane an orange Bitcoin coin labeled "BTC
+      ETF", an animated arrow showing money flowing from left to right, the
+      visual of "old store of value vs new store of value". Clean modern news
+      infographic. No people.
+  - id: p5
+    prompt: |
+      A Japanese male fund manager in his 40s at a Tokyo investment firm desk,
+      surrounded by monitors showing the BTC chart and ETF inflow tables,
+      gesturing thoughtfully at the screen, the visual of "Japanese money
+      is starting to flow into BTC products too". Professional tone.
+  - id: p6
+    prompt: |
+      The anchor again at her newsroom desk, behind her a split-screen monitor:
+      left a Bitcoin price chart climbing, right the words "GOLD" with a soft
+      downward arrow — a calm explanatory closing shot.
+      Character: {anchor}.
+
+ja:
+  title: "ビットコインETFが、ついにゴールドETFを追い抜く規模に #Shorts"
+  description: |
+    2024年に米国で上場したビットコイン現物ETFが、運用残高1500億ドルを突破。
+    50年以上の歴史を持つゴールドETFを規模で追い抜きつつある最新動向を、30秒で解説。
+
+    #Shorts #ニュース #仮想通貨 #ビットコイン #ETF #BTC
+  hook_caption: "BTC ETFが、ゴールドを抜く日"
+  series_brand: "BTCが金を抜く"
+  voice_speed: 1.35
+  narration:
+    - panel: p1
+      text: "ビットコインの現物ETFが、ついにあの「ゴールドETF」を、規模で追い抜こうとしています。米国で上場からまだ2年と少しで、運用残高は1500億ドル超え。"
+      caption: "BTC現物ETF、1500億ドル突破"
+    - panel: p2
+      text: "現物ETFは、株のように証券口座から直接買える、ビットコイン連動の投資信託です。2024年1月、米国で承認された瞬間から、機関投資家の資金が一気に流れ込みました。"
+      caption: "2024年、米国で現物ETF承認"
+    - panel: p3
+      text: "ウォール街のファンドや年金、保険会社が、毎日のように買い増している状況。これまで「怪しい資産」とされていたビットコインが、ポートフォリオの一部として、本格的に組み込まれ始めています。"
+      caption: "機関投資家のマネーが本格流入"
+    - panel: p4
+      text: "対照的に、半世紀以上の歴史を持つゴールドETFは、ほぼ横ばい。インフレヘッジや資産防衛の役割を、ビットコインが奪い始めた、と読む声も増えてきました。"
+      caption: "金ETFは横ばい、地殻変動"
+    - panel: p5
+      text: "日本でも、暗号資産ETFの承認に向けた議論が動き出しています。実現すれば、NISA枠での購入も視野に入り、個人マネーが一気に動く可能性があります。"
+      caption: "日本でも、暗号資産ETF議論"
+    - panel: p6
+      text: "「金か、ビットコインか」。投資家のあいだで本気で議論される時代になりました。ETFは、その答えがマネーで可視化される、最前線です。"
+      caption: "金 vs BTC、マネーが答えを出す"

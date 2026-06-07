@@ -1,0 +1,70 @@
+# Cast for the マーク・ザッカーバーグ biographical shorts.
+# Two life-stage variants of Zuckerberg (Harvard-era 19yo / mature adult).
+# Supporting cast description-only for inline injection in panel prompts.
+
+characters:
+  - id: subject_adult
+    name_ja: マーク・ザッカーバーグ (成人)
+    description_en: |
+      Mark Zuckerberg in his late 30s to early 40s — a white American man with
+      a round face, distinctive pale blue eyes set under straight light-brown
+      eyebrows, short tightly curly chestnut-brown hair recently cut shorter
+      and styled forward in a slight Caesar cut, fair skin, a clean-shaven
+      angular jaw that has become more defined from BJJ training, an athletic
+      muscular build noticeably stockier and stronger than his early-career
+      thin frame (recent jiu-jitsu and MMA-style conditioning), a measured
+      controlled facial bearing that occasionally breaks into a wide somewhat
+      stiff grin, the public-figure self-presentation of a billionaire founder
+      who has rebranded himself as a martial artist and rancher
+    outfit_en: |
+      Modern Zuckerberg signature — a plain grey or charcoal cotton crew-neck
+      t-shirt, occasionally a plain black t-shirt or hoodie, dark blue or
+      black jeans, simple white or grey low-top sneakers, sometimes a long
+      gold chain pendant visible at the neckline (his 2020s rebrand look),
+      sometimes a plain dark grey hoodie zipped halfway over the t-shirt
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - measured calm public-figure composure
+      - intense focused eyes at a computer screen
+      - wide slightly stiff PR smile
+      - private moment of competitive intensity
+      - quiet defiance under congressional questioning
+    poses:
+      - "Front view standing arms relaxed at sides"
+      - "Three-quarter seated at a desk facing a laptop"
+      - "Side profile on a BJJ mat in a gi"
+      - "Mid-shot speaking into a microphone"
+
+  - id: subject_young
+    name_ja: マーク・ザッカーバーグ (19歳・ハーバード時代)
+    description_en: |
+      A 19-year-old Mark Zuckerberg in early 2004 at Harvard — a thin lanky
+      white American college sophomore with a boyish round-cheeked face,
+      pale blue eyes, light-brown loosely curly short hair somewhat messy
+      and falling near the forehead, fair skin with a hint of teenage acne,
+      a slightly hunched posture in front of a laptop, a quietly intense
+      programmer's bearing with little eye contact, the unsmiling intent
+      expression of an undergraduate coder absorbed in his project
+    outfit_en: |
+      Early-2000s American college student / Harvard dorm aesthetic — a plain
+      grey or navy crew-neck t-shirt, often topped by an open zip-up hoodie
+      (grey, navy, or Harvard maroon), loose blue jeans, simple Adidas or
+      generic athletic sandals (his famous shower-shoe look) or worn
+      sneakers, sometimes a college-issue lanyard with dorm key, frequently
+      with a silver clamshell laptop nearby
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - hyper-focused at a glowing laptop screen
+      - quiet stubborn defiance
+      - tired pre-dawn coding fatigue
+      - flat unreadable affect in conversation
+    poses:
+      - "Three-quarter seated at a dorm desk facing a laptop"
+      - "Front view standing arms loose in a hoodie"
+      - "Side profile leaning over a keyboard"

@@ -1,0 +1,61 @@
+id: artisan-sudo-honke-sake
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A traditional Japanese sake brewery surrounded by an ancient forest, wooden barrels and
+      a tall cedar, warm light, the visual of
+      "the oldest sake brewery in Japan". Serene, timeless tone.
+  - id: p2
+    prompt: |
+      A historical illustration of a Heian-era founding of the brewery beside rice paddies and
+      a pure spring, the visual of "founded back
+      in the Heian period". Warm, reverent historical tone.
+  - id: p3
+    prompt: |
+      An infographic of the brewery's surrounding protected forest, roots filtering pure water
+      into the wells, the visual of "they protect
+      the forest because it protects the water". Clean nature infographic.
+  - id: p4
+    prompt: |
+      An interior brewing scene: a master brewer checking fermenting rice in wooden vats,
+      steam rising, generic craftsman face, the visual
+      of "techniques passed down 55 generations". Warm artisan tone.
+  - id: p5
+    prompt: |
+      A reflective scene of the current head brewer holding a bottle, surrounded by the old
+      forest, the visual of "cut the forest and
+      the sake dies". Quiet, serious tone.
+  - id: p6
+    prompt: |
+      A warm shot of finished sake bottles glowing, the ancient brewery and forest behind,
+      the loop image of "inheriting water and
+      forest, not just a recipe". Serene, proud light.
+ja:
+  title: '日本最古の酒蔵、平安時代から続く須藤本家 #Shorts'
+  description: |
+    茨城県にある須藤本家は、平安時代から800年以上、55代にわたって日本酒を造り続けてきた、日本最古とされる酒蔵。その秘密は、酒そのものより「森を守ること」にありました。30秒で解説します。
+
+    #Shorts #老舗 #須藤本家 #日本酒 #雑学
+  hook_caption: 平安時代から続く日本最古の酒蔵
+  series_brand: 老舗の流儀
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 茨城県に、日本でいちばん古いと言われる酒蔵があります。須藤本家。その歴史は、800年以上にもなります。
+      caption: 茨城県にある日本最古とされる酒蔵
+    - panel: p2
+      text: 創業は、なんと平安時代。武士が台頭する、はるか昔から、この蔵は日本酒を造り続けてきました。
+      caption: 創業は武士が台頭する前の平安時代
+    - panel: p3
+      text: 長く続いた秘密は、酒蔵を囲む森にあります。木々の根が、酒造りに欠かせない、きれいな地下水を生み出しているんです。
+      caption: 蔵を囲む森が酒造りの水を生んでいる
+    - panel: p4
+      text: だから須藤本家は、55代にわたって、酒造りの技と同じくらい、この森を大切に守り抜いてきました。
+      caption: 55代にわたり技とともに森を守ってきた
+    - panel: p5
+      text: 当主は言います。森を切れば、水が濁り、酒は終わる、と。彼らが受け継いでいるのは、レシピだけではないんです。
+      caption: 森を切れば水が濁り酒は終わるという
+    - panel: p6
+      text: 守るべきは、目の前の商品ではなく、それを生む環境そのもの。800年続く蔵は、いちばん大事なものを、知っているのです。
+      caption: 800年続く蔵は何を守るべきか知っている

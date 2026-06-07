@@ -1,0 +1,175 @@
+id: sbf-mit-to-ftx
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    May 2019 in Hong Kong. A young Sam Bankman-Fried, 27 years old, stands in
+
+    front of a glowing screen displaying a sleek new crypto exchange logo reading
+
+    "FTX", his characteristic explosion of frizzy brown curly hair lit from
+
+    behind by the screen, his sleepy half-lidded eyes catching the cold light,
+
+    a faint distracted half-smile on his face, wrinkled white t-shirt and
+
+    khaki cargo shorts looking jarring in a modern glass-walled fintech office.
+
+    Mid-shot, the moment a 27-year-old launches his own exchange.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2013, an MIT physics lecture hall in Cambridge Massachusetts. A
+
+    20-year-old Sam Bankman-Fried sits slouched in a wooden tiered seat near
+
+    the back, his huge mop of curly hair already at full volume, scribbling
+
+    furiously in a notebook full of equations, half-listening to a professor
+
+    at a chalkboard covered in dense formulas, the other students looking
+
+    ordinary by comparison. The brilliant disheveled physics undergrad.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A high-end New York trading floor at Jane Street around 2016. A 24-year-old
+
+    Sam Bankman-Fried sits at a desk surrounded by six glowing monitors full of
+
+    orderbook charts and option spreads, his curly mop of hair the only chaotic
+
+    element in a row of clean-cut traders in collared shirts, his wrinkled
+
+    t-shirt jarring against the corporate setting. Late afternoon Manhattan
+
+    light through tall windows. Three quarter shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A late-night Berkeley California apartment in 2017. Sam Bankman-Fried,
+
+    25 years old, hunched intensely over a laptop on a cluttered coffee table,
+
+    two trading screens showing the price of Bitcoin in Japanese yen on the
+
+    left and US dollars on the right with a visible price gap of about ten
+
+    percent between them, his sleepy heavy-lidded eyes suddenly sharp and
+
+    focused, takeout boxes scattered around him. The exact moment of
+
+    noticing the arbitrage that built his fortune.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A small barely-furnished Berkeley office in early 2018, the brand new
+
+    Alameda Research hedge fund. About six casually-dressed young traders
+
+    including Sam Bankman-Fried sit on cheap folding chairs in front of
+
+    laptops on plain folding tables, a whiteboard covered in scribbled trade
+
+    ideas, no decoration, no logo, takeout containers everywhere. The
+
+    humble origin of a crypto trading empire.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    May 2019 Hong Kong, a slightly wider angle of the same moment as panel 1.
+
+    A 27-year-old Sam Bankman-Fried stands in front of the glowing FTX logo
+
+    on a large screen, distracted half-smile, wrinkled white t-shirt and
+
+    khaki shorts, a small audience of investors and journalists in business
+
+    casual visible in the foreground. The frizzy-haired physics kid who built
+
+    a crypto exchange in two years. Loop-back framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'MIT物理の天才がFTXを作るまで #Shorts'
+  description: 'MITで物理学を学んだサム・バンクマン・フリードは、Jane Streetを辞めて、暗号通貨の価格差で大儲けし、2019年にFTXを創業した。
+
+    そのスピード出世の裏側とは。
+
+
+    #Shorts #SBF #FTX #Alameda #人物伝
+
+    '
+  hook_caption: MIT物理→2年でFTX創業
+  series_brand: サム・バンクマン・フリード伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: MITで物理を学び、たった2年で、自分の暗号通貨取引所を作った男がいます。
+    caption: MIT物理→2年でFTX創業
+  - panel: p2
+    text: 2014年、サム・バンクマン・フリードは、MITを卒業し、ニューヨークの名門Jane Streetに、入社しました。
+    caption: 2014年、Jane Streetへ
+  - panel: p3
+    text: ところが、2017年、彼は、ある異常な値差に気づきます。日本のBitcoin価格が、アメリカより10パーセントも、高かったんです。
+    caption: 2017年、日米で10%の価格差
+  - panel: p4
+    text: 彼は、即座にJane Streetを辞め、その価格差を狙う、ヘッジファンドAlamedaを、立ち上げました。
+    caption: 辞めてAlameda Researchを設立
+  - panel: p5
+    text: そして、わずか2年後の2019年、彼は、香港で、自分の取引所、FTXを、創業します。
+    caption: 2019年、香港でFTX創業
+  - panel: p6
+    text: 27歳で、世界5位の暗号通貨取引所オーナーに、なったんです。
+    caption: 27歳で世界5位の取引所オーナー
+en:
+  title: 'How an MIT Grad Built a Crypto Empire in 2 Years #Shorts'
+  description: 'Sam Bankman-Fried went from MIT physics to Wall Street quant. But when he spotted a massive arbitrage in Bitcoin prices, he quit to build what would become a crypto empire: FTX.
+
+
+    #Shorts #SBF #FTX #Crypto #Biography'
+  hook_caption: How a 10% Price Gap Built an Empire
+  series_brand: The Sam Bankman-Fried Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 2013, Sam Bankman-Fried was just another physics major at MIT.
+    caption: Just a student
+  - panel: p3
+    text: After graduating, he landed a coveted job at the elite Wall Street trading firm Jane Street.
+    caption: Wall Street Quant
+  - panel: p4
+    text: 'But in 2017, he noticed something crazy: Bitcoin was trading 10% higher in Japan than in the US.'
+    caption: A 10% price gap
+  - panel: p5
+    text: He instantly quit his job and founded Alameda Research to cash in on this arbitrage opportunity.
+    caption: Alameda is born
+  - panel: p1
+    text: 'Just two years later, he used those profits to launch his own crypto exchange from Hong Kong: FTX.'
+    caption: FTX is launched
+  - panel: p6
+    text: At just 27 years old, he had built the 5th largest crypto exchange on the planet.
+    caption: A crypto empire

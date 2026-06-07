@@ -1,0 +1,61 @@
+id: jp-no-tipping-culture
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a Western tourist finishing a meal at a small Japanese
+      restaurant, reaching into a wallet to leave bills on the table as a tip, smiling. Conveys
+      "the tourist tries to leave a tip like back home". Warm restaurant evening light.
+  - id: p2
+    prompt: |
+      An anime scene of the Japanese waiter chasing after the tourist outside the restaurant
+      holding up the forgotten money, confused expression. Conveys "the staff runs after them,
+      thinking the money was forgotten". Lighthearted shock.
+  - id: p3
+    prompt: |
+      An anime close-up of the waiter politely shaking their head and returning the bills with
+      both hands, the tourist astonished. Conveys "we don't accept tips here". Gentle, sincere
+      tone.
+  - id: p4
+    prompt: |
+      An anime scene of a taxi driver in spotless white gloves opening the door, a hotel
+      bellhop carrying luggage with a smile — none of them expecting any tip. Conveys "no tip
+      at the taxi, no tip at the hotel either". Clean polite service tone.
+  - id: p5
+    prompt: |
+      An anime scene contrasting a Western waiter looking unhappy at a small tip on a foreign
+      table, versus a Japanese waiter bowing sincerely while serving — pride in the work
+      itself. Conveys "doing the job well is its own reward". Warm reflective contrast.
+  - id: p6
+    prompt: |
+      A closing anime scene of the tourist leaving the restaurant deeply impressed, looking
+      back at the bowing staff with admiration. Conveys "a country where service is given for
+      its own sake". Warm hopeful evening light.
+ja:
+  title: 'チップを置くと追いかけてくる、日本のサービス文化に外国人が驚く #Shorts'
+  description: |
+    日本では、レストランでもタクシーでもチップは受け取らない。それどころか、置いていくと「忘れ物ですよ」と店員が追いかけてくる。仕事そのものに誇りを持つ日本のサービス文化に、外国人は深く感動する。30秒で解説します。
+
+    #Shorts #日本 #チップ #海外の反応 #おもてなし
+  hook_caption: チップを置くと追いかけてくる日本
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 日本のレストランで食事を終えた外国人が、いつものように、テーブルにチップを置いて店を出ます。母国では、ごく当たり前の習慣でした。
+      caption: いつもの習慣でチップを置いて店を出る
+    - panel: p2
+      text: ところが店員が、お札を握って外まで追いかけてきます。お客さん、忘れ物ですよ、と。チップという発想自体が、ないんです。
+      caption: 店員が「忘れ物」と追いかけてくる
+    - panel: p3
+      text: 事情を説明しても、店員は丁寧に両手で返してきます。私たちは、チップは受け取らないんです、と。外国人は、立ち尽くします。
+      caption: 「チップは受け取らない」と丁寧に返される
+    - panel: p4
+      text: タクシーでも、ホテルでも同じです。手袋をした運転手も、笑顔の従業員も、誰一人として、追加のお金を期待しません。
+      caption: タクシーもホテルも誰も追加を期待しない
+    - panel: p5
+      text: 海外では、チップが少ないと店員に嫌な顔をされることもあります。でも日本では、仕事を丁寧にやり遂げること自体が、彼らの誇りなんです。
+      caption: 海外と違い、仕事の丁寧さ自体が誇り
+    - panel: p6
+      text: 見返りを求めず、目の前の人に尽くす。日本のおもてなしが世界で愛されるのは、その純粋さに、人の心が動かされるからなのです。
+      caption: 見返りを求めぬ純粋さに世界が感動する

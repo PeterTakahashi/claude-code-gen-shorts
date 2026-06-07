@@ -1,0 +1,144 @@
+id: horie-kintetsu-baseball-bid
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 31-year-old Takafumi Horie in 2004 standing behind a cluster of Japanese press microphones
+
+    at a Tokyo press conference, plain t-shirt and unbuttoned casual jacket, dozens of camera
+
+    flashes firing, his expression calm and slightly cocky, surrounded by stunned older
+
+    Japanese reporters. The moment an IT founder announced he wants to buy a professional
+
+    baseball team.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 2004 Tokyo skyscraper Livedoor headquarters office floor, dozens of young Japanese
+
+    employees at modern flat-panel monitors, a wall logo reading "Livedoor" in English,
+
+    31-year-old Horie walking confidently through, hands in pockets, the picture of a
+
+    successful peak-2004 IT founder.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 2004 Osaka professional baseball stadium half-empty in evening light, "Kintetsu Buffaloes"
+
+    English signage faintly visible on the scoreboard, the Buffaloes players visible on the
+
+    field in their uniforms, a worried Japanese team executive in a suit watching from the
+
+    stands, conveying a once-proud team now in financial trouble.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A close-up of 31-year-old Horie speaking into a microphone at a press conference podium,
+
+    one hand gesturing forward confidently, a slight smirk on his lips, Japanese press behind
+
+    him with cameras raised. A clean, decisive moment.
+
+    Character: {subject_young}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Three conservative Japanese professional baseball executives in their 60s-70s sitting at
+
+    a formal Nippon Professional Baseball boardroom table in 2004 dark suits, expressions
+
+    angry and dismissive, one of them slamming a hand on the table, the body language of an
+
+    old guard rejecting an internet upstart.
+
+    Character: {baseball_executive}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    31-year-old Horie back at the same press conference podium, this time the room slightly
+
+    darker, microphones still arrayed around him, his expression now quiet and a little
+
+    bemused — knowing he lost the bid but won massive public attention. Conveys "the IT generation
+
+    arrived, and Japanese sports could never go back".
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '31歳でプロ野球を買おうとした男 #Shorts'
+  description: '2004年、IT 企業 Livedoor の社長だった31歳の堀江貴文が、近鉄バファローズの買収を提案。日本のプロ野球界の保守と真正面からぶつかった事件。
+
+
+    #Shorts #堀江貴文 #ホリエモン #人物伝
+
+    '
+  hook_caption: 31歳がプロ野球買収に名乗り
+  series_brand: 堀江貴文伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 31歳の、IT 企業の社長が、プロ野球の球団を、買おうとしました。
+    caption: 31歳の IT 社長がプロ野球買収提案
+  - panel: p2
+    text: 2004年、堀江貴文。当時、Livedoor は、絶頂期にありました。
+    caption: 2004年、Livedoor 絶頂期
+  - panel: p3
+    text: 経営難の、近鉄バファローズに、買収を、名乗り出たんです。
+    caption: 近鉄バファローズ買収に名乗り
+  - panel: p4
+    text: ところが、プロ野球機構の、おじさんたちは、激怒しました。インターネット屋に、伝統ある球界は、渡さない、と。
+    caption: 球界保守派が拒絶「IT屋に渡さない」
+  - panel: p5
+    text: 結局、買収は、認められませんでした。
+    caption: 結局、買収は認められず
+  - panel: p6
+    text: でも、この一件で、日本の、閉ざされた業界に、誰でも、挑戦できる、という空気を、作ったのは、間違いなく彼です。
+    caption: 閉ざされた業界に挑戦の空気を作った
+en:
+  title: 'The 31-Year-Old Who Tried to Buy a Baseball Team #Shorts'
+  description: 'In 2004, tech mogul Takafumi Horie tried to buy the Kintetsu Buffaloes, sparking a culture clash with Japan''s conservative sports establishment. This is the story of the internet upstart
+    who took on the old guard.
+
+
+    #Shorts #TakafumiHorie #Baseball #Japan #History'
+  hook_caption: He tried to buy a baseball team. The old guard declared war.
+  series_brand: The Story of Takafumi Horie
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: In 2004, a 31-year-old tech CEO named Takafumi Horie tried to do the unthinkable.
+    caption: A shocking proposal
+  - panel: p2
+    text: His internet company, Livedoor, was at the absolute peak of its power.
+    caption: Internet giant Livedoor
+  - panel: p3
+    text: And he made a public bid to buy a professional baseball team, the struggling Kintetsu Buffaloes.
+    caption: A team in trouble
+  - panel: p5
+    text: But the league's conservative, old-guard executives were furious.
+    caption: The old guard
+  - panel: p4
+    text: They publicly sneered, refusing to sell their 'traditional' sport to some 'internet guy.'
+    caption: '"Not for an IT guy"'
+  - panel: p6
+    text: His bid was rejected, but Horie's bold move showed a new generation that even Japan's most closed doors could be kicked open.
+    caption: A new generation inspired

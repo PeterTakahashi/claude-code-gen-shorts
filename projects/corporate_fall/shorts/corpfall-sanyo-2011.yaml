@@ -1,0 +1,62 @@
+id: corpfall-sanyo-2011
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A grand 2000s-era Japanese electronics company headquarters at dusk, its glowing
+      logo sign going dark, a decorative Japanese caption "白物家電の巨人、消滅", the visual
+      of "a household-name electronics giant about to vanish". Somber, clearly Japan.
+  - id: p2
+    prompt: |
+      A bright 1980s-90s scene of a Japanese family home full of beloved appliances —
+      washing machine, fridge, rechargeable batteries — a warm nostalgic decorative Japanese
+      caption "どの家にもあった", the visual of "its products were in every Japanese home".
+      Nostalgic, clearly Japan.
+  - id: p3
+    prompt: |
+      An infographic on dark navy, a rising-then-collapsing line graph, icons of a factory
+      hit by an earthquake and a flood, a decorative Japanese caption "震災と価格競争", the
+      visual of "disaster and price wars hollowed it out". Clean infographic.
+  - id: p4
+    prompt: |
+      A 2011 scene of boardroom executives bowing as a rival electronics company logo
+      looms over the brand, a decorative Japanese caption "Panasonicに吸収", the visual of
+      "absorbed by a bigger rival in 2011". Somber Japanese corporate.
+  - id: p5
+    prompt: |
+      A melancholy scene of the company sign being removed from a building, longtime
+      employees watching, a decorative Japanese caption "ブランドが消えた日", the visual of
+      "the brand name disappeared from the streets". Clearly Japan, evening.
+  - id: p6
+    prompt: |
+      Same darkened headquarters from panel 1 against a deep blue sky, a faint nostalgic
+      glow, a decorative Japanese caption "巨人も、消える", the loop image of "even giants
+      vanish". Somber, clearly Japan.
+ja:
+  title: '三洋電機、白物家電の巨人が消えた日 #Shorts'
+  description: |
+    どの家庭にもあった三洋電機。エネループや白物家電で愛された巨人が、震災と価格競争の末にPanasonicへ吸収され、ブランドが消えた経緯を解説します。
+
+    #Shorts #倒産 #三洋電機 #SANYO #経済
+  hook_caption: 白物家電の巨人、三洋電機の消滅
+  series_brand: 三洋電機の終わり
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: かつて、どの家庭にもあった白物家電の巨人が、ある日、ブランドごと消えました。三洋電機です。
+      caption: 白物家電の巨人が消えた
+    - panel: p2
+      text: 洗濯機、冷蔵庫、そして充電池のエネループ。三洋の製品は、日本中の家庭で、当たり前のように使われていました。
+      caption: どの家にもあった三洋の製品
+    - panel: p3
+      text: しかし、海外メーカーとの激しい価格競争で利益が削られ、さらに震災や水害が、主力工場を直撃します。
+      caption: 価格競争と災害で体力を失う
+    - panel: p4
+      text: そして2011年、三洋電機は、同じ日本の巨大電機メーカー、Panasonicに吸収されました。
+      caption: 2011年、Panasonicに吸収される
+    - panel: p5
+      text: やがて、街から三洋の看板は外され、ブランドの名は、ほとんど見られなくなりました。
+      caption: 街からブランド名が消えた
+    - panel: p6
+      text: あれほど身近だった巨人さえ、時代の波の前では消えていく。三洋電機の最後は、それを静かに教えてくれます。
+      caption: 身近な巨人も、時代に消える

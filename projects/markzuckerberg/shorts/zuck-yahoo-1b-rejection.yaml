@@ -1,0 +1,161 @@
+id: zuck-yahoo-1b-rejection
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 22-year-old Mark Zuckerberg seated across a long polished conference
+
+    table in a Yahoo executive boardroom in Sunnyvale California, summer
+
+    2006, his pale blue eyes calm and unreadable, lips pressed into a flat
+
+    line as he gives a quiet refusal, his thin Harvard-dropout frame in a
+
+    grey t-shirt and zip-up hoodie looking absurdly underdressed against
+
+    the corporate setting. Mid-shot close on his expression, the rest of
+
+    the room slightly blurred.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Establishing exterior wide shot of Yahoo Inc. headquarters in Sunnyvale
+
+    California in summer 2006, the iconic purple-and-yellow Yahoo logo on
+
+    a modern Silicon Valley corporate office park building, palm trees,
+
+    bright daylight, the building of an internet giant at its peak,
+
+    mid-2000s American tech aesthetic.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Terry Semel, 63-year-old Yahoo CEO in summer 2006, a polished American
+
+    executive with neatly groomed grey hair, a dark expensive business suit
+
+    with conservative tie, seated at the head of the Yahoo boardroom table
+
+    in Sunnyvale, leaning forward with a confident closing-the-deal smile,
+
+    a manila folder open in front of him, the body language of a Hollywood-
+
+    veteran negotiator. Conveys an offer being delivered.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Extreme close-up of a printed term sheet on a conference table, the
+
+    Yahoo Inc. logo at the top, with bold black serif text reading "Offer
+
+    to acquire Facebook, Inc." and a clearly visible figure of
+
+    "$1,000,000,000" highlighted in the document. Pen resting beside the
+
+    page, soft overhead lighting on the paper. The weight of a billion
+
+    dollars on a single sheet.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 22-year-old Mark Zuckerberg seated at the Yahoo boardroom table,
+
+    angled toward a floor-to-ceiling window showing the Sunnyvale office
+
+    park outside, his thin face quiet and contemplative, pale eyes
+
+    reflecting the California daylight, the tiniest shrug of his shoulders,
+
+    his unkempt curly brown hair, a plain grey t-shirt and hoodie. The
+
+    moment a 22-year-old decides not to take a billion dollars.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 22-year-old Mark Zuckerberg walking out of the Yahoo Sunnyvale
+
+    headquarters entrance in summer 2006, hands in the pockets of his grey
+
+    zip-up hoodie over a plain t-shirt, baggy jeans, simple sneakers, his
+
+    thin frame striding casually away from a billion-dollar offer, the
+
+    Yahoo logo visible on the glass doors behind him, California sunlight,
+
+    the iconic image of a 22-year-old saying no.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '22歳が Yahoo の $10億 を即断った日 #Shorts'
+  description: '2006年夏、22歳のマーク・ザッカーバーグが、Yahoo の CEO テリー・セメルから提示された $10億 の買収オファーを、即座に断った話。当時、Facebook の年間売上はわずか $3000万 だった。
+
+
+    #Shorts #マークザッカーバーグ #Meta #Facebook #人物伝
+
+    '
+  hook_caption: 22歳が $10億 を即断った日
+  series_brand: マーク・ザッカーバーグ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 22歳の大学中退の青年が、Yahoo から、$10億 の買収オファーを、即、断ったことが、あります。
+    caption: 22歳が $10億 のオファーを即断った
+  - panel: p2
+    text: 2006年夏、サニーベール、Yahoo 本社の会議室。
+    caption: 2006年夏、Yahoo 本社
+  - panel: p3
+    text: テーブルの向こうから、Yahoo の CEO テリー・セメルが、紙を差し出しました——「$10億 で、Facebook を買いたい」。
+    caption: 「$10億 で Facebook を買いたい」
+  - panel: p4
+    text: 当時、Facebook の年間売上は、わずか $3000万。33倍以上の値段でした。
+    caption: 売上 $3000万 に対し、33倍の値
+  - panel: p5
+    text: しかし、22歳のマーク・ザッカーバーグは、ほとんど即答で、こう返したんです——「いや。売る理由が、ないので」。
+    caption: 「売る理由が、ないので」
+  - panel: p6
+    text: その18年後、Meta の時価総額は、$1兆 を超えた。22歳の即断は、人類史で最も儲かった一言に、なりました。
+    caption: 18年後、$1兆 企業に化けた
+en:
+  title: 'The Day a 22-Year-Old Said ''No'' to $1 Billion #Shorts'
+  description: 'In the summer of 2006, Yahoo CEO Terry Semel offered to buy Facebook for $1 billion. 22-year-old Mark Zuckerberg instantly refused. That decision would become one of the most profitable
+    in history.
+
+
+    #Shorts #MarkZuckerberg #Facebook #Meta #Business'
+  hook_caption: The Most Expensive 'No' In History
+  series_brand: Mark Zuckerberg's Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: The year is 2006, inside Yahoo's corporate headquarters.
+    caption: Yahoo HQ, 2006
+  - panel: p3
+    text: CEO Terry Semel makes a life-changing offer to a 22-year-old college dropout.
+    caption: A life-changing offer
+  - panel: p4
+    text: 'One billion dollars in cash to buy his new company: Facebook.'
+    caption: $1 billion for Facebook
+  - panel: p5
+    text: But the young Mark Zuckerberg barely hesitated before turning it down.
+    caption: ''
+  - panel: p6
+    text: That single word—'no'—would eventually be worth over a trillion dollars.
+    caption: A trillion-dollar 'no'

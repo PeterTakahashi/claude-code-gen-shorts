@@ -1,0 +1,67 @@
+id: son-comdex-buyout
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A 9:16 vertical anime/webtoon scene of Masayoshi Son in his late 30s in a 1990s Tokyo
+      office, standing before a wall map of the United States, looking at a glowing pin on
+      Las Vegas, conveying "he set his sights on a trade show across the ocean". Late-90s
+      corporate atmosphere, ambitious tone. Character: {subject_adult}.
+  - id: p2
+    prompt: |
+      A 9:16 vertical anime/webtoon scene of a massive 1990s Las Vegas convention floor —
+      COMDEX — endless booths, glowing PC monitors, throngs of suit-wearing tech executives,
+      banners reading "COMDEX", conveying "the world's largest computer trade show". Wide,
+      epic exhibition hall.
+  - id: p3
+    prompt: |
+      A 9:16 vertical anime/webtoon scene of Son in a New York boardroom in 1995, sliding a
+      proposal across the table to the surprised American owners of a publishing company,
+      conveying "he offered to buy the whole company just to get the trade show". Tense
+      negotiation tone. Character: {subject_adult}.
+  - id: p4
+    prompt: |
+      A 9:16 vertical anime/webtoon scene of newspaper headlines on a desk reading
+      "Softbank acquires Ziff-Davis assets for $800M" and "Softbank buys COMDEX for $800M",
+      stacks of financial reports, conveying "he paid roughly 800 million dollars". Late-90s
+      financial press mood.
+  - id: p5
+    prompt: |
+      A 9:16 vertical anime/webtoon scene of Son walking the COMDEX floor as its new owner,
+      Bill Gates and other Silicon Valley figures (drawn generically, no real likeness) nodding
+      to him as he passes, conveying "suddenly he stood at the center of the IT world". Heroic,
+      glowing exhibition light. Character: {subject_adult}.
+  - id: p6
+    prompt: |
+      A 9:16 vertical anime/webtoon scene of Son back in his Tokyo office at night looking at
+      a globe, lines of light connecting Tokyo to Silicon Valley, conveying "from an outsider
+      to the world's center of information". Cinematic, visionary mood.
+      Character: {subject_adult}.
+ja:
+  title: '孫正義が、世界最大の展示会を800億円で買った理由 #Shorts'
+  description: |
+    1995年、孫正義はアメリカの大手出版社を約800億円で買収する。狙いは出版事業ではなく、その傘下にあった世界最大のIT展示会コムデックスだった。情報こそが次の時代の石油だと見抜いた、若き日の大勝負を30秒で解説します。
+
+    #Shorts #偉人伝 #孫正義 #ソフトバンク #名言
+  hook_caption: 孫正義が800億円で買った展示会
+  series_brand: 孫正義
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1990年代、まだ日本のベンチャー経営者だった孫正義は、ある一点に目を付けます。アメリカの、巨大なIT展示会でした。
+      caption: 90年代、米国の巨大IT展示会に着目した
+    - panel: p2
+      text: その名は、コムデックス。マイクロソフトもインテルも集まる、世界最大のコンピューター見本市です。世界中の情報が、ここに集中していました。
+      caption: 世界最大のIT展示会コムデックス
+    - panel: p3
+      text: ところがその展示会は、アメリカの大きな出版社が持っていました。だから彼は、展示会だけを欲しがらず、出版社ごと買おうと交渉します。
+      caption: 出版社ごと買う交渉に踏み切った
+    - panel: p4
+      text: そして1995年、彼は約800億円を投じ、出版社の事業を丸ごと買収します。当時の日本企業としては、桁違いの大型投資でした。
+      caption: 1995年、約800億円を投じて買収した
+    - panel: p5
+      text: コムデックスを手にした瞬間、孫正義は世界中のIT企業の中心に立ちました。情報と人脈が、自然に彼のもとへ集まるようになります。
+      caption: IT業界の情報と人脈の中心に立った
+    - panel: p6
+      text: 彼が買ったのは、展示会ではなく、未来の情報そのもの。情報こそが次の時代の石油だと、誰よりも早く見抜いていたのです。
+      caption: 情報こそ次の時代の石油だと見抜いた

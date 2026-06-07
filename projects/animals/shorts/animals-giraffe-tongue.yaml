@@ -1,0 +1,60 @@
+id: animals-giraffe-tongue
+image_style: photorealistic
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A photorealistic close-up of a tall adult giraffe standing on a sunlit African savanna,
+      its long neck stretched upward toward an acacia tree, calm and majestic, golden hour
+      light, cinematic wildlife photography.
+  - id: p2
+    prompt: |
+      A photorealistic extreme close-up of a giraffe's open mouth and tongue mid-extension —
+      the tongue clearly dark blue-purple in color, long and prehensile, wrapping around
+      thorny acacia leaves, sharp natural detail, nature documentary photography.
+  - id: p3
+    prompt: |
+      A photorealistic side view of a giraffe expertly threading its long tongue between
+      sharp acacia thorns to strip leaves, sunlight catching the thorns, cinematic close-up.
+  - id: p4
+    prompt: |
+      A photorealistic close-up of giraffe skin under bright equatorial sun, conveying
+      heat and exposure on the savanna, atmospheric African landscape in the background.
+  - id: p5
+    prompt: |
+      A photorealistic illustration-like measurement shot of a giraffe tongue extended
+      next to a labeled vertical scale, suggesting "about 45-50 cm long", clean nature-doc
+      educational tone.
+  - id: p6
+    prompt: |
+      A serene photorealistic portrait of a giraffe pair walking across the savanna at
+      sunset, calm and graceful, warm African golden light, cinematic wildlife photography.
+
+ja:
+  title: 'キリンの舌は50cm、しかも黒紫色なのには理由があった #Shorts'
+  description: |
+    キリンの舌は約45〜50センチもあり、しかも黒っぽい紫色をしている。さらにトゲだらけの木の葉を平気で食べられる。なぜこんなに長く、なぜ黒いのか。その合理的な理由を30秒で解説します。
+
+    #Shorts #動物雑学 #キリン #雑学 #サバンナ
+  hook_caption: キリンの舌は50cm、しかも黒紫色
+  series_brand: 規格外の生き物
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: アフリカの大地にすっと立つキリン。その長い首だけでなく、舌にも、知られざる秘密があります。
+      caption: 長い首だけでないキリンの秘密
+    - panel: p2
+      text: キリンの舌は、約45〜50センチ。しかも色は、深い黒っぽい紫色をしています。一見、ぎょっとする見た目です。
+      caption: 舌は約50cm、黒紫色をしている
+    - panel: p3
+      text: 彼らの主食は、トゲだらけのアカシアの葉。長い舌を器用に使い、トゲのすき間を縫って葉だけを巻き取って食べます。
+      caption: トゲの間を縫って葉だけを巻き取る
+    - panel: p4
+      text: では、なぜ舌が黒いのか。一日中、強い赤道の日差しの下で舌を出し続けるため、日焼け対策にメラニン色素が濃く備わっているからだと考えられています。
+      caption: 強い日差し対策のメラニン色素
+    - panel: p5
+      text: つまり、あの黒い舌は、サバンナで生き抜くための「天然の日焼け止め」。長さも色も、すべて環境に合わせて進化した結果なんです。
+      caption: 天然の日焼け止めとして進化した
+    - panel: p6
+      text: 高い首も、長い舌も、黒い色素も、すべてが繋がっている。キリンは、足元から舌先まで、サバンナに最適化された生き物なのです。
+      caption: 全身がサバンナ最適化された生き物

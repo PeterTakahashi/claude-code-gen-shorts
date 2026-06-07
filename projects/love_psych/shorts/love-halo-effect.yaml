@@ -1,0 +1,66 @@
+id: love-halo-effect
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a young woman meeting a stylish well-dressed man at a
+      Tokyo cafe, a faint glowing halo around his head, a decorative Japanese caption
+      "見た目で全部が良く見える", the visual of "one good trait makes everything else look good".
+      Soft warm cafe light.
+  - id: p2
+    prompt: |
+      A clean psychology infographic showing one shining trait, say "整った見た目", radiating
+      arrows to other traits "優しい", "頭がいい", "誠実", a decorative Japanese caption "印象が
+      他の印象を引き上げる", the visual of "one good impression pulls every other rating up".
+      Clean infographic, soft palette.
+  - id: p3
+    prompt: |
+      A webtoon scene of a 1920s psychology classroom, the American psychologist Edward
+      Thorndike with a clipboard rating military officers on physical traits, then on
+      intelligence and leadership, a decorative English caption "THORNDIKE 1920", the
+      visual of "Thorndike's 1920 experiment that named the halo effect". Vintage academic
+      tone.
+  - id: p4
+    prompt: |
+      An infographic showing two profile cards of the same person — one labeled "笑顔" with
+      high warmth/competence/honesty scores, the other labeled "無表情" with much lower
+      scores, a decorative Japanese caption "笑顔だけで全評価が上がる", the visual of "a single
+      smile inflates every score". Clean comparison infographic.
+  - id: p5
+    prompt: |
+      A webtoon scene of an office, the same well-dressed man giving a poor opinion in a
+      meeting, yet coworkers still nodding admiringly, a small caption "見た目バイアス", the
+      visual of "the halo makes weak ideas sound smart". Modern office, soft palette.
+  - id: p6
+    prompt: |
+      A gentle webtoon scene of the woman from panel 1 now looking past the halo and seeing
+      the man as he really is, a decorative Japanese caption "ハロー効果を知れば惑わされない",
+      the loop image of "knowing the halo lets you see clearly". Hopeful, warm tone.
+ja:
+  title: 'ハロー効果、見た目で全評価が上がる脳の癖 #Shorts'
+  description: |
+    心理学では、見た目が良い人を「優しい」「頭がいい」「誠実」とまで感じてしまう傾向がある、と言われています。1920年にソーンダイクが名付けた「ハロー効果」と、恋愛での向き合い方を30秒で解説します。
+
+    #Shorts #恋愛心理 #ハロー効果 #心理学 #恋愛
+  hook_caption: 見た目で全評価が上がる脳の癖
+  series_brand: 恋愛科学
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 見た目が整っているだけで、優しそう、頭が良さそう、誠実そうとまで、感じてしまった経験はありませんか。それ、脳の癖なんです。
+      caption: 見た目だけで全部良く見える
+    - panel: p2
+      text: 心理学では、これを「ハロー効果」と呼びます。1つの目立つ長所が、他の評価まで、まとめて引き上げてしまう傾向があるんです。
+      caption: 1つの長所が他の評価を引き上げる
+    - panel: p3
+      text: 名付け親は、1920年のアメリカの心理学者ソーンダイクです。軍の上官が、見た目の良い兵士を、知性や誠実さまで、高く評価したことが、きっかけでした。
+      caption: 1920年ソーンダイクが命名
+    - panel: p4
+      text: 別の研究では、同じ人物でも、笑顔の写真の方が、無表情の写真より、温かさや能力の評価が、はっきり高くなる傾向があると、報告されています。
+      caption: 笑顔だけで温かさと能力評価が上がる
+    - panel: p5
+      text: 恋愛でも、見た目に引きずられた瞬間、相手の発言の中身を、正しく聞けなくなる傾向があるんです。後で「あれ?」と気付くやつです。
+      caption: 見た目バイアスで中身を正しく聞けない
+    - panel: p6
+      text: ハロー効果を知っているだけで、最初の印象に飲まれず、相手の中身を冷静に見直せます。これが、恋愛心理の最初の防具なんです。
+      caption: 知っていれば最初の印象に飲まれない

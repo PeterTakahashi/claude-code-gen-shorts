@@ -1,0 +1,171 @@
+id: altman-yc-youngest-president
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    February 2014, Mountain View California. A 28-year-old Sam Altman standing
+
+    at a simple wooden podium at a Y Combinator event hall, addressing a seated
+
+    audience of young startup founders barely younger than him, the YC orange
+
+    logo visible on a banner behind him, soft auditorium lighting on his calm
+
+    composed face, a quiet authoritative presence despite his obvious youth. Wide
+
+    mid-shot. The youngest YC president in history, on his first day.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Summer 2005, the very first Y Combinator batch in Cambridge Massachusetts.
+
+    A 19-year-old Sam Altman, even slimmer, even more boyish-looking, sitting
+
+    cross-legged on the floor of a casual house living room presenting his
+
+    location-sharing app "Loopt" on an early laptop to a few other young
+
+    founders in a circle. Casual t-shirt, no shoes. Late-summer afternoon
+
+    light through a window. Conveys the humble origin: he was once just a
+
+    Stanford-dropout kid in the very first YC class.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A casual Palo Alto cafe scene around 2010. Paul Graham — a thoughtful white
+
+    man in his late 40s, balding with short brown hair, kind intent eyes, soft
+
+    sweater over a button-down, the bearing of an essayist-investor — sitting
+
+    across a small wooden table from a 25-year-old Sam Altman, both leaning in
+
+    and talking quietly, two coffees between them, afternoon California light.
+
+    The atmosphere of a mentor recognizing a successor.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    February 2014 — close-up of a laptop screen displaying a simple blog post
+
+    titled "Sam Altman for President" on a Y Combinator-style minimalist white
+
+    page, the screen reflected faintly on the glasses of an unseen young
+
+    founder reading it in a dim startup office. The exact public moment Paul
+
+    Graham handed over the keys. Side framing, the screen as hero element.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A bright Y Combinator office partner room in 2015, Sam Altman aged 29
+
+    sitting on a casual couch across from two young founders in their early
+
+    20s, listening with calm focus as they explain their startup, a coffee
+
+    table between them with laptops and notebooks, the orange YC color subtly
+
+    present in throw pillows and the wall. Daylight through big windows. The
+
+    mentor role inherited.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2015 night scene. Sam Altman, age 30, alone in his small spare YC
+
+    office, leaning back in a simple desk chair, looking thoughtfully at a
+
+    whiteboard full of company names and a single highlighted word "OpenAI"
+
+    circled in red marker, the rest of the office floor dark behind him,
+
+    single overhead lamp. Conveys: the YC presidency was only the bridge to
+
+    what came next.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '28歳でY Combinator社長になった男 #Shorts'
+  description: '2014年、28歳のサム・アルトマンが、Y Combinator史上最年少の社長に就任した。
+
+    創業者ポール・グラハムから直接バトンを渡された理由とは。
+
+
+    #Shorts #サムアルトマン #YCombinator #人物伝
+
+    '
+  hook_caption: 28歳でYC社長になった男
+  series_brand: サム・アルトマン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: Y Combinator史上、最年少で、社長に就任した男がいます。
+    caption: YC史上最年少の社長
+  - panel: p2
+    text: 2014年、当時28歳の、サム・アルトマン。
+    caption: 2014年、当時28歳
+  - panel: p3
+    text: 彼は、9年前の2005年、Y Combinator第1期生として、自分のスタートアップLooptを立ち上げた、若き創業者の1人でした。
+    caption: 9年前、YC第1期生だった
+  - panel: p4
+    text: 創業者のポール・グラハムは、彼の判断力と長期的視野を、ずっと評価していたんです。
+    caption: 創業者ポール・グラハムが評価
+  - panel: p5
+    text: だから、引退を決めたとき、グラハムは、迷わず彼を、後継者に指名しました。
+    caption: 後継者に直接指名
+  - panel: p6
+    text: そして、その3年後、彼は、Y Combinatorを離れ、OpenAIのCEOになるんです。
+    caption: 3年後、OpenAIへ
+en:
+  title: 'He Became President of Y Combinator at 28 #Shorts'
+  description: 'In 2014, Sam Altman was handpicked to lead Y Combinator at just 28 years old.
+
+    Here''s why founder Paul Graham chose him over everyone else.
+
+
+    #Shorts #SamAltman #YCombinator #Biography #Tech'
+  hook_caption: How a 28-Year-Old Took Over Y Combinator
+  series_brand: The Sam Altman Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: 'In 2014, Y Combinator stunned Silicon Valley by naming its new president: 28-year-old Sam Altman.'
+    caption: President at 28
+  - panel: p2
+    text: Just nine years earlier, he was a scrappy 19-year-old founder in YC's very first batch.
+    caption: A former founder
+  - panel: p3
+    text: The incubator's legendary founder, Paul Graham, saw something unique in the young entrepreneur.
+    caption: A founder's eye
+  - panel: p4
+    text: Graham deeply valued Altman's sharp judgment and incredible long-term vision above all else.
+    caption: A rare mind
+  - panel: p5
+    text: So when it was time to step down, Graham didn't hesitate to name Altman his direct successor.
+    caption: The successor
+  - panel: p6
+    text: But his journey was far from over. Three years later, he would leave to lead a small research lab called OpenAI.
+    caption: 'Next up: OpenAI'

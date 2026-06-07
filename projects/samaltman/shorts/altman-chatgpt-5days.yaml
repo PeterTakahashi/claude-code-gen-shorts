@@ -1,0 +1,167 @@
+id: altman-chatgpt-5days
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 4, 2022, late at night in the OpenAI San Francisco office. Sam
+
+    Altman alone in front of a large dark monitor, his face dimly lit by the
+
+    blue glow of a user-growth dashboard showing a sharp exponential line
+
+    crossing "1,000,000 USERS" in glowing text, his expression a mixture of
+
+    shocked calm and quiet awe, one hand resting on the desk. The office is
+
+    otherwise empty, only this one workstation lit. Mid-shot framing.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 29, 2022, a casual late-night meeting in a modern open-plan OpenAI
+
+    meeting room. Sam Altman sitting at a long wooden table with three young
+
+    research engineers in hoodies, a whiteboard behind them with "GPT-3.5
+
+    chat demo?" scribbled, paper cups of coffee scattered, the mood relaxed and
+
+    slightly skeptical — they are debating whether to release a "low-key
+
+    research preview" the next day. Warm dim office lighting.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Extreme close-up of a smartphone screen on November 30, 2022, displaying a
+
+    simple social media post that reads "Try talking with ChatGPT, our new AI
+
+    system which is optimized for dialogue." Above and below the post visible
+
+    hands of a young tech employee holding the phone in a sleek office hallway.
+
+    Daylight. The mundane-looking moment that started an explosion.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A vertical split-stack composition showing three different ordinary people
+
+    around the world using ChatGPT on different devices early December 2022: a
+
+    young Japanese office worker on a laptop in a Tokyo apartment, a college
+
+    student in a US dorm typing on a desktop, a businesswoman in London on a
+
+    tablet in a cafe. All three faces show similar wide-eyed astonishment as
+
+    their screens display chat bubbles from an AI. Each panel separated by a
+
+    thin black divider. Conveys global viral adoption.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early December 2022 inside the OpenAI engineering bullpen. Five exhausted
+
+    young engineers in hoodies and t-shirts working frantically at adjacent
+
+    desks, three monitors per person, traffic graphs and server-load
+
+    dashboards all spiking red, empty pizza boxes and energy drink cans on
+
+    desks, a wall clock showing 3 AM, faces lit by screen glare. The
+
+    controlled-chaos atmosphere of an infrastructure team being overwhelmed by
+
+    viral success. No specific recognizable faces.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 5, 2022, dawn. Sam Altman alone, standing by a tall floor-to-ceiling
+
+    window of the OpenAI office, looking out over a foggy San Francisco morning
+
+    skyline, a phone in his hand showing a notification of the "1M users"
+
+    milestone, his expression quietly thoughtful, almost weighed down by the
+
+    implications of what was just unleashed. Soft early-morning pink-orange
+
+    light on his face. Side-profile framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'ChatGPTが5日で100万人を獲得した話 #Shorts'
+  description: '2022年11月30日、OpenAIが公開したChatGPTは、わずか5日で100万ユーザーに到達した。
+
+    Facebookで10か月、Instagramで75日かかった距離を、たった5日で。
+
+
+    #Shorts #サムアルトマン #OpenAI #ChatGPT #人物伝
+
+    '
+  hook_caption: 5日で100万人が使ったAI
+  series_brand: サム・アルトマン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 公開からわずか5日で、100万人のユーザーを獲得した、AIサービスがあります。
+    caption: 5日で100万ユーザー
+  - panel: p2
+    text: 2022年11月30日、OpenAIがリリースした、ChatGPTです。
+    caption: 2022年11月30日、ChatGPT公開
+  - panel: p3
+    text: サム・アルトマンたちは、これを「低調なリサーチプレビュー」のつもりで、出したんです。
+    caption: 「地味な研究プレビュー」のつもりだった
+  - panel: p4
+    text: しかし、世界中のユーザーが、初めて自然に会話できるAIに、夢中になりました。
+    caption: 世界中が一気に夢中に
+  - panel: p5
+    text: Facebookが10か月、Instagramが75日かかった100万人到達を、ChatGPTは、たった5日でやってのけたんです。
+    caption: FBは10か月、IGは75日、ChatGPTは5日
+  - panel: p6
+    text: その日から、AIの時代は、もう、後戻りできなくなりました。
+    caption: AIの時代は、もう戻れない
+en:
+  title: 'How ChatGPT Hit 1 Million Users in 5 Days #Shorts'
+  description: 'On November 30, 2022, OpenAI launched a ''low-key preview'' called ChatGPT. It exploded, hitting 1 million users in 5 days—a milestone that took Instagram and Facebook months to achieve.
+
+
+    #Shorts #SamAltman #OpenAI #ChatGPT #Tech'
+  hook_caption: They Thought It Was A Small Test...
+  series_brand: The Sam Altman Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p3
+    text: On November 30, 2022, OpenAI launched what they called a 'low-key research preview'.
+    caption: A 'low-key' launch
+  - panel: p2
+    text: Sam Altman and his team expected a little bit of interest, mostly from researchers.
+    caption: Low expectations
+  - panel: p4
+    text: Instead, the world was instantly hooked by an AI you could finally talk to like a human.
+    caption: The world was hooked
+  - panel: p1
+    text: It reached one million users in just five days.
+    caption: 1 million users in 5 days
+  - panel: p5
+    text: For perspective, that same milestone took Instagram 75 days, and Facebook 10 months.
+    caption: A record shattered
+  - panel: p6
+    text: From that moment on, the age of AI was irreversible.
+    caption: A new era begins

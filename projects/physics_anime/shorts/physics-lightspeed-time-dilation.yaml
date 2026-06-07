@@ -1,0 +1,185 @@
+id: physics-lightspeed-time-dilation
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An abstract dramatic cosmic scene, a young Japanese anime-style
+
+    person silhouetted in mid-stride blurring into streaks of bright
+
+    blue and white light against a deep starry purple-black void of
+
+    space, the silhouette''s clock floating beside them showing
+
+    decorative English "01:00" frozen, the visual of "running at
+
+    the speed of light freezes time". Wide cinematic composition.
+
+    No characters required other than abstract silhouette.
+
+    Decorative English text only. No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A warm cozy modern anime physics classroom, the friendly middle-
+
+    aged Japanese physicist with silver-grey hair and round wire-frame
+
+    glasses, gentle smile, white lab coat over beige sweater, standing
+
+    next to a tall green chalkboard where a clean decorative English
+
+    equation "Δt'' = Δt / √(1 − v²/c²)" is drawn in white chalk, a
+
+    yellow piece of chalk in his hand pointing at the equation,
+
+    bright afternoon light through windows. Mid-shot. Clearly
+
+    classroom setting. No Japanese text.
+
+    Character: {prof_kawai}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An abstract cosmic infographic, two stylized clock faces side by
+
+    side floating in a purple starfield, the left one labeled in
+
+    decorative English "EARTH" running at normal speed with sharp
+
+    ticking hands, the right one labeled "STARSHIP 99.9% c" with its
+
+    hands moving in extreme slow motion, a glowing line connecting
+
+    them showing the slowdown effect, clean physics-infographic
+
+    anime style. Pure infographic composition. Decorative English
+
+    text only. No people. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A bright dramatic scene of an anime astronaut in a sleek white
+
+    spacesuit climbing out of a futuristic returning spacecraft on a
+
+    space-port landing pad on Earth, the visual of returning from a
+
+    voyage, but the small group of people running to greet him are
+
+    visibly much older — silver hair, walking sticks — while the
+
+    astronaut himself looks barely a year older. The visual of
+
+    "you returned young, but the world aged decades". Mid-wide shot.
+
+    No Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same warm anime physics classroom as panel 2, the silver-haired
+
+    physicist in white lab coat now standing facing camera with a
+
+    gentle finger raised in a small "ah-ha" gesture, behind him on
+
+    the green chalkboard now reads in decorative English "TIME IS
+
+    NOT ABSOLUTE — TIME IS RELATIVE", warm light still through the
+
+    windows. Mid close-up. Clearly classroom setting. No Japanese
+
+    text.
+
+    Character: {prof_kawai}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same abstract cosmic scene as panel 1, the silhouette of a young
+
+    Japanese anime-style person mid-stride blurring into streaks of
+
+    bright blue and white light against a deep starry purple-black
+
+    void, the floating clock beside them this time showing
+
+    decorative English "00:00 — STOPPED", the loop image of "moving
+
+    at the speed of light, time stops entirely". Wide cinematic
+
+    composition. Decorative English text only. No Japanese text.
+
+    '
+ja:
+  title: '光速で走ったら時間はどうなる? #Shorts'
+  description: 'もし、私たちが光の速度で走れたら、時計の針はどう動くのか。
+
+    アインシュタインが100年前に解いた、宇宙で最も奇妙な答えを、30秒で解説します。
+
+
+    #Shorts #物理 #相対性理論 #時間の遅延 #アインシュタイン
+
+    '
+  hook_caption: 光速で走ったら時間はどうなる?
+  series_brand: 30秒物理
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: もし、あなたが光の速度で走れたら、あなたの時計は、どう動くのか?——答えは、止まる、です。
+    caption: 光速で走ると時計は止まる
+  - panel: p2
+    text: これは、1905年にアインシュタインが、特殊相対性理論で、証明したことなんです。
+    caption: 1905年、アインシュタインが証明
+  - panel: p3
+    text: 速度が光速に近づくほど、時間は、自分以外の世界から見て、ゆっくり進みます。これを、時間の遅延と、呼びます。
+    caption: 光速に近づくほど時間が遅延
+  - panel: p4
+    text: 光速の99.9%で1年宇宙を旅したら、地球では、約22年が、経っています。あなただけが、若いまま、戻ってくる。
+    caption: 1年の旅で地球は22年経過
+  - panel: p5
+    text: つまり、時間は宇宙のどこでも、同じ速度で進む、絶対的なもの、ではありません。観測する人の速度によって、時間自体が、変わるんです。
+    caption: 時間は絶対ではなく相対
+  - panel: p6
+    text: そして光速ぴったりで動けば、時間は完全に、止まります。光自身から見れば、宇宙の歴史は、たった一瞬で、終わっています。
+    caption: 光速ぴったりでは時間が完全停止
+en:
+  title: 'What Happens to Time at the Speed of Light? #Shorts'
+  description: 'If you could move at the speed of light, what would happen to your clock?
+
+    We explain one of the universe''s strangest secrets, first solved by Einstein over 100 years ago.
+
+
+    #Shorts #Physics #Relativity #TimeDilation #Einstein'
+  hook_caption: What Happens to Time at Light Speed?
+  series_brand: 30-Second Physics
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: If you could run at the speed of light, your personal experience of time would completely stop.
+    caption: Time stops at light speed
+  - panel: p2
+    text: This isn't science fiction; it's what Einstein proved back in 1905 with his theory of special relativity.
+    caption: Einstein's 1905 Proof
+  - panel: p3
+    text: The closer you get to light speed, the slower time passes for you compared to everyone else. This effect is called 'time dilation.'
+    caption: This is 'Time Dilation'
+  - panel: p4
+    text: Travel in space for one year at 99.9% light speed, and you'd return to an Earth where 22 years have passed.
+    caption: 1 year = 22 Earth years
+  - panel: p5
+    text: So time isn't some absolute clock for the universe. It's relative, and changes depending on your speed.
+    caption: Time is Relative
+  - panel: p6
+    text: And at the *exact* speed of light? Time freezes entirely. From light's own perspective, the entire history of the universe happens in a single instant.
+    caption: The Universe in an Instant

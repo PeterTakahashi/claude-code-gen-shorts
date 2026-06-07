@@ -1,0 +1,200 @@
+id: theranos-blood-drop-fraud
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 2014 TED-style stage spotlight at a Silicon Valley tech conference,
+
+    a pale gaunt young American woman in her late 20s with unnaturally
+
+    large piercing pale blue eyes, long straight dyed-blonde loose hair,
+
+    black Steve-Jobs-style turtleneck sweater and black slacks, standing
+
+    at a clear lectern, holding up a single tiny glass vial of dark red
+
+    blood between thumb and forefinger toward the camera, an intense
+
+    controlled smile that does not reach her eyes, audience silhouettes
+
+    blurred in dark foreground. Clearly American stage setting.
+
+    Mid close-up. The framing communicates "the woman who fooled
+
+    Silicon Valley with one drop of blood."
+
+    Character: {holmes}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2003, a Stanford University dormitory room in Palo Alto California,
+
+    a 19-year-old version of the same woman, slightly less gaunt and
+
+    with bright innocent wide eyes, dark-blue Stanford-style hoodie
+
+    over the turtleneck silhouette, sitting cross-legged on the floor
+
+    surrounded by stacks of medical textbooks and printouts, intensely
+
+    sketching a small wristband patch in a notebook by lamp light,
+
+    late at night, posters of Steve Jobs and Thomas Edison faintly
+
+    visible on the dorm wall. Mid-shot. Clearly American university
+
+    dorm setting. No Japanese text.
+
+    Character: {holmes}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2014, the cover of a major American business magazine displayed
+
+    prominently, the same young woman in black turtleneck pictured on
+
+    the cover with the bold decorative English headline "THE NEXT
+
+    STEVE JOBS" and underneath "$9 BILLION". The magazine sits on
+
+    a polished glass conference table in a clean modern executive
+
+    office, with sleek silver desk decor. Pure infographic-style
+
+    cover composition, decorative English only, no Japanese text.
+
+    No people directly visible other than the cover photo. Mid-shot
+
+    of the magazine cover.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside a sleek 2015 Theranos laboratory in Palo Alto California,
+
+    a row of identical sleek black gleaming proprietary "Edison"
+
+    blood-testing machines lined up on white lab benches under cold
+
+    fluorescent light, two American lab technicians in white coats
+
+    and blue nitrile gloves looking visibly worried, one quietly
+
+    sneaking a vial of blood out of the line of Edison machines and
+
+    toward a row of older commercial Siemens analyzers in the
+
+    background. The image of the secret swap. Wide mid-shot.
+
+    No Japanese text. Clearly American clinical laboratory setting.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    October 2015, the front page of a major American newspaper, the
+
+    bold decorative English headline reading "HOT STARTUP THERANOS
+
+    HAS STRUGGLED WITH ITS BLOOD-TEST TECHNOLOGY", reporter byline
+
+    "John Carreyrou", placed on a dark wooden desk under a single
+
+    reading lamp, a coffee cup with steam visible beside it. Pure
+
+    newspaper composition. Decorative English text only. No people.
+
+    No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 2022, a wood-paneled American federal courthouse hallway
+
+    in San Jose California, the same now 38-year-old woman, gaunter
+
+    and visibly exhausted, in a conservative dark blazer over the
+
+    same black turtleneck silhouette, pale-blue eyes downcast,
+
+    walking between two stern American federal marshals in dark
+
+    suits, photographers'' bright camera flashes from the side cutting
+
+    across her face, the visual of a "downfall walk". Wide mid-shot.
+
+    Clearly American courthouse setting. No Japanese text.
+
+    Character: {holmes}.
+
+    '
+ja:
+  title: 'ジョブズ気取りで世界を騙した女、Theranos事件 #Shorts'
+  description: '2014年、シリコンバレーの「次のスティーブ・ジョブズ」と呼ばれた女がいた。
+
+    エリザベス・ホームズ、当時30歳。指先1滴の血で200種類の検査ができる、と彼女は言った。
+
+    しかし、その装置は、最初から動いていなかった。
+
+
+    #Shorts #Theranos #エリザベスホームズ #ElizabethHolmes #シリコンバレー #事件
+
+    '
+  hook_caption: 指先1滴の血で世界を騙した女
+  series_brand: Theranos事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: たった1滴の血液で200種類の検査ができる——そう言って、シリコンバレー全体を、騙し切った女がいたんです。
+    caption: たった1滴の血で世界を騙した女
+  - panel: p2
+    text: 2003年、19歳のエリザベス・ホームズは、Stanford大学を中退し、その夢を実現する会社、Theranos を立ち上げました。
+    caption: 2003年、19歳でStanford中退、Theranos創業
+  - panel: p3
+    text: 2014年、彼女は史上最年少の女性ビリオネアになり、メディアは彼女を「次のスティーブ・ジョブズ」と呼びました。会社の評価額は90億ドルに達したんです。
+    caption: 2014年、評価額90億ドルの女王
+  - panel: p4
+    text: しかしその裏で、自社のEdison装置は精度が出ず、社員たちは血液を、こっそり既製品のSiemens分析装置で、測定していました。
+    caption: 自社装置は動かず、こっそり他社製で測定
+  - panel: p5
+    text: 2015年10月、Wall Street Journal の Carreyrou 記者が、すべてを暴く記事を発表。Theranos の崩壊が、ここから始まります。
+    caption: 2015年、WSJが詐欺を暴いた日
+  - panel: p6
+    text: そして2022年11月、彼女は連邦裁判所で詐欺罪により、禁固11年3ヶ月の判決を、受けました。1滴の嘘で築いた帝国の、終わりの瞬間です。
+    caption: 2022年、禁固11年3ヶ月の判決
+en:
+  title: 'She Posed as the Next Steve Jobs & Scammed the World #Shorts'
+  description: 'In 2014, Elizabeth Holmes was the ''next Steve Jobs.'' By 2022, she was a convicted felon.
+
+    This is the story of Theranos, the billion-dollar startup built on a single drop of blood and a huge lie.
+
+    #Shorts #Theranos #ElizabethHolmes #Scandal #TrueStory'
+  hook_caption: The Billion-Dollar Lie Hidden in a Drop of Blood
+  series_brand: The Theranos Scandal
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: She claimed her invention could run 200 medical tests from a single drop of blood, and with that one promise, she fooled all of Silicon Valley.
+    caption: A Revolutionary Claim
+  - panel: p2
+    text: In 2003, Elizabeth Holmes dropped out of Stanford at just 19 years old to found her groundbreaking company, Theranos.
+    caption: The 19-Year-Old Founder
+  - panel: p3
+    text: By 2014, she was the world's youngest self-made female billionaire, hailed as the 'next Steve Jobs,' with a company valued at $9 billion.
+    caption: The "Next Steve Jobs"
+  - panel: p4
+    text: But behind the scenes, their miracle 'Edison' machines never actually worked. Employees secretly ran tests on competitors' equipment.
+    caption: The Machines Were Fake
+  - panel: p5
+    text: Then, in October 2015, a bombshell Wall Street Journal report exposed the entire operation as a massive fraud.
+    caption: The Lie Exposed
+  - panel: p6
+    text: In 2022, Holmes was sentenced to over 11 years in federal prison, the final chapter for an empire built on a lie.
+    caption: 11 Years in Prison

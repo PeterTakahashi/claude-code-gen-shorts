@@ -1,0 +1,61 @@
+id: startup-pfn
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A sleek modern Tokyo tech office, young Japanese engineers working with glowing AI
+      and deep-learning visualizations on screens, a decorative Japanese caption
+      "日本最大級のAIユニコーン", the visual of "Japan's biggest AI startup most people have never
+      heard of". Bright, modern, Tokyo.
+  - id: p2
+    prompt: |
+      An infographic with a decorative Japanese caption "Preferred Networks", a company logo
+      motif and a unicorn icon, founded by young researchers, the visual of "founded in 2014
+      by deep-learning researchers". Clean infographic, decorative Japanese.
+  - id: p3
+    prompt: |
+      A scene of the startup partnering with a giant Japanese automaker and an industrial
+      robot factory, a decorative Japanese caption "トヨタやファナックと提携", the visual of
+      "it partnered with Toyota and robotics giants". Modern industrial, Japan.
+  - id: p4
+    prompt: |
+      An infographic of deep-learning applied to self-driving cars, factory robots, and
+      medical imaging, icons with a decorative Japanese caption "産業にAIを実装", the visual
+      of "real AI built into cars, factories, and hospitals". Clean infographic.
+  - id: p5
+    prompt: |
+      A scene showing the startup building its own AI chips and supercomputer, glowing
+      server racks, a decorative Japanese caption "独自のAIチップまで開発", the visual of "they
+      even build their own AI chips". Modern data center.
+  - id: p6
+    prompt: |
+      Same Tokyo AI office from panel 1, confident young team, a decorative Japanese caption
+      "日本のAIの希望", the loop image of "Japan's quiet AI champion". Bright, hopeful, modern.
+ja:
+  title: 'Preferred Networks、日本最大級のAIユニコーン #Shorts'
+  description: |
+    多くの人が知らない、日本最大級のAIスタートアップ。トヨタやファナックと組み、独自AIチップまで開発するPreferred Networksを解説します。
+
+    #Shorts #スタートアップ #AI #PreferredNetworks #日本
+  hook_caption: 日本最大級のAIユニコーンPFN
+  series_brand: 日本のAIスタートアップ
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 多くの人が名前を知らないのに、日本最大級のAIユニコーン。そんな会社が、東京にあります。
+      caption: 日本最大級のAIユニコーン
+    - panel: p2
+      text: 会社の名は、Preferred Networks。2014年に、ディープラーニングの若き研究者たちが立ち上げました。
+      caption: 2014年、研究者たちが創業
+    - panel: p3
+      text: 彼らは、派手な広告ではなく、トヨタやファナックといった、日本のものづくりの巨人たちと、次々に提携していきます。
+      caption: トヨタやファナックと次々提携
+    - panel: p4
+      text: AIを、自動運転、工場のロボット、医療画像の診断など、現実の産業の中に、実際に組み込んでいったんです。
+      caption: AIを現実の産業に実装する
+    - panel: p5
+      text: さらに彼らは、AIを動かすための専用チップや、スーパーコンピューターまで、自前で開発しています。
+      caption: 独自のAIチップまで自社開発
+    - panel: p6
+      text: 表には出ないけれど、日本の産業の足元を支えるAI。Preferred Networksは、静かな日本のAIの希望なんです。
+      caption: 静かに日本を支えるAIの希望

@@ -1,0 +1,159 @@
+id: altman-worldcoin-eye-scan
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2023, dramatic ultra-close-up of a single human eye — an ordinary Asian
+
+    young woman''s open eye — illuminated from below by the cold blue light of
+
+    a softly reflective chrome sphere device (the Worldcoin "Orb") only
+
+    partially visible, the iris pattern detailed and beautiful, her eyelashes
+
+    sharp, the surrounding face in shadowed soft focus. A faint reflection of
+
+    the silver sphere visible in her pupil. Disturbing yet futuristic mood.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    July 2023, Sam Altman standing on a clean minimalist tech-launch stage,
+
+    a single large rendering of the chrome Worldcoin Orb floating in the
+
+    backdrop projection behind him, his calm composed face under cool stage
+
+    lighting, addressing an off-screen audience, the brand name "Worldcoin"
+
+    visible faintly on the screen. Wide-mid shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A precise product-shot composition of the Worldcoin Orb — a polished
+
+    chrome sphere about the size of a basketball, mounted on a small stand,
+
+    a single dark camera lens at its front, its smooth surface reflecting
+
+    cool studio lighting on a white-grey backdrop. Designed-object beauty,
+
+    slightly ominous because of its purpose. No people.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A bustling 2023 urban scene in Tokyo or Berlin, a long winding line of
+
+    diverse ordinary people of different ages and ethnicities standing
+
+    patiently in front of a small modern Worldcoin sign-up kiosk on a city
+
+    sidewalk, the chrome Orb visible inside through a glass storefront,
+
+    curious expressions, daylight, ordinary city architecture behind. The
+
+    scale and global reach made visible.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A serious government regulatory hearing room scene, 2024. Several stern
+
+    regulators in dark suits seated behind a long curved bench, holding
+
+    papers, expressions of skeptical concern, a projection screen at the
+
+    front of the room showing a faded image of the Worldcoin Orb with a
+
+    large red question mark overlaid. No specific recognizable faces — just
+
+    the institutional pushback. Cold fluorescent lighting.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A quiet contemplative scene in 2024. Sam Altman standing alone in a
+
+    minimalist tech office at dusk, holding a small chrome Orb at chest
+
+    height with both hands, looking down at it with a complex thoughtful
+
+    expression — neither proud nor regretful, just calculating long-term
+
+    consequences. Cool blue evening light through tall windows behind him.
+
+    Side-front framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '世界中の目をスキャンする男 #Shorts'
+  description: '2023年、サム・アルトマンがlaunchしたWorldcoinは、AI時代の「人間証明」を目的に、世界中の人の虹彩をスキャンしている。
+
+    賛否両論の、もう一つの巨大プロジェクト。
+
+
+    #Shorts #サムアルトマン #Worldcoin #OpenAI #人物伝
+
+    '
+  hook_caption: 世界中の目をスキャンする男
+  series_brand: サム・アルトマン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 世界中の人々の、目の虹彩を、スキャンして回っている男がいます。
+    caption: 世界中の目をスキャン中
+  - panel: p2
+    text: サム・アルトマン。ChatGPTのOpenAIだけでなく、もう一つの巨大プロジェクトを、走らせているんです。
+    caption: OpenAIとは別のもう1つの巨大計画
+  - panel: p3
+    text: 2023年7月にlaunchされた、Worldcoinです。
+    caption: 2023年7月、Worldcoinをlaunch
+  - panel: p4
+    text: 目的は、AIが人間そっくりに振る舞う時代に、「これは本物の人間です」と、証明する仕組みを作ること。
+    caption: AI時代の「人間証明」が目的
+  - panel: p5
+    text: しかし、生体情報の収集をめぐって、各国の規制当局は、強い懸念を、表明し続けています。
+    caption: 生体情報収集に各国の規制当局が懸念
+  - panel: p6
+    text: AIを作る男が、同時に、AIから人類を守る仕組みも作る——その矛盾と賭けが、Worldcoinなんです。
+    caption: AIを作り、AIから人類を守る賭け
+en:
+  title: 'Why Sam Altman is Scanning Everyone''s Eyeballs #Shorts'
+  description: 'Sam Altman, the mind behind ChatGPT, has another massive project: Worldcoin. It scans your iris to prove you''re human in the age of AI, but not everyone is convinced.
+
+
+    #Shorts #SamAltman #Worldcoin #OpenAI #Biography'
+  hook_caption: Why is the CEO of OpenAI scanning everyone's eyes?
+  series_brand: The Sam Altman Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: You know Sam Altman as the CEO of OpenAI, the company that created ChatGPT.
+    caption: The creator of ChatGPT
+  - panel: p3
+    text: But he has another, much stranger project called Worldcoin, launched in 2023.
+    caption: A much stranger project
+  - panel: p1
+    text: The mission is to scan every person's iris using this highly-polished chrome orb.
+    caption: Scanning your iris
+  - panel: p4
+    text: The goal is to create a global digital ID that proves you are a real human, not an AI.
+    caption: Proof of Humanity
+  - panel: p5
+    text: But as millions line up, governments are raising alarms about this massive collection of biometric data.
+    caption: Regulators are concerned
+  - panel: p6
+    text: The man building AI is now building our defense against it — a massive, world-changing gamble.
+    caption: A world-changing gamble

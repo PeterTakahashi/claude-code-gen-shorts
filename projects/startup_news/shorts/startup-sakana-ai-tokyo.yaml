@@ -1,0 +1,214 @@
+id: startup-sakana-ai-tokyo
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME close-up dramatic shot of a 45-year-old Asian-Canadian male AI
+
+    researcher''s face, warm intelligent dark eyes wide with stunned quiet
+
+    realization, short neatly cut black hair, clean-shaven, a small
+
+    sticky note partially reflected in his glasses-less catchlight reading
+
+    decorative English "$1B" small, his mouth slightly parted, the soft
+
+    glow of multiple monitors reflecting on his face, soft-focus modern
+
+    2024 Tokyo Sakana AI office interior with a faint decorative English
+
+    wall logo "Sakana AI" out of focus behind him, large windows showing
+
+    Tokyo skyscrapers at dusk. The visual of "Tokyo just minted its first
+
+    AI unicorn." Subject filling square center for vertical short layout
+
+    with blurred padding above and below.
+
+    Character: {david_ha}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of a sleek modern 2023 Tokyo startup office on its founding
+
+    day, mid-shot of the same 45-year-old Asian-Canadian AI researcher in
+
+    a soft charcoal-grey casual blazer standing beside a 42-year-old
+
+    Welsh-British AI researcher in a heather-grey crewneck sweater and
+
+    black-rim glasses, both calmly facing the camera in front of a
+
+    bright white wall mounted with a giant decorative English logo
+
+    "Sakana AI", a few stacks of unpacked boxes on a wooden floor, a
+
+    faint decorative Japanese sign「東京」readable on a small office
+
+    certificate. Bright morning Tokyo light through floor-to-ceiling
+
+    windows. The visual of "two ex-Google researchers founding in
+
+    Tokyo." Clearly contemporary Tokyo 2023 office setting.
+
+    Character: {david_ha}, {llion_jones}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern deep navy background, decorative bold English headline
+
+    "TRANSFORMER, 2017" centered, a stylized neural-network diagram of
+
+    multi-head attention blocks softly glowing in white, a small chibi
+
+    version of the Welsh-British researcher in glasses pointing at the
+
+    diagram with a small light-saber-style pointer, a decorative English
+
+    caption floating to the side "ATTENTION IS ALL YOU NEED / 8 AUTHORS
+
+    / 1 STILL BUILDING", a tiny stylized Sakana fish-shaped logo accent.
+
+    The visual of "the paper that started modern AI, one author kept
+
+    going."
+
+    Character: {llion_jones}.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern soft cream background, decorative bold English headline
+
+    "$200M / SERIES A" centered, smaller decorative English subline
+
+    "VALUATION: $1B+" beneath, a small chibi version of the Sakana AI
+
+    male co-founder duo standing side by side under a stylized rising
+
+    bar chart in soft pink, a small decorative Japanese caption
+
+    「2024年 / 日本初のAIユニコーン」readable, a tiny Sakana fish-shaped
+
+    icon swimming up the chart. The visual of "Japan''s first AI
+
+    unicorn, one year after founding."
+
+    Character: {david_ha}, {llion_jones}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of the 2024 Sakana AI Tokyo office, wide mid-shot of a bright
+
+    open workspace with about 12 international researchers of mixed
+
+    ethnicities working casually at sleek desks with multiple monitors
+
+    showing decorative English neural-network diagrams, the same 45-year-old
+
+    Asian-Canadian co-founder leaning over one researcher''s shoulder
+
+    pointing at a screen, the same Welsh-British co-founder seated at a
+
+    different desk smiling slightly, a faint decorative Japanese sign on
+
+    the wall「東京から世界へ」readable, soft natural Tokyo afternoon light.
+
+    The visual of "Tokyo as the new place where global AI talent
+
+    gathers."
+
+    Character: {david_ha}, {llion_jones}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame.
+
+    Same EXTREME close-up of the 45-year-old Asian-Canadian AI researcher''s
+
+    face as panel 1 but slightly later — his warm intelligent dark eyes
+
+    now softening into a small quiet proud smile, the soft glow of
+
+    monitors still reflecting on his face, same soft-focus modern 2024
+
+    Tokyo Sakana AI office with the wall logo and skyscraper-window
+
+    backdrop slightly warmer at dusk. The loop image of "the night
+
+    Tokyo became an AI capital." Subject filling square frame for vertical
+
+    short with blurred padding above and below.
+
+    Character: {david_ha}.
+
+    '
+ja:
+  title: 'Sakana AIが東京で日本初AIユニコーンになった日 #Shorts'
+  description: '2年前の2023年に東京で創業した Sakana AI は、創業からわずか1年で、評価額10億ドル超のシリーズAを調達し、日本初のAIユニコーンになりました。
+
+    元 Google の David Ha と、Transformer 論文の生き残り著者 Llion Jones が、東京を選んだ理由が、世界の AI 地図を、書き換え始めています。
+
+
+    #Shorts #SakanaAI #AIユニコーン #東京 #スタートアップ
+
+    '
+  hook_caption: 日本初AIユニコーン爆誕
+  series_brand: Sakana AI
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「東京で創業1年、評価額10億ドル」——2年前の2023年に始まった Sakana AI は、日本初のAIユニコーンに、なりました。
+    caption: 創業1年、評価10億ドル
+  - panel: p2
+    text: 創業したのは、元 Google Brain Tokyo を率いた David Ha と、Transformer 論文の8人の著者のうち、唯一まだ第一線で研究を続けている Llion Jones です。
+    caption: 元GoogleとTransformer著者
+  - panel: p3
+    text: Llion Jones が共著した2017年の論文「Attention Is All You Need」は、現代のあらゆる大規模言語モデルの土台になっているので、彼が東京で次に賭けたという事実が、世界中の研究者を、驚かせました。
+    caption: Transformer著者が東京を選んだ
+  - panel: p4
+    text: そして1年前の2024年、Sakana AI はシリーズAで2億ドルを調達し、評価額は10億ドルを超え、日本としては、初めてのAIユニコーンに、認定されました。
+    caption: 2024年、2億ドル調達でユニコーン
+  - panel: p5
+    text: 彼らが東京を選んだのは、シリコンバレーとは違うAIアーキテクチャを、独自に作るためで、進化と群知能から着想を得たモデル、AI Scientist などを、東京から、世界に発信しています。
+    caption: 東京から世界に独自AIを発信
+  - panel: p6
+    text: シリコンバレーでも北京でもなく、東京から、次のAIが生まれ始めている——Sakana AI の爆誕は、世界のAI地図そのものを、静かに書き換え始めた瞬間でした。
+    caption: 東京から次のAIが始まった
+en:
+  title: 'Meet Sakana AI: Tokyo''s First AI Unicorn #Shorts'
+  description: 'Founded by a Google Brain lead and an author of the original ''Transformer'' paper, Sakana AI hit a $1B+ valuation in just one year. Here''s why they chose Tokyo to build the next generation
+    of AI.
+
+
+    #Shorts #SakanaAI #AI #Tokyo #Startup'
+  hook_caption: The AI Titans Ditching Silicon Valley for Tokyo
+  series_brand: Sakana AI
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 2023, two AI legends founded a new startup right here in Tokyo.
+    caption: A Tokyo Startup
+  - panel: p3
+    text: One was Llion Jones, an author of the 2017 'Transformer' paper—the blueprint for every modern Large Language Model.
+    caption: The Transformer Blueprint
+  - panel: p4
+    text: Just one year later, their company, Sakana AI, raised $200 million to become Japan's first-ever AI unicorn.
+    caption: $1B+ Valuation
+  - panel: p5
+    text: They chose Tokyo to escape the Silicon Valley echo chamber, building AI inspired by principles from nature, like evolution.
+    caption: Inspired by Nature
+  - panel: p1
+    text: Their success is attracting top global talent, turning the city into a new hub for AI research.
+    caption: A New AI Hub
+  - panel: p6
+    text: Sakana AI proves the next big breakthrough might not come from Silicon Valley... but from Tokyo.
+    caption: The Future is in Tokyo

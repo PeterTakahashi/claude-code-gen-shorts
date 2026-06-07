@@ -1,0 +1,155 @@
+# Cast for the Elon Musk biographical short.
+# Three life-stage variants of Elon (child / teen / adult) get visual designs.
+# Family, brother, and minor figures are description-only (text injection in
+# panel prompts; no individual stylesheet generated).
+
+characters:
+  - id: elon_child
+    name_ja: イーロン (10歳)
+    description_en: "a thin, dreamy 10-year-old white boy of South African heritage with the characteristic young-Elon-Musk facial features: a slightly broad forehead even at this age, deep-set blue-grey eyes set slightly wide, a slightly broad straight nose, faintly oval face with round cheeks; light brown hair messy and slightly long; pale skin with faint freckles; an introspective and slightly haunted expression; quiet bearing"
+    outfit_en: "a casual 1980s South African schoolboy outfit — short-sleeved cotton button-up shirt in pale blue, beige shorts, scuffed leather sandals"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - bookish concentrated reading
+      - distant daydreaming gaze
+      - small hesitant smile
+      - bruised face after bullying with downcast eyes
+      - wide-eyed wonder at a computer screen
+      - quiet determination
+    poses:
+      - "Front view standing, holding a thick encyclopedia volume open with both hands"
+      - "Three-quarter view sitting cross-legged on the floor with a stack of books"
+      - "Side profile leaning over an early home computer with intent focus"
+      - "Back view walking away alone toward a horizon"
+
+  - id: elon_teen
+    name_ja: イーロン (17歳)
+    description_en: "a lanky 17-19-year-old white young man with the characteristic young-Elon-Musk facial features: a high broad forehead with hairline just beginning its faint recession, deep-set blue-grey intense eyes set slightly wide, a slightly broad straight nose, a square chin starting to define, a serious quiet mouth; light brown hair short and a bit tousled; pale skin; lean build still growing into adult proportions; slightly slouched posture; the introspective bearing of a teenager who reads heavily"
+    outfit_en: "a 1980s/early-1990s late-teens outfit — fitted dark jeans, a plain white t-shirt under a dark zip-up windbreaker or simple jacket, plain sneakers"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - resolute decision face
+      - apprehensive looking up at airport departures board
+      - exhausted absorbed in study
+      - quiet intensity gazing forward
+      - melancholy farewell
+      - focused at a university lecture
+
+  - id: elon_adult
+    name_ja: イーロン (27歳)
+    description_en: "a 27-37-year-old white man with the characteristic Elon Musk facial features: a high broad forehead with noticeable receding hairline, deep-set blue-grey eyes set slightly wide, a slightly broad straight nose, a strong square jaw with faint dimple in the chin, clean-shaven with a faint stubble shadow, a serious thoughtful mouth that rarely smiles; short brown hair neatly cut and styled (when in public) or messy (when in startup mode); pale skin; lean-to-medium athletic build; an air of barely-contained intensity"
+    outfit_en: "1990s/2000s Silicon Valley startup founder casual — a plain dark navy t-shirt or button-down with rolled sleeves, dark jeans, white sneakers; sometimes a cheap dress shirt and tie when meeting investors; office wear is rumpled from sleeping in it"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - sleep-deprived intense focus at a CRT monitor
+      - quiet exhausted smile
+      - frustration when demoted
+      - calm satisfaction holding a check
+      - haunted look at next horizon
+      - exhausted laughing with brother
+
+  # ===== Family / supporting cast (description-only, no stylesheet) =====
+  - id: father_errol
+    name_ja: 父・エロール
+    description_en: "a stern white South African man in his 40s, dark hair starting to grey at the temples, sharp angular features, intense piercing eyes, clean-shaven, wearing a 1980s engineer's pale dress shirt and dark slacks; an imposing and authoritarian presence"
+    outfit_en: "a 1980s South African engineer's outfit — pale blue or beige short-sleeved dress shirt, dark slacks, leather belt"
+    voice_style_id: 1310138976
+    voice_instructions: "Read with cold authoritarian weight, slight contempt under polite surface — 1980s engineer father."
+    selected_candidate: null
+
+  - id: mother_maye
+    name_ja: 母・メイ
+    description_en: "a poised graceful Canadian-South African woman in her 40s, golden blonde hair, kind but tired blue eyes, the bone structure of a former model, warm but worn-out expression"
+    outfit_en: "a 1970s nutritionist / model outfit — neat blouse, a-line skirt, modest jewelry"
+    voice_style_id: 1431611904
+    voice_instructions: "Read with warm but tired graciousness — a working single mother trying to hold things together."
+    selected_candidate: null
+
+  - id: kimbal
+    name_ja: 弟・キンバル
+    description_en: "a 25-year-old white man, slightly leaner than his older brother, dark brown hair a bit longer than Elon's, easygoing warm features, the more sociable of the two brothers"
+    outfit_en: "1990s Silicon Valley casual — a plain henley shirt under a worn flannel, jeans, sneakers"
+    voice_style_id: 606865152   # fumifumi — youthful male
+    voice_instructions: "Read with warm conversational ease — the supportive younger brother."
+    selected_candidate: null
+
+  - id: investor
+    name_ja: 投資家
+    description_en: "a generic 1990s Silicon Valley VC partner — white man in his 50s, salt-and-pepper hair, neatly cut, wearing a polo shirt under a sport coat, a confident wealthy bearing, faint condescension behind a polite smile"
+    outfit_en: "1990s VC casual — pressed polo shirt under a navy sport coat, khaki slacks, expensive watch"
+    voice_style_id: 1310138979   # 阿井田 Heavy — cold formal
+    voice_instructions: "Read with a polite but condescending board-room tone — paternalistic VC voice."
+    selected_candidate: null
+
+  - id: justine
+    name_ja: ジャスティン
+    description_en: "an aspiring-writer young white woman in her early 20s, shoulder-length wavy dark brown hair, intense expressive hazel eyes, slightly bohemian look, sharp intellectual bearing softened by warm wit, fair skin, oval face with a thoughtful mouth"
+    outfit_en: "1990s casual student / aspiring writer — fitted dark jeans, a black turtleneck or loose henley, simple ankle boots, sometimes a worn leather jacket; sometimes carrying a hardcover novel"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: newspaper_executive
+    name_ja: ナイト・リッダー幹部
+    description_en: "a 1990s American newspaper-chain executive — white man in his late 50s, salt-and-pepper hair short and neatly parted, gold-rimmed glasses, conservative business attire, heavy bearing of legacy-media authority, a polite but evaluating expression"
+    outfit_en: "1990s American media executive — charcoal grey two-piece suit, white dress shirt, conservative striped tie, polished black oxfords, gold watch"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: peter_thiel
+    name_ja: ピーター・ティール
+    description_en: "a 30-year-old early-Silicon-Valley founder — German-American white man, very short blond hair, square-jawed, intense pale eyes, a cool reserved demeanor, the unsmiling concentration of a chess player, wearing a plain dark button-down over a white t-shirt"
+    outfit_en: "late 1990s tech-founder casual — dark plain button-down shirt over a white t-shirt, dark slacks, simple black shoes"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: russian_colonel
+    name_ja: ロシア軍大佐
+    description_en: "a gruff Russian air-force colonel in his late 60s — broad heavy-set frame, weathered ruddy face with deep lines, close-cropped iron-grey hair, intense pale blue eyes under heavy brows, a wide mouth quick to smile in mockery, an imposing post-Soviet military bearing"
+    outfit_en: "post-Soviet Russian air-force colonel's dress uniform — pale olive tunic heavy with brass buttons and rows of ribbon bars, gold shoulder boards with three stars and red piping, dark slacks; or alternatively a heavy dark woolen civilian winter overcoat over the uniform tunic"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: martin_eberhard
+    name_ja: マーティン・エバーハード
+    description_en: "an electric-vehicle engineer-founder in his early 40s — slim white American man, short dark hair beginning to grey at the temples, neatly trimmed beard, intense brown eyes behind thin metal-frame glasses, a serious engineer's bearing softened by occasional dry humor"
+    outfit_en: "early-2000s Silicon Valley engineer-founder casual — open-collar button-down in muted blue or charcoal, dark slacks, plain leather shoes; sometimes carrying a stack of CAD printouts"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: jb_straubel
+    name_ja: JB・ストローベル
+    description_en: "a young Stanford-trained electrical engineer in his late 20s — white American man, short messy brown hair, friendly intelligent face with high cheekbones, bright curious eyes, slightly disheveled but warmly approachable, the youngest of the founding Tesla team"
+    outfit_en: "early-2000s engineer student casual — plain dark t-shirt sometimes under an open hoodie, faded jeans, sneakers, often with a battery pack or breadboard in hand"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: sam_altman
+    name_ja: サム・アルトマン
+    description_en: "the OpenAI CEO in his late 30s — white American man, short cropped neatly parted brown hair, clean shaven, thin angular face with sharp eyes, glasses sometimes, an outwardly soft-spoken but ambitious tech executive bearing"
+    outfit_en: "late-2010s Silicon Valley CEO casual — plain dark t-shirt or simple sweater, dark jeans, white sneakers, sometimes a casual blazer over"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: vivian
+    name_ja: ヴィヴィアン
+    description_en: "Elon Musk's eldest child in late teens / early twenties — slender young transgender woman, long-ish dark hair sometimes dyed unconventional colors, expressive intense eyes resembling her father's blue-grey but softened, pale skin, a thoughtful artistic bearing, often serious quiet expression"
+    outfit_en: "modern alt-fashion late teen / early twenties — black or muted colors, sometimes vintage band tee under flannel, dark jeans or skirts, simple boots, expressive minimal jewelry"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null

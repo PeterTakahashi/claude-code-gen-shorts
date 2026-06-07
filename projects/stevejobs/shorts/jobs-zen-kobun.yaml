@@ -1,0 +1,93 @@
+id: jobs-zen-kobun
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+      A dim candlelit Japanese zendo meditation hall, a young 25-year-old Steve Jobs
+      sitting barefoot in full lotus zazen posture on a black cushion, eyes calmly
+      closed, beside him a shaven-headed Japanese Zen monk in simple dark robes
+      (Kobun Chino Otogawa) also seated in meditation, warm flickering candle light
+      across both faces, incense smoke drifting, a small decorative English caption
+      "JOBS & THE ZEN MASTER", the visual of "the secret behind Apple's design".
+      Subject filling the square center for vertical short layout with blurred
+      padding above/below. Quiet spiritual tone. Decorative English text only.
+      No Japanese text.
+      Character: Steve Jobs (a thin pale young American man with short dark hair,
+      round wire-frame eyeglasses, intense pale eyes, gaunt cheeks).
+  - id: p2
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      1970s California, the interior of the Los Altos Zen Center, the same young
+      Steve Jobs as an intense barefoot seeker in plain clothes kneeling on a tatami
+      mat, hands together, a searching restless expression on his face, soft morning
+      light through a paper screen, the visual of "a young man searching for meaning".
+      Mid-shot. Decorative English text only. No Japanese text.
+      Character: Steve Jobs (same as panel 1).
+  - id: p3
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A quiet wooden temple room, the same young Steve Jobs sitting facing the
+      shaven-headed Japanese Zen monk Kobun in dark robes, Jobs leaning forward
+      earnestly as if pleading, the calm elderly monk raising one hand gently in a
+      stopping gesture and shaking his head with a serene smile, a small decorative
+      English caption "STAY IN THE WORLD", the visual of "the monk who told him no".
+      Mid-shot, soft temple light. Decorative English text only. No Japanese text.
+      Character: Steve Jobs (same as panel 1).
+  - id: p4
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A clean minimalist split composition — on the left a raked Japanese zen rock
+      garden with a single stone on pure white sand, on the right a single pristine
+      white Apple-style product sitting alone on a vast empty white surface, a thin
+      decorative English caption "SUBTRACTION = BEAUTY", the visual of "Zen becoming
+      product design", the two halves mirroring each other. Clean infographic-like
+      composition. Decorative English text only. No Japanese text.
+  - id: p5
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      An outdoor 1991 wedding in a Yosemite-like grove of tall pines, the same Steve
+      Jobs (slightly older, short hair, simple suit) standing beside his bride, the
+      shaven-headed Japanese Zen monk Kobun in formal dark Buddhist robes officiating
+      the ceremony and striking a small ceremonial gong, warm sunlight through the
+      trees, the visual of "the master who married him". Mid-shot.
+      Decorative English text only. No Japanese text.
+      Character: Steve Jobs (same as panel 1, slightly older).
+  - id: p6
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Same dim candlelit zendo as panel 1, the same young Steve Jobs in lotus zazen
+      posture eyes closed, but now a single soft glowing white Apple-like silhouette
+      of light floating faintly above him like a thought, a thin decorative English
+      caption "ZEN MADE APPLE", the loop image of "his design philosophy was Zen".
+      Subject filling the square center for vertical short layout with blurred
+      padding above/below. Decorative English text only. No Japanese text.
+      Character: Steve Jobs (same as panel 1).
+ja:
+  title: 'ジョブズの出家を止めた、日本の禅僧 #Shorts'
+  description: |
+    Apple のミニマルなデザインの原点は、スティーブ・ジョブズが師と仰いだ日本人の禅僧、乙川弘文にあった。出家を望んだジョブズに、彼は何を伝えたのか。
+
+    #Shorts #スティーブジョブズ #Apple #禅 #乙川弘文 #日本
+  hook_caption: ジョブズの出家を止めた禅僧
+  series_brand: ジョブズと禅
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: Apple のあの研ぎ澄まされたデザインは、一人の日本人の禅僧から生まれた、と言ったら驚きますか?
+      caption: Apple のデザインは禅から生まれた
+    - panel: p2
+      text: 主役は乙川弘文。20代のジョブズが、人生で最も信頼した禅の師です。当時の彼は本気で、日本の禅寺で出家しようと考えていました。
+      caption: 師は禅僧・乙川弘文
+    - panel: p3
+      text: ところが乙川は、それを止めます。禅は寺でなくても、お前の仕事の中で実践できる、と諭したんです。
+      caption: 「禅は仕事の中で実践できる」
+    - panel: p4
+      text: この一言が、Apple を変えました。余計なものを削ぎ落とす禅の「引き算」の思想が、製品デザインの芯になったからです。
+      caption: 禅の「引き算」がデザインの芯に
+    - panel: p5
+      text: 1991年、36歳のジョブズの結婚式を執り行ったのも乙川でした。経営者と僧という関係を超えた、生涯の師だったんです。
+      caption: 1991年、結婚式も乙川が執り行った
+    - panel: p6
+      text: ボタンを一つに減らした iPhone も、あの白い余白も、原点は禅にある。ジョブズの美学は、日本の禅僧の教えそのものでした。
+      caption: iPhone の余白の原点は禅

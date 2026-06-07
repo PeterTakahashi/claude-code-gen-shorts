@@ -1,0 +1,60 @@
+id: corpfall-takata-2017
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic scene of a car airbag bursting violently with a spray of metal fragments,
+      a red warning glow, a decorative Japanese caption "命を守る装置が、凶器に", the visual of
+      "the device meant to save lives turned into a weapon". Tense, dark automotive.
+  - id: p2
+    prompt: |
+      An infographic showing a Japanese auto-parts company supplying airbags to car makers
+      worldwide, a world map with arrows, a decorative Japanese caption "エアバッグ世界2位",
+      the visual of "the world's #2 airbag maker". Clean infographic, decorative Japanese.
+  - id: p3
+    prompt: |
+      A science infographic showing the airbag inflator chemical degrading in heat and
+      humidity over years, then exploding too violently, a decorative Japanese caption
+      "経年劣化で異常爆発", the visual of "the propellant decayed and detonated". Clean infographic.
+  - id: p4
+    prompt: |
+      A massive global recall scene — endless rows of cars, news chyrons with decorative
+      Japanese captions "史上最大のリコール" "1億個超", the visual of "the largest recall in
+      automotive history, over 100 million units". Tense, global.
+  - id: p5
+    prompt: |
+      A 2017 boardroom scene of Japanese executives bowing deeply at a press conference,
+      a decorative Japanese caption "2017年 経営破綻", the visual of "crushed by recall costs,
+      the company went bankrupt in 2017". Somber Japanese corporate.
+  - id: p6
+    prompt: |
+      Same airbag warning image from panel 1 fading to dark, a decorative Japanese caption
+      "信頼を失えば、終わる", the loop image of "lose trust in safety, and it's over". Tense, dark.
+ja:
+  title: 'タカタ、エアバッグ世界2位が倒れた日 #Shorts'
+  description: |
+    命を守るはずのエアバッグが凶器になった。世界2位のエアバッグメーカー、タカタが史上最大のリコールの末に経営破綻するまでを解説します。
+
+    #Shorts #倒産 #タカタ #エアバッグ #リコール
+  hook_caption: 命を守る装置が凶器になった日
+  series_brand: タカタ破綻
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 命を守るはずのエアバッグが、金属片を撒き散らす凶器になった。これが、ある巨大企業を、破滅させました。タカタです。
+      caption: 命を守る装置が凶器になった
+    - panel: p2
+      text: タカタは、世界中の自動車メーカーにエアバッグを供給する、業界世界2位の、日本企業でした。
+      caption: エアバッグ世界2位の日本企業
+    - panel: p3
+      text: 問題は、内部の火薬。高温多湿の環境で、何年もかけて劣化し、いざという時に、異常な勢いで爆発したんです。
+      caption: 火薬が経年劣化し異常爆発
+    - panel: p4
+      text: 結果は、史上最大のリコール。世界で1億個を超えるエアバッグが、回収対象となりました。
+      caption: 史上最大、1億個超のリコール
+    - panel: p5
+      text: 莫大なリコール費用に耐えきれず、2017年、タカタは経営破綻。70年以上の歴史に、幕を下ろしました。
+      caption: 2017年、巨額の費用で経営破綻
+    - panel: p6
+      text: 製品の質ではなく、安全への信頼を失った時、企業は終わる。タカタの倒産は、その重さを物語っています。
+      caption: 安全の信頼を失えば、企業は終わる

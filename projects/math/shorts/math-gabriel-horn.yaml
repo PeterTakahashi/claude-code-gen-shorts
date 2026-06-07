@@ -1,0 +1,64 @@
+id: math-gabriel-horn
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A clean math illustration of an infinitely long trumpet-shaped horn stretching off to
+      the right horizon, a small cup of paint sitting next to its open end, a decorative
+      English caption "FINITE VOLUME / INFINITE SURFACE", the visual of "a shape you can
+      fill with paint but never paint the inside of". Bright, curious infographic style.
+  - id: p2
+    prompt: |
+      An infographic of the curve y = 1/x being rotated around the x-axis to form the horn,
+      a clean diagram with axes and a rotating arrow, a decorative English label
+      "y = 1/x rotated", the visual of "the horn is built by spinning a simple curve".
+      Clean math illustration.
+  - id: p3
+    prompt: |
+      A volume calculation infographic, a small integral expression in decorative English
+      "Volume = π" inside a sparkling box, the visual of "the volume converges to a finite
+      number, exactly π". Clean diagram with rising and flattening curve.
+  - id: p4
+    prompt: |
+      A surface-area calculation infographic, an integral expression in decorative English
+      "Surface = ∞" with a divergent curve climbing forever upward, the visual of "but the
+      surface area grows without bound". Cinematic math illustration.
+  - id: p5
+    prompt: |
+      A whimsical infographic of a small cartoon painter trying to coat the inside of the
+      horn with a paint brush, the paint pouring in easily but the brush running out before
+      it reaches the end, a decorative English caption "PAINT IT? IMPOSSIBLE", the visual
+      of "you can fill it but never paint it". Curious diagram style.
+  - id: p6
+    prompt: |
+      A thoughtful illustration of the horn glowing softly against a dark math-paper
+      background, a single drop of paint suspended in midair, the loop image of "a finite
+      box that holds an infinite wall". Calm, wondrous tone.
+ja:
+  title: 'ガブリエルの角笛、塗れないのに満たせる図形 #Shorts'
+  description: |
+    無限に長い角笛があり、内側にペンキを注ぐと有限の量で満たせるのに、内側を刷毛で塗ろうとすると無限の量が必要になる。17世紀の数学者トリチェリが発見した「ガブリエルの角笛」のパラドックスを30秒で解説します。
+
+    #Shorts #数学 #ガブリエルの角笛 #パラドックス #雑学
+  hook_caption: 満たせるのに塗れない図形
+  series_brand: 直感を裏切る数学
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: ペンキを注げば満たせるのに、内側を塗ろうとすると無限のペンキがいる。そんな図形が、数学の世界には、本当に存在します。
+      caption: 満たせるのに塗れない図形がある
+    - panel: p2
+      text: 「ガブリエルの角笛」と呼ばれるこの図形は、y=1分のxという単純な曲線を、横軸の周りに、ぐるりと回転させて作ります。
+      caption: y=1/xを回転させて作る角笛
+    - panel: p3
+      text: 体積を計算すると、無限に長く伸びているのに、なぜか値はちょうどπに収束します。つまり、有限の量のペンキで、内側を全部、満たせるんです。
+      caption: 体積はちょうどπに収束する
+    - panel: p4
+      text: ところが表面積を計算すると、こちらは発散して、無限になります。つまり、内壁を塗るためには、無限の量のペンキが、必要になってしまうんです。
+      caption: 表面積は無限に発散する
+    - panel: p5
+      text: ペンキを注げば、有限で満たせる。でも刷毛で塗ろうとすると、永遠に終わらない。直感を真正面から裏切る、見事なパラドックスです。
+      caption: 注げば満たせるが塗ると終わらない
+    - panel: p6
+      text: 17世紀にトリチェリが発見したこの図形は、「無限」という言葉が、私たちの想像とどれだけズレているかを、静かに教えてくれます。
+      caption: 17世紀トリチェリが見つけた無限の罠

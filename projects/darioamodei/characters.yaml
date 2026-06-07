@@ -1,0 +1,113 @@
+# ダリオ・アモデイ cast — Anthropic 共同創業者 CEO ダリオと、共同創業者 President の妹ダニエラ、
+# および関連人物の visual character descriptions。
+# 公開写真から作画 reference を抽出した記述のみで構成する。
+
+characters:
+  - id: subject_adult
+    name_ja: ダリオ・アモデイ
+    description_en: |
+      Dario Amodei in his early 40s (2021-2026 era), Anthropic co-founder and CEO,
+      an Italian-American man of slim slightly thin build, medium-tall stature,
+      a slightly long oval face with a high forehead, dark intelligent thoughtful eyes
+      set under straight dark eyebrows, a straight medium nose, full lips usually relaxed
+      into a soft thoughtful line, clean-shaven, very thick wavy almost curly dark brown
+      hair worn somewhat unkempt and long-ish on top (a characteristic loose Italian curl
+      falling over the forehead), no glasses, pale complexion, the introspective measured
+      bearing of an AI safety researcher who carefully weighs every word, often a slight
+      pensive frown of someone thinking about long-term risk
+    outfit_en: |
+      practical Silicon Valley researcher-CEO casual — typically a plain crew-neck sweater
+      (navy, charcoal grey, or muted blue) over a simple button-down or plain t-shirt,
+      sometimes just a simple solid t-shirt, well-worn dark jeans or chinos, plain
+      sneakers; for office interviews sometimes a relaxed dark blazer over a t-shirt;
+      no flashy accessories, no tie, deliberately understated and academic
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - thoughtful pensive consideration
+      - careful measured explanation to a colleague
+      - quiet conviction during an interview
+      - private moment of doubt about AI risk
+      - warm sibling affection toward his sister
+    poses:
+      - "Three-quarter seated at a whiteboard covered in equations"
+      - "Front view speaking calmly at a small conference table"
+      - "Side profile gazing thoughtfully at a laptop screen"
+      - "Back view walking down a corridor with his sister beside him"
+
+  - id: sister_daniella
+    name_ja: ダニエラ・アモデイ
+    description_en: |
+      Daniella Amodei in her late 30s to early 40s (2021-2026 era), Anthropic
+      co-founder and President, Dario's younger sister, an Italian-American woman of
+      slim graceful build, medium height, an oval face with similar bone structure to
+      her brother, warm intelligent dark brown eyes, straight dark eyebrows, a straight
+      medium nose, soft full lips often set in a warm composed smile, long wavy dark
+      brown hair usually worn loose past the shoulders, pale complexion, the steady
+      organizational bearing of an experienced operator who manages people and policy
+    outfit_en: |
+      modern Silicon Valley business-casual — soft solid-color blouses in neutral
+      tones (cream, dusty blue, charcoal), well-cut blazers in navy or grey, simple
+      knit sweaters, dark slim trousers or smart jeans, minimal jewelry (small studs,
+      a thin necklace), comfortable flats or low boots; polished but unpretentious
+    voice_style_id: null
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - warm composed smile during a team meeting
+      - sisterly conviction explaining a decision
+      - calm attentive listening
+      - quiet determination during a hard moment
+    poses:
+      - "Three-quarter seated next to her brother at a conference table"
+      - "Front view addressing a small standing team"
+      - "Side profile reviewing a document with a pen in hand"
+
+  - id: sam_altman
+    name_ja: サム・アルトマン
+    description_en: |
+      Sam Altman in his mid-30s (2020 era), then OpenAI CEO, a slim white American
+      man of medium-short stature, oval face with a strong jaw, light brown short
+      neatly-cut hair, blue-grey eyes, clean-shaven, the polished controlled bearing
+      of a Silicon Valley operator and dealmaker
+    outfit_en: |
+      grey or navy crew-neck sweater over a plain t-shirt, dark jeans, plain sneakers;
+      sometimes a simple button-down shirt; deliberately low-key startup CEO uniform
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: claude_shannon
+    name_ja: クロード・シャノン
+    description_en: |
+      Claude Shannon in his 30s-40s in the late 1940s, the father of information theory,
+      a slim white American man with neatly side-parted dark hair, thoughtful intelligent
+      eyes behind round glasses, clean-shaven, the precise bearing of a Bell Labs
+      mathematician
+    outfit_en: |
+      late-1940s American academic — white dress shirt, dark slim tie, dark suit
+      trousers with suspenders or a tweed sport jacket, sometimes a buttoned waistcoat,
+      polished leather shoes
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: subject_phd
+    name_ja: ダリオ (Princeton PhD 時代)
+    description_en: |
+      Dario Amodei in his mid-to-late 20s (2008-2014 era) as a Princeton PhD student
+      in computational neuroscience / biophysics, the same Italian-American features
+      as the adult version — slim build, oval face, dark thoughtful eyes, very thick
+      wavy dark brown hair worn long and unkempt, clean-shaven, slightly more youthful
+      and less weathered, an earnest academic bearing
+    outfit_en: |
+      east-coast graduate student casual — plain solid t-shirts or simple plaid
+      button-downs, often worn under a zip-up hoodie or a corduroy jacket, well-worn
+      jeans, plain sneakers, sometimes a backpack slung over one shoulder
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1

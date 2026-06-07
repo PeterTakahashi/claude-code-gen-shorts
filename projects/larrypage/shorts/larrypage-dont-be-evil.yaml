@@ -1,0 +1,175 @@
+id: larrypage-dont-be-evil
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2005, the iconic Googleplex Mountain View cafeteria at lunch hour. A large
+
+    bright modern open dining space with colorful furniture, soft natural light
+
+    flooding through tall windows, dozens of casually-dressed young engineers
+
+    and designers laughing and eating gourmet meals on real ceramic plates, a
+
+    chef visible at a glass food counter plating fresh pasta, a stylized
+
+    Google "G" logo visible on a wall. Vibrant warm community atmosphere. Wide
+
+    establishing shot. No prices anywhere — everything is free.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2001, a small early-Google conference room in Mountain View. Larry
+
+    Page stands quietly beside a whiteboard while an engineer-colleague writes
+
+    the phrase "Don''t be evil" on it in black marker, Sergey Brin sitting on a
+
+    table watching with an amused half-smile, three other young employees in
+
+    casual t-shirts contributing thoughts, a printout of the company values on
+
+    a corkboard. The exact birthplace of the most famous corporate motto in
+
+    tech history. Mid-shot.
+
+    Characters: {subject_young}, {cofounder_sergey}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early morning in a San Francisco neighborhood around 2008, a line of three
+
+    sleek white luxury commuter coach buses with subtle small Google logos
+
+    parked along a residential street, well-dressed young tech workers in
+
+    hoodies and casual clothes boarding with laptops and coffee cups, soft
+
+    morning fog still in the streets, leafy bay-area neighborhood. The famous
+
+    Google commuter shuttle program — wifi-equipped buses ferrying employees
+
+    35 miles down to Mountain View.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside the colorful Googleplex office in 2006. A young female engineer with
+
+    tied-back hair sitting cross-legged on a beanbag chair in a brightly painted
+
+    corner with a small whiteboard covered in her own hand-drawn personal
+
+    project sketches, laptop on her lap, headphones on, completely absorbed.
+
+    Around her, colorful walls, lava lamps, a small foosball table in the
+
+    background. The famous "20 percent time" policy in action — every Googler
+
+    could spend one day a week on whatever they wanted.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2009, the famous Friday "TGIF" all-hands meeting at Googleplex.
+
+    Larry Page standing in front of a packed open-floor crowd of hundreds of
+
+    employees sitting on the floor and on stairs, holding a wireless microphone
+
+    and speaking quietly with composed intensity, dim warm room lighting, a
+
+    large projection screen behind him showing the simple text "Don''t be evil",
+
+    attentive listening faces in the foreground. Soft-spoken founder, hushed
+
+    reverence.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Sunset at the Googleplex Mountain View campus around 2010. A relaxed
+
+    casually-dressed engineer with a backpack riding a colorful blue-yellow-red
+
+    Google-branded bicycle along a tree-lined campus path, the iconic colorful
+
+    Google buildings visible in soft warm orange-pink dusk light behind him,
+
+    other employees walking their dogs on the grass. The visual essence of "a
+
+    company you don''t want to leave at five PM." Wide cinematic framing.
+
+    '
+ja:
+  title: '社員に無料の食事を出した理由 #Shorts'
+  description: 'Googleは、社員に無料の朝昼晩、通勤シャトル、社内ジムを、創業初期から提供してきた。
+
+    「Don''t be evil」を掲げたラリー・ペイジの企業文化哲学とは。
+
+
+    #Shorts #ラリーペイジ #Google #企業文化 #人物伝
+
+    '
+  hook_caption: なぜGoogleは社食が無料か
+  series_brand: ラリー・ペイジ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: なぜGoogleは、社員に、朝昼晩の食事を、無料で出すのか。
+    caption: なぜ社食が完全無料なのか
+  - panel: p2
+    text: 創業初期、ラリー・ペイジは、「社員が生活雑事で悩む時間を、ゼロにしたい」と考えました。
+    caption: 生活の悩みをゼロにする思想
+  - panel: p3
+    text: だから、食事も、通勤シャトルも、社内ジムも、ランドリーも、全部、会社が用意したんです。
+    caption: 食事・通勤・ジム全部無料
+  - panel: p4
+    text: さらに、社員は、勤務時間の20%を、自分の好きなプロジェクトに使うことが、許されていました。
+    caption: 勤務の20%は自由プロジェクト
+  - panel: p5
+    text: その20%ルールから、Gmailや、Googleニュースが、生まれたんです。
+    caption: GmailもGoogleニュースも誕生
+  - panel: p6
+    text: そして、それらを支えていた哲学が、ラリーが掲げた、「Don't be evil」、悪をなすなかれ、でした。
+    caption: 哲学はDon't be evil
+en:
+  title: 'Why Google Gives Its Employees Everything For Free #Shorts'
+  description: 'From free gourmet meals to the famous ''20% Time'' that created Gmail, Google''s perks were legendary.
+
+    But they all came from founder Larry Page''s simple philosophy: Don''t be evil.
+
+
+    #Shorts #Google #LarryPage #CompanyCulture #TechHistory'
+  hook_caption: The Secret Behind Google's Free Food
+  series_brand: The Larry Page Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Ever wonder why Google gives its employees free food for breakfast, lunch, and dinner?
+    caption: The famous free lunch
+  - panel: p2
+    text: Early on, founder Larry Page wanted to completely eliminate the time his team spent worrying about daily chores.
+    caption: Zero life hassles
+  - panel: p3
+    text: 'So the company provided everything: commuter shuttles, on-site gyms, laundry... you name it.'
+    caption: Perks for pure focus
+  - panel: p4
+    text: He even gave engineers '20% Time' to work on any personal project they were passionate about.
+    caption: The 20% Rule
+  - panel: p5
+    text: That incredible freedom is how legendary products like Gmail and Google News were born.
+    caption: Where Gmail came from
+  - panel: p6
+    text: 'It was all built on the simple but powerful philosophy he championed: ''Don''t be evil.'''
+    caption: Don't Be Evil

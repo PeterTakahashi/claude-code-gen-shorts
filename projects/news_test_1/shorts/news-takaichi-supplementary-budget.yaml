@@ -1,0 +1,72 @@
+id: news-takaichi-supplementary-budget
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Extreme close-up of a Japanese 40-year government bond ticker on a dark
+      trading screen — yield label "40年債 4.355%" in glowing red, then a softer
+      green "4.10% → 3.9%台" overlaid, the visual of "the world's most ignored
+      bond market suddenly stops falling". Tense market-news tone, modern
+      Japanese trading aesthetic. No people.
+  - id: p2
+    prompt: |
+      A modern Tokyo newsroom — the anchor at her desk, behind her a large
+      studio monitor showing Japanese Prime Minister Sanae Takaichi at a press
+      podium, a lower-third reading "高市首相 / 補正予算3兆円". Composed news
+      lighting.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      Japanese Prime Minister Sanae Takaichi at a Tokyo press conference
+      podium, the national flag behind her, gesturing firmly, journalists'
+      microphones in the foreground, the visual of "the PM announces a 3
+      trillion yen extra budget". Composed press-room realism.
+  - id: p4
+    prompt: |
+      An infographic on a dark blue background — a needle on a dial moving from
+      red "売り" (sell) to neutral "想定内" (within expectations), behind it the
+      number "3兆円規模 補正予算", the visual of "what the market actually thought
+      of the budget". Clean modern news graphic.
+  - id: p5
+    prompt: |
+      A Tokyo bond dealing room — Japanese male and female bond traders watching
+      walls of yield curves, a senior trader nodding approvingly at the curve
+      flattening, a board labeled "40年債 利回り 反落", the visual of "long-end
+      yields finally stop rising". Modern realistic.
+  - id: p6
+    prompt: |
+      The anchor again at her newsroom desk, behind her a split-screen: left
+      the Prime Minister's image with the "3兆円" caption, right a JGB yield
+      curve flattening — a calm "what this means for you" closing shot.
+      Character: {anchor}.
+
+ja:
+  title: "高市首相の3兆円補正、市場が「想定内」と判定した本当の理由 #Shorts"
+  description: |
+    過去最高水準まで売られていた日本の超長期国債が、底入れの兆し。
+    高市首相が表明した「中東危機対応 3兆円規模」の補正予算を、市場はなぜ「想定内」と受け止めたのか。
+    30秒の政治経済ニュース解説。
+
+    #Shorts #ニュース #政治 #高市首相 #補正予算 #長期金利
+  hook_caption: "高市3兆円補正、市場の判定"
+  series_brand: "高市3兆円補正"
+  voice_speed: 1.35
+  narration:
+    - panel: p1
+      text: "売られ続けていた日本の超長期国債が、ついに底入れの兆しです。背景にあったのは、高市首相が表明した3兆円規模の補正予算でした。"
+      caption: "超長期債、底入れの兆し"
+    - panel: p2
+      text: "今月19日、40年債の利回りは4.355%まで上昇し、過去最高水準を記録。原油高と財政拡張への警戒で、長期国債が世界でいちばん嫌われていた状態でした。"
+      caption: "40年債、過去最高の4.355％"
+    - panel: p3
+      text: "そこに高市首相が、中東危機対応の26年度補正予算について、「3兆円規模」という具体的な数字を出した。市場が最も恐れていた、青天井の歳出シナリオは、ひとまず否定された形です。"
+      caption: "3兆円という、具体的な天井"
+    - panel: p4
+      text: "市場関係者の評価は、文字通り「想定内」。買い戻しが入り、27日までに40年債利回りは4.1%を下回り、足もとでは3%台まで低下しました。"
+      caption: "市場の評価は、「想定内」"
+    - panel: p5
+      text: "需給面でも追い風があります。超長期債を、個人向け国債の対象に加える議論が、政府内で動き出しました。個人マネーの流入期待が、価格を下支えしています。"
+      caption: "個人向け国債への解禁、議論加速"
+    - panel: p6
+      text: "財政拡張が、必ずしも金利暴騰につながるとは限らない。「規模を区切る」ことの政治的な威力を、債券市場が静かに証明した1週間でした。"
+      caption: "規模を区切る、政治の威力"

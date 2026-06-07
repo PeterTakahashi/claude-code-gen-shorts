@@ -1,0 +1,236 @@
+id: war-togo-tsushima-1905
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic shot of Character: {togo}''s weathered face
+
+    in tight three-quarter profile on the open bridge of the Japanese
+
+    battleship Mikasa, sharp dark eyes locked forward with cold absolute
+
+    focus, his long grey-streaked beard whipping sideways in the salt
+
+    wind, in the dramatically blurred background a single colossal
+
+    "Z signal" flag (square divided into yellow, red, blue, and black
+
+    triangles meeting at the center) snapping violently from the
+
+    Mikasa''s mast against a stormy slate-grey sky over the Tsushima
+
+    Strait, faint silhouettes of distant Russian Baltic Fleet warships
+
+    smudging the horizon line, the visual of "8 minutes before the
+
+    decision that destroyed an empire". Subject filling the square
+
+    center for vertical short layout with blurred padding above/below.
+
+    Japan May 1905 setting. No Japanese text in image.
+
+    Character: {togo}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    May 1905 daylight on the cold Tsushima Strait, a wide ocean
+
+    panorama from a low naval angle, a long single-file column of
+
+    eight enormous Russian Imperial Baltic Fleet battleships in
+
+    green-grey livery steaming north-east through choppy grey seas
+
+    with thick black coal smoke pouring from their funnels, the
+
+    Russian Andreyevski white-and-blue saltire flag flying from the
+
+    lead ship Knyaz Suvorov, faint Japanese cruiser silhouettes far
+
+    to the north-east on the horizon, an overcast slate sky, the
+
+    visual of "the fleet that sailed halfway around the world to
+
+    die". Wide shot. Clearly 1905 Imperial Russian Navy ships. No
+
+    Japanese text in image.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    May 27 1905 on the open command bridge of the Japanese
+
+    battleship Mikasa, Character: {togo} standing dead center with
+
+    sword at his left hip, his white-gloved right hand raised in a
+
+    firm pointing gesture across his body toward the port side,
+
+    three middle-aged Japanese Imperial Navy officers in similar
+
+    dark navy-blue Meiji-era uniforms around him visibly stiffening
+
+    in shock at his order, an open brass-rimmed naval compass and a
+
+    sea chart of the Tsushima Strait spread on the chart table in
+
+    front of him, the same "Z signal" flag (yellow/red/blue/black
+
+    triangles) snapping at the masthead above, the visual of "the
+
+    moment Togo ordered the impossible turn". Mid-shot. Clearly
+
+    Japan May 1905 warship bridge. No Japanese text in image.
+
+    Character: {togo}.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern naval tactical diagram on dark ocean-blue background,
+
+    a stylized top-down map of the Tsushima Strait between Korea and
+
+    Kyushu Japan with decorative English labels "KOREA" on the left
+
+    and "JAPAN" on the right, a long single vertical row of small red
+
+    ship icons labeled in decorative English "RUSSIAN BALTIC FLEET"
+
+    sailing north, a horizontal row of small white ship icons
+
+    stretched across their path forming the letter T, labeled in
+
+    decorative English "JAPANESE FLEET — CROSSING THE T", thin
+
+    yellow dashed lines from the white ships showing every gun able
+
+    to fire while the red ships can only return fire with the lead
+
+    ship, a small floating decorative English caption "ONE-SIDED
+
+    FIREPOWER", the visual of "the maneuver that changed naval
+
+    warfare". Infographic composition. Decorative English text only.
+
+    No Japanese text.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Late afternoon May 27 1905 on the Tsushima Strait, a wide
+
+    cinematic naval-battle shot of the same Russian Baltic Fleet
+
+    battleships now broken and burning, the lead Russian battleship
+
+    Knyaz Suvorov heavily listing to port with thick orange flames
+
+    and black smoke pouring from its midsection, a second Russian
+
+    battleship in the background already sinking bow-first under the
+
+    waves, three Japanese battleships including the Mikasa in the
+
+    foreground silhouette firing broadsides, white plumes from
+
+    shellfire erupting in the cold grey water, the visual of "the
+
+    Russian fleet annihilated in a single afternoon". Wide
+
+    cinematic shot. Clearly 1905 naval engagement. No Japanese text.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic shot as panel 1 of Character:
+
+    {togo}''s face on the open Mikasa bridge, but now the cold focus
+
+    in the sharp dark eyes has softened into a quiet exhausted
+
+    satisfaction, his grey-streaked beard still in the salt wind, in
+
+    the soft-focus background the same "Z signal" flag still flying
+
+    but now over a calm dusk sea with thick smoke columns from the
+
+    sunken Russian fleet on the distant horizon, the visual of "the
+
+    man Western admirals called the Nelson of the East". Subject
+
+    filling square frame for vertical short with blurred padding
+
+    above/below. Japan May 1905. No Japanese text in image.
+
+    Character: {togo}.
+
+    '
+ja:
+  title: '東郷平八郎、日本海海戦の8分 #Shorts'
+  description: '1905年5月27日、対馬沖。ロシア・バルチック艦隊38隻を、たった一日で壊滅させた男がいた。
+
+    アジアの国が、白人列強の艦隊を撃破した、史上初の海戦をAnimeで。
+
+
+    #Shorts #日本海海戦 #東郷平八郎 #日露戦争 #1905
+
+    '
+  hook_caption: 東郷、日本海の8分間
+  series_brand: 日本海海戦
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1905年5月27日午後1時55分、対馬沖。日本艦隊司令長官の東郷平八郎は、開戦の合図「Z旗」を、旗艦三笠のマストに掲げました。121年前の、世界を変える8分が、始まります。
+    caption: 121年前の1905年、Z旗が揚がる
+  - panel: p2
+    text: 相手は、地球を半周してきたロシア・バルチック艦隊38隻。日本に勝てる海軍は存在しないとされていた、白人列強の主力艦隊です。
+    caption: 地球半周してきたロシア艦隊38隻
+  - panel: p3
+    text: ところが東郷は、敵の鼻先で艦隊を、左に大きく旋回させる命令を下します。横腹を晒す自殺的な機動だったので、部下の参謀たちは、一瞬凍りつきました。
+    caption: 鼻先で左旋回、参謀が凍る
+  - panel: p4
+    text: 狙いは「T字戦法」で、敵の縦列の前を、自分たちの横列で塞ぐ陣形のことです。これで、ロシア側は先頭艦しか撃てず、日本側は全艦で集中砲火を浴びせられる、圧倒的な火力差が生まれます。
+    caption: T字戦法、火力差が一方的
+  - panel: p5
+    text: 結果、わずか一日で、ロシア艦隊38隻のうち、撃沈21隻、捕獲7隻。日本側の損害は、水雷艇3隻だけという、海戦史上類を見ない、完全勝利でした。
+    caption: 1日でロシア28隻、日本3隻
+  - panel: p6
+    text: この一戦で、アジアの小国が、世界最強と言われた艦隊を、初めて撃破します。東郷平八郎は、世界中の海軍士官に「東洋のネルソン」と、呼ばれることになります。
+    caption: アジアが列強艦隊を初撃破した日
+en:
+  title: 'Japan''s Suicidal Move That Crushed the Russian Fleet #Shorts'
+  description: 'In 1905, one admiral''s insane gamble led to one of the most decisive naval victories in history.
+
+    See how Japan''s navy annihilated the mighty Russian fleet at the Battle of Tsushima.
+
+    #Shorts #History #MilitaryHistory #Japan #RussoJapaneseWar'
+  hook_caption: He Bet His Entire Navy On One Move
+  series_brand: Battle of Tsushima
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: May 27th, 1905. On the bridge of his flagship, Admiral Togo Heihachiro is about to make the biggest gamble of his life.
+    caption: A historic gamble
+  - panel: p2
+    text: 'His enemy: Russia''s Baltic Fleet. 38 warships that sailed halfway around the world, considered the invincible navy of a European superpower.'
+    caption: The invincible enemy
+  - panel: p3
+    text: 'As the fleets closed in, Togo gave an insane order: a hard turn directly in front of the enemy guns. It was a suicidal maneuver, and his officers could only watch in horror.'
+    caption: A suicidal order
+  - panel: p4
+    text: His goal was to "Cross the T"—a risky tactic to let his entire fleet fire on the lead Russian ships, while they could barely fire back.
+    caption: Crossing the T
+  - panel: p5
+    text: The result was a massacre. In a single day, 21 Russian ships were sunk and 7 were captured. Japan lost only three small torpedo boats.
+    caption: Annihilation
+  - panel: p6
+    text: It was the first time a modern Asian nation had defeated a European great power, and Admiral Togo would forever be known as the 'Nelson of the East'.
+    caption: The Nelson of the East

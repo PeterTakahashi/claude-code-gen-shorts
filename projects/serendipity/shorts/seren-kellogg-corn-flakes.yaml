@@ -1,0 +1,192 @@
+id: seren-kellogg-corn-flakes
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME close-up dramatic shot of two pale male hands cupping a small pile of
+
+    golden-brown crisp toasted wheat flakes, dramatic overhead late-1800s gas-lamp
+
+    lighting casting a warm amber glow on the flakes from above with deep shadow
+
+    around, a slightly out-of-focus glass beaker and a heavy iron rolling pin
+
+    visible on a wooden lab bench in the background, the visual of "what is
+
+    this strange thing we just made?" Battle Creek Sanitarium kitchen-lab in
+
+    Michigan USA 1894 atmosphere. Subject filling the square center for
+
+    vertical short layout with blurred padding above/below.
+
+    Decorative English label on a small jar in the deep background reads
+
+    "BATTLE CREEK SAN.", proper noun in English.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Battle Creek Sanitarium dining hall Michigan USA 1894, mid-shot of
+
+    Dr. John Harvey Kellogg in his iconic all-white three-piece physician
+
+    suit standing beside a long wooden table of pale-faced patients in
+
+    Victorian-era nightclothes and bathrobes eating bland boiled grains
+
+    from white bowls, Dr. Kellogg gesturing earnestly to a chart on the
+
+    wall about digestion and vegetarian diet, a small decorative English
+
+    sign on the wall reads "BATTLE CREEK SANITARIUM — HEALTH REFORM",
+
+    late-1800s American interior, gas lamps, no Japanese architectural
+
+    elements. The visual of "the doctor obsessed with patients'' guts."
+
+    Character: {jh_kellogg}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    The sanitarium kitchen-lab 1894, dramatic mid-shot of a 33-year-old
+
+    American man Will Kellogg in a simple white apron over a white shirt
+
+    and dark trousers, neatly parted dark hair and short moustache,
+
+    pulling open a heavy cast-iron oven door to reveal a wide tray of
+
+    cooked wheat dough that has been left far too long — visibly overdone,
+
+    dried-out, flaky, a small panicked sweat drop on his face, the
+
+    visual of "uh oh, I overcooked it." Wooden countertops, copper pots,
+
+    gas-lamp warm light, clearly American late-1800s kitchen, decorative
+
+    English label "WHEAT — DO NOT WASTE" on a wooden crate.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Close-up dramatic shot of the heavy iron rollers of a hand-cranked
+
+    dough press flattening the over-dried wheat — instead of one sticky
+
+    sheet, each individual wheat grain separates into a beautiful thin
+
+    crispy golden flake falling onto a wooden tray below, soft golden
+
+    shafts of morning light from a high window catching the falling
+
+    flakes in mid-air, the visual of "the accidental birth of the
+
+    cereal flake." Late-1800s American sanitarium kitchen-lab setting.
+
+    Decorative English signage minimal.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style infographic panel.
+
+    Clean modern data visualization on soft cream background, decorative
+
+    bold English headline "KELLOGG''S CORN FLAKES" centered at top, a
+
+    small chibi-style figure of Dr. Kellogg in white suit on the left,
+
+    a stylized world map silhouette on the right with tiny cereal-box
+
+    icons scattered across 180 countries, a decorative Japanese label
+
+    beneath「世界180か国 / 年間売上数十億ドル」readable. The visual of
+
+    "a patient''s digestion experiment became the world''s breakfast."
+
+    Proper noun "KELLOGG''S" in English.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Same EXTREME close-up of pale male hands cupping golden-brown crisp wheat
+
+    flakes as panel 1, same late-1800s sanitarium gas-lamp amber lighting,
+
+    but now a single bright shaft of morning sunlight has broken into the
+
+    frame from above warming the flakes, a hint of Dr. Kellogg''s white-suited
+
+    shoulder visible in soft focus at the edge, the loop image of "the
+
+    mistake that fed the world." Subject filling square frame for vertical
+
+    short with blurred padding above/below.
+
+    '
+ja:
+  title: '医者が患者のために作った健康食、それがシリアルだった #Shorts'
+  description: '今から132年前の1894年、アメリカの医師ジョン・ハーヴェイ・ケロッグが、患者の消化のために作った健康食。
+
+    弟ウィルが小麦を焦がしてしまった偶然から、世界中の朝食「コーンフレーク」が誕生しました。
+
+
+    #Shorts #偶然の発明 #ケロッグ #シリアル誕生 #雑学
+
+    '
+  hook_caption: シリアル誕生は医者の失敗
+  series_brand: シリアル誕生
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 朝食の定番シリアルが、もとは医者が患者の便秘を治すために作った健康食だったって、知っていますか。
+    caption: シリアルは患者用の健康食だった
+  - panel: p2
+    text: 132年前の1894年、アメリカ Michigan 州の Battle Creek Sanitarium で、ケロッグ博士は、患者の消化を改善する食べ物を、日々探していました。
+    caption: 132年前、ケロッグ博士の病院食
+  - panel: p3
+    text: ある日、弟のウィルが、煮た小麦を、何時間もオーブンに、放置してしまったので、生地は完全に乾ききっていました。
+    caption: 弟が小麦を焦がした偶然の日
+  - panel: p4
+    text: 捨てるのがもったいないからローラーで潰したら、生地がくっつかず、1粒ずつ薄い金色の薄片に、分かれて落ちてきたんです。
+    caption: 1粒ずつフレークに分かれた瞬間
+  - panel: p5
+    text: 患者に出したら大評判で、その薄片は Corn Flakes と名付けられ、今では世界180か国で愛される朝食に、なっています。
+    caption: 世界180か国の朝食になった
+  - panel: p6
+    text: 病院の食事として生まれた失敗作が、世界中の朝の食卓を変えた——偶然と、捨てない判断が、歴史を作ったんです。
+    caption: 偶然と機転が世界を変えた
+en:
+  title: 'How a Kitchen Mistake Created Your Breakfast #Shorts'
+  description: 'In 1894, Dr. John Kellogg was trying to create a healthy, digestible food for his patients. But after his brother made a mistake in the kitchen, they accidentally invented one of the world''s
+    most popular breakfasts.
+
+
+    #Shorts #History #Invention #Kelloggs #FoodFacts'
+  hook_caption: Your Breakfast Was an Accident
+  series_brand: The Birth of Cereal
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1894, Dr. John Kellogg ran a health sanitarium where he was obsessed with creating the perfect healthy food for his patients.
+    caption: A Doctor's Mission
+  - panel: p3
+    text: One day, his brother Will, who ran the kitchen, accidentally left a batch of boiled wheat out for way too long.
+    caption: A Kitchen Mistake
+  - panel: p4
+    text: The dough was totally ruined... or so they thought. Instead of tossing it, they tried pressing it through rollers.
+    caption: A Crazy Idea
+  - panel: p1
+    text: But instead of a sticky sheet, out came the world's very first toasted flakes.
+    caption: The First Flakes
+  - panel: p5
+    text: The patients loved them. This happy accident would soon be known across the globe as Kellogg's Corn Flakes.
+    caption: An Instant Hit
+  - panel: p6
+    text: And that's how a failed recipe for hospital food ended up on breakfast tables everywhere.
+    caption: Breakfast Is Served

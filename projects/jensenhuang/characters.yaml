@@ -1,0 +1,78 @@
+# ジェンスン・ファン cast — life-stage variants for shorts.
+characters:
+  - id: subject_adult
+    name_ja: ジェンスン・ファン (60代)
+    description_en: |
+      a Taiwanese-American man in his 60s with the characteristic Jensen Huang
+      facial features: a slightly rounded square face, warm dark intelligent eyes
+      that crinkle at the corners when speaking, full but neatly groomed eyebrows,
+      a broad straight nose, expressive mouth often set in a confident half-smile,
+      short black hair clearly mixed with silver-grey especially at the temples,
+      smooth lightly tanned East Asian skin, modern rimless or thin-rimmed glasses,
+      a charismatic stage-presence bearing, a visible black Nvidia logo tattoo on
+      the inside of his left upper arm sometimes glimpsed when sleeves are rolled
+    outfit_en: |
+      the iconic Jensen Huang uniform — a black leather biker jacket, plain black
+      crewneck T-shirt or black mock-turtleneck underneath, dark indigo jeans or
+      black jeans, clean white or black sneakers, sometimes a black belt; an
+      unmistakable trademark silhouette
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - confident charismatic keynote speaker
+      - quiet intensity studying a chip
+      - warm thoughtful reflective gaze
+      - amused half-smile during interview
+      - private moment of doubt at desk
+
+  - id: subject_young
+    name_ja: ジェンスン・ファン (30歳前後)
+    description_en: |
+      a Taiwanese-American man around 28-32 in the early-to-mid 1990s with the
+      young Jensen Huang facial features: slightly rounded square face, jet-black
+      neatly combed short hair without grey, dark intelligent eyes, broad straight
+      nose, full mouth often in a thoughtful line, smooth East Asian skin, no
+      glasses or only occasional simple thin-framed glasses, slim athletic build,
+      the bearing of a young AMD/LSI Logic engineer about to take a risk on his
+      own company
+    outfit_en: |
+      early-1990s Silicon Valley engineer casual — a plain button-down dress
+      shirt (white, light blue, or soft pattern) sometimes with sleeves rolled,
+      occasionally a plain T-shirt or polo, dark or faded jeans, simple
+      sneakers or loafers; no leather jacket yet
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - intense focus on a circuit diagram
+      - earnest pitching to skeptical listeners
+      - quiet determination at a diner booth
+      - exhausted late-night thinking
+      - bright moment of conviction
+
+  - id: subject_child
+    name_ja: ジェンスン・ファン (9歳)
+    description_en: |
+      a small Taiwanese boy of about 9-10 years old in the early 1970s with
+      the young Jensen Huang facial features: rounded oval face, dark intelligent
+      watchful eyes, short jet-black hair neatly cut, smooth East Asian skin,
+      a small serious mouth, slim build, the bearing of an immigrant kid newly
+      arrived in rural Kentucky, watchful and quietly resilient
+    outfit_en: |
+      early-1970s American rural-school boy outfit — simple plain T-shirt or
+      modest button-down shirt, well-worn jeans or corduroys, plain sneakers;
+      for boarding-school chore scenes a slightly oversized plain shirt with
+      sleeves rolled up, sometimes holding a cleaning brush or mop
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - quiet watchful new-kid gaze
+      - small serious focus while cleaning
+      - lonely look out a dorm window
+      - small private smile at a book
+      - tired but unbroken resolve

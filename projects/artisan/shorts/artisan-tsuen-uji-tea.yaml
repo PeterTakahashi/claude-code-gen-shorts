@@ -1,0 +1,63 @@
+id: artisan-tsuen-uji-tea
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A serene scene of an ancient Japanese tea shop standing at the foot of a historic stone
+      bridge in Uji, a wooden two-story machiya with old tea jars at the entrance, warm
+      afternoon light, the visual of "the oldest tea shop in the world, still pouring tea".
+      Quiet, timeless tone.
+  - id: p2
+    prompt: |
+      A historical illustration of a 12th-century samurai-warrior (Tsuen, the founder), in
+      Heian-era armor, stepping out of his armor to open a tea shop at the foot of Uji Bridge,
+      the visual of "a retired warrior opened it 860 years ago". Warm, reverent historical tone.
+  - id: p3
+    prompt: |
+      A clean infographic timeline showing the Uji bridge and the tea shop side by side across
+      eras — Kamakura warriors, Sengoku warlords like Toyotomi Hideyoshi sipping tea, Edo
+      travelers, modern tourists — the shop unchanged, the visual of "warlords, monks, and
+      tourists all drank here". Clean historical timeline.
+  - id: p4
+    prompt: |
+      An interior of the tea shop: a master in indigo apron (generic face) carefully whisking
+      matcha in a black bowl, steam rising, fresh green tea leaves on a tray, the visual of
+      "the same Uji tea technique for 24 generations". Warm artisan tone.
+  - id: p5
+    prompt: |
+      A reflective scene of the current 24th-generation owner standing on the old bridge,
+      looking down at the Uji river that has powered tea farming for centuries, the visual of
+      "what they really inherited is the river and the land". Quiet, emotional tone.
+  - id: p6
+    prompt: |
+      A warm shot of a single bowl of bright green matcha glowing under lantern light, the old
+      shop and bridge behind, the loop image of "a cup of tea, served unbroken for 860 years".
+      Serene, proud light.
+ja:
+  title: '通圓、860年続く世界最古の茶屋 #Shorts'
+  description: |
+    京都・宇治橋のたもとに、平安末期1160年創業の茶屋「通圓」がある。豊臣秀吉も訪れたとされ、24代にわたって宇治茶を提供し続けてきた。世界最古の茶屋がなぜ続けられたのかを30秒で解説します。
+
+    #Shorts #老舗 #通圓 #宇治茶 #雑学
+  hook_caption: 860年続く世界最古の茶屋
+  series_brand: 老舗の流儀
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 京都・宇治橋のたもとに、世界でいちばん古いと言われる茶屋があります。その名は通圓。創業から、860年以上が経っています。
+      caption: 京都にある世界最古とされる茶屋「通圓」
+    - panel: p2
+      text: 始まりは、平安時代の末、1160年。武士だった初代が、武具を脱いで、橋のたもとで茶を出し始めたのが、起源です。
+      caption: 武士だった初代が1160年に橋のたもとで開いた
+    - panel: p3
+      text: それから、源平の戦も、戦国の世も越えて、通圓は同じ場所で茶を出し続けました。豊臣秀吉も、ここの茶を飲んだと伝わります。
+      caption: 戦乱を越え、秀吉も飲んだ宇治橋の茶
+    - panel: p4
+      text: 24代にわたって、彼らが守り続けてきたのは、宇治茶を点てる丁寧な作法と、橋を渡る人をもてなす、その心です。
+      caption: 24代、宇治茶ともてなしの心を守り続けた
+    - panel: p5
+      text: しかし当主は言います。本当に受け継いでいるのは、茶のレシピではなく、宇治の川と土なのだ、と。
+      caption: 受け継いだのはレシピでなく、宇治の川と土
+    - panel: p6
+      text: 帝国がいくつも興り、滅んだ時間を、一杯のお茶は静かに渡してきた。あなたの仕事は、800年後も同じ場所にあるでしょうか。
+      caption: 800年後も、あなたの仕事は同じ場所にあるか

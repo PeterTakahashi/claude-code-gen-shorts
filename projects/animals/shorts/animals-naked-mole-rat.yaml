@@ -1,0 +1,189 @@
+id: animals-naked-mole-rat
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic close-up of a single naked mole-rat''s wrinkled pink hairless face
+
+    filling the center of the square frame, two enormous yellow buck-teeth protruding
+
+    outside the closed lips, tiny near-blind black eyes squinting, loose folded
+
+    translucent pink skin around the neck, every wrinkle and pore visible, a glowing
+
+    stylized X-ray overlay on the chest showing a steadily pumping red heart and a
+
+    small decorative English caption "30+ YEARS — NO AGING". Underground tunnel dark
+
+    earth background in soft focus. The visual of "the ugliest mammal that refuses
+
+    to age or die of cancer". Subject filling square center for vertical short
+
+    layout with blurred padding above and below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A cutaway cross-section view of an East African subterranean colony, a sprawling
+
+    network of underground tunnels carved through reddish-brown earth deep beneath
+
+    a dry Kenyan savanna, dozens of pink wrinkled naked mole-rats moving in
+
+    coordinated lines, one massive central queen mole-rat with an elongated
+
+    pregnant body lying in a central chamber surrounded by worker mole-rats
+
+    feeding her, soldier mole-rats blocking a tunnel entrance, the visual of
+
+    "a mammal colony organized exactly like ant or bee society". Mid-shot
+
+    educational cross-section style. Decorative English caption "EUSOCIAL — 1
+
+    QUEEN, 300 WORKERS". Clearly East African underground burrow setting.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on warm cream background, a horizontal
+
+    decorative English comparison bar chart, top bar labeled "MOUSE — 3 YEARS"
+
+    in short red, bottom bar labeled "NAKED MOLE-RAT — 30+ YEARS" stretching
+
+    ten times longer in vibrant pink, a tiny chibi-style pink naked mole-rat
+
+    figure beside the long bar, decorative English subheadline "SAME SIZE.
+
+    10x LIFESPAN." The visual of "a small rodent that should die at 3 but
+
+    lives to 30". Pure infographic composition. No people. No Japanese text.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A laboratory microscope close-up scene split into two halves, left half
+
+    showing a normal mouse cell turning into a tumorous black mass labeled
+
+    decoratively in English "MOUSE — CANCER", right half showing a naked
+
+    mole-rat cell wrapped in glowing thick golden molecular sugar threads
+
+    labeled decoratively "HMW-HYALURONAN — NO CANCER", clean clinical
+
+    microscope-style framing, soft blue lab lighting, the visual of "the
+
+    molecular reason naked mole-rats are nearly cancer-proof". Educational
+
+    infographic style. Decorative English only. No people. No Japanese text.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Inside the same underground East African colony tunnel, a single pink
+
+    wrinkled naked mole-rat curled up calmly in a sealed pocket of stale air
+
+    with a glowing stylized green molecule overlay reading decoratively in
+
+    English "FRUCTOSE BRAIN", another panel inset showing the same mole-rat
+
+    casually nibbling a tuber while no oxygen indicator drops next to it
+
+    labeled "18 MINUTES NO O2 — SURVIVES", the visual of "a mammal whose
+
+    brain can run on plant sugar like a turtle when oxygen runs out". Cross
+
+    section underground setting with warm earthy palette. Mid-shot. No
+
+    Japanese text.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic close-up as panel 1 of the wrinkled pink hairless
+
+    naked mole-rat face filling the square center, two enormous yellow
+
+    buck-teeth, tiny squinting black eyes, every wrinkle visible, this time
+
+    the X-ray overlay on its chest showing the same steadily pumping red
+
+    heart plus three small decorative English caption stamps "NO AGING",
+
+    "NO CANCER", "NO PAIN", soft earthy underground background in blur.
+
+    The loop image of "the ugly miracle hiding under the African desert".
+
+    Subject filling square center for vertical short layout with blurred
+
+    padding above and below.
+
+    '
+ja:
+  title: '老化しない哺乳類、ハダカデバネズミ #Shorts'
+  description: 'アフリカの地下に、老化せず、ガンにもならず、30年以上生きる、不思議な哺乳類がいる。
+
+    女王1匹を中心にアリのような社会を作る、ハダカデバネズミの生態を、30秒で解説します。
+
+
+    #Shorts #動物雑学 #ハダカデバネズミ #進化 #長寿
+
+    '
+  hook_caption: 老化しない哺乳類
+  series_brand: ハダカデバ
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 体長10センチの小さなネズミなのに、老化せず、ガンにもならず、30年以上生きる、地球上で唯一の哺乳類がいる、という話を知っていますか?
+    caption: 老化せずガンにもならない哺乳類
+  - panel: p2
+    text: それがハダカデバネズミ。東アフリカの地下トンネルに、女王1匹を中心にした、300匹の群れで暮らします。アリやハチと同じ、真社会性の珍しい哺乳類なんです。
+    caption: 真社会性の哺乳類、女王中心の群れ
+  - panel: p3
+    text: 同じ大きさのマウスは、わずか3年で寿命を迎えます。ところがハダカデバネズミは、その10倍の30年以上、しかも年齢に関係なく、死亡率がほぼ一定です。
+    caption: マウスの10倍、30年以上生きる
+  - panel: p4
+    text: 理由の一つが、細胞の周りにある特殊な高分子ヒアルロン酸。細胞同士をぎゅっと締め付けて、ガン化そのものを、ほぼ起こさせない仕組みになっているんです。
+    caption: 特殊ヒアルロン酸でガン化を阻止
+  - panel: p5
+    text: さらに地下の酸欠環境で生き残るため、酸素がゼロでも、果糖だけで脳を動かして、最大18分間も意識を保てます。哺乳類では、ほぼ唯一の能力です。
+    caption: 酸素ゼロでも18分間生存できる
+  - panel: p6
+    text: つまり老化、ガン、酸欠、痛覚——他の哺乳類を苦しめる弱点を、ほぼ全部スキップした生き物。人間の長寿研究が、今も注目する理由が、ここにあります。
+    caption: 長寿研究が注目する究極の哺乳類
+en:
+  title: 'This Animal Hacked Biology #Shorts'
+  description: 'The naked mole-rat is virtually immune to aging and cancer, and can survive nearly 20 minutes without oxygen. Here''s a 30-second look at nature''s ultimate survivor.
+
+
+    #Shorts #Biology #Animals #ScienceFacts #Longevity'
+  hook_caption: The Animal That Hacked Biology
+  series_brand: Naked Mole-Rat
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Meet the one mammal on Earth that barely ages, is almost immune to cancer, and lives for over 30 years.
+    caption: Nature's Ultimate Survivor
+  - panel: p2
+    text: It's the naked mole-rat. They live in huge underground colonies, serving a single queen just like a hive of bees.
+    caption: A Mammal Beehive
+  - panel: p3
+    text: A mouse of the same size lives for only 3 years. The naked mole-rat lives ten times longer, and its risk of death doesn't increase with age.
+    caption: Lives 10x Longer
+  - panel: p4
+    text: One of their secrets? A special acid in their body physically stops cells from clumping together, making it nearly impossible for tumors to form.
+    caption: Naturally Cancer-Proof
+  - panel: p5
+    text: They can also survive for 18 minutes with zero oxygen by switching their brain's fuel to fructose—a trick no other mammal has.
+    caption: Survives Without Air
+  - panel: p6
+    text: Immunity to aging, cancer, and suffocation... It's no wonder scientists are studying this creature for the secrets to a longer human life.
+    caption: The Key to Longevity?

@@ -1,0 +1,170 @@
+id: namba-mobage-boom
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2008, the inside of a crowded Tokyo commuter train. A row of Japanese
+
+    high school students in dark uniforms are seated, every single one of them
+
+    hunched over a flip-phone (feature phone, garake) with intense concentration,
+
+    tiny pixelated game graphics glowing on the small screens. Adult passengers
+
+    around them glance curiously. The composition emphasizes the sea of
+
+    flip-phones, a snapshot of a national mobile gaming craze. Warm afternoon
+
+    light through train windows. No readable text on phone screens.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 2006, a DeNA Shibuya conference room. Tomoko Namba in her early 40s
+
+    stands at a whiteboard with a marker, writing the words "Free to Play" and
+
+    "Item Charge" in English. Around the long table, half a dozen Japanese male
+
+    executives in suits look skeptical, some with arms folded, one shaking his
+
+    head slightly. Bright fluorescent overhead lighting. The moment when
+
+    everyone thought free games could never make money.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-2006 night at DeNA office Shibuya, a cluttered open-plan engineering
+
+    floor, a dozen young Japanese engineers in casual t-shirts hunched over
+
+    desktop monitors and flip-phones, testing tiny pixel-art game graphics on
+
+    phone screens, energy drink cans and snack wrappers scattered. Tomoko Namba
+
+    walks among them holding a cardboard box of late-night convenience-store
+
+    food, smiling warmly. The genesis of a mobile gaming empire.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2008, a DeNA earnings press conference in a Tokyo hotel ballroom.
+
+    Tomoko Namba stands at a podium in front of a huge projection screen behind
+
+    her showing a steeply rising bar chart of revenue growth (no readable
+
+    numbers), a calm proud smile on her face. Dozens of Japanese journalists in
+
+    the foreground raise hands, hold microphones, snap photos with cameras and
+
+    flip-phones. Warm stage lighting. The breakout moment.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2009, a typical Japanese suburban living room at night. A worried
+
+    middle-aged Japanese mother in casual home clothes sits on a sofa staring at
+
+    a phone bill in her hand, her teenage son in school uniform next to her
+
+    hunched over a flip-phone playing a game intensely, oblivious. The mother''s
+
+    expression a mix of concern and confusion. The shadow side of the
+
+    free-to-play boom — kids running up real money item charges.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2010 night, Tomoko Namba alone in her DeNA executive office overlooking
+
+    the neon-lit Shibuya night skyline, a tablet computer in one hand showing a
+
+    simple line chart climbing, her expression a complex mix of pride and quiet
+
+    tension. The warm office lights behind her, the cold neon Tokyo cityscape
+
+    ahead. The summit of the mobage era, with new storms already on the horizon.
+
+    Over-shoulder framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'ガラケー時代、無料ゲームで売上1000億円 #Shorts'
+  description: '2006年、DeNAが始めた携帯電話向けの無料ゲーム「モバゲータウン」が、社会現象になった。
+
+    無料で遊ばせて、アイテムだけ課金する、当時誰も信じなかったモデルだった。
+
+
+    #Shorts #南場智子 #DeNA #モバゲー
+
+    '
+  hook_caption: ガラケーの無料ゲームで1000億
+  series_brand: 南場智子伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: ガラケー時代に、無料のゲームだけで、1000億円以上を稼いだ女性経営者がいます。
+    caption: ガラケー無料ゲームで1000億円超
+  - panel: p2
+    text: 2006年、南場智子が率いるDeNAは、「モバゲータウン」を、無料で公開しました。
+    caption: 2006年、モバゲータウンを無料公開
+  - panel: p3
+    text: 当時、ゲームでお金を取らないモデルは、業界の誰もが、絶対に儲からないと、断言していました。
+    caption: 業界全員が「無料は絶対儲からない」
+  - panel: p4
+    text: しかし、彼女の賭けは、アイテム課金、というアイデアでした。基本は無料、装備だけ有料。
+    caption: 基本無料、アイテムだけ課金
+  - panel: p5
+    text: 2008年、ユーザーは1000万人を超え、電車の中の高校生が、全員モバゲーをする社会現象に。
+    caption: 2008年、ユーザー1000万人突破
+  - panel: p6
+    text: そして、ガラケーの小さな画面が、DeNAを、東証一部上場の巨大企業に、変えたんです。
+    caption: ガラケー画面がDeNAを東証一部に
+en:
+  title: 'How a ''Free'' Japanese Game Made Over $1 Billion #Shorts'
+  description: 'In 2006, Tomoko Namba bet her company, DeNA, on a free-to-play mobile game. The industry thought she was crazy, but her microtransaction model became a social phenomenon and built a billion-dollar
+    empire.
+
+
+    #Shorts #Business #Gaming #Japan #TomokoNamba'
+  hook_caption: Her 'Free' Game Made $1 Billion
+  series_brand: The Tomoko Namba Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: 'In 2006, DeNA CEO Tomoko Namba pitched an idea everyone thought was insane: a mobile game that was completely free.'
+    caption: A Crazy Idea
+  - panel: p3
+    text: The entire games industry was certain it would fail, convinced you couldn't make money by giving your product away.
+    caption: “It will never work”
+  - panel: p4
+    text: 'But Namba''s model had a secret weapon: the game was free, but the best items inside it were not.'
+    caption: The Microtransaction Model
+  - panel: p1
+    text: Her bet paid off. By 2008, 'Mobage Town' was a social phenomenon, with millions of high schoolers playing on their flip phones.
+    caption: A Social Phenomenon
+  - panel: p5
+    text: It became so popular that parents worried about their kids spending all their allowance on virtual clothes and items.
+    caption: Parents were worried
+  - panel: p6
+    text: That simple 'free-to-play' model, built for a tiny screen, turned DeNA into a public, billion-dollar company.
+    caption: A Billion-Dollar Success

@@ -1,0 +1,178 @@
+id: astro-empty-universe
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A vast cinematic cosmic vista, an enormous empty black void of
+
+    deep intergalactic space, a single tiny faint galaxy glowing in
+
+    the lower corner like a lonely speck of dust in an endless room,
+
+    a small floating decorative English caption "99.9999% EMPTY",
+
+    the visual of "the universe is mostly nothing". Wide cinematic
+
+    composition in deep cosmic environment. Decorative English text
+
+    only. No people. No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean cosmic infographic on dark starfield, a stylized hydrogen
+
+    atom drawn at the center as a tiny glowing yellow nucleus dot with
+
+    a huge faint pale-blue electron cloud sphere around it, decorative
+
+    English labels "NUCLEUS" and "EMPTY SPACE 99.9999%", a small
+
+    pointer showing the absurd scale gap, clean physics-infographic
+
+    anime style. Pure infographic composition. Decorative English
+
+    text only. No people. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An abstract scaled cosmic infographic, the Sun drawn as a small
+
+    orange basketball-sized orb on the left, the Earth as a tiny pea-
+
+    sized blue dot on the right, the vast distance between them shown
+
+    with a decorative English label "150 MILLION KM" stretching across
+
+    mostly black empty space, deep starfield background, the visual of
+
+    "how empty even our own solar system is". Pure infographic
+
+    composition. Decorative English text only. No people. No Japanese
+
+    text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A cinematic galactic scene, the Milky Way galaxy as a glowing
+
+    spiral on the left, the Andromeda galaxy as a similar spiral on
+
+    the right, vast inky black emptiness between them, a small
+
+    decorative English label "2.5 MILLION LIGHT YEARS — NOTHING",
+
+    tiny far-off star specks scattered very sparsely, the visual of
+
+    "even galaxies are oases in an ocean of nothing". Wide cinematic
+
+    composition. Decorative English text only. No people. No Japanese
+
+    text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A surreal cosmic infographic, an enormous transparent cube shape
+
+    labeled in decorative English "OBSERVABLE UNIVERSE", inside it
+
+    countless galaxies clustered along thin glowing filaments in a
+
+    cosmic web pattern, but the vast majority of the interior cube
+
+    volume rendered as deep empty navy-black void, a small caption
+
+    "MOSTLY VOID — FILAMENTS BETWEEN", clean astrophysics-infographic
+
+    style. Wide infographic composition. Decorative English text
+
+    only. No people. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same vast cinematic cosmic vista as panel 1, the enormous empty
+
+    black void of deep intergalactic space, the same single tiny faint
+
+    galaxy glowing in the lower corner like a lonely speck of dust,
+
+    this time with a small floating decorative English caption "AND
+
+    YOU ARE INSIDE IT", the loop image of "the universe is mostly
+
+    nothing — including you". Wide cinematic composition in deep
+
+    cosmic environment. Decorative English text only. No people. No
+
+    Japanese text.
+
+    '
+ja:
+  title: '宇宙の99.9999%は何もないという話 #Shorts'
+  description: 'あなたの体も、太陽系も、銀河の間も、ほとんどが「何もない空間」でできている。
+
+    現代天文学が示す、宇宙の本当のスケール感を、30秒で解説します。
+
+
+    #Shorts #宇宙 #天文学 #スケール #物理
+
+    '
+  hook_caption: 宇宙の99.9999%は空っぽ
+  series_brand: バルトゥーン宇宙
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 実は、宇宙の99.9999%以上は、星も銀河もない、ただの空っぽの空間でできている——という話、知っていますか?
+    caption: 宇宙の99.9999%は何もない
+  - panel: p2
+    text: そもそも、あなたの体を作る原子からして、ほぼ空洞です。原子核は東京ドームの中の、ビー玉一個ほどの大きさなので、残り全部はスカスカなんです。
+    caption: 原子の99.9999%は空洞
+  - panel: p3
+    text: スケールを広げても、状況は変わりません。太陽と地球の間は、約1億5千万キロあるから、太陽系の中身も、ほとんどが真空、ということになります。
+    caption: 太陽と地球の間も真空ばかり
+  - panel: p4
+    text: さらに銀河と銀河の間は、もっと極端で、私たちの天の川とAndromedaの間には、250万光年の、ほぼ何もない空間が広がっています。
+    caption: 銀河の間は250万光年の空白
+  - panel: p5
+    text: 観測可能な宇宙全体で見ても、銀河は薄い網目のような、宇宙の大規模構造に沿って並ぶだけなので、それ以外は全部、ただの巨大な空洞です。
+    caption: 宇宙全体は網目状の銀河と空洞
+  - panel: p6
+    text: つまり、私たちの体も、星も、銀河も、宇宙のほぼ全部が、何もない、で出来ている。あなたという存在自体が、ほぼ虚無で構成されているんです。
+    caption: あなた自身もほぼ虚無で出来ている
+en:
+  title: 'Why 99.9999% of Everything is... Nothing #Shorts'
+  description: 'From the atoms in your body to the vast voids between galaxies, the universe is overwhelmingly empty. Here''s a 30-second tour of the true scale of reality.
+
+    #Shorts #Space #Astronomy #Science #Physics'
+  hook_caption: Almost Everything Is... Nothing
+  series_brand: Toon Cosmos
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Did you know that over 99.9999% of the universe is made of absolutely nothing?
+    caption: 99.9999% Nothing
+  - panel: p2
+    text: It starts with the atoms in your body. If an atom were the size of a football stadium, its nucleus would be just a tiny marble.
+    caption: Atoms are mostly empty
+  - panel: p3
+    text: The same is true on a larger scale. The 150 million kilometers between the Sun and Earth? Almost entirely empty vacuum.
+    caption: 'Solar system: empty'
+  - panel: p4
+    text: 'And the gap between galaxies is even more extreme: 2.5 million light-years of empty void separates us from Andromeda.'
+    caption: Intergalactic void
+  - panel: p5
+    text: On the largest scale, galaxies just form a thin cosmic web. Everything in between is one colossal, empty void.
+    caption: The Cosmic Void
+  - panel: p6
+    text: Which means your body, the stars, the Earth... your very existence is almost entirely empty space.
+    caption: You are empty space

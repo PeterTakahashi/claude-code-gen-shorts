@@ -1,0 +1,137 @@
+# Flagship exemplar for money_failure — リボ払い借金地獄 → 債務整理 (7-beat arc).
+# Beats: 1 crater(p1) / 2 relatability(p2) / 3 fatal decision(p3-p4) /
+#        4-5 spiral(p5-p8) / 6 turn+escape(p9-p10) / 7 lesson-to-viewer(p11).
+# Avoidance beat names a CATEGORY (弁護士/専門家) — the 債務整理 native-ad slot. JA-only.
+id: debt-revolving-500man
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: a small dim Japanese
+      one-room apartment at night, an ordinary 28-year-old woman sitting on the
+      floor with her back against the bed, surrounded by a scattered pile of
+      unopened window-envelope payment-demand letters, holding her lowered head
+      in both hands, a single cold ceiling light, the crushing visual of
+      "drowning in debt". Mid shot. Clearly modern urban Japan setting. No
+      Japanese text in image. Character: {kana_office_worker}.
+  - id: p2
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: a bright cheerful Japanese
+      shopping mall a few years earlier, the same young woman smiling happily
+      while carrying several glossy shopping bags, window displays glowing, the
+      carefree visual of "ordinary little treats". Mid shot. Clearly modern
+      urban Japan setting. No Japanese text in image. Character:
+      {kana_office_worker}.
+  - id: p3
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: a modern Japanese store
+      checkout counter, the young woman handing a credit card to a clerk and
+      tapping a small card payment terminal, a slightly relieved smile, clean
+      retail lighting, the visual of "choosing the easy monthly payment option".
+      Mid close-up. Clearly modern Japan setting. No Japanese text in image.
+      Character: {kana_office_worker}.
+  - id: p4
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: the young woman relaxing
+      happily at a stylish cafe with new clothes and bags beside her, casually
+      tapping her phone, completely at ease, warm bright daylight, the visual of
+      "spending without worry". Mid shot. Clearly modern Japan setting. No
+      Japanese text in image. Character: {kana_office_worker}.
+  - id: p5
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: the young woman at her
+      apartment desk glancing at a phone screen showing a plain rising bar graph
+      (no readable text), a faint looming dark shadow growing behind her on the
+      wall shaped like a heavy weight, her smile fading into faint unease, dim
+      evening light, the visual of "a balance quietly ballooning out of sight".
+      Mid close-up. Clearly modern Japan setting. No Japanese text in image.
+      Character: {kana_office_worker}.
+  - id: p6
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: the young woman holding a
+      fan of several different plain plastic credit and loan cards in her hand,
+      looking anxiously at them under harsh light, a tense expression, the
+      visual of "borrowing from one card to pay another". Mid close-up. Clearly
+      modern Japan setting. No Japanese text in image. Character:
+      {kana_office_worker}.
+  - id: p7
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: late at night at a cramped
+      desk, the young woman exhausted with dark circles, a calculator and a
+      spread of bills in front of her, head propped on one hand, a cold lonely
+      lamp, the visual of "interest piling up while the principal never
+      shrinks". Mid close-up. Clearly modern Japan setting. No Japanese text in
+      image. Character: {kana_office_worker}.
+  - id: p8
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: the young woman cowering
+      on her apartment floor covering her ears, a smartphone buzzing and lighting
+      up on the table beside a tall pile of demand letters, harsh red-tinted
+      anxious lighting, the visual of "terrified of every phone call". Mid shot.
+      Clearly modern Japan setting. No Japanese text in image. Character:
+      {kana_office_worker}.
+  - id: p9
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: a clean bright Japanese
+      law-office consultation room, the young woman sitting across a tidy desk
+      from a calm reassuring lawyer who gestures gently toward a simple document
+      (no readable text), soft trustworthy daylight, the visual of "finally
+      asking a professional for help". Mid shot. Clearly modern Japan setting.
+      No Japanese text in image. Characters: {kana_office_worker}, {debt_lawyer}.
+  - id: p10
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: the young woman at her
+      tidy apartment looking visibly lighter and relieved, shoulders relaxed, a
+      single neat folder on a clean table, soft warm morning light through the
+      window, the visual of "a life finally rebuilt". Mid shot. Clearly modern
+      Japan setting. No Japanese text in image. Character: {kana_office_worker}.
+  - id: p11
+    prompt: >-
+      9:16 vertical anime/webtoon style illustration: the young woman walking
+      outdoors in calm bright daylight down an ordinary Japanese street, a small
+      genuine relieved smile, looking forward, the hopeful visual of "you don't
+      have to carry it alone". Mid shot. Clearly modern Japan setting. No
+      Japanese text in image. Character: {kana_office_worker}.
+ja:
+  title: 'リボ払いで借金500万円になったOLの話 #Shorts'
+  description: |
+    「毎月一定だから安心」——そう思ってリボ払いを続けたら、気づけば借金は500万円。普通のOLが多重債務から抜け出すまでの話です。
+
+    #Shorts #借金 #リボ払い #債務整理 #多重債務 #お金の後悔
+  hook_caption: 借金500万に膨らんだ理由
+  series_brand: お金の後悔
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 28歳で、借金は500万円でした。
+      caption: 気づけば借金500万円
+    - panel: p2
+      text: きっかけは、月に数万円の買い物。
+      caption: 普通のOLでした
+    - panel: p3
+      text: レジで、リボ払いを選びました。
+      caption: 「リボ払い」を選んだ
+    - panel: p4
+      text: 額が一定だから安心、と思ったんです。
+      caption: 毎月一定だから安心と思った
+    - panel: p5
+      text: でも残高は見えず、膨らみ続けた。
+      caption: 残高は見えず膨らんだ
+    - panel: p6
+      text: 返済のため、別のローンにも手を出した。
+      caption: 別のカードローンで穴埋め
+    - panel: p7
+      text: 利息ばかりで、元本は減りません。
+      caption: 利息で元本が減らない
+    - panel: p8
+      text: 督促に怯え、返済は手取りを超えた。
+      caption: 督促に怯える毎日
+    - panel: p9
+      text: 限界で、ようやく弁護士に相談しました。
+      caption: 弁護士に相談した
+    - panel: p10
+      text: 債務整理で、生活を立て直せたんです。
+      caption: 債務整理で生活を立て直せた
+    - panel: p11
+      text: 借金は一人で抱えず、早めに専門家へ。
+      caption: 一人で抱えず早めに相談を

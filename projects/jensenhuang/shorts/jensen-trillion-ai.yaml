@@ -1,0 +1,108 @@
+id: jensen-trillion-ai
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 60-year-old Jensen Huang on a massive 2023 GTC keynote stage in San Jose, holding up the new Nvidia H100 AI GPU module, the dark giant screen behind him glowing with abstract neural network graphics
+    and the words "AI" in green light, a sea of audience silhouettes in the dark auditorium, stage spotlights catching the leather jacket, mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A late-2022 home desk scene, a young person of unspecified ethnicity in a hoodie staring at a modern laptop screen showing the ChatGPT interface with a conversation in progress, soft evening lamp light,
+    an expression of awe on the face, conveying the moment generative AI broke into the global public consciousness.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern financial trading floor or analyst desk, multiple monitors displaying a steeply ascending green NVDA stock chart in 2023, the ticker shown in white text against dark trading-terminal backgrounds,
+    an analyst''s silhouette in the foreground, conveying the historic surge in Nvidia''s valuation.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside a modern Nvidia data-center server facility, long rows of black server racks filled with green-accented H100 GPU modules, blue and green status LEDs glowing along the racks, cold blue ambient
+    light, a single technician in the distance, conveying industrial-scale AI compute infrastructure.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 60-year-old Jensen Huang in his modern Nvidia Santa Clara office in 2023, standing by a large window overlooking Silicon Valley, holding a phone, his face thoughtful rather than triumphant, soft afternoon
+    light through the glass, the black leather jacket on his back, conveying the quiet weight of becoming one of the world''s most valuable companies.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern-day exterior wide shot of the same East San Jose Denny''s restaurant where Nvidia was founded in 1993, daytime, the iconic red and yellow Denny''s sign still visible, a small commemorative
+    plaque beside the entrance, a quiet contrast between the humble birthplace and the trillion-dollar destiny it gave rise to.
+
+    '
+ja:
+  title: '2023年、Nvidia が世界第4位の企業になった日 #Shorts'
+  description: '2023年、ChatGPT が起こした AI 革命の中心に、Nvidia がいた。株価は爆騰し、時価総額は1兆ドルを突破。30年前、Denny''s で創業した会社が、世界第4位に上り詰めた日の話。
+
+
+    #Shorts #ジェンスンファン #Nvidia #AI #人物伝
+
+    '
+  hook_caption: 30年で1兆ドル企業へ
+  series_brand: ジェンスン・ファン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 創業から30年で、時価総額1兆ドル、世界第4位の企業に、上り詰めた会社が、あります。
+    caption: 30年で世界第4位の企業に
+  - panel: p2
+    text: Nvidia。CEO は、ジェンスン・ファン、60歳。
+    caption: Nvidia、ジェンスン・ファン60歳
+  - panel: p3
+    text: 2022年末、ChatGPT が登場し、世界中の企業が、AI の学習用に、Nvidia の GPU を、奪い合った。
+    caption: ChatGPT登場、GPU争奪戦
+  - panel: p4
+    text: 2023年の1年間で、株価は、約3倍。時価総額は、1兆ドルを、突破します。
+    caption: 2023年、株価3倍、1兆ドル突破
+  - panel: p5
+    text: 30年前、Denny's の片隅で、紙ナプキンに描いた、あの賭けが、世界を、動かす日が、来たんですね。
+    caption: 30年前のナプキンが世界を動かした
+  - panel: p6
+    text: そして彼は今も、毎朝、同じ黒革ジャケットを着て、出社しています——勝者の姿は、案外、地味なんです。
+    caption: 勝者の朝は、地味で、変わらない
+en:
+  title: 'How a Denny''s Napkin Built a $1 Trillion AI Empire #Shorts'
+  description: 'The 2023 AI gold rush had one big winner: Nvidia. When ChatGPT launched, their chips became the most valuable resource on earth. This is the story of how a company born in a Denny''s became
+    a trillion-dollar empire in 30 years.
+
+
+    #Shorts #Nvidia #JensenHuang #AI #Business'
+  hook_caption: How a Denny's Napkin Built a $1 Trillion Empire
+  series_brand: The Legend of Jensen Huang
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In late 2022, a new AI called ChatGPT kicked off a global revolution.
+    caption: The AI Revolution
+  - panel: p4
+    text: 'And suddenly, every company on Earth was desperate for one thing to power it: Nvidia''s chips.'
+    caption: Everyone wanted their chips
+  - panel: p3
+    text: The demand was so insane, their stock price tripled in a year, blasting past a one trillion dollar valuation.
+    caption: $1 Trillion Company
+  - panel: p1
+    text: The man behind it all is CEO Jensen Huang, who saw this future coming.
+    caption: The Man Behind It All
+  - panel: p6
+    text: But 30 years ago, this entire tech empire started right here... in a booth at a Denny's.
+    caption: It started at a Denny's
+  - panel: p5
+    text: A world-changing bet, sketched out on a paper napkin, had finally paid off.
+    caption: The Napkin Bet

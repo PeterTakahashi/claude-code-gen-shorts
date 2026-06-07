@@ -1,0 +1,209 @@
+id: artisan-sword-smith-last
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Present-day rural Okayama Japan at deep night, the interior of
+
+    a traditional Japanese sword forge (kajiba), the central
+
+    charcoal furnace glowing intense orange-white, a 70-something
+
+    Japanese master sword smith (katanakaji) with weathered face
+
+    deeply lined, soot-smudged cheeks, iron-grey hair tied under a
+
+    dark cloth headband, traditional white sword smith''s robe and
+
+    long charcoal-stained white apron, holding a glowing
+
+    red-orange steel billet with long iron tongs over the forge,
+
+    his focused eyes reflecting the firelight, the visual of a man
+
+    alone with thousand-year-old fire. Clearly traditional
+
+    Japanese sword forge setting. Mid-shot. No Japanese text.
+
+    Character: {katanakaji}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same Okayama Japan sword forge moments later, the same elder
+
+    katanakaji striking the glowing red-orange steel billet on a
+
+    black iron anvil with a heavy long-handled hammer, sparks
+
+    exploding outward in a bright golden arc, a younger Japanese
+
+    apprentice smith in his late 30s in plain dark work robes
+
+    kneeling in respectful silence nearby holding a second hammer
+
+    ready, the rhythmic visual of folded-steel forging that has
+
+    barely changed since the Heian period. Clearly traditional
+
+    Japanese sword forge setting. Mid-shot. No Japanese text.
+
+    Character: {katanakaji}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean infographic-style panel on warm parchment-cream
+
+    background, a stylized cross-section diagram of a Japanese
+
+    katana blade showing layered folded steel patterns, small
+
+    decorative English labels floating beside each layer "FOLDED
+
+    1000 TIMES", "HARD EDGE", "SOFT SPINE", "HAMON LINE", the
+
+    visual of why a single blade requires six months of work.
+
+    Decorative English only. No people. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A small simple traditional Japanese washitsu tatami room in
+
+    present-day Okayama Japan, the same elder katanakaji now in a
+
+    clean dark grey kimono (without his work apron), kneeling
+
+    formally on tatami, carefully lifting a polished finished
+
+    katana blade out of a plain wooden storage box, the steel
+
+    surface catching soft golden afternoon light from a paper
+
+    shoji window, a small respectful chrysanthemum flower
+
+    arrangement in the alcove behind him, the visual of a
+
+    finished blade being treated as a sacred object. Clearly
+
+    traditional Japanese washitsu setting. Mid-shot. No Japanese
+
+    text.
+
+    Character: {katanakaji}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean infographic-style panel on cool dark navy background,
+
+    a stylized world map of Japan in the center with a single
+
+    glowing dot in Okayama prefecture, surrounded by scattered
+
+    dimmer dots labelled decoratively in English "180 ACTIVE
+
+    SMITHS", a single large central decorative English caption
+
+    "ONLY ~30 CAN MAKE A LIVING FROM IT" and below it "1 LIVING
+
+    NATIONAL TREASURE", the quiet visual of a vanishing craft.
+
+    Decorative English only. No people. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same Okayama Japan sword forge as panel 1 now at the deepest
+
+    pre-dawn hour, the same 70-something Japanese katanakaji with
+
+    weathered face, iron-grey hair under dark headband, traditional
+
+    white sword smith''s robe and charcoal-stained apron, alone
+
+    again with the orange forge glow, gently placing his calloused
+
+    hand on the shoulder of the younger apprentice smith now
+
+    taking the first solo strike, the older man''s expression
+
+    proud-yet-burdened, the visual of a thousand-year tradition
+
+    hanging on a single thread. Loop-back framing matching panel
+
+    1''s forge. Clearly traditional Japanese sword forge setting.
+
+    Mid-shot. No Japanese text.
+
+    Character: {katanakaji}.
+
+    '
+ja:
+  title: '日本にわずか30人、刀鍛冶という消えゆく職業 #Shorts'
+  description: '日本刀を作れる現役の刀鍛冶は、令和の今、日本全国でおよそ180人。そのうち、刀作りだけで生活できる職人は、わずか30人ほどしか残っていない。
+
+    人間国宝にまで認定された、ある老刀鍛冶の人生と、千年続いた技が、今まさに途絶えかかっている現実を紹介します。
+
+
+    #Shorts #職人 #刀鍛冶 #人間国宝 #日本文化
+
+    '
+  hook_caption: 残るは30人、消える刀鍛冶
+  series_brand: バルトゥーン職人老舗
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 日本刀を一から作れる現役の刀鍛冶は、令和の今、全国でおよそ180人しか、いないことを知っていますか?
+    caption: 現役の刀鍛冶は約180人
+  - panel: p2
+    text: 平安時代から、刀身は熱した玉鋼を何度も折り返して鍛えるため、1本の刀を完成させるのに、半年から1年がかりです。
+    caption: 1本の刀に半年から1年
+  - panel: p3
+    text: 折り返しは、最大で千回以上。硬い刃と粘る背を一体化させる、世界でも類を見ない複合構造を、生み出してきました。
+    caption: 千回以上折り返す複合構造
+  - panel: p4
+    text: その技を究めた職人だけが、人間国宝に認定されます。完成した一振りは、武器ではなく、神聖な工芸品として、奉納されるんです。
+    caption: 究めた者は人間国宝に認定
+  - panel: p5
+    text: ただし、戦後の銃刀法と需要減で、刀作りだけで生活できる職人は、現在およそ30人。後継者の不足は、深刻な状態にあります。
+    caption: 生計を立てられるのは約30人
+  - panel: p6
+    text: それでも今夜も、岡山の山あいの鍛冶場で、老刀鍛冶は弟子と並んで槌を振るっています。千年続く火は、今この瞬間も、消えずに残っています。
+    caption: 千年の火、今夜も消えず
+en:
+  title: 'Japan''s Last 30 Swordsmiths #Shorts'
+  description: 'There are only about 180 active swordsmiths in Japan, but fewer than 30 can make a living from this ancient craft. This is the story of a 1,000-year-old art form on the brink of disappearing.
+
+
+    #Shorts #Craftsmanship #Katana #JapaneseCulture #Artisan'
+  hook_caption: This Art Is Kept Alive By Just 30 People
+  series_brand: Artisan Legacies by Balutoon
+  voice_speaker: Ryan
+  narration:
+  - panel: p5
+    text: In all of Japan, only around 30 people can still make a living from this ancient profession.
+    caption: Only 30 left
+  - panel: p1
+    text: They are traditional swordsmiths, or 'katanakaji', guardians of a craft passed down for a thousand years.
+    caption: A 1000-year-old craft
+  - panel: p2
+    text: Forging a single katana is a grueling process that can take anywhere from six months to a full year.
+    caption: Up to a year per blade
+  - panel: p3
+    text: The steel is folded over and over, sometimes thousands of times, to create its legendary strength and flexibility.
+    caption: Folded 1000s of times
+  - panel: p4
+    text: The greatest masters are named Living National Treasures, and their creations are considered sacred works of art.
+    caption: Sacred works of art
+  - panel: p6
+    text: But with few apprentices to carry the torch, this ancient flame is dangerously close to going out forever.
+    caption: The flame is fading

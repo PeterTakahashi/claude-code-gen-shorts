@@ -1,0 +1,61 @@
+id: crypto-3ac-collapse-2022
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dark, tense illustration of a Singapore-based crypto hedge fund office at night, glowing
+      monitors showing portfolio values plummeting, traders staring in shock, conveying "a
+      $10 billion crypto fund collapsing in days". Ominous financial-cyber tone.
+  - id: p2
+    prompt: |
+      A confident 2021 boardroom scene of two young hedge-fund founders presenting to global
+      crypto lenders, glowing assets-under-management charts climbing, conveying "the most
+      respected name in crypto lending". Bright, optimistic fund-management tone.
+  - id: p3
+    prompt: |
+      An infographic of the fund borrowing huge amounts from many crypto lenders, those funds
+      poured into a single shaky bet on the LUNA-UST stablecoin system, conveying "they
+      leveraged everything on one trade". Clean dramatic financial infographic.
+  - id: p4
+    prompt: |
+      A dramatic May 2022 scene of the LUNA / UST system crashing to zero, a giant red downward
+      chart, the fund's positions imploding alongside it, conveying "when LUNA collapsed, the
+      fund's biggest bet was wiped out". Dark, tense cyber-financial scene.
+  - id: p5
+    prompt: |
+      An illustration of multiple crypto lenders desperately calling for margin, the fund
+      unable to repay, a domino chain of crypto lending firms toppling one after another,
+      conveying "their default knocked over Voyager, Celsius, BlockFi". Cold, dramatic.
+  - id: p6
+    prompt: |
+      A symbolic closing scene of a sleek yacht the founders had ordered drifting empty on dark
+      water as they vanish into hiding overseas, a lesson glowing above: leveraged confidence
+      is the most fragile asset. Quiet, cautionary tone.
+ja:
+  title: 'LUNAで自滅した1兆円ファンド、Three Arrows崩壊 #Shorts'
+  description: |
+    2022年、シンガポール拠点の大手暗号資産ヘッジファンドThree Arrows Capitalが、LUNA崩壊の巻き添えで一気に破綻。借りた資金で巨大な賭けを膨らませ続けた1兆円規模ファンドの末路を30秒で解説します。
+
+    #Shorts #仮想通貨 #ThreeArrows #LUNA #事件
+  hook_caption: LUNAで自滅した1兆円ファンド
+  series_brand: 仮想通貨事件簿
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 運用資産、約100億ドル。シンガポール拠点の暗号資産ヘッジファンドが、たった数週間で、完全に消滅しました。Three Arrows Capital事件です。
+      caption: 100億ドル規模のファンドが数週間で消滅
+    - panel: p2
+      text: 創業者は、若き二人のトレーダー。2021年の強気相場で、彼らは「最も信頼される仮想通貨ファンド」として、世界中の業者から、巨額の資金を、借りていました。
+      caption: 強気相場で世界中から巨額を借りていた
+    - panel: p3
+      text: しかし彼らは、借りた金を、当時急成長していたLUNAとUSTの仕組みに、集中投下します。リスクをとことん膨らませる、ハイレバレッジな賭けでした。
+      caption: 借りた金をLUNAに集中、巨大レバレッジ
+    - panel: p4
+      text: そして2022年5月、LUNAとUSTが、デススパイラルで崩壊。Three Arrowsの最大の賭けは、一瞬で、消し飛びます。
+      caption: 2022年5月、LUNA崩壊で賭けが消し飛ぶ
+    - panel: p5
+      text: 借金の返済が立ち行かなくなると、その影響は、Voyager、Celsius、BlockFiといった、貸し手の暗号資産企業を、次々と道連れにしていきました。
+      caption: 貸し手企業を次々と道連れに連鎖破綻
+    - panel: p6
+      text: 創業者たちは、注文した豪華ヨットを残し、海外へ姿を消したと言われます。借金で膨らませた自信ほど、もろいものは、ないのです。
+      caption: 借金で膨らませた自信ほどもろいものはない

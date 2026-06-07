@@ -1,0 +1,183 @@
+id: math-hilbert-hotel
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A surreal night scene in a fantastical European city, an absurdly
+
+    tall hotel tower with infinite floors disappearing up into a starry
+
+    sky, every single window glowing warm gold indicating every room
+
+    occupied, a glowing decorative English neon sign on the roof
+
+    reading "HILBERT HOTEL", a small lone traveler with a single
+
+    suitcase standing on the empty street looking up in wonder, a soft
+
+    "NO VACANCY" sign at the entrance, the visual of "the fully booked
+
+    infinite hotel". Wide low-angle shot. Decorative English text only.
+
+    No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A grand 1920s Göttingen Germany lecture hall, Character: {hilbert}
+
+    standing at a tall blackboard, chalk in hand, mid-explanation, a
+
+    thoughtful smile on his face, a long horizontal row of small
+
+    drawn doors labeled in decorative English "1", "2", "3", "4",
+
+    "..." trailing off the edge of the board, warm gas-lamp lighting,
+
+    wooden lecture benches with a few visible students taking notes.
+
+    Mid-shot. Decorative English text only. No Japanese text.
+
+    Character: {hilbert}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean modern infographic panel on midnight-blue starry background,
+
+    a horizontal row of stylized hotel doors labeled in decorative
+
+    English "ROOM 1", "ROOM 2", "ROOM 3", "ROOM 4", "...", a chibi
+
+    guest inside each room, a thin decorative English caption "ALL
+
+    ROOMS FULL" floating above, a small new arrival chibi traveler
+
+    with a suitcase standing on the left with a question mark above
+
+    his head. Infographic composition. Decorative English text only.
+
+    No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same midnight-blue infographic style, the row of rooms now shows
+
+    arrows: chibi guest from "ROOM 1" stepping right with arrow to
+
+    "ROOM 2", guest from "ROOM 2" stepping to "ROOM 3", guest from
+
+    "ROOM 3" stepping to "ROOM 4", a trailing "..." indicating
+
+    everyone shifts by one, decorative English caption "n -> n+1"
+
+    floating above, the visual of "each guest moves to the next room".
+
+    Infographic composition. Decorative English text only. No Japanese
+
+    text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same midnight-blue infographic style, "ROOM 1" now glowing bright
+
+    gold and empty with a sparkling chibi welcome sign in decorative
+
+    English "WELCOME!" above its door, the new arrival chibi traveler
+
+    stepping happily inside with his suitcase, a thin floating caption
+
+    "EVEN A FULL HOTEL HAS ROOM FOR ONE MORE" in decorative English.
+
+    Infographic composition. Decorative English text only. No
+
+    Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same surreal night scene as panel 1, the same infinitely tall
+
+    Hilbert Hotel tower in the European city, every window still
+
+    glowing warm gold, the decorative English neon "HILBERT HOTEL"
+
+    sign on the roof, the entrance "NO VACANCY" sign now flipped to
+
+    decorative English "ALWAYS ROOM FOR YOU" glowing softly, a long
+
+    line of tiny chibi travelers with suitcases happily walking
+
+    toward the entrance, the same starry sky. Wide low-angle shot.
+
+    No Japanese text.
+
+    '
+ja:
+  title: '無限ホテル、満室でも客を入れられる理由 #Shorts'
+  description: '部屋が無限にあるホテル。全室満室なのに、新しい客を泊められる——。
+
+    20世紀最大の数学者ヒルベルトが考えた、無限の不思議をAnimeで解説。
+
+
+    #Shorts #数学 #ヒルベルト #無限 #math
+
+    '
+  hook_caption: 満室なのに泊まれる無限ホテル
+  series_brand: バルトゥーン数学
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 部屋が無限にあるホテルが、全室満室。そこに新しい客が来たら、断るしかない——そう思いますよね?でも、数学の答えは違うんです。
+    caption: 満室のホテルに客が来たらどうする?
+  - panel: p2
+    text: この奇妙な話を考えたのは、100年前の1924年頃、ドイツの数学者ヒルベルトでした。「無限」を直感で扱うとどう壊れるかを、見せるための例え話なんです。
+    caption: 100年前の1924年、ヒルベルトの思考実験
+  - panel: p3
+    text: 想定はシンプルで、ホテルには1番、2番、3番と、無限に部屋が並びます。そして、すべての部屋に客が泊まっている状態から、話が始まります。
+    caption: 無限の部屋が全部埋まっている
+  - panel: p4
+    text: そこで支配人は、館内放送をかけます。「全員、隣の部屋に移ってください」と。1番は2番へ、2番は3番へ、無限に続くから、誰もあふれません。
+    caption: 全員を隣の部屋にずらすだけ
+  - panel: p5
+    text: すると、1番の部屋だけが空きます。新しい客は、そこに泊まれる——満室なのに、客が増やせるという結論です。
+    caption: 1番が空いて新しい客が入れる
+  - panel: p6
+    text: つまり、無限の世界では「満室+1=満室」が成り立ちます。あなたの直感が通用しない、これが数学の無限のおもしろさなんです。
+    caption: 無限+1=無限、それが数学
+en:
+  title: 'This Hotel is Always Full, But Never Sold Out #Shorts'
+  description: 'An infinite hotel is completely full. So how can it accommodate a new guest? Discover the mind-bending paradox of Hilbert''s Grand Hotel.
+
+
+    #Shorts #Math #Paradox #Infinity #Hilbert'
+  hook_caption: This hotel is always full, but never sold out.
+  series_brand: Valtün Math
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Imagine a hotel with infinite rooms... and it's completely full. When a new guest arrives, you'd think there's no space... but you'd be wrong.
+    caption: An impossible problem?
+  - panel: p2
+    text: This mind-bending paradox was proposed by the great mathematician, David Hilbert.
+    caption: Hilbert's Paradox
+  - panel: p3
+    text: 'The setup is simple: the hotel has rooms numbered 1, 2, 3... on to infinity. And every last one is occupied.'
+    caption: Every room is occupied
+  - panel: p4
+    text: The manager simply asks every guest to move to the room number one higher than their current one. Guest 1 goes to Room 2, 2 to 3, and so on forever.
+    caption: Just move one room over
+  - panel: p5
+    text: And just like that, Room 1 is now empty, ready for the new guest.
+    caption: Room 1 is now free!
+  - panel: p6
+    text: So in the world of infinity, 'full' plus one is still 'full.' It’s a place where our everyday intuition simply breaks down.
+    caption: Infinity + 1 = Infinity

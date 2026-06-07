@@ -1,0 +1,110 @@
+id: son-childhood-tosu
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 16-year-old Masayoshi Son in 1974 standing alone at the international departures gate of Tokyo Haneda Airport, holding one small worn suitcase, looking back over his shoulder one last time with quietly
+    determined eyes, his family not visible in frame, the silhouette of a Pan Am 747 visible through the window beyond, conveying the lonely resolve of a Korean-Japanese teenager leaving Japan alone for
+    California. Three-quarter shot.
+
+    Character: {subject_teen}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modest hand-built shack home directly beside active railroad tracks in Tosu, Saga prefecture, southern Japan, 1960s, corrugated metal roof, plywood walls, a single bare lightbulb visible through the
+    doorway, laundry strung outside, a freight train rumbling past close enough to shake the walls, the rural-poor Korean-Japanese postwar settlement atmosphere, dusk light. No person in this panel.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Interior of the small shack in Tosu, Saga, late 1960s, a young 10-year-old Masayoshi Son sitting on a tatami floor reading a thick book under a bare hanging lightbulb, his Korean-Japanese family quietly
+    working around him, a small low table with simple food, the train rumble visibly shaking a hanging lamp, conveying poverty mixed with a quiet hunger for learning. Three-quarter interior shot.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Interior of a modest Japanese tatami room in early 1974, a 16-year-old Masayoshi Son standing facing his seated worried-looking Korean-Japanese parents, holding a thick American university brochure
+    in his hand, his expression quietly determined, his mother''s hand half-raised in plea, his father stern but listening, conveying the moment a teenager announces he is leaving alone for California against
+    his family''s wishes.
+
+    Character: {subject_teen}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 16-year-old Masayoshi Son standing alone on a sunlit California street in 1974, his single worn suitcase beside him, palm trees and a 1970s American suburban street behind him, looking around with
+    wide eyes at the impossibly bright and open foreign landscape, conveying the first day of an immigrant teenager''s life in America.
+
+    Character: {subject_teen}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A silhouette wide shot of the 16-year-old boy standing alone at the airport gate window in Tokyo 1974, the Pan Am 747 now pulling away on the runway in the distance, his small reflection in the glass
+    overlapping with the plane, the long arc of a life beginning, golden departure-lounge lighting, conveying the loop back to the start.
+
+    Character: {subject_teen}.
+
+    '
+ja:
+  title: '線路脇のバラックから渡米した16歳 #Shorts'
+  description: 'サガ県トスシ、線路の脇のバラック小屋で生まれた在日韓国人の少年は、16歳で1人アメリカへ渡った。後にソフトバンクを作る孫正義の出発点の話。
+
+
+    #Shorts #孫正義 #Softbank #人物伝
+
+    '
+  hook_caption: 線路脇のバラックから渡米した16歳
+  series_brand: 孫正義伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: サガ県トスシの、線路の脇のバラック小屋で、生まれた少年がいます。
+    caption: サガ県トスシ、線路脇のバラック
+  - panel: p2
+    text: 在日韓国人の家庭、貧しさと差別の中で育ち、その家は、貨物列車が通るたびに揺れました。
+    caption: 在日韓国人、貨物列車に揺れる家
+  - panel: p3
+    text: 少年は、本だけは、夢中で読みました。そしてある日、英語の本で、シリコンバレーを知るんです。
+    caption: 本だけは夢中で読んだ
+  - panel: p4
+    text: 1974年、16歳の彼は、家族の反対を押し切り、1人でカリフォルニアへ渡る決意をしました。
+    caption: 1974年、16歳で渡米決意
+  - panel: p5
+    text: スーツケース1つだけ持って、ハネダ空港から、たった1人で飛行機に乗ったんです。
+    caption: スーツケース1つで単身渡米
+  - panel: p6
+    text: その少年の名は、ソン・マサヨシ。トスシのバラックから、後の25兆円企業の物語が、ここから始まりました。
+    caption: ここからソフトバンクが始まった
+en:
+  title: 'From a Shack by the Tracks to a Tech Empire #Shorts'
+  description: 'At 16, he left his home next to a railroad track in Japan to chase a dream in America. This is the incredible origin story of Masayoshi Son, founder of SoftBank.
+
+
+    #Shorts #MasayoshiSon #Softbank #Inspiration'
+  hook_caption: He Left a Shack at 16 & Built a $200B Empire
+  series_brand: The Masayoshi Son Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: He grew up in a shack by the railroad tracks, so poor the house shook every time a train roared by.
+    caption: Born by the tracks
+  - panel: p3
+    text: 'But inside, he devoured books, dreaming of a place he''d only read about: Silicon Valley.'
+    caption: Dreaming of America
+  - panel: p4
+    text: So at just 16, against his family's wishes, he decided to go to California, all alone.
+    caption: The decision
+  - panel: p1
+    text: With a single worn-out suitcase, he boarded the flight from Tokyo, not knowing a soul.
+    caption: One suitcase
+  - panel: p5
+    text: That boy was Masayoshi Son, and he turned that lonely journey into the global giant, SoftBank.
+    caption: Founder of SoftBank

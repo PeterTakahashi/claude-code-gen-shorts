@@ -1,0 +1,237 @@
+id: crypto-zaif-67oku-2018
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic close-up of a digital exchange wallet console screen
+
+    in the dead of night, glowing cracked decorative English numbers
+
+    "−¥6,700,000,000" filling the center of the square in vivid red, a
+
+    small decorative English exchange logo silhouette in the corner
+
+    reading "ZAIF", below it a row of three small coin icons each
+
+    cracking and streaming off-screen in pixel fragments — BTC bitcoin
+
+    symbol, BCH bitcoin-cash symbol, and a stylized MONA monacoin
+
+    mascot, neon Tokyo skyline lights reflecting cold blue and pink off
+
+    the dark glass, the visual of "the night 6.7 billion yen of crypto
+
+    vanished from a Tokyo exchange". Subject filling square center for
+
+    vertical short layout with blurred padding above and below. Clearly
+
+    Tokyo Japan late-night cyber setting. Decorative English text on
+
+    screen only.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    September 14 2018 late evening, the interior of a small modern
+
+    open-plan Zaif crypto-exchange startup office on the upper floor
+
+    of an Osaka business building, mid-shot of a 40-something Japanese
+
+    male CEO with neatly cut short black hair parted on one side, thin
+
+    metal-rim glasses, narrow troubled brown eyes, a dark navy plain
+
+    business suit over a white dress shirt and grey tie, standing
+
+    frozen in front of a wall of monitors all flashing red alerts in
+
+    decorative English "UNAUTHORIZED WITHDRAWAL — BTC / BCH / MONA",
+
+    two sleepy young Japanese engineers in hoodies rushing into the
+
+    room behind him, cold blue monitor light on his stunned face, a
+
+    small decorative English logo "TECH BUREAU" visible on a wall
+
+    behind, the visual of "the moment the CEO realized 6.7 billion
+
+    yen had been stolen". Clearly Osaka Japan office setting. Mid-shot.
+
+    Character: {asayama_takao}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern infographic on cold dark navy background, a stylized
+
+    digital vault split into two sides, the left side glowing safe green
+
+    labeled decoratively in English "COLD WALLET — OFFLINE", the right
+
+    side glowing danger red cracked open labeled "HOT WALLET — ONLINE",
+
+    three decorative English coin icons pouring out of the red cracked
+
+    side into shadow each labeled "BTC ¥4.2B", "BCH ¥0.5B", "MONA
+
+    ¥2.0B", a small decorative English subheadline reading "67 億円
+
+    — SEPT 14 2018", the visual of "the same hot-wallet mistake that
+
+    killed Coincheck — repeated 8 months later". Pure infographic
+
+    composition. Decorative English only. No people.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    September 20 2018 late-night Tokyo press conference room, mid-shot
+
+    of the same 40-something Japanese male Zaif CEO with thin metal-rim
+
+    glasses, neatly parted black hair, dark navy suit and grey tie,
+
+    bowing deeply at a long press table beside two older Japanese male
+
+    executives in dark suits also bowing, a decorative English logo
+
+    backdrop behind them reading "ZAIF — TECH BUREAU", dozens of
+
+    camera flashes from Japanese reporters in dark suits in the
+
+    foreground, a small floating decorative kanji caption silhouette
+
+    「事業譲渡へ」 readable above, the visual of "the apology that
+
+    announced the company was being sold to survive". Clearly Tokyo
+
+    Japan press conference setting. Mid close-up. Decorative English
+
+    and kanji caption OK.
+
+    Character: {asayama_takao}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Early 2019, exterior daytime mid-shot of the official Financial
+
+    Services Agency headquarters building in central Kasumigaseki
+
+    Tokyo, two stern 50-something Japanese government inspectors in
+
+    dark suits walking up the front steps holding leather briefcases,
+
+    the Japanese national flag flying overhead, a small decorative
+
+    English caption silhouette "FSA — BUSINESS IMPROVEMENT ORDER"
+
+    floating above, beside the building entrance a stylized faded
+
+    decorative English logo "TECH BUREAU" with a red diagonal slash
+
+    indicating license revocation, the visual of "the regulator that
+
+    pulled the license and forced the sale to Fisco". Clearly Tokyo
+
+    Kasumigaseki Japan setting. Mid-shot. Decorative English text
+
+    only.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic close-up framing as panel 1 of the digital
+
+    exchange wallet console screen, this time slightly later — the same
+
+    glowing cracked decorative English headline now replaced with
+
+    "ACQUIRED BY FISCO — 2018" in cool blue ink, the small exchange
+
+    logo silhouette beside it now reading "ZAIF" in faded grey, the
+
+    three small coin icons — BTC, BCH, MONA — now whole again but
+
+    faded, the same neon Tokyo skyline reflections still cold blue and
+
+    pink off the dark glass, the loop image of "the second crypto
+
+    collapse of 2018 — and Japan''s exchanges learned again". Subject
+
+    filling square center for vertical short layout with blurred
+
+    padding above and below. Decorative English only.
+
+    '
+ja:
+  title: 'Zaif 67億円が消えた深夜 #Shorts'
+  description: '※この動画は歴史・事件解説です。投資助言ではありません。仮想通貨投資は元本割れリスクがあります。
+
+
+    8年前の2018年9月、大阪の暗号通貨取引所Zaifから、BTC・BCH・MONAの合計67億円分が、流出した。
+
+    Coincheck事件のわずか8か月後に再発した、日本の暗号資産事件を、30秒で振り返ります。
+
+
+    #Shorts #Zaif #仮想通貨事件 #事件解説 #暗号資産
+
+    '
+  hook_caption: Zaif、67億円が消えた
+  series_brand: Zaif事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 8年前の2018年9月、大阪に本社を置く暗号通貨取引所Zaifから、合計67億円分のBTC・BCH・MONAが、流出した事件を、覚えていますか?
+    caption: Zaifから67億円分の暗号資産が流出
+  - panel: p2
+    text: 流出が起きたのは、9月14日の夕方から夜にかけてです。運営会社Tech BureauのCEO朝山貴生は、社内アラートで異変に気づきましたが、すでに数億円が、外部のアドレスへ動いた後でした。
+    caption: 9月14日夜、Tech Bureau社内が騒然
+  - panel: p3
+    text: 原因は、Coincheck事件と同じ、ホットウォレットへの偏重保管でした。8か月前の教訓が、業界全体には、徹底されていなかったんです。
+    caption: 8か月前のCoincheck事件の教訓が活きず
+  - panel: p4
+    text: 9月20日、朝山CEOらは記者会見で深々と頭を下げ、フィスコグループからの資本支援と、事業譲渡を、同時に発表しました。会社単体での再建は、断念しています。
+    caption: 9月20日、フィスコへ事業譲渡を発表
+  - panel: p5
+    text: その後、金融庁はTech Bureauに対して、業務改善命令を発出しました。最終的に、暗号資産交換業の登録は、抹消されています。
+    caption: 金融庁が業務改善命令、登録抹消へ
+  - panel: p6
+    text: Coincheckに続くZaif事件によって、日本の暗号資産取引所は、ホットウォレット制限と、コールド保管率の規制が、厳格化されました。2018年は、日本仮想通貨史の、転換点でした。
+    caption: 2018年、日本暗号資産規制の転換点
+en:
+  title: 'How $60 Million in Crypto Vanished From a Japanese Exchange #Shorts'
+  description: 'In September 2018, Japanese crypto exchange Zaif lost $60 million in a devastating hack. This is the story of how it happened, just 8 months after another major heist rocked Japan''s crypto
+    industry.
+
+
+    #Shorts #Crypto #Hacking #TrueStory #Japan'
+  hook_caption: Their Screen Cracked, Then $60M Disappeared
+  series_brand: The Zaif Heist
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In September 2018, a late-night alert lit up the screens at Japanese crypto exchange Zaif. It was the start of a $60 million heist.
+    caption: The $60M Heist Begins
+  - panel: p2
+    text: By the time the CEO was notified, millions of dollars in Bitcoin, Bitcoin Cash, and Monacoin had already been drained to an external address.
+    caption: Too Little, Too Late
+  - panel: p3
+    text: 'The cause was a critical security flaw: keeping the majority of funds in an internet-connected ''hot wallet'', the same mistake that doomed another exchange just 8 months earlier.'
+    caption: A Lesson Unlearned
+  - panel: p4
+    text: Six days later, the CEO bowed in apology, announcing the company couldn't recover on its own and would be acquired by the Fisco group.
+    caption: A Public Apology
+  - panel: p5
+    text: Japan's Financial Services Agency stepped in, issuing a business improvement order before ultimately revoking the company's license to operate.
+    caption: Regulators Step In
+  - panel: p6
+    text: The Zaif incident became a major turning point, forcing Japan to implement much stricter regulations on how crypto exchanges must secure customer funds.
+    caption: A Turning Point for Crypto

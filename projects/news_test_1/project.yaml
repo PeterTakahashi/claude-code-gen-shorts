@@ -1,0 +1,34 @@
+id: news_test_1
+title_ja: "バルトゥーン ニュース テスト"
+title_en: "Baltoon News Test"
+subject: "Topical news shorts across stocks / crypto / tech / politics / world"
+language: ja
+
+era: "2026"
+locale_hint: "Tokyo newsroom set, topical scenes worldwide"
+
+style:
+  description: "Modern news-broadcast aesthetic in webtoon style — clean anchor desk, lower-thirds, simple infographic overlays, soft cel shading, cinematic news lighting. Topical scenes use crisp photoreal-leaning illustration for credibility."
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face, full 3D render, sensationalist tabloid look"
+
+chapters: []
+
+narrator:
+  voice_style_id: 1388823424  # 凛音エル / ノーマル
+  voice_speed: 1.25
+  voice_pitch: -0.10
+  instructions: |
+    Read in a clear, calm, fast-paced Japanese news-anchor tone. Lead with the conclusion,
+    then context, then the so-what. Keep sentences short and punchy — designed for a
+    broad audience including 20代.
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+
+bubbles:
+  font_path: /Users/apple/dev/claude-code/webtoon-gen/assets/fonts/NotoSansJP-Regular.otf
+  font_index: 0
+  font_scale: 4.0
+
+output_targets: []

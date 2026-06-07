@@ -1,0 +1,183 @@
+id: gates-foundation-philanthropy
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A bright sunny outdoor 2010s village clinic scene in sub-Saharan Africa, a
+
+    50-something white American man with thinning sandy-grey hair, thin-frame
+
+    rimless eyeglasses, soft navy V-neck sweater over a light-blue button-down
+
+    shirt, khaki trousers, kneeling at eye level beside a small smiling local
+
+    child receiving a polio vaccine drop from a local nurse in a white uniform,
+
+    his expression warm and intently focused on the child, dusty path and a
+
+    simple cinder-block clinic behind them, golden afternoon light. The exact
+
+    image of late-career Bill Gates'' second act. Mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    January 2000, a Microsoft Redmond campus office, a 44-year-old man in a
+
+    soft beige sweater and open-collar shirt, thin-frame eyeglasses, shaking
+
+    hands with a taller balding executive (Steve Ballmer) in a blue shirt, the
+
+    blue Microsoft logo on the wall behind them, the framing suggests a quiet
+
+    ceremonial passing of the CEO role, Pacific Northwest grey daylight
+
+    through tall office windows. Mid-shot of the handshake.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An early-2000s evening in a warmly lit Pacific-Northwest home study, a
+
+    50-something man in a soft pink crewneck sweater over a white button-down
+
+    shirt, thin-rim eyeglasses, sitting cross-legged on a leather reading
+
+    chair beside a tall bookshelf, an open thick textbook on infectious
+
+    diseases on his lap, multiple journal articles spread on the side table
+
+    with sticky tabs, a single brass reading lamp, the quiet image of a
+
+    billionaire studying epidemiology like a graduate student. Mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A warm intimate 2010 private dinner setting at a long polished dining
+
+    table, on one side a 55-year-old soft-spoken thin-spectacled man in a
+
+    muted navy sweater, on the other side a kindly elderly white man in his
+
+    early 80s with thick rimless glasses, thin white hair and a slightly
+
+    mischievous smile (Warren Buffett) in a plain white shirt, both raising
+
+    modest glasses of cola in a quiet toast, soft chandelier light, the
+
+    framing of a private historic pledge between two billionaires to give
+
+    their fortunes away. Mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern 2010s biomedical research laboratory funded by the Gates
+
+    Foundation, gleaming white surfaces, multiple scientists in lab coats and
+
+    blue nitrile gloves working with microscopes and small mosquito-rearing
+
+    cages, large monitors showing genetic sequence diagrams of the malaria
+
+    parasite, a wall poster reading "End Malaria", clean clinical lighting.
+
+    The unglamorous quiet daily work that a billion-dollar pledge actually
+
+    funds. Wide-mid shot.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The same sub-Saharan African village clinic at warm orange sunset, the
+
+    same 50-something white American man in thin-frame rimless eyeglasses
+
+    and a soft navy sweater walking back toward a parked simple white
+
+    Land Cruiser, turning to wave gently with one hand at a small cluster of
+
+    local children waving back from the clinic doorway, dusty road, long
+
+    shadows, a quiet moment that closes the loop on a life given away. Mid-
+
+    wide shot from behind the children.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '全財産を寄付すると決めた男 #Shorts'
+  description: '2000年、ビル・ゲイツは Microsoft の経営から身を引き、世界最大の慈善基金 Gates Foundation を立ち上げた。
+
+    彼は、自分の資産のほぼ全てを、生前に寄付しきると、公に、宣言している。
+
+
+    #Shorts #ビルゲイツ #ゲイツ財団 #人物伝
+
+    '
+  hook_caption: 全財産を生前に寄付する
+  series_brand: ビル・ゲイツ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 世界一の大富豪が、財産のほぼ全てを、生前に寄付しきる、と宣言しています。それが、ビル・ゲイツです。
+    caption: 全財産を生前に寄付すると宣言
+  - panel: p2
+    text: 2000年、44歳の彼は、Microsoft の CEO を、退き、妻と、世界最大の慈善基金を、立ち上げました。
+    caption: 2000年、Microsoft CEO を退任
+  - panel: p3
+    text: ターゲットは、ポリオ、マラリア、結核——先進国が、もう、忘れた感染症との、戦いでした。
+    caption: 忘れられた感染症との戦い
+  - panel: p4
+    text: 2010年には、盟友ウォーレン・バフェットと共に、Giving Pledge を、立ち上げ、超富裕層に、寄付を、呼びかけました。
+    caption: Giving Pledge を立ち上げた
+  - panel: p5
+    text: そして2024年、彼は、残りの資産およそ1000億ドルを、20年以内に、全て、使い切ると、発表したんです。
+    caption: 2024年、1000億ドル全寄付を発表
+  - panel: p6
+    text: 創業者から、史上最大の寄付者へ——ビル・ゲイツの、本当の代表作は、第二の人生の方かもしれません。
+    caption: 代表作は第二の人生かもしれない
+en:
+  title: 'Why Bill Gates Is Giving Away His Entire Fortune #Shorts'
+  description: 'In 2000, Bill Gates stepped down as CEO of Microsoft to start the world''s largest charitable foundation. He has pledged to give away virtually all of his wealth in his lifetime.
+
+
+    #Shorts #BillGates #Philanthropy #GatesFoundation #Inspiration'
+  hook_caption: He's Giving Away $100 Billion
+  series_brand: The Bill Gates Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: What if one of the richest people on Earth decided to give away nearly all of his money? That's exactly what Bill Gates is doing.
+    caption: Giving It All Away
+  - panel: p2
+    text: In 2000, at the height of his power, he shocked the world by stepping down as CEO of Microsoft to start the planet's largest private foundation.
+    caption: He Left Microsoft
+  - panel: p3
+    text: 'His new mission: to wage war on diseases the developed world had mostly forgotten, like polio, malaria, and tuberculosis.'
+    caption: Fighting Forgotten Diseases
+  - panel: p4
+    text: Then in 2010, he teamed up with Warren Buffett to launch The Giving Pledge, challenging other billionaires to donate most of their wealth.
+    caption: The Giving Pledge
+  - panel: p5
+    text: And now, he's announced he'll spend his remaining fortune—around $100 billion—within the next 20 years.
+    caption: His Final $100 Billion
+  - panel: p6
+    text: From tech titan to history's greatest philanthropist, Bill Gates's true legacy may not be the company he built, but the world he's trying to save.
+    caption: His True Legacy

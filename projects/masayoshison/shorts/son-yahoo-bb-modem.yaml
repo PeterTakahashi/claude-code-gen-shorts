@@ -1,0 +1,110 @@
+id: son-yahoo-bb-modem
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A busy Tokyo train station plaza in 2001, dozens of young Japanese staff in matching red Yahoo BB happi-coats and red baseball caps stacking large red-and-yellow Yahoo BB modem boxes onto tables and
+    handing them out free to a crowd of curious salarymen and housewives, a massive banner overhead reading in English "Yahoo BB" with the word "FREE" prominent, the scene chaotic and energetic, conveying
+    a guerrilla marketing assault unprecedented in Japan. Wide shot.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A frustrated Japanese salaryman at home in a small Tokyo apartment in 2001, sitting at a beige desktop computer that shows a slowly-loading webpage with a progress bar barely moving, looking at his
+    wristwatch in irritation, a thick instruction manual from NTT visible beside him, conveying the painfully slow dial-up internet era of pre-broadband Japan. No Masayoshi Son in this panel.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Masayoshi Son in his mid-40s in 2001 in a Tokyo boardroom, standing at a whiteboard covered in price-comparison numbers in red marker, gesturing intensely with both hands at a row of seated dark-suited
+    Japanese executives looking shocked and skeptical, an air of defiance, the moment a CEO commits to break an entire industry''s pricing model. Three-quarter view.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Masayoshi Son in his mid-40s walking with intense determined stride through the marble corridor of a Japanese government ministry building in 2001, a small briefcase in hand, two SoftBank aides hurrying
+    to keep up behind him, conveying the famous moment he confronted regulators over NTT''s last-mile access. Wide-mid shot from front.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Another Tokyo train-station street corner in 2002, a Yahoo BB staff member in red happi-coat enthusiastically pressing a free modem box into the hands of a surprised middle-aged Japanese man, a long
+    queue forming behind him, hand-written signs in Japanese saying "TADA" meaning free, conveying the moment millions of Japanese households got their first broadband. No Masayoshi Son in this panel.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Masayoshi Son in his mid-40s standing across the street from a Yahoo BB station-plaza handout event in 2002, hands in pockets, watching the massive crowd of citizens taking free modems home, a quiet
+    small smile on his face, conveying private satisfaction of a CEO who has just bent an entire industry to his will. Side-angle from a distance.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '駅前でモデムを無料配り始めた社長 #Shorts'
+  description: '2001年、日本のインターネットは世界最低速度だった。ソンは駅前で無料モデムを配り始め、業界の常識を破壊した。ヤフーBBが日本のADSLを爆発させた話。
+
+
+    #Shorts #孫正義 #Softbank #人物伝
+
+    '
+  hook_caption: 駅前でモデムを無料配り始めた社長
+  series_brand: 孫正義伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 駅前で、モデムを無料配布した、上場企業の社長がいます。
+    caption: 駅前で無料モデム配布、上場企業社長
+  - panel: p2
+    text: 2001年、日本のインターネットは、先進国で最も遅く、最も高い、と言われていました。
+    caption: 2001年、日本のネットは世界最低速
+  - panel: p3
+    text: ソンは決めました。ヤフーBBを、月額3000円足らずで提供し、モデムは、駅前で、タダで配る、と。
+    caption: 月額3000円、モデムはタダで配る
+  - panel: p4
+    text: 業界からは、ありえない、暴挙だ、と非難されました。
+    caption: 業界からは「暴挙」と非難
+  - panel: p5
+    text: ところが、2002年だけで、加入者は100万人を突破。日本中の家庭が、一気にブロードバンドになりました。
+    caption: 2002年、加入者100万人突破
+  - panel: p6
+    text: 1人の経営者が、駅前にモデムを積んだだけで、日本のインターネット時代が、本当に、ここから始まったんです。
+    caption: 駅前のモデムが、日本のネットを変えた
+en:
+  title: 'How a CEO''s Crazy Idea Fixed Japan''s Internet #Shorts'
+  description: 'In 2001, Japan''s internet was terrible. Masayoshi Son decided to just... give away free modems on the street. Here''s the story of how that wild gamble by Yahoo BB changed a nation.
+
+
+    #Shorts #MasayoshiSon #Softbank #BusinessHistory #Tech'
+  hook_caption: He Gave Away FREE Modems To Change a Nation
+  series_brand: The Masayoshi Son Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 2001, Japan's internet was painfully slow and outrageously expensive.
+    caption: Slow & Expensive
+  - panel: p3
+    text: 'So Masayoshi Son made a crazy bet: ultra-fast internet for a fraction of the price.'
+    caption: A Crazy Bet
+  - panel: p1
+    text: His secret weapon? His team flooded train stations, giving away thousands of free modems.
+    caption: Free Modems for All
+  - panel: p4
+    text: The established industry called it a reckless stunt designed to destroy the market.
+    caption: Industry Backlash
+  - panel: p5
+    text: But the people loved it. Yahoo BB signed up over a million users in its first year.
+    caption: 1 Million Subscribers
+  - panel: p6
+    text: And that's how one man's street-corner gamble kickstarted Japan's broadband revolution.
+    caption: A Revolution Begins

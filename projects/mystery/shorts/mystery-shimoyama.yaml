@@ -1,0 +1,60 @@
+id: mystery-shimoyama
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A tense 1949 Tokyo night scene, railway tracks lit by a single lamp, a man's hat
+      and shadow near the rails, a decorative Japanese caption "国鉄総裁、謎の死", the visual of
+      "the head of Japan's National Railways found dead on the tracks". Noir, post-war Japan.
+  - id: p2
+    prompt: |
+      A 1949 scene of a dignified Japanese railway-executive in a suit leaving a department
+      store, then vanishing, a decorative Japanese caption "出社途中に失踪", the visual of
+      "he disappeared on his way to work". Post-war Tokyo, noir.
+  - id: p3
+    prompt: |
+      A grim 1949 scene of investigators by the railway tracks at dawn, a decorative
+      Japanese caption "轢死体で発見", the visual of "found run over by a train hours later".
+      Noir, somber post-war Japan.
+  - id: p4
+    prompt: |
+      An infographic split into two paths with a decorative Japanese caption "自殺か、他殺か",
+      one side a lone figure, the other shadowy hands, the visual of "suicide, or murder?
+      the evidence pointed both ways". Clean noir infographic.
+  - id: p5
+    prompt: |
+      A 1949 scene of mass railway-worker layoffs and labor unrest, tense crowds, a
+      decorative Japanese caption "大量解雇の渦中で", the visual of "it happened amid huge
+      layoffs and political tension". Post-war Japan, tense.
+  - id: p6
+    prompt: |
+      Same lonely railway tracks at night from panel 1, a decorative Japanese caption
+      "76年、いまだ謎のまま", the loop image of "decades later, still unsolved". Noir, haunting.
+ja:
+  title: '下山事件、国鉄総裁が消えた謎の一日 #Shorts'
+  description: |
+    1949年、国鉄初代総裁が出社途中に失踪し、翌朝、線路で轢死体となって発見された。自殺か他殺か、戦後最大級の謎とされる下山事件を解説します。
+
+    #Shorts #未解決事件 #下山事件 #昭和 #ミステリー
+  hook_caption: 国鉄総裁が消えた謎の一日
+  series_brand: 下山事件の謎
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 国鉄のトップが、線路の上で、轢死体となって見つかった。戦後最大級の謎とされる、下山事件です。
+      caption: 国鉄総裁が線路で謎の死
+    - panel: p2
+      text: 1949年、国鉄初代総裁の下山定則は、出社の途中、立ち寄った百貨店で、忽然と姿を消します。
+      caption: 1949年、出社途中に忽然と失踪
+    - panel: p3
+      text: そして翌朝、彼は、線路の上で、列車に轢かれた遺体となって、発見されたんです。
+      caption: 翌朝、線路で轢死体で発見
+    - panel: p4
+      text: 自殺なのか、他殺なのか。遺体の状況は、専門家の間でも意見が真っ二つに割れ、結論は出ませんでした。
+      caption: 自殺か他殺か、意見は割れた
+    - panel: p5
+      text: 事件の背景には、当時進んでいた、国鉄職員の大量解雇と、激しい社会の対立がありました。だから、様々な憶測を呼んだんです。
+      caption: 大量解雇という時代の渦中で
+    - panel: p6
+      text: 真相は、76年が経った今も、闇の中。下山事件は、昭和が残した、最大の謎の一つであり続けています。
+      caption: 76年経った今も、謎のまま

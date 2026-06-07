@@ -1,0 +1,175 @@
+id: animals-deepsea-bioluminescence
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A pitch-black deep-sea trench environment about 1000 meters below
+
+    the ocean surface, a fearsome deep-sea anglerfish-style predator
+
+    with its enormous toothy jaws wide open, the inside of its dark
+
+    mouth lined with rows of glowing blue-green bioluminescent dots
+
+    and a single dangling lure light above its head, a tiny shrimp
+
+    drifting unaware toward the glowing maw, ink-black water all
+
+    around, the visual of "the mouth itself is the trap". Mid close-
+
+    up underwater scene in marine deep-sea trench. No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean marine-biology infographic on dark navy background, a
+
+    stylized cross-section of the ocean labeled in decorative English
+
+    "200m SUNLIGHT", "1000m TWILIGHT", "4000m TOTAL DARKNESS", a
+
+    chibi-style deep-sea fish glowing with tiny blue dots floating at
+
+    the bottom zone, a small downward yellow arrow showing the
+
+    depth, clean educational infographic style. Pure infographic
+
+    composition. Decorative English text only. No people. No
+
+    Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A close-up underwater scene at 2000 meters depth in marine deep-
+
+    sea environment, a strange transparent jellyfish-like organism
+
+    drifting in pitch black water, dozens of tiny blue-green
+
+    bioluminescent dots scattered across its body, a small
+
+    decorative English caption "95% OF DEEP-SEA SPECIES GLOW",
+
+    cinematic dark ocean background. Mid-shot underwater. Decorative
+
+    English text only. No people. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A dramatic marine deep-sea hunting scene at 1500 meters depth, an
+
+    anglerfish predator with its mouth wide open, the interior lined
+
+    with brilliant blue-green glowing photophores acting like a tiny
+
+    lantern in the abyss, a small curious shrimp swimming directly
+
+    into the glowing mouth as if entering a lit doorway, ink-black
+
+    water all around, the visual of "prey walks into the light".
+
+    Mid close-up underwater scene. No Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean marine-biology infographic on dark navy background, a
+
+    stylized chibi deep-sea fish in profile with its mouth open, an
+
+    arrow pointing into the mouth labeled in decorative English
+
+    "PHOTOPHORE = LURE", another arrow pointing outside the body
+
+    labeled "BODY = INVISIBLE BLACK", clean educational infographic
+
+    style. Pure infographic composition. Decorative English text
+
+    only. No people. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same pitch-black deep-sea trench at 1000 meters depth as panel 1,
+
+    the same fearsome anglerfish-style predator with its enormous
+
+    toothy jaws wide open, the inside of its dark mouth lined with
+
+    rows of glowing blue-green bioluminescent dots, this time the
+
+    tiny shrimp is already half-swallowed inside the glowing maw, a
+
+    small floating decorative English caption "THE LIGHT IS THE
+
+    TRAP", the loop image of "the glow you trusted was a hunter".
+
+    Mid close-up underwater scene in marine deep-sea trench. No
+
+    Japanese text.
+
+    '
+ja:
+  title: '深海魚の95%が口の中に光る器官を持つ理由 #Shorts'
+  description: '水深1000mを超える深海では、95%以上の魚が体のどこかに光る器官を持っている。
+
+    なぜ、わざわざ「口の中」が光るのか、その狡猾な進化の答えを30秒で解説します。
+
+
+    #Shorts #動物雑学 #深海魚 #生物発光 #進化
+
+    '
+  hook_caption: 深海魚の口が光る本当の理由
+  series_brand: バルトゥーン動物雑学
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 深海魚の95%以上は、体のどこかが光る——しかも多くが、わざわざ口の中だけを光らせている、という事実を知っていますか?
+    caption: 深海魚の95%が体のどこかで光る
+  - panel: p2
+    text: そもそも水深200mを超えると太陽光は届かないので、深海は基本的に、何も見えない真っ暗な世界。光は最強の道具になるんです。
+    caption: 水深200m以下は光ゼロの世界
+  - panel: p3
+    text: そこで多くの深海魚は、発光バクテリアと共生したり、自前の化学反応で、青緑色の光を作る能力を獲得しました。これを生物発光、と呼びます。
+    caption: 深海では生物発光が標準装備
+  - panel: p4
+    text: 面白いのは、光を「外向き」ではなく「口の中」に置く種が多いこと。これは小さな獲物が、暗闇の中の光に、思わず吸い寄せられる習性を、利用した罠なんです。
+    caption: 口の中の光は獲物を呼ぶ罠
+  - panel: p5
+    text: しかも体表は逆に、光を吸収する真っ黒な皮膚で覆っているから、獲物から見ると、ただ口だけが、宙に浮いて光っているように見えます。
+    caption: 体は黒く口だけが浮いて見える
+  - panel: p6
+    text: つまり深海の光は、希望でも道しるべでもなく、近づいたら最後の罠。あの暗闇では、光るものほど、信用してはいけないんです。
+    caption: 深海では光るものほど危険
+en:
+  title: 'Why Deep Sea Monsters Glow From The Inside #Shorts'
+  description: 'Over 95% of deep-sea creatures produce their own light. But for many predators, that light isn''t for seeing—it''s a deadly trap. Here''s how it works.
+
+    #Shorts #DeepSea #MarineBiology #Bioluminescence #Ocean'
+  hook_caption: The Deadliest Light in the Ocean
+  series_brand: Baltoon Animal Facts
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: Way down in the deep ocean, sunlight vanishes below 200 meters, plunging the world into absolute darkness.
+    caption: Total Darkness
+  - panel: p1
+    text: So, over 95% of the creatures here evolved to make their own light. But many have a terrifying secret...
+    caption: Creatures of Light
+  - panel: p4
+    text: '...they only glow from *inside* their mouths. It''s not a lamp; it''s a lure.'
+    caption: It's a Lure
+  - panel: p5
+    text: Their skin is often ultra-black to stay invisible, so smaller fish only see a mysterious light and swim right towards it.
+    caption: Invisible Predators
+  - panel: p6
+    text: In the deep sea, a beautiful light isn't hope. It’s the last thing you'll ever see.
+    caption: A Final Warning

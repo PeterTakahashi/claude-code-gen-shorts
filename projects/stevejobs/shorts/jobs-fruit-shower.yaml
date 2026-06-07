@@ -1,0 +1,102 @@
+id: jobs-fruit-shower
+parent_chapter: ch2
+panels:
+- id: p1
+  prompt: 'A 19-year-old Steve Jobs sitting alone at his engineering workbench inside an empty Atari Inc. office at night, late 1974, only a single warm desk lamp lit, the rest of the office floor in dark
+    silhouette, oscilloscope and an arcade circuit board on the desk, his face dimly lit, conveying isolated focus and professional ostracism. Wide-mid shot showing one figure at one lit desk in a long
+    empty office.
+
+    Character: {jobs_young}.
+
+    '
+- id: p2
+  prompt: 'A young 19-year-old Steve Jobs walking through a busy 1974 Atari engineering office in daylight, Silicon Valley, other male engineers in short-sleeve dress shirts at workbenches with arcade game
+    prototypes, fluorescent overhead lighting, casual American 1970s workplace, slightly disheveled hair on Jobs.
+
+    Character: {jobs_young}.
+
+    '
+- id: p3
+  prompt: 'Close-up of 19-year-old Steve Jobs sitting cross-legged at his cluttered 1974 Atari office desk, holding a half-eaten apple, with a brown paper bag tipped open beside him containing whole apples,
+    bananas, and oranges, electronic components scattered around, his expression calm and matter-of-fact, conveying his eccentric fruit-only diet.
+
+    Character: {jobs_young}.
+
+    '
+- id: p4
+  prompt: 'Two annoyed 1974 Atari male engineers in their 30s wearing short-sleeve white dress shirts and slacks, standing in a hallway away from an unseen figure, complaining to each other with disgusted
+    expressions, one of them holding his nose, the other gesturing toward Jobs''s direction, fluorescent overhead lighting, daytime office.
+
+    '
+- id: p5
+  prompt: 'An older 1974 Atari manager in his 40s, balding, white short-sleeve dress shirt, holding a clipboard at the side of Steve Jobs''s desk, pointing toward a wall clock that shows nighttime hours
+    (9 PM), explaining a shift reassignment seriously. Steve Jobs is seated facing him, listening expressionlessly. American 1970s office.
+
+    Character: {jobs_young}.
+
+    '
+- id: p6
+  prompt: 'Over-the-shoulder view of 19-year-old Steve Jobs alone at his Atari workbench at deep night, the warm glow of an oscilloscope screen reflecting on his absorbed face, soldering iron in his hand,
+    late 1974, the rest of the office floor pitch dark behind him. Conveys obsessive late-night engineering focus.
+
+    Character: {jobs_young}.
+
+    '
+ja:
+  title: 'ジョブズが風呂に入らなかった本当の理由 #Shorts'
+  description: '天才スティーブ・ジョブズが、若い頃シャワーを浴びなかった本当の理由。Atari社の同僚たちは毎日苦情を言ったが、彼は気にしなかった。
+
+
+    #Shorts #スティーブジョブズ #Apple #人物伝
+
+    '
+  hook_caption: ジョブズが風呂に入らなかった理由
+  series_brand: スティーブ・ジョブズ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 同僚が、毎日、彼の体臭に苦情を訴え、夜勤に回された男がいます。
+    caption: 夜勤に飛ばされた天才
+  - panel: p2
+    text: スティーブ・ジョブズ。1974年、19歳、Atari 社のエンジニアでした。
+    caption: 1974年、Atari 社、19歳
+  - panel: p3
+    text: 彼は、果物だけ食べていれば体臭は出ない、と本気で信じていたから、シャワーをほとんど浴びなかったんです。
+    caption: 果物だけで体臭は出ない、と信じていた
+  - panel: p4
+    text: 同僚たちが、毎日、苦情を言っても、ジョブズは取り合いません。
+    caption: 同僚の苦情は無視
+  - panel: p5
+    text: 会社は、最終的に、彼を夜勤に回すしかなかった。
+    caption: 夜勤に回された
+  - panel: p6
+    text: 天才の奇行は、若い頃から、もう、ここまで筋金入りだったんですね。
+    caption: 若い頃からこのレベル
+en:
+  title: 'Why Steve Jobs Was Banned From The Day Shift #Shorts'
+  description: 'At 19, Steve Jobs''s coworkers at Atari complained so much about his body odor that he was moved to the night shift. Here''s the bizarre reason why he refused to shower.
+
+
+    #Shorts #SteveJobs #Atari #Apple #History'
+  hook_caption: Banned From The Day Shift
+  series_brand: 'Steve Jobs: The True Story'
+  voice_speaker: Ryan
+  narration:
+  - panel: p4
+    text: In 1974, engineers at Atari filed constant complaints about one of their coworkers.
+    caption: Endless complaints
+  - panel: p2
+    text: The employee was a 19-year-old prodigy named Steve Jobs.
+    caption: A 19-year-old prodigy
+  - panel: p3
+    text: He believed his strict fruit-only diet meant he never had to shower, a theory his colleagues strongly disagreed with.
+    caption: The 'fruit diet' theory
+  - panel: p5
+    text: With morale plummeting, management had to find a solution.
+    caption: ''
+  - panel: p1
+    text: They reassigned Jobs to the night shift, where he could work completely alone.
+    caption: The Night Shift
+  - panel: p6
+    text: This was the same obsessive focus that would one day build the world's biggest company.
+    caption: Genius at work

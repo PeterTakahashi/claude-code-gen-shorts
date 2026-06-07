@@ -1,0 +1,63 @@
+id: sports-takanohana-injury-win
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A cinematic sumo arena scene in May 2001, the great yokozuna Takanohana standing on
+      the dohyo in his white tsuna belt, packed Japanese crowd, conveying "the king of sumo at
+      the peak of his career". Dramatic arena lighting, ceremonial mood. Recognizable likeness
+      of Takanohana Koji.
+  - id: p2
+    prompt: |
+      A tense scene of Takanohana grimacing in pain after being thrown awkwardly in a sumo
+      match, clutching his right knee on the dohyo, ringside officials rushing in, conveying
+      "he tore his knee badly mid-tournament". Anxious, somber tone. Likeness of Takanohana.
+  - id: p3
+    prompt: |
+      A locker-room scene of Takanohana with his leg heavily bandaged, doctors warning him
+      against fighting again, his face quietly resolute, conveying "doctors begged him to
+      withdraw". Focused, intense mood. Likeness of Takanohana.
+  - id: p4
+    prompt: |
+      A breathtaking match moment in the championship final, Takanohana driving his opponent
+      Musashimaru out of the ring despite his injured leg, crowd erupting, conveying "yet on
+      the final day, he won the tournament". Triumphant, electric. Likeness of Takanohana.
+  - id: p5
+    prompt: |
+      A scene of Japanese Prime Minister Koizumi (likeness of Junichiro Koizumi) on the dohyo
+      handing the Emperor's Cup to Takanohana, shouting his iconic phrase "感動した！" — "I am
+      moved!", crowd roaring, conveying "the moment became part of Japanese history". Glorious,
+      emotional tone. Likeness of Takanohana and Koizumi.
+  - id: p6
+    prompt: |
+      A quiet dignified portrait of Takanohana bowing on the dohyo with bandaged knee, after
+      his victory, conveying "the price of pride — he never returned to full strength again".
+      Reverent, somber arena light. Likeness of Takanohana.
+ja:
+  title: '貴乃花、壊れた膝で優勝し首相を泣かせた一番 #Shorts'
+  description: |
+    2001年、横綱貴乃花は場所中に右膝を大きく痛める。それでも千秋楽の決定戦に出場し、武蔵丸を破って優勝。表彰式で小泉首相は「感動した！」と叫び、日本中が涙した。代償と引き換えに残した、伝説の一番を30秒で解説します。
+
+    #Shorts #スポーツ #貴乃花 #相撲 #名場面
+  hook_caption: 貴乃花、壊れた膝で優勝した伝説の一番
+  series_brand: 貴乃花
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 2001年、相撲界の頂点に君臨していたのが、横綱貴乃花です。彼は5月場所で、また優勝へ突き進んでいました。
+      caption: 2001年、絶頂期にあった横綱貴乃花
+    - panel: p2
+      text: しかし場所の終盤、彼は右膝を大きく痛めてしまいます。立つことさえ、つらいほどのケガでした。
+      caption: 場所終盤に右膝を大きく痛めた
+    - panel: p3
+      text: 医師は止めます。これ以上戦えば、選手生命に関わる、と。それでも貴乃花は、千秋楽の決定戦に出ることを決めます。
+      caption: 医師の制止を振り切り千秋楽に出る
+    - panel: p4
+      text: そして本番。壊れた膝のまま、彼はライバルの武蔵丸を土俵際でひねり倒します。誰も信じられない、奇跡の優勝でした。
+      caption: 壊れた膝で武蔵丸を破り優勝した
+    - panel: p5
+      text: 表彰式で天皇賜杯を手渡した小泉首相は、思わず叫びます。感動した！と。そのひと言は、日本中の人々の気持ちでもありました。
+      caption: 小泉首相が「感動した！」と叫んだ
+    - panel: p6
+      text: しかしその一番の代償は、重いものでした。彼の膝は二度と元には戻らず、横綱としての全盛期は、あの日に終わったのです。
+      caption: 代償として横綱の全盛期はあの日に終わった

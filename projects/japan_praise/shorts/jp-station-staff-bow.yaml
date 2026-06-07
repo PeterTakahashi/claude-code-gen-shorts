@@ -1,0 +1,120 @@
+id: jp-station-staff-bow
+parent_chapter: null
+image_style: photorealistic
+panels:
+  - id: p1
+    prompt: |
+      Photoreal cinematic 9:16 photograph of a Tokyo Station Shinkansen
+      platform at midday, a Western tourist in casual clothes holding up
+      a smartphone in surprise, filming a Japanese male station attendant
+      in a navy JR uniform with white gloves and a peaked cap, standing
+      ramrod straight at the platform edge bowing deeply at a 45-degree
+      angle toward a departing white Shinkansen N700S. Soft natural
+      daylight, shallow depth of field, documentary press photography
+      vibe. Decorative Japanese platform sign 「新幹線のりば」 small
+      and readable. The visual of "tourists film it constantly".
+  - id: p2
+    prompt: |
+      Photoreal cinematic 9:16 photograph, low angle wide shot of three
+      Japanese station staff in matching dark navy JR uniforms with
+      white gloves, lined up in perfect synchronized formation on a
+      Shinkansen platform, all bowing at exactly the same 45-degree
+      angle in unison toward a departing bullet train, the train
+      already pulling out of frame as a motion-blurred white streak.
+      Crisp afternoon light, documentary photojournalism style. The
+      visual of "synchronized choreography". No on-image text.
+  - id: p3
+    prompt: |
+      Photoreal cinematic 9:16 photograph at Tokyo Station, mid-shot
+      of a team of seven Japanese cleaners in bright cherry-pink TESSEI
+      uniforms with caps, lined up neatly outside a stationary white
+      Shinkansen N700S with doors open, all bowing deeply at 90 degrees
+      in perfect unison toward the train's disembarking passengers.
+      Decorative platform sign 「13番線」 small and readable. Slight
+      film grain, natural daylight, documentary photography. The visual
+      of "the famous 7-minute cleaning team also bows".
+  - id: p4
+    prompt: |
+      Photoreal cinematic 9:16 photograph, close-up of the same Japanese
+      male station attendant from panel 1, white gloves clasped at his
+      side, peaked navy JR cap, expression of quiet sincere concentration
+      as he holds a deep bow, the blurred white side of a Shinkansen
+      pulling away behind him. Soft side lighting, shallow depth of field,
+      portrait photojournalism. The visual of "the discipline behind the
+      gesture". No on-image text.
+  - id: p5
+    prompt: |
+      Photoreal cinematic 9:16 photograph of a group of foreign tourists
+      on a Tokyo Station platform, all holding up smartphones recording
+      a wide line of bowing Japanese station staff in navy uniforms in
+      front of a stationary Shinkansen, the tourists visibly moved, one
+      young European woman with her hand over her mouth. Warm afternoon
+      light, candid documentary photograph. The visual of "foreigners
+      read it as deep service culture". No on-image text.
+  - id: p6
+    prompt: |
+      Photoreal cinematic 9:16 photograph at Tokyo Station golden hour,
+      the same Japanese male station attendant in navy JR uniform and
+      white gloves standing alone on the empty platform after the
+      Shinkansen has departed, still holding a quiet respectful bow
+      toward the empty tracks, low warm sunlight casting long shadows.
+      Cinematic documentary photography. The visual of "service given
+      whether anyone is watching or not". No on-image text.
+ja:
+  title: '誰もいない新幹線にお辞儀する駅員、外国人が衝撃を受ける #Shorts'
+  description: |
+    日本の駅員や新幹線スタッフは、出発する電車に向かって深々とお辞儀する。
+    新幹線を7分で蘇らせる清掃チームでさえ、車両に頭を下げてから、仕事を始める。
+    外国人観光客がそれを延々と撮影するのは、もはやサービスではなく、敬意の文化だと、感じるからなんです。
+
+    #Shorts #日本 #新幹線 #お辞儀 #海外の反応
+  hook_caption: 電車にお辞儀する駅員に外国人が驚く
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 東京駅で外国人観光客が、スマホを構えて、ずっと撮り続けている瞬間が、あります。撮っているのは、走り去る新幹線にお辞儀する、駅員の姿です。
+      caption: 走り去る電車にお辞儀する駅員
+    - panel: p2
+      text: 複数のスタッフが横一列に並び、まるで号令でもかかったように、同じ角度、同じ速さで、深くお辞儀をする。揃いすぎていて、外国人は最初、何かの儀式かと、思ってしまいます。
+      caption: 同じ角度同じ速さで揃ったお辞儀
+    - panel: p3
+      text: しかも、7分で新幹線を清掃するTESSEIのチームでさえ、車両の前で揃って一礼してから、ようやく作業を始めるんです。
+      caption: 7分清掃のTESSEIも一礼から始める
+    - panel: p4
+      text: 海外の駅員には、こうした習慣は、ほぼ存在しません。だから外国人にとっては、乗客ではなく「乗り物」にまで頭を下げる感覚が、衝撃的に映ります。
+      caption: 乗り物にも頭を下げる感覚に衝撃
+    - panel: p5
+      text: 観光客がカメラを向け続けるのは、単なる珍しさからでは、ありません。仕事に対する誠実さが、形になって見えるからこそ、心が動かされるんです。
+      caption: 誠実さが形に見えて心が動く
+    - panel: p6
+      text: 誰も見ていない時間にも、変わらず同じお辞儀をする——それが日本のサービス文化の根っこにある、密かな美意識なのです。
+      caption: 誰も見ていなくても同じお辞儀をする
+en:
+  title: 'Why Japanese Station Staff Bow to Empty Trains #Shorts'
+  description: |
+    On Japanese train and Shinkansen platforms, staff bow deeply to departing trains. Even the famous 7-minute Shinkansen cleaning team bows before starting work. Tourists film it constantly, because what they see is not service — it is a culture of respect.
+
+    #Shorts #Japan #Shinkansen #Bow #ServiceCulture
+  hook_caption: They Bow to the Trains in Japan
+  series_brand: A Foreigner's View of Japan
+  voice_speaker: am_michael
+  narration:
+    - panel: p1
+      text: At Tokyo Station, you'll often see foreign tourists glued to their phones, filming the station staff bowing to a departing Shinkansen.
+      caption: Filming the Bowing Staff
+    - panel: p2
+      text: A line of attendants will bow in perfect unison, at the exact same angle and speed, almost like a ritual.
+      caption: Bowing in Perfect Unison
+    - panel: p3
+      text: Even the legendary TESSEI crew, who clean a Shinkansen in seven minutes, bow to the train before they begin work.
+      caption: Even the Cleaning Crew Bows
+    - panel: p4
+      text: In most countries, station staff simply don't do this. Bowing to a vehicle, not just to passengers, feels almost unreal to outsiders.
+      caption: Bowing to the Train Itself
+    - panel: p5
+      text: Tourists keep filming not because it is exotic, but because they can see, in physical form, what sincerity in work looks like.
+      caption: Sincerity Made Visible
+    - panel: p6
+      text: They bow the same way whether anyone is watching or not. That quiet aesthetic sits at the heart of Japanese service culture.
+      caption: The Same Bow When No One Watches

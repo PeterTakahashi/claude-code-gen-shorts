@@ -1,0 +1,204 @@
+id: jp-toilet-foreigner-reaction
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Present-day Tokyo Narita airport arrivals area, a 30-something
+
+    German tourist with light brown wavy shoulder-length hair, fair
+
+    skin, olive-green casual jacket, jeans, a small daypack
+
+    backpack, pushing a luggage cart while looking around curiously,
+
+    then pausing in front of the airport bathroom entrance sign
+
+    with a decorative English label "RESTROOM", a polite Japanese
+
+    airport staff member bowing slightly nearby, soft modern airport
+
+    lighting, the visual of a first-time visitor''s arrival in
+
+    Japan. Clearly Tokyo Narita airport setting. Mid-shot. No
+
+    Japanese text.
+
+    Character: {foreign_visitor}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside a spotless modern Japanese airport restroom stall, the
+
+    same 30-something German tourist with light brown wavy hair
+
+    sitting fully clothed pretending to test the toilet, eyes wide
+
+    in genuine astonishment as he stares at the side control panel
+
+    of a high-tech Japanese washlet bidet toilet, the panel showing
+
+    a row of small decorative English-labeled buttons "WARM",
+
+    "WASH", "DRY", "MUSIC", a heated steam-like glow rising gently
+
+    from the seat, the visual of first contact with civilization.
+
+    Clearly Japanese airport restroom setting. Close-up. No
+
+    Japanese text.
+
+    Character: {foreign_visitor}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean infographic-style panel, soft pastel mint-green
+
+    background, a stylized cutaway diagram of a Japanese washlet
+
+    toilet with small decorative English labels floating beside
+
+    each feature "HEATED SEAT", "AUTO LID", "DEODORIZER",
+
+    "AMBIENT MUSIC", a tiny chibi-style happy face on the toilet
+
+    itself, the visual of "this is what 50 years of TOTO
+
+    engineering looks like". Decorative English only. No people.
+
+    No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside the same Japanese airport restroom moments later, the
+
+    same 30-something German tourist with light brown wavy hair
+
+    standing slowly in front of the sink, looking into the mirror,
+
+    a single tear rolling down his cheek as he stares at his own
+
+    stunned face, soft warm restroom lighting, the visual of being
+
+    genuinely moved by a small daily kindness. Clearly Japanese
+
+    airport restroom setting. Mid-shot. No Japanese text.
+
+    Character: {foreign_visitor}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern German apartment bathroom in Berlin Germany weeks
+
+    later, the same German tourist now home, standing in front of
+
+    his own plain old cold-looking European porcelain toilet with
+
+    no electronics, his shoulders slumped in visible disappointment,
+
+    a small thought bubble overlay containing a tiny chibi-style
+
+    illustration of the warm Japanese washlet he left behind,
+
+    decorative English caption floating "I MISS JAPAN", cool grey
+
+    bathroom light. Clearly modern German apartment setting.
+
+    Mid-shot. No Japanese text.
+
+    Character: {foreign_visitor}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same German apartment bathroom one month later, the same
+
+    tourist now smiling proudly as Japanese delivery workers in
+
+    neat blue uniforms install a freshly imported TOTO washlet seat
+
+    onto his European toilet, a large opened shipping box on the
+
+    tiled floor with a decorative English label "TOTO FROM JAPAN",
+
+    warm afternoon light through the bathroom window, the visual
+
+    of a small daily miracle finally coming home with him.
+
+    Loop-back framing referencing panel 2''s washlet. Clearly
+
+    modern German apartment setting. Mid-shot. No Japanese text.
+
+    Character: {foreign_visitor}.
+
+    '
+ja:
+  title: 'ドイツ人観光客が日本のトイレで泣いた理由 #Shorts'
+  description: '日本に来た外国人が、最初に衝撃を受けるのは、神社でも寿司でもなく、トイレだと言われている。
+
+    TOTOが半世紀かけて磨いた温水洗浄便座が、なぜ世界中の旅行者を泣かせるのか。1980年代から始まった、ある日本企業の地味な努力を紹介します。
+
+
+    #Shorts #日本礼賛 #TOTO #ウォシュレット #海外の反応
+
+    '
+  hook_caption: 日本のトイレで泣いた理由
+  series_brand: バルトゥーン日本礼賛
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 日本に来た外国人が、最初に衝撃を受けるのは、神社でも寿司でもなく、空港のトイレだと、よく言われます。
+    caption: 最初の衝撃は空港のトイレ
+  - panel: p2
+    text: 個室に入ると、便座は温かく、横のパネルには、ボタンがずらり。初めて見ると、宇宙船の操縦席のように感じる人も、多いんです。
+    caption: 便座が温かく、ボタンが並ぶ
+  - panel: p3
+    text: 正体は、TOTOが1980年代から改良を重ねた、温水洗浄便座Washlet。便座暖房、自動開閉、消臭、音楽までついた、世界唯一の家電です。
+    caption: TOTOウォシュレット、世界唯一の家電
+  - panel: p4
+    text: 寒い冬の早朝、温かい便座にそっと座った瞬間、思わず涙が出たという外国人観光客の体験談は、SNSで何度もバズりました。
+    caption: 寒い朝、温かい便座で涙
+  - panel: p5
+    text: 帰国後、自国の冷たい便座に座り直した時、初めて、日本の日常がどれほど贅沢だったかに、気づくそうです。
+    caption: 帰国後、自国の便座が冷たい
+  - panel: p6
+    text: そして近年、TOTOの海外売上は急増。日本人にとっては当たり前の小さな優しさが、世界中の家に、静かに広がり始めています。
+    caption: TOTOの海外売上が急増中
+en:
+  title: 'Why This Tourist Cried in a Japanese Toilet #Shorts'
+  description: 'The first culture shock for visitors in Japan isn''t the temples or the food... it''s the toilets. This is the story of the TOTO Washlet, and how a small piece of Japanese hospitality is
+    winning over the world.
+
+
+    #Shorts #Japan #Travel #TOTO #CultureShock'
+  hook_caption: He Cried in a Japanese Airport Bathroom
+  series_brand: Baltun Japan Praise
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: For many tourists in Japan, the first culture shock isn't the shrines or the sushi... it's the airport bathroom.
+    caption: First Culture Shock
+  - panel: p2
+    text: Inside, the seat is already warm, and a control panel is lined with buttons, feeling more like a spaceship's cockpit.
+    caption: A Spaceship Cockpit?
+  - panel: p3
+    text: This is the TOTO Washlet, a high-tech marvel perfected since the 1980s with features from heated seats to privacy sounds.
+    caption: The TOTO Washlet
+  - panel: p4
+    text: On a cold day, the simple comfort of a warm seat is so unexpectedly welcoming that some visitors say it moved them to tears.
+    caption: Moved to Tears
+  - panel: p5
+    text: Returning home, the shock of a cold, ordinary toilet makes them realize just how luxurious daily life in Japan had been.
+    caption: The Cold Reality
+  - panel: p6
+    text: That's why TOTO's sales are now soaring globally, as this small piece of Japanese hospitality finds its way into homes worldwide.
+    caption: Spreading Worldwide

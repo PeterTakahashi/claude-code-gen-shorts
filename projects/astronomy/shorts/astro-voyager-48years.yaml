@@ -1,0 +1,181 @@
+id: astro-voyager-48years
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic shot of the gleaming gold-plated phonograph
+
+    record of the Voyager Golden Record drifting in pitch-black interstellar
+
+    space, the iconic engraved pulsar map and Sun-location diagram clearly
+
+    visible on its surface catching a faint cold-white starlight, a tiny
+
+    pinprick of yellow light in the far background labeled with a thin
+
+    decorative English caption "SUN — 23 BILLION KM AWAY", swirling distant
+
+    stars filling the void, no Earth visible. The visual of "the farthest
+
+    human-made object, alone in the dark." Subject filling the square center
+
+    for vertical short layout with blurred padding above/below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    September 5 1977 launch pad at NASA Kennedy Space Center, mid-shot of a
+
+    towering white Titan IIIE-Centaur rocket lifting off into a clear Florida
+
+    morning sky in a billowing cloud of brilliant white exhaust, the tiny
+
+    Voyager 1 probe with its iconic high-gain dish antenna mounted on top,
+
+    a small group of 1970s NASA engineers in short-sleeved white shirts and
+
+    thin ties watching from a distance with hands shielding their eyes. A
+
+    small decorative English sign "VOYAGER 1 — LAUNCH" readable on the
+
+    gantry. The visual of "the day we threw a postcard at the stars."
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A modern 2025 NASA Deep Space Network mission control room in Pasadena,
+
+    mid-shot of three engineers — a Black woman in her 30s with short curly
+
+    hair and a NASA polo shirt, an older white man in his 60s with white
+
+    hair and glasses, and a young East-Asian woman with a ponytail — all
+
+    leaning toward a large dark monitor displaying a faint waveform with
+
+    decorative English label "SIGNAL DELAY: 22h 35m", soft blue console
+
+    glow on their faces, walls of dim monitors behind them. The visual of
+
+    "we are still hearing it whisper back."
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on dark navy starfield background, a
+
+    stylized cross-section of the Solar System with concentric orbit lines,
+
+    tiny labeled planets, and the heliopause shown as a wavy bubble edge
+
+    labeled in decorative English "HELIOPAUSE — 2012", a small chibi
+
+    Voyager 1 figure drawn just past the edge with a glowing trail behind
+
+    it labeled "INTERSTELLAR SPACE", a thin floating Japanese label
+
+    「48年経った今」readable. The visual of "the first man-made object
+
+    to leave the Sun''s bubble."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    An imagined alien beach on a distant blue-grey moon billions of years
+
+    in the future, the cracked Voyager Golden Record half-buried in pale
+
+    crystalline sand, a curious slender silhouetted non-human figure with
+
+    large luminous eyes crouching to inspect it, two faint moons rising
+
+    in a violet sky, the visual of "a postcard arriving long after the
+
+    sender is gone." Wide cinematic shot. Decorative English text only.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic shot as panel 1 — the gleaming Voyager
+
+    Golden Record drifting alone in pitch-black interstellar space, the
+
+    engraved pulsar map and Sun-location diagram catching faint starlight,
+
+    but now an even tinier yellow pinprick of the Sun barely visible in
+
+    the corner, a thin decorative English caption "STILL FLYING — 2026"
+
+    floating beside it. The loop image of "the longest journey humanity
+
+    ever started." Subject filling the square frame for vertical short
+
+    with blurred padding above/below.
+
+    '
+ja:
+  title: 'ボイジャー1号、48年後の今どこにいるのか #Shorts'
+  description: '49年前の1977年に、人類は、Voyager 1 という、一通の手紙を、星に向かって、投げました。
+
+    今、地球から230億km離れた星間空間で、まだ電波を、返してくれている、宇宙最遠の使者の話です。
+
+
+    #Shorts #宇宙 #Voyager #NASA #星間空間
+
+    '
+  hook_caption: 48年飛んだ宇宙船の今
+  series_brand: ボイジャー1号
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 人類が、これまでで一番遠くに送ったモノが、今どこにいるか、知っていますか? 地球から、230億km先の闇です。
+    caption: 230億km先、人類最遠の使者
+  - panel: p2
+    text: 49年前の1977年に、NASA は、Voyager 1 を、Titan IIIE ロケットで、フロリダから打ち上げました。目的は、木星と土星の、観測でした。
+    caption: 49年前の1977年に打ち上げ
+  - panel: p3
+    text: その本来の任務は、35年前に終わっています。それでも探査機は、今も電波を返してきて、地球で受信するまで、片道22時間半、かかるんです。
+    caption: 片道22時間半、まだ通信中
+  - panel: p4
+    text: 2012年には、太陽の影響が届く境界——ヘリオポーズを、人類史上初めて、越えました。Voyager 1 は今、星と星の間にいる、唯一の人工物です。
+    caption: 2012年、星間空間に突入した
+  - panel: p5
+    text: 機体には、Golden Record という、地球の音と画像を刻んだレコードが、積まれているので、いつか宇宙のどこかで、誰かが拾うかもしれません。
+    caption: Golden Record、地球からの手紙
+  - panel: p6
+    text: 電池が尽きる2030年頃まで、彼はまだ、ささやき続けます。48年経った今も、人類で一番、孤独で、一番、勇敢な旅人なんです。
+    caption: 一番孤独で一番勇敢な旅人
+en:
+  title: 'Where is Voyager 1 After Nearly 50 Years in Space? #Shorts'
+  description: 'In 1977, we sent a message in a bottle to the stars. Now, nearly 50 years later, Voyager 1 is over 24 billion km away in interstellar space, and it''s still talking to us.
+
+
+    #Shorts #Voyager1 #NASA #Space #Science'
+  hook_caption: Humanity's Farthest Object is Still Talking
+  series_brand: Voyager 1
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Do you know where humanity's most distant creation is right now? It's over 24 billion kilometers from Earth, drifting through the dark.
+    caption: 24 Billion km From Home
+  - panel: p2
+    text: In 1977, NASA launched Voyager 1 on a mission to explore Jupiter and Saturn.
+    caption: Launched in 1977
+  - panel: p3
+    text: Its original mission ended decades ago. But incredibly, it's still sending signals back—a message that takes 22 and a half hours to cross space.
+    caption: Still Sending Signals
+  - panel: p4
+    text: In 2012, Voyager 1 made history, becoming the first man-made object to enter interstellar space—the vast emptiness between the stars.
+    caption: Beyond the Solar System
+  - panel: p5
+    text: Onboard, it carries the Golden Record, a time capsule of Earth's sights and sounds, in case it's ever found by someone else.
+    caption: A Message From Earth
+  - panel: p6
+    text: It will keep whispering until its power runs out around 2030. For nearly 50 years, it's been humanity's loneliest and most courageous traveler.
+    caption: The Loneliest Traveler

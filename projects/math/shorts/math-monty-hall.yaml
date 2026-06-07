@@ -1,0 +1,177 @@
+id: math-monty-hall
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A brightly lit retro 1970s American TV game show stage in Los
+
+    Angeles, three identical tall red curtained doors numbered with
+
+    decorative English "1", "2", "3" standing side by side, a
+
+    contestant in a yellow blazer pointing nervously at door 1, a
+
+    smiling tuxedo-wearing host with grey-flecked hair gesturing
+
+    toward door 3 which is now open revealing a cartoon goat, sparkling
+
+    stage lights and a glittery backdrop, the visual of "the classic
+
+    Monty Hall moment". Wide shot. Decorative English text only. No
+
+    Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A bright modern Tokyo university lecture room, Character: {professor}
+
+    standing at a green chalkboard with a piece of chalk in his hand,
+
+    smiling warmly, three small chalk drawings of doors on the board
+
+    labeled in decorative English "DOOR 1", "DOOR 2", "DOOR 3", a tiny
+
+    chalk car icon behind door 2 and tiny chalk goats behind 1 and 3,
+
+    his hand raised in an "ah-ha" gesture, soft afternoon light through
+
+    tall windows. Mid-shot. Clearly Japanese university setting.
+
+    Decorative English text only. No Japanese text.
+
+    Character: {professor}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean modern infographic panel on soft pastel cream background,
+
+    three large stylized doors labeled in decorative English "DOOR 1
+
+    33%", "DOOR 2 33%", "DOOR 3 33%", a chibi-style hand pointing at
+
+    door 1, a thin decorative arrow labeled "YOUR PICK" floating above,
+
+    the visual of "the starting odds are equal". Infographic
+
+    composition. Decorative English text only. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same infographic style on pastel cream background, the three doors
+
+    now show "DOOR 1 33%" still closed with the pointing hand, "DOOR 3"
+
+    cracked open revealing a small chibi goat with a speech-bubble
+
+    "GOAT!" in decorative English, "DOOR 2 ???" with a glowing yellow
+
+    outline, a thin floating English caption "HOST OPENS A GOAT DOOR",
+
+    the visual of "new information changes the math". Infographic
+
+    composition. Decorative English text only. No Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same infographic style on pastel cream background, the surviving
+
+    two doors enlarged side by side, decorative English "DOOR 1 = 33%"
+
+    on the left with a small sad chibi face, "DOOR 2 = 67%" on the
+
+    right glowing bright gold with a sparkling chibi smile, a big
+
+    decorative English arrow saying "SWITCH!" pointing toward door 2,
+
+    the visual of "switching doubles your win rate". Infographic
+
+    composition. Decorative English text only. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same retro 1970s Los Angeles TV game show stage as panel 1, three
+
+    red curtained doors numbered in decorative English "1", "2", "3",
+
+    the same contestant in yellow blazer now pointing confidently at
+
+    door 2, the same tuxedo host beaming as door 2 begins to open
+
+    revealing a shiny red sports car, sparkling stage lights, confetti
+
+    starting to fall, the visual of "she switched and won". Wide shot.
+
+    Decorative English text only. No Japanese text.
+
+    '
+ja:
+  title: 'モンティ・ホール問題、勝率を2倍にする方法 #Shorts'
+  description: '3つのドアから車を選ぶゲーム。司会者が外れドアを開けたあと、選び直すべき?
+
+    直感と真逆の答えを、Anime infographicで解説します。
+
+
+    #Shorts #数学 #モンティホール #確率 #math
+
+    '
+  hook_caption: 勝率を2倍にする選び方
+  series_brand: バルトゥーン数学
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 3つのドアの向こうに、1台の車。あなたが1番を選んだあと、司会者が3番を開けて、ヤギを見せました——ここで2番に変えるべきか、知っていますか?
+    caption: モンティ・ホール問題を知ってますか?
+  - panel: p2
+    text: 直感では、残り2択だから勝率は50対50に見えるので、変えても変えなくても同じ気がします。ところが、数学の答えは違うんです。
+    caption: 直感は50対50、でも答えは違う
+  - panel: p3
+    text: 最初に1番を選んだ時点では、当たりの確率は3分の1。残りの2番か3番に車がある確率は、合わせて3分の2でした。
+    caption: 最初の段階では33%対67%
+  - panel: p4
+    text: ここで司会者は、必ずヤギのあるドアを開けます。つまり3番がヤギだとわかったことで、67%の確率がそのまま、2番1つに集中することになるんです。
+    caption: 67%が2番1つに集中する
+  - panel: p5
+    text: そのため、最初の選択を守ると勝率は33%のままなのに対し、2番に変えるだけで、勝率は一気に67%にジャンプします。
+    caption: 変えれば勝率は2倍の67%
+  - panel: p6
+    text: つまり、迷ったら必ず変えるが、数学的に正しい戦略です。「直感を疑え」が、確率の世界の合言葉なんです。
+    caption: 迷ったら変える、それが正解
+en:
+  title: 'This Brain Teaser Doubles Your Odds #Shorts'
+  description: 'You pick one of three doors. The host opens another to reveal a goat. Should you switch your choice? The answer isn''t 50/50, and it will surprise you.
+
+
+    #Shorts #Math #Probability #BrainTeaser #MontyHall'
+  hook_caption: This simple choice could DOUBLE your prize money.
+  series_brand: Baltoon Math
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: You're on a game show. Three doors, one car. You pick Door 1. The host opens Door 3, shows you a goat, and asks... do you want to switch to Door 2?
+    caption: The Monty Hall Problem
+  - panel: p2
+    text: Your gut probably screams it's 50/50 now, so switching doesn't matter. But mathematically, that's dead wrong.
+    caption: Your gut is wrong
+  - panel: p3
+    text: When you first picked, you had a 1-in-3 chance. That means the other two doors combined had a 2-in-3 chance of hiding the car.
+    caption: 'Initial odds: 1/3 vs 2/3'
+  - panel: p4
+    text: By revealing a goat, the host isn't changing the odds. He's giving you new information that concentrates that entire 2/3 probability onto the single remaining door.
+    caption: The host's big reveal
+  - panel: p5
+    text: So, sticking with your first pick gives you a 33% chance... but switching doubles your odds of winning to 67%.
+    caption: Switching DOUBLES your odds
+  - panel: p6
+    text: 'The rule is simple: Always switch. In the world of probability, you have to learn to doubt your intuition.'
+    caption: 'The takeaway: Always switch!'

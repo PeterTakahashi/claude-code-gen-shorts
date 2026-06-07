@@ -1,0 +1,217 @@
+id: math-0999-equals-1
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme ultra close-up dramatic shot of Character: {professor}''s wide
+
+    shocked hazel eyes behind round wire-rimmed glasses, magnified by
+
+    the lenses, sharp catch-light dramatically reflecting a huge floating
+
+    decorative English equation "0.999... = 1" hovering in the dark
+
+    space directly in front of him, the equation glowing electric blue
+
+    with a thin halo of light, the rest of his face in deep shadow with
+
+    just the trimmed grey beard visible at the bottom edge, the visual
+
+    of "the equation that breaks your brain". Subject filling the square
+
+    center for vertical short layout with blurred padding above/below.
+
+    Modern lecture setting. Decorative English equation only. No
+
+    Japanese text.
+
+    Character: {professor}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A bright modern university lecture hall, Character: {professor}
+
+    standing at a tall green chalkboard mid-explanation with chalk in
+
+    hand, a confident "ah-ha" smile on his face, the chalkboard
+
+    covered in clean decorative English chalk work showing "PROOF 1"
+
+    at the top, then "x = 0.999...", "10x = 9.999...", "10x - x =
+
+    9.999... - 0.999...", "9x = 9", "x = 1" in a neat vertical stack,
+
+    a small chibi student in the foreground looking up in wide-eyed
+
+    awe, warm afternoon light through tall windows. Mid-shot. Modern
+
+    Japan university setting. Decorative English chalk text only. No
+
+    Japanese text in image.
+
+    Character: {professor}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on soft cream paper background, a
+
+    bold decorative English headline "PROOF 2 — FRACTIONS" centered at
+
+    the top, beneath it a clean vertical stack of decorative English
+
+    equations "1/3 = 0.333...", "x 3 below", "3/3 = 0.999...", "3/3 =
+
+    1", "therefore 0.999... = 1", a small chibi version of Character:
+
+    {professor} on the right with chalk in hand pointing at the stack
+
+    with a delighted smile, soft hand-drawn arrows connecting the
+
+    lines. Infographic composition. Decorative English text only. No
+
+    Japanese text.
+
+    Character: {professor}.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    A clean modern infographic on midnight-blue background with a
+
+    starfield, a bold decorative English headline "PROOF 3 — INFINITE
+
+    SERIES" centered, beneath it a stylized horizontal number line
+
+    with tiny chibi figures jumping decorative English-labeled steps
+
+    "0.9", "0.09", "0.009", "0.0009", "..." each smaller jump getting
+
+    closer to a glowing gold target marker labeled "1", a thin
+
+    floating decorative English caption "SUM = 9 / (1 - 0.1) ÷ 10 = 1",
+
+    the visual of "infinitely many smaller steps reach exactly 1".
+
+    Infographic composition. Decorative English text only. No Japanese
+
+    text.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Split-comparison clean infographic on soft pastel cream
+
+    background, on the left side a stylized number line with two
+
+    labeled points "0.999..." and "1" with a glowing decorative
+
+    English caption "GAP = ?" between them and a tiny chibi student
+
+    scratching his head, on the right side the same number line but
+
+    now the two points have merged into a single bright golden dot
+
+    labeled in decorative English "SAME NUMBER", a soft arrow between
+
+    the two halves, the visual of "there is literally no number you
+
+    can fit between them". Infographic composition. Decorative English
+
+    text only. No Japanese text.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme ultra close-up dramatic shot as panel 1, the same
+
+    Character: {professor}''s eyes behind round wire-rimmed glasses,
+
+    but now the wide shock has softened into a warm knowing smile
+
+    visible at the bottom of the frame through the grey beard, the
+
+    floating decorative English equation "0.999... = 1" still glowing
+
+    electric blue in front of him but now joined by a small floating
+
+    caption "= TRUE" in soft green beside it, the visual of "once you
+
+    see it, you can''t unsee it". Subject filling square frame for
+
+    vertical short with blurred padding above/below. Decorative
+
+    English text only. No Japanese text.
+
+    Character: {professor}.
+
+    '
+ja:
+  title: '0.999… = 1 を証明する3つの方法 #Shorts'
+  description: '0.999...は本当に1と等しいのか?直感では絶対に違うはずなのに、数学的には完全に同じ数。
+
+    高校生でも納得できる3つの証明を、30秒で解説します。
+
+
+    #Shorts #数学 #無限小数 #math #証明
+
+    '
+  hook_caption: 0.999...は本当に1
+  series_brand: 0.999...=1
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 0.999...は1より、ほんの少し小さい——そう思いますよね?でも数学的には、この2つは完全に同じ数なんです。証明を3つ、お見せします。
+    caption: 0.999...は本当に1なのか?
+  - panel: p2
+    text: 1つ目は、中学の代数で解ける方法です。x=0.999...と置くと、10x=9.999...だから、引き算で9x=9、つまりx=1が出ます。
+    caption: ①代数で引き算、x=1
+  - panel: p3
+    text: 2つ目は、分数を使う方法です。1/3=0.333...は、誰も疑いませんよね。だから両辺を3倍すると、3/3=0.999...、しかも3/3=1。
+    caption: ②1/3×3=0.999...=1
+  - panel: p4
+    text: 3つ目は、無限級数の方法で、0.9+0.09+0.009...の合計は、等比数列の公式で、ちょうど1になります。100年以上前から証明されている事実です。
+    caption: ③無限級数の合計はぴったり1
+  - panel: p5
+    text: 決定的なのは、0.999...と1の間に入る数が、1つも存在しないこと。間に何も挟めないので、定義上、この2つは同じ数なんです。
+    caption: 間に挟まる数が一つもない
+  - panel: p6
+    text: つまり、0.999...=1は「ほぼ等しい」ではなく「完全に等しい」が正解。あなたの直感より、数学のほうが、正しいんです。
+    caption: 直感より数学のほうが正しい
+en:
+  title: '3 Reasons Why 0.999... Actually Equals 1 #Shorts'
+  description: 'Is 0.999... really equal to 1? It feels wrong, but the math is undeniable.
+
+    Here are three simple proofs that will convince you.
+
+
+    #Shorts #math #mathematics #proof #didyouknow'
+  hook_caption: Your brain is wrong about this number
+  series_brand: 0.999... = 1
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Your intuition says 0.999 repeating is less than 1, right? But mathematically, they are the exact same number. Here are three proofs.
+    caption: Are they the same?
+  - panel: p2
+    text: First, let's use algebra. If x is 0.999..., then 10x is 9.999.... Subtract the first from the second, and you get 9x equals 9. So, x must be 1.
+    caption: 'Proof 1: Algebra'
+  - panel: p3
+    text: Second, with fractions. We all agree that 1/3 is 0.333 repeating. Multiply that by 3, and you get 1 equals 0.999 repeating.
+    caption: 'Proof 2: Fractions'
+  - panel: p4
+    text: Third, as an infinite series. The sum of 0.9 plus 0.09 plus 0.009 and so on... mathematically converges to exactly 1. No rounding.
+    caption: 'Proof 3: Infinite Series'
+  - panel: p5
+    text: 'But here''s the real clincher: can you name a single number that fits between 0.999... and 1? You can''t. By definition, they must be the same number.'
+    caption: Nothing fits between them
+  - panel: p6
+    text: So it's not 'almost equal.' It's a perfect identity. Sometimes, math is just more precise than our intuition.
+    caption: Math > Intuition

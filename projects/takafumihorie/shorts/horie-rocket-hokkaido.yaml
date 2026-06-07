@@ -1,0 +1,152 @@
+id: horie-rocket-hokkaido
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2019, Taiki-cho launch pad in Hokkaido at dawn — a slim white Interstellar Technologies
+
+    MOMO sounding rocket lifting off from a small concrete launch pad, bright orange-yellow
+
+    exhaust flame, surrounding flat coastal grassland and a small mission control container,
+
+    lean 47-year-old Takafumi Horie in a company hoodie standing far back watching with hands
+
+    on his head, an expression of quiet vindication. The moment a Japanese private rocket
+
+    reached space.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 2013 — a noticeably leaner 40-year-old Horie walking out of Nagano Prison''s main
+
+    gate in a plain dark suit and white shirt, no tie, carrying a single small bag, Japanese
+
+    reporters and camera flashes waiting at the gate, his expression calm and slightly
+
+    amused. The first day of his second life.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 40-something Horie in a company hoodie and jeans standing at the rural Interstellar
+
+    Technologies Taiki-cho, Hokkaido facility — a small modest set of warehouse-like
+
+    buildings on flat coastal grassland, a tall white prototype rocket on a stand visible
+
+    in one of the hangars, wind, grey sky. The unlikely birthplace of a Japanese private
+
+    space program.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside the Interstellar Technologies Taiki-cho assembly hangar, a small team of Japanese
+
+    aerospace engineers in company hoodies and high-visibility vests working hands-on with
+
+    the slim white MOMO rocket''s engine assembly, sparks from welding, focused intent
+
+    expressions. A David-vs-Goliath private space startup atmosphere.
+
+    Character: {ist_engineer}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2018, Taiki-cho — an earlier Interstellar Technologies rocket falling back onto the launch
+
+    pad in a bright orange fireball, smoke rising into the Hokkaido sky, the small mission
+
+    control team in the foreground visibly stricken but not surprised, Horie among them with
+
+    a tight-lipped expression. The cost of building a rocket from scratch.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same 2019 dawn launch — the slim white Interstellar Technologies MOMO rocket now higher in
+
+    the sky, a long orange exhaust trail behind it, breaking through low coastal clouds, lean
+
+    Horie still in the foreground watching with his team, quiet smile. Japan''s first private
+
+    rocket to space, from a man who started his comeback in prison.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '出所した男が宇宙ロケットを作るまで #Shorts'
+  description: '2013年に出所した堀江貴文が、北海道大樹町で民間宇宙ロケットの開発を本格化。Interstellar Technologies (IST) は2019年、日本の民間単独で初めて宇宙空間に到達した。
+
+
+    #Shorts #堀江貴文 #ホリエモン #人物伝
+
+    '
+  hook_caption: 出所した男、宇宙へ
+  series_brand: 堀江貴文伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 出所した、元受刑者が、宇宙ロケットを、作りました。
+    caption: 出所した元受刑者が宇宙ロケット開発
+  - panel: p2
+    text: 2013年、40歳の、堀江貴文。長野刑務所から、出てきた、その足で、北海道に、向かいました。
+    caption: 2013年、出所、その足で北海道へ
+  - panel: p3
+    text: 目指したのは、民間で、宇宙ロケットを、飛ばすこと。場所は、北海道、大樹町。
+    caption: '目的地: 北海道大樹町の民間ロケット'
+  - panel: p4
+    text: 会社の名前は、Interstellar Technologies。
+    caption: Interstellar Technologies 創業
+  - panel: p5
+    text: 打ち上げは、何度も、失敗しました。爆発、落下、燃料漏れ。
+    caption: 爆発、落下、燃料漏れ、失敗続き
+  - panel: p6
+    text: そして、2019年、5月、ついに、日本の、民間単独として、初めて、宇宙空間に、到達したんです——東大中退男の、第二の人生は、宇宙まで届きました。
+    caption: 2019年、日本の民間単独で初の宇宙到達
+en:
+  title: 'From Prison to Launchpad: Japan''s Rocket Man #Shorts'
+  description: 'After being released from prison in 2013, Takafumi Horie founded Interstellar Technologies. This is the story of how his team overcame failure to launch Japan''s first successful private
+    rocket into space.
+
+
+    #Shorts #Space #Inspiration #Biography #Japan'
+  hook_caption: FROM A PRISON CELL TO OUTER SPACE
+  series_brand: The Takafumi Horie Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: In 2013, 40-year-old Takafumi Horie walked out of prison with a new mission.
+    caption: Fresh out of prison
+  - panel: p3
+    text: He headed to rural Hokkaido to build Japan's first private rocket to reach space.
+    caption: An impossible dream
+  - panel: p4
+    text: He founded Interstellar Technologies, gathering a small but dedicated team.
+    caption: Interstellar Technologies
+  - panel: p5
+    text: But the path was brutal, marked by explosions and repeated, costly failures.
+    caption: Explosions & failures
+  - panel: p1
+    text: Then, in May 2019, against all odds, their MOMO rocket finally had a perfect launch.
+    caption: Success at last
+  - panel: p6
+    text: The college dropout turned convict had finally reached the stars, proving his critics wrong.
+    caption: Reaching the stars

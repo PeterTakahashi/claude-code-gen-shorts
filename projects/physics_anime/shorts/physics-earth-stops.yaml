@@ -1,0 +1,60 @@
+id: physics-earth-stops
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic view of Earth from space the instant its rotation stops, everything on the
+      surface implied to be flung sideways, a decorative Japanese caption "自転が止まった瞬間",
+      the visual of "if Earth suddenly stopped spinning". Cosmic, ominous.
+  - id: p2
+    prompt: |
+      An infographic of Earth's surface speed at the equator, a fast-moving arrow and a
+      decorative Japanese caption "地表は時速1700km", the visual of "the ground is already
+      moving at 1700 km/h — stop it and everything flies east". Clean infographic.
+  - id: p3
+    prompt: |
+      A surreal scene of oceans surging into a single giant wave sweeping across continents,
+      a decorative Japanese caption "海が一気に動く", the visual of "the seas would slosh into
+      catastrophic mega-tsunamis". Cosmic disaster, dramatic.
+  - id: p4
+    prompt: |
+      An infographic of Earth with one side in permanent day facing the Sun and the other
+      in permanent night, a decorative Japanese caption "半年ずっと昼、半年ずっと夜", the visual
+      of "a day would last a full year". Clean infographic.
+  - id: p5
+    prompt: |
+      A scene showing Earth's protective magnetic field weakening as the spinning core
+      slows, harmful solar radiation reaching the surface, a decorative Japanese caption
+      "磁場が消える", the visual of "the magnetic shield fades". Cosmic, ominous.
+  - id: p6
+    prompt: |
+      Same stopped Earth from panel 1 against the stars, a decorative Japanese caption
+      "回り続けるという奇跡", the loop image of "spinning is what keeps us alive". Cosmic awe.
+ja:
+  title: 'もし地球の自転が突然止まったら何が起きる #Shorts'
+  description: |
+    地表は時速1700kmで動いている。もし地球の自転が突然止まったら、何もかもが吹き飛び、海が大津波になり、磁場が消える。その世界を30秒で解説します。
+
+    #Shorts #物理 #地球 #自転 #thoughtexperiment
+  hook_caption: 自転が突然止まったら地球は
+  series_brand: もし自転が止まったら
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: もし今、地球の自転が、突然止まったら。私たちは、何が起きると思いますか?答えは、破滅的です。
+      caption: 自転が突然止まったらどうなる
+    - panel: p2
+      text: まず、赤道付近の地表は、時速1700キロで動いています。それが急に止まれば、地上のものは全て、東へ猛烈に吹き飛ばされます。
+      caption: 地表は時速1700kmで動いている
+    - panel: p3
+      text: 海も同じです。止まらず動き続けた海水は、巨大な津波となって、大陸を一気に飲み込んでいきます。
+      caption: 海が巨大な津波になり大陸を飲む
+    - panel: p4
+      text: そして1日は、1年になります。太陽に向いた側は半年ずっと昼、反対側は半年ずっと夜、という極端な世界です。
+      caption: 1日が1年になる極端な世界
+    - panel: p5
+      text: さらに、回転する核が作っていた地球の磁場も弱まり、有害な宇宙放射線が、地表に降り注ぎ始めます。
+      caption: 磁場が弱まり放射線が降り注ぐ
+    - panel: p6
+      text: 当たり前に回り続ける地球。でもその回転こそが、私たちの命を、静かに守っているんです。
+      caption: 回り続けることが、命を守っている

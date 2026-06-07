@@ -1,0 +1,187 @@
+id: astro-blackhole-fall
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A cinematic deep-space scene, a tiny astronaut figure in a sleek
+
+    white spacesuit falling head-first toward a colossal black hole
+
+    with a glowing orange-and-violet accretion disk swirling around a
+
+    perfectly black event-horizon sphere, the astronaut''s body already
+
+    starting to elongate into a vertical streak of warped light, a
+
+    lensed ring of distorted starlight bending around the singularity,
+
+    the visual of "the moment a human crosses into the point of no
+
+    return". Wide cinematic shot, deep cosmic environment, no Earth
+
+    visible. Decorative English text only. No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean cosmic infographic panel on dark navy starfield, a stylized
+
+    cross-section diagram of a black hole with decorative English
+
+    labels "EVENT HORIZON" and "SINGULARITY" pointing to concentric
+
+    regions, a small chibi astronaut figure floating just outside the
+
+    black sphere with a yellow arrow showing the one-way direction
+
+    inward, clean physics-infographic anime style. Pure infographic
+
+    composition in deep space. No people other than chibi marker.
+
+    Decorative English text only. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An abstract dramatic cosmic close-up, a chibi-style anime astronaut
+
+    in a white spacesuit being stretched vertically into a long thin
+
+    noodle of light and metal by extreme gravitational tidal forces,
+
+    the helmet still recognizable at the top but the legs already
+
+    smeared into glowing streaks, swirling orange plasma of the
+
+    accretion disk in the background, the visual of "spaghettification".
+
+    Mid close-up in deep space. Decorative English text only. No
+
+    Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A surreal cosmic view from the falling astronaut''s perspective, the
+
+    starfield behind compressed and warped into a brilliant ring of
+
+    blue-shifted light at the edge of vision, the entire history of
+
+    the universe seemingly visible in fast-forward streaks above, the
+
+    black sphere of the event horizon dominating the lower frame, the
+
+    visual of "looking back you see the universe age in an instant".
+
+    Wide cinematic perspective shot, deep space. Decorative English
+
+    text only. No Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A split cosmic infographic with two stylized figures floating in
+
+    starfield, on the left a small chibi astronaut frozen in place at
+
+    the event horizon glowing red and dim, labeled in decorative
+
+    English "OUTSIDE OBSERVER VIEW", on the right the same astronaut
+
+    falling smoothly past the horizon without noticing anything,
+
+    labeled "FALLER''S VIEW", a yellow arrow between them, clean
+
+    physics-infographic anime style. Decorative English text only.
+
+    No people other than chibi figures. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same cinematic deep-space scene as panel 1, the tiny astronaut
+
+    figure in a sleek white spacesuit falling head-first toward the
+
+    colossal black hole with its glowing orange-and-violet accretion
+
+    disk, the body now almost fully stretched into a thin vertical
+
+    streak of warped light merging with the lensed starlight ring, a
+
+    small floating decorative English caption "POINT OF NO RETURN", the
+
+    loop image of "the last moment a human exists as a human". Wide
+
+    cinematic shot, deep cosmic environment. No Japanese text.
+
+    '
+ja:
+  title: 'ブラックホールに落ちた人は何を見るのか #Shorts'
+  description: 'もし、人間がブラックホールに落ちたら、最後の瞬間に、何が見えるのか。
+
+    現代物理学が描く、宇宙で最も奇妙な「死の瞬間」を、30秒で解説します。
+
+
+    #Shorts #宇宙 #ブラックホール #物理 #相対性理論
+
+    '
+  hook_caption: ブラックホール落下の最後
+  series_brand: バルトゥーン宇宙
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: もし、あなたがブラックホールに落ちたら——最後の瞬間に、何が見えるのか、知っていますか?
+    caption: 落ちた人が見る最後の景色
+  - panel: p2
+    text: ブラックホールには、事象の地平面という、一度入ったら光すら戻れない境界があるので、ここを越えた瞬間、あなたは宇宙から、切り離されます。
+    caption: 事象の地平面を越えると戻れない
+  - panel: p3
+    text: そして体は、足側と頭側で重力差が極端になるから、縦に細長く引き伸ばされていきます。これを物理学者は、スパゲッティ化、と呼んでいるんです。
+    caption: 体は縦に引き伸ばされる「スパゲッティ化」
+  - panel: p4
+    text: 一方で、あなた自身の視界では、後ろの宇宙が、青く圧縮されて輝き、宇宙の未来全部が、一瞬で早送り再生されるように、見えるとされています。
+    caption: 後ろの宇宙は早送りで見える
+  - panel: p5
+    text: 面白いのは、外から見ている人にとって、あなたは地平面で永遠に止まったまま、赤く暗くフェードしていくこと。同じ落下が、視点で全く違って見えるんです。
+    caption: 外から見ると永遠に止まって見える
+  - panel: p6
+    text: つまり、ブラックホール落下の最後は、痛みより先に、世界の見え方そのものが、壊れる体験。それが、宇宙が用意した、最も奇妙な死に方です。
+    caption: 宇宙で最も奇妙な死に方
+en:
+  title: 'What You See Inside a Black Hole''s Final Second #Shorts'
+  description: 'If you fell into a black hole, what would you witness in your final moments?
+
+    Here''s what modern physics says about the strangest death in the universe.
+
+
+    #Shorts #Space #BlackHole #Physics #Astrophysics'
+  hook_caption: YOUR FINAL VIEW INSIDE A BLACK HOLE
+  series_brand: BARTØØN Universe
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Ever wonder what you'd see in your final moments... if you fell into a black hole?
+    caption: Your final view
+  - panel: p2
+    text: You'd first cross the 'event horizon'—the point of no return where you're cut off from the universe forever.
+    caption: Point of no return
+  - panel: p3
+    text: Then, the immense gravity would stretch your body like a noodle, in a process scientists literally call 'spaghettification.'
+    caption: Spaghettification
+  - panel: p4
+    text: But from your perspective, the universe behind you would fast-forward, showing you all of its future in a single, brilliant flash.
+    caption: The future in a flash
+  - panel: p5
+    text: Weirdly, to anyone watching from the outside, you'd just look frozen in time, slowly fading away at the black hole's edge.
+    caption: Frozen in time
+  - panel: p6
+    text: It's an end where your perception of reality breaks before your body does... the strangest death the universe can offer.
+    caption: The strangest death

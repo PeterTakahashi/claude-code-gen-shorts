@@ -1,0 +1,142 @@
+id: news-ai-datacenter-water-cooling
+parent_chapter: null
+image_style: photorealistic
+date_overlay: auto
+panels:
+  - id: p1
+    image_ref: "AI data center server room cooling"
+    prompt: |
+      Cinematic photoreal photograph of a vast modern AI data center hall —
+      rows of server racks under deep blue LED lighting, faint mist of
+      cooling vapor in the foreground, the visual of "the electricity-hungry
+      backbone of modern AI". Documentary technology photography.
+  - id: p2
+    image_ref: "data center power consumption chart"
+    prompt: |
+      Photoreal close-up of a control-room screen showing a rising power-
+      consumption chart annotated with "Cooling 30-40%", soft blue/amber
+      monitor lighting, the visual of "cooling is the silent power sink".
+      Modern tech UI aesthetic. No people.
+  - id: p3
+    image_ref: "Nvidia GPU heatsink AI server"
+    prompt: |
+      Macro photoreal close-up of a large AI GPU module on a server board,
+      heatsinks glowing faintly red from heat, dramatic side lighting, the
+      visual of "GPU heat — doubled in five years". Documentary tech
+      photography. Generic green PCB, no real logos.
+  - id: p4
+    image_ref: "server room air conditioner cooling"
+    prompt: |
+      Cinematic photoreal photograph of an industrial server-room HVAC
+      unit, dim ambient blue light, the visual of "the old air-cool era
+      hitting its limit". Documentary photography. No people.
+  - id: p5
+    image_ref: "liquid cooling water cold plate GPU"
+    prompt: |
+      Macro photoreal close-up of a GPU cold-plate liquid-cooling block
+      with translucent tubes glowing soft blue from coolant flow, droplets
+      of condensation, the visual of "water flowing right next to the
+      chip". Documentary tech photography. Generic hardware.
+  - id: p6
+    image_ref: "Fuji Electric corporate building Tokyo"
+    prompt: |
+      Photoreal photograph of a modern Japanese industrial-machinery
+      company headquarters facade in central Tokyo at golden hour, soft
+      glass reflections, the visual of "a Japanese power-electronics
+      veteran enters AI cooling". Documentary corporate photography.
+      Generic facade, no real logos.
+  - id: p7
+    image_ref: "industrial ejector cooling system pipe"
+    prompt: |
+      Photoreal photograph of an industrial cooling machine on a factory
+      floor — silver-gray cabinet with cooling pipes and a small digital
+      readout showing "-85%", the visual of "the ejector cooler that cuts
+      power 85%". Documentary industrial photography. Generic hardware.
+  - id: p8
+    image_ref: "Nidec factory Thailand production line"
+    prompt: |
+      Photoreal cinematic photograph of a modern Thai electronics
+      manufacturing line — workers in blue uniforms and white caps, large
+      cooling-distribution units on conveyor, soft factory lighting, the
+      visual of "Japan's CDU player goes mass production in Thailand".
+      Documentary industrial photography.
+  - id: p9
+    image_ref: "AI server rack supermicro client"
+    prompt: |
+      Photoreal close-up of a tall AI server rack with white fascia panels,
+      blue LED indicators glowing in rows, the visual of "the global AI-
+      server giants are the customers". Documentary tech photography.
+      Generic rack, no real logos.
+  - id: p10
+    image_ref: "Mitsubishi Heavy two-phase cooling"
+    prompt: |
+      Macro photoreal close-up of a custom liquid-and-vapor cooling plate
+      mounted on a high-power chip, ribbons of mist and tiny coolant
+      droplets visible, the visual of "two-phase direct-chip cooling".
+      Documentary tech photography. Generic green PCB, no real logos.
+  - id: p11
+    image_ref: "Nvidia Rubin GPU next generation AI"
+    prompt: |
+      Cinematic photoreal photograph of a futuristic AI accelerator chip
+      module on a clean lab bench, soft white studio lighting, the visual
+      of "the next-gen GPU that mandates liquid cooling". Documentary
+      tech photography. Generic chip design, no real branding.
+  - id: p12
+    image_ref: "global data center cooling market competition"
+    prompt: |
+      Photoreal cinematic photograph of a world map graphic on a meeting-
+      room screen with three glowing markers (Japan/France/USA), Japanese
+      executives in soft focus around the table, the visual of "the
+      cooling-tech race for AI's power problem". Documentary business
+      photography.
+
+ja:
+  title: "AIデータセンターは「水で冷やす」、富士電機・ニデック・三菱重工が攻める #Shorts"
+  description: |
+    AIの電力爆食を抑える切り札として注目される、水冷式データセンター。
+    データセンター消費電力の3〜4割を占める冷却、AI GPU発熱量は5年で2倍。
+    富士電機の電力85%削減のエジェクタ冷却機、ニデックのCDU、三菱重工の
+    二相式ダイレクトチップ冷却まで、日本勢の現在地を30秒で解説。
+
+    #Shorts #ニュース #テック #AI #データセンター #水冷
+  hook_caption: "AIデータセンター、水冷の本命戦"
+  series_brand: "AI水冷、日本勢の本気"
+  voice_speed: 1.25
+  voice_pitch: -0.10
+  narration:
+    - panel: p1
+      text: "AIの電力爆食を抑える切り札、「水冷式」データセンターが本格化しています。"
+      caption: "水冷式データセンター、本格化"
+    - panel: p2
+      text: "データセンターの消費電力の、3〜4割を占めるのが「冷却」。"
+      caption: "電力の3〜4割が、冷却に消える"
+    - panel: p3
+      text: "AI用GPUの発熱量は、過去5年で2倍以上に跳ね上がりました。"
+      caption: "GPU発熱、5年で2倍超"
+    - panel: p4
+      text: "もはやエアコンによる空冷だけでは、冷やしきれない時代に。"
+      caption: "空冷だけでは、冷やせない"
+    - panel: p5
+      text: "水冷式は、GPUのすぐ近くに配管を通し、水で熱を直接奪う仕組みです。"
+      caption: "GPU直近で、水が熱を奪う"
+    - panel: p6
+      text: "富士電機は、6月から「エジェクタ冷却機」を販売開始。"
+      caption: "富士電機、6月販売開始"
+    - panel: p7
+      text: "従来の冷却装置を置き換え、電力消費を最大85%削減できる。"
+      caption: "電力消費、最大85%削減"
+    - panel: p8
+      text: "ニデックは、空冷比で約3割効率が高いCDUを、タイ工場で量産開始。"
+      caption: "ニデックCDU、タイで量産"
+    - panel: p9
+      text: "累計出荷1万台、米スーパーマイクロなどAIサーバー大手が顧客。"
+      caption: "累計1万台、米AIサーバー大手と"
+    - panel: p10
+      text: "三菱重工は、液体と気体を同時に使う「二相式ダイレクトチップ冷却」で参入。"
+      caption: "三菱重工は、二相式で参入"
+    - panel: p11
+      text: "エヌビディアの次世代GPU「Rubin」は、完全液冷が前提設計。水冷は、もう必須に。"
+      caption: "Rubinは完全液冷、水冷必須に"
+    - panel: p12
+      text: "世界は仏シュナイダー、米バーティブが先行。日本勢が技術優位を事業優位に変える勝負所です。"
+      caption: "技術優位を、事業優位にできるか"

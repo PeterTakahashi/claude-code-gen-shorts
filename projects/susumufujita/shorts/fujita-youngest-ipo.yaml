@@ -1,0 +1,171 @@
+id: fujita-youngest-ipo
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    March 2000, the Tokyo Stock Exchange Mothers section listing ceremony hall.
+
+    A 26-year-old Susumu Fujita standing front and center on a small stage,
+
+    holding a wooden mallet, about to strike a large polished ceremonial bell,
+
+    a slight tense composed smile on his face, the TSE Mothers logo banner
+
+    visible behind him, several older men in dark suits applauding politely
+
+    around him, cold formal interior lighting. The youngest CEO ever to ring
+
+    the Mothers bell. Mid-shot, framing him centered.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A late-1990s Tokyo office at Intelligence Inc., a 23-year-old Susumu Fujita
+
+    in a navy suit and tie sitting at a cluttered desk piled with documents,
+
+    staring out a window at the Shibuya skyline at dusk, jaw set, the exact
+
+    moment he decides to quit his 2-year salaryman job and start his own
+
+    company. Other Japanese salarymen working blurred in the background.
+
+    Mid-shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    March 1998, a tiny cramped startup office in Shibuya Tokyo. A 24-year-old
+
+    Susumu Fujita standing in front of a small group of 3-4 young Japanese
+
+    employees in casual shirts, gesturing at a whiteboard with the words
+
+    "CyberAgent" hand-written on it, cardboard boxes still unpacked on the
+
+    floor, late-1990s CRT monitors on simple desks, hopeful determined faces
+
+    all around. The first day of CyberAgent.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1999, a Tokyo investor meeting room with floor-to-ceiling windows
+
+    overlooking the city. A 25-year-old Susumu Fujita in a navy suit standing
+
+    and presenting confidently in front of a projector screen showing simple
+
+    late-1990s slide graphics about internet advertising, several older
+
+    Japanese venture capitalists in dark suits seated and listening intently.
+
+    Cool corporate lighting. The pitch that made the IPO possible.
+
+    Character: {subject_young}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    March 2000, close-up of a large Tokyo Stock Exchange electronic stock
+
+    board, the row "サイバーエージェント" lit up in bright green for the first
+
+    time, the price ticker rapidly updating, Japanese traders in dark suits
+
+    blurred in the foreground watching. The exact moment a 26-year-old
+
+    founder''s company hits the public market. Atmospheric morning light
+
+    through tall trading-floor windows.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    March 2000 afternoon after the listing ceremony, a 26-year-old Susumu
+
+    Fujita alone in a quiet hallway of the Tokyo Stock Exchange building,
+
+    standing by a tall window overlooking the Otemachi skyline, jacket
+
+    slightly loosened, expression of quiet exhausted triumph, faint reflection
+
+    of the city on the glass. The youngest CEO ever to list on Mothers,
+
+    26 years old, alone for one minute. Over-shoulder framing.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '26歳で東証マザーズ最年少上場した男 #Shorts'
+  description: '1998年、24歳のフジタ ススムが CyberAgent を創業した。
+
+    創業からわずか2年、26歳で東証マザーズの最年少上場を達成した話。
+
+
+    #Shorts #藤田晋 #CyberAgent #人物伝
+
+    '
+  hook_caption: 26歳で最年少上場
+  series_brand: フジタ ススム伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 創業から、わずか2年で、東証マザーズの、最年少上場を、達成した男がいます。
+    caption: 創業2年で最年少上場
+  - panel: p2
+    text: 1997年、当時23歳のフジタ ススムは、インテリジェンスに、入社2年で、辞めることを、決めました。
+    caption: 1997年、インテリジェンス入社2年で退職
+  - panel: p3
+    text: 翌、1998年、24歳のフジタは、シブヤの小さなオフィスで、CyberAgent を、創業します。
+    caption: 1998年、24歳でCyberAgent創業
+  - panel: p4
+    text: 事業は、インターネット広告。当時の日本では、まだ、誰も信じていなかった分野でした。
+    caption: 誰も信じなかったネット広告
+  - panel: p5
+    text: そして、創業から、わずか2年後の、2000年3月、26歳で、東証マザーズに、上場したんです。
+    caption: 2000年3月、26歳で上場
+  - panel: p6
+    text: 東証マザーズ、史上、最年少のCEO。日本のIT起業家の、時代が、始まった瞬間でした。
+    caption: マザーズ史上最年少CEO
+en:
+  title: 'How a 26-Year-Old Became Japan''s Youngest Public CEO #Shorts'
+  description: 'In 1998, Susumu Fujita founded CyberAgent. Just two years later, he made history by taking it public at age 26, becoming the youngest CEO ever on the Tokyo Stock Exchange Mothers market.
+
+
+    #Shorts #SusumuFujita #CyberAgent #Entrepreneurship #Biography'
+  hook_caption: He Rewrote Japan's Stock Market History at 26
+  series_brand: The Susumu Fujita Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: In 1997, 23-year-old Susumu Fujita quit his prestigious corporate job just two years after starting.
+    caption: Quit his job at 23
+  - panel: p3
+    text: The very next year, he founded a new company, CyberAgent, out of a tiny office in Shibuya.
+    caption: Founded CyberAgent
+  - panel: p4
+    text: His big idea was internet advertising—a field almost no one in Japan believed in back then.
+    caption: A risky bet
+  - panel: p5
+    text: But just two years later, his company's name lit up the Tokyo Stock Exchange.
+    caption: Proved them wrong
+  - panel: p1
+    text: In March 2000, at only 26 years old, he had taken CyberAgent public.
+    caption: IPO at 26
+  - panel: p6
+    text: He became the youngest CEO in the exchange's history, heralding a new era for Japan's tech entrepreneurs.
+    caption: Youngest CEO ever

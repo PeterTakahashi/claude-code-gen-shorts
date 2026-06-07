@@ -1,0 +1,138 @@
+id: news-childbirth-free-law
+parent_chapter: null
+image_style: photorealistic
+date_overlay: auto
+panels:
+  - id: p1
+    image_ref: "国会議事堂 参議院本会議"
+    prompt: |
+      Cinematic photoreal photograph of the Japanese National Diet building
+      at dusk, soft golden light on the granite façade, the visual of "where
+      a new family-policy law just passed today". Documentary press
+      photography.
+  - id: p2
+    image_ref: "参議院本会議 改正法 可決"
+    prompt: |
+      Photoreal photograph of the Japanese upper-house chamber (参議院本会議)
+      mid-vote, rows of seated lawmakers, a podium with the speaker visible,
+      the visual of "the moment the bill became law". Documentary press
+      photography. Generic chamber view, no real party markers.
+  - id: p3
+    image_ref: "産科 病院 出産"
+    prompt: |
+      Photoreal cinematic photograph of a clean modern Japanese maternity
+      hospital ward, soft pastel walls, a hospital crib in the foreground,
+      the visual of "where the new law will land". Documentary photography.
+      No people.
+  - id: p4
+    image_ref: "出産費用 領収書 50万円"
+    prompt: |
+      Macro photoreal close-up of a Japanese hospital invoice on a wooden
+      desk, the figure "￥500,000" visible in the lower-third, soft warm
+      light, the visual of "the old fifty-man-en standard". Documentary
+      finance photography.
+  - id: p5
+    image_ref: "東京 都市部 産婦人科 高額"
+    prompt: |
+      Photoreal cinematic photograph of an upscale Tokyo maternity clinic
+      facade at golden hour, glass entrance, the visual of "where the
+      lump-sum often wasn't enough". Documentary photography. No people.
+  - id: p6
+    image_ref: "厚生労働省 庁舎"
+    prompt: |
+      Photoreal photograph of the Japanese Ministry of Health, Labour and
+      Welfare government building in central Tokyo, a small "厚生労働省"
+      placard on the façade, business-day lighting. Documentary press
+      photography. No people.
+  - id: p7
+    image_ref: "全国一律 価格 統一"
+    prompt: |
+      Photoreal cinematic shot of a Japan map graphic on a flat office
+      table, identical price tags pinned at several regions, the visual of
+      "one nationwide price for childbirth". Modern realistic.
+  - id: p8
+    image_ref: "妊婦 笑顔 安心"
+    prompt: |
+      Photoreal photograph of a young Japanese expectant mother (visibly
+      pregnant) in a sunlit Tokyo apartment looking relieved, soft natural
+      light, the visual of "the family-cost worry that just got lighter".
+      Documentary lifestyle photography. No identifiable faces in sharp focus.
+  - id: p9
+    image_ref: "現金給付 妊婦 振込"
+    prompt: |
+      Photoreal close-up of a Japanese banking app showing a generic deposit
+      labeled "出産関連給付", on a wooden table next to a maternity-handbook
+      style booklet, the visual of "a separate cash payment to every
+      mother". Documentary lifestyle photography.
+  - id: p10
+    image_ref: "帝王切開 手術 病院"
+    prompt: |
+      Photoreal photograph of a modern Japanese hospital surgical corridor,
+      a sign labeled "産婦人科" in soft focus, the visual of "what isn't
+      covered — caesarean still has co-pay". Documentary hospital
+      photography. No people in sharp focus.
+  - id: p11
+    image_ref: "市販薬 OTC 薬局 棚"
+    prompt: |
+      Photoreal photograph of a Japanese pharmacy shelf with rows of
+      over-the-counter medicines — pain relievers, allergy meds, antihistamine
+      boxes — soft retail lighting, the visual of "the same law adds an
+      OTC-style co-pay from 2027". Documentary retail photography. Generic
+      packaging, no real brand names.
+  - id: p12
+    image_ref: "ベビーカー 家族 公園 日本"
+    prompt: |
+      Cinematic photoreal photograph of a young Japanese family with a
+      stroller in a Tokyo park at golden hour, soft warm light, the visual
+      of "policy meets the next generation". Documentary photography.
+      Faces partially turned away.
+
+ja:
+  title: "出産費用ゼロへ、改正健康保険法が成立　厚労省は全国一律価格へ #Shorts"
+  description: |
+    正常分娩の費用を公的保険で全額カバーする改正健康保険法が、29日の参院本会議で成立。
+    出産育児一時金（原則50万円）の限界、自治体ごとの価格差、現金給付の新設、
+    OTC類似薬の追加負担まで含めた一括改正の中身を、30秒で解説。
+
+    #Shorts #ニュース #政治 #出産無償化 #健康保険法 #少子化対策
+  hook_caption: "出産費用、公的保険で全額カバー"
+  series_brand: "出産無償化、改正法成立"
+  voice_speed: 1.25
+  voice_pitch: -0.10
+  narration:
+    - panel: p1
+      text: "出産費用を、公的保険で全額カバーする改正法が、成立しました。"
+      caption: "出産費用、公的保険でカバー"
+    - panel: p2
+      text: "5月29日、参院本会議で、改正健康保険法が可決。"
+      caption: "5月29日、参院で可決"
+    - panel: p3
+      text: "対象は、正常分娩。施行は、公布から2年以内。"
+      caption: "対象は正常分娩、2年以内に施行"
+    - panel: p4
+      text: "現行は、出産育児一時金として、原則50万円を支給する仕組みでした。"
+      caption: "現行は、原則50万円の一時金"
+    - panel: p5
+      text: "ただ、医療機関ごとに価格差があり、都市部では足りないケースが多発。"
+      caption: "都市部で、一時金が不足"
+    - panel: p6
+      text: "改正後は、厚労省が、全国一律の分娩価格を定めます。"
+      caption: "厚労省、全国一律価格を設定"
+    - panel: p7
+      text: "病院の規模が同じなら、どこで産んでも、価格は同じ。"
+      caption: "同規模なら、全国同一価格"
+    - panel: p8
+      text: "公的保険から医療機関に、その全額が直接給付される仕組み。"
+      caption: "公的保険から、全額を直接給付"
+    - panel: p9
+      text: "別枠で、全妊婦への定額の現金給付も新設されます。"
+      caption: "全妊婦に、定額の現金給付も"
+    - panel: p10
+      text: "ただし帝王切開や個室代は、現行どおり自己負担が残ります。"
+      caption: "帝王切開・個室代は、自己負担"
+    - panel: p11
+      text: "同じ改正で、市販薬に似たOTC類似薬には、追加負担も導入されます。"
+      caption: "OTC類似薬、追加負担も導入"
+    - panel: p12
+      text: "出産支援と、医療費のメリハリ配分が、同時に動き始めた形です。"
+      caption: "出産支援＋医療費配分の、同時改革"

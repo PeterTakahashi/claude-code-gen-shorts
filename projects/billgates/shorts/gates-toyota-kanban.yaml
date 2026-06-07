@@ -1,0 +1,136 @@
+id: gates-toyota-kanban
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+      Extreme close-up dramatic shot of a small hand-written paper kanban card
+      hanging from a thin wire on a Toyota assembly line, the decorative
+      Japanese characters 「かんばん」 brushed in black ink clearly readable on
+      the small rectangular card, in soft focus behind the card the astonished
+      face of a 38-year-old adult Bill Gates leaning in close, his thin-rimmed
+      glasses reflecting the white factory fluorescent lights, the gleaming
+      red-and-white body panel of a half-assembled Toyota Crown sedan in the
+      far background. Toyota Motomachi plant Aichi Japan 1993 setting. The
+      visual of "the moment a software billionaire understood paper."
+      Character: {subject_adult}. Subject filling the square center for
+      vertical short layout with blurred padding above/below.
+  - id: p2
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      1993 Toyota Motomachi plant in Toyota City Aichi Japan, wide shot of
+      the gleaming long automotive assembly line stretching deep into the
+      frame, Japanese factory workers in pale-blue Toyota uniforms calmly
+      moving along bays, brightly painted red and white car bodies passing
+      overhead on conveyors, the 70-year-old chairman Eiji Toyoda in a
+      cream Toyota work jacket walking beside the 38-year-old Bill Gates in
+      a navy sweater and khakis, decorative Japanese signage 「元町工場」
+      readable on a small placard. The visual of "the chairman gave the
+      software king a tour."
+      Characters: {subject_adult}, {eiji_toyoda}.
+  - id: p3
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Mid-shot of Eiji Toyoda standing beside a hanging row of small paper
+      kanban cards strung on wires above a Toyota assembly station,
+      explaining with one calm open palm extended, the 38-year-old Bill
+      Gates leaning forward intently in a navy sweater with a small open
+      black notebook in his hand, behind them a 50-year-old Japanese male
+      Toyota engineer in pale-blue uniform demonstrating how a single
+      kanban card triggers an upstream parts request, a small wall sign
+      with decorative Japanese characters 「ジャストインタイム」 readable.
+      The visual of "small paper that controls a giant factory."
+      Characters: {subject_adult}, {eiji_toyoda}.
+  - id: p4
+    prompt: |
+      Square 1:1 anime/webtoon style infographic-style panel.
+      Clean modern infographic on dark navy background, decorative bold
+      English headline "KANBAN — PULL, NOT PUSH" centered, three stylized
+      stations in a horizontal row labeled in decorative English
+      "ASSEMBLY → STOCK → SUPPLIER", small paper kanban cards floating
+      backwards from right to left along yellow arrows, smaller decorative
+      Japanese label 「後工程引き取り方式」 readable beneath, a tiny chibi
+      Eiji Toyoda figure in the corner holding up one kanban card. The
+      visual of "the entire factory is pulled by the customer."
+  - id: p5
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Microsoft Redmond Washington campus interior 1995, mid-shot of the
+      same adult Bill Gates now back at a whiteboard in a Microsoft polo
+      shirt furiously sketching a diagram, decorative English caption
+      "WINDOWS 95 — DAILY BUILDS" centered on the whiteboard, three
+      American Microsoft engineers in 90s casual clothes nodding while
+      taking notes, a small Japanese kanban-card-style paper note pinned
+      to the corner of the whiteboard, soft Pacific Northwest light
+      through windows. The visual of "applying Toyota's pull system to
+      software releases."
+      Character: {subject_adult}.
+  - id: p6
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Same extreme close-up dramatic shot composition as panel 1 — a single
+      small paper kanban card hanging on a thin wire on a Toyota assembly
+      line, the decorative Japanese characters 「かんばん」 brushed in black ink
+      clearly readable, but the soft-focus background now shows the older
+      65-year-old adult Bill Gates returning to Toyota Motomachi decades
+      later for a quiet visit, a small respectful smile on his face. The
+      loop image of "the lesson the software king never forgot."
+      Character: {subject_adult}. Subject filling the square frame for
+      vertical short with blurred padding above/below.
+ja:
+  title: 'ビル・ゲイツが、TOYOTA で学んだ秘訣 #Shorts'
+  description: |
+    33年前の1993年、Bill Gates は、愛知県豊田市の元町工場を、訪ねました。
+    彼が、そこで吸収した「かんばん」の哲学は、その後の Microsoft の、ソフト開発を、根本から、変えたんです。
+
+    #Shorts #ビルゲイツ #トヨタ #カンバン #人物伝
+  hook_caption: ゲイツが豊田で学んだ秘訣
+  series_brand: カンバンとMS
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: ビル・ゲイツが、Microsoft の開発のすべてを、変えるきっかけになった、小さな紙片を、知っていますか? それが、トヨタの「かんばん」です。
+      caption: ゲイツの全てを変えた小さな紙
+    - panel: p2
+      text: 33年前の1993年、ゲイツは、愛知県豊田市の元町工場を、訪ね、当時の会長、豊田英二の案内で、現場を、歩きました。
+      caption: 33年前の1993年、元町工場を視察
+    - panel: p3
+      text: 豊田が、見せたのは、紙片を、ラインに吊るすだけの仕組み。後工程が、必要な分だけ、前工程から、引っ張る——これが、ジャストインタイム生産です。
+      caption: 紙片で工場全体を制御する仕組み
+    - panel: p4
+      text: 部品を、押し込まず、必要なときに、必要な分だけ、引き取る。在庫を、ほぼゼロにする、この発想は、ゲイツの中で、衝撃でした。
+      caption: 押し込まず引き取る、在庫ゼロ思想
+    - panel: p5
+      text: Redmond に戻ったゲイツは、Windows 95 の開発に、それを応用します——毎日ビルド、毎日テスト、必要なときに、機能を引っ張る方式に、変えたんです。
+      caption: Windows 95 を毎日ビルド方式に
+    - panel: p6
+      text: 今も、世界中のソフト会社が使う、Agile や DevOps の原型は、33年前の、豊田の工場にありました。ゲイツの帝国を支えたのは、日本の紙片、だったんです。
+      caption: Agile の原型は豊田の紙片
+en:
+  title: 'The Toyota Secret That Saved Microsoft #Shorts'
+  description: 'In 1993, Bill Gates visited Toyota''s Motomachi plant in Aichi, Japan. The "kanban" philosophy he absorbed there fundamentally changed how Microsoft built software—and quietly became the origin of modern Agile development.
+
+
+    #Shorts #BillGates #Toyota #Kanban #History'
+  hook_caption: The Toyota Secret That Saved Microsoft
+  series_brand: The Bill Gates Story
+  voice_speaker: Ryan
+  narration:
+    - panel: p1
+      text: In 1993, a small paper card on a Toyota factory line changed Bill Gates forever.
+      caption: The card that changed everything
+    - panel: p2
+      text: Toyota chairman Eiji Toyoda personally walked Gates through the Motomachi plant in Aichi, Japan.
+      caption: A personal tour from the chairman
+    - panel: p3
+      text: The system was called "kanban"—small paper cards that pulled parts only when needed.
+      caption: Pull, do not push
+    - panel: p4
+      text: No stockpiles. No waste. The factory was pulled forward by the customer's demand itself.
+      caption: Zero inventory, total flow
+    - panel: p5
+      text: Back at Microsoft, Gates applied it to Windows 95—daily builds, daily tests, pull what you need.
+      caption: From cars to code
+    - panel: p6
+      text: Modern Agile and DevOps trace their roots to that single Toyota factory visit.
+      caption: A paper card that built an empire

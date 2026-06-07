@@ -1,0 +1,88 @@
+# サム・アルトマン cast — visual character sheets for anime/webtoon shorts.
+# Three life-stage variants of Sam Altman:
+#   - subject_child: 8-10 years old, St. Louis Missouri, early Mac era
+#   - subject_young: 20s, Stanford / early YC era
+#   - subject_adult: late 30s - early 40s, OpenAI / Worldcoin era
+characters:
+  - id: subject_child
+    name_ja: サム・アルトマン (子供)
+    description_en: |
+      An 8-10 year old white American boy with the characteristic young-Sam-Altman
+      features: a small slightly round face, large warm brown-to-hazel eyes set wide,
+      a small straight nose, soft thoughtful mouth, light brown to dark-blond shaggy
+      hair somewhat untidy and falling near the ears, pale skin, a precocious watchful
+      bearing of a kid clearly smarter than his classmates. Slim build. Sometimes a
+      faintly Jewish-American midwestern appearance. Mid-1990s Missouri suburban kid.
+    outfit_en: |
+      a casual mid-1990s American midwestern schoolboy outfit — plain solid-color
+      t-shirt or simple striped polo, baggy jeans or shorts, white sneakers,
+      sometimes a hooded sweatshirt or a flannel shirt unbuttoned over the t-shirt
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - intent absorbed staring at a computer screen
+      - quiet thoughtful curiosity
+      - small bright fascination at a new gadget
+      - earnest focus typing on a keyboard
+    poses:
+      - "Front view sitting cross-legged in front of a beige desktop Apple Macintosh"
+      - "Three-quarter view leaning over a keyboard"
+      - "Side profile reading a thick book"
+      - "Standing holding a floppy disk with both hands"
+
+  - id: subject_young
+    name_ja: サム・アルトマン (20代)
+    description_en: |
+      A young white American man around 22-30 in the late 2000s to mid-2010s with
+      the characteristic young-Sam-Altman features: a slim narrow face with a
+      slightly pointed chin, deep-set thoughtful blue-grey eyes, a straight medium
+      nose, thin lips often pressed into a calm half-smile, light brown short hair
+      neatly cut but slightly tousled, pale skin, very slim almost wiry build,
+      youthful but intensely focused bearing of a Stanford dropout founder who
+      thinks ten years ahead. Slightly soft-spoken bearing.
+    outfit_en: |
+      a Y Combinator / startup-Silicon-Valley uniform of the early 2010s — plain
+      solid grey or navy long-sleeve t-shirt or a simple cotton crewneck sweater,
+      sometimes a casual unbranded zip-up hoodie or fleece vest, well-fitting
+      dark blue jeans, plain low-top sneakers or simple lace-up shoes
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - calm focused pitch to investors
+      - thoughtful listening with slight head tilt
+      - quietly amused half-smile
+      - intense staring at a laptop screen at night
+      - young founder mentoring smaller startup teams
+
+  - id: subject_adult
+    name_ja: サム・アルトマン (30代後半-40代)
+    description_en: |
+      The mature Sam Altman aged about 36-42 — a slim white American man with a
+      narrow oval face, slightly pointed chin, fair skin, deep-set calm blue-grey
+      eyes with a perpetually thoughtful gaze, a straight medium nose, thin lips
+      that rest in a soft serious line, short tidy light-brown hair cut close on
+      the sides and slightly fuller on top, clean-shaven or with a faint stubble,
+      narrow shoulders, slim wiry build, the unhurried measured bearing of the CEO
+      of OpenAI — soft-spoken, almost monk-like calm even under pressure, eyes
+      always slightly squinted in concentration.
+    outfit_en: |
+      the signature Sam Altman casual uniform — a plain solid-color crewneck
+      sweater in grey, charcoal, navy, or olive worn over a plain t-shirt, or
+      occasionally a simple zip-up hoodie; well-fitting dark jeans; plain white
+      or grey low-top sneakers. Sometimes a casual unbranded soft jacket in
+      muted tones. Never a tie, never a logo. Quiet, minimalist tech-founder
+      aesthetic.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - calm composed thinking under enormous pressure
+      - soft slight smile while listening
+      - quiet intensity giving a Senate testimony
+      - measured concern reading a phone notification
+      - serene exhaustion after a sleepless night

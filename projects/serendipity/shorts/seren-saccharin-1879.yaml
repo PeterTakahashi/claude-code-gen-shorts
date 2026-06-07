@@ -1,0 +1,67 @@
+id: seren-saccharin-1879
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      An 1879 Johns Hopkins University chemistry lab in Baltimore, a young Russian-born
+      chemist in his late 20s in a white lab apron sitting down to a simple dinner of
+      bread, his hand and the bread surprisingly sweet, a thought bubble of confusion
+      above, the visual of "the night his dinner tasted unexpectedly sweet". Warm
+      gaslight tone.
+  - id: p2
+    prompt: |
+      A flashback to earlier that day, the same chemist working at a workbench with coal
+      tar derivatives, glass beakers and bunsen burners, forgetting to wash his hands
+      before leaving the lab, the visual of "he forgot to wash his hands after working
+      with coal tar". Vintage chemistry lab tone.
+  - id: p3
+    prompt: |
+      A close-up of the chemist tasting his fingers in shock, then running back to the lab
+      to taste every dish on his workbench until he finds the sweet compound, a decorative
+      English caption "300x SWEETER THAN SUGAR", the visual of "he tasted every flask
+      until he found the source". Curious, dramatic illustration.
+  - id: p4
+    prompt: |
+      An infographic of the molecule with decorative English label "SACCHARIN — C7H5NO3S"
+      and a clean chemical structure diagram, a small cube of sugar shown beside it with
+      a "300x" multiplier arrow, the visual of "saccharin — the first artificial
+      sweetener". Clean science illustration.
+  - id: p5
+    prompt: |
+      An early 20th century scene of saccharin packets being sold during World War One
+      sugar rationing, and again during the diet boom of the 1960s and 70s, decorative
+      English labels "WWI SUGAR RATION" and "DIET COLA", the visual of "saccharin powered
+      both wartime rationing and the diet drink boom". Period mixed illustration.
+  - id: p6
+    prompt: |
+      A reflective scene of the small flask glowing softly on a workbench, soft light, a
+      decorative Japanese caption "手を洗い忘れた夜から", the loop image of "one forgotten
+      hand-wash sweetened the world". Inspiring, gentle tone.
+ja:
+  title: '手を洗い忘れた夜に生まれた、人工甘味料の話 #Shorts'
+  description: |
+    1879年、ジョンズ・ホプキンス大学の若き化学者ファールバーグは、研究中に手を洗うのを忘れて、夕食のパンを食べた。すると、なぜか強烈に甘かった。世界初の人工甘味料サッカリン誕生の偶然を30秒で解説します。
+
+    #Shorts #偶然の発見 #サッカリン #人工甘味料 #雑学
+  hook_caption: 手を洗い忘れたら甘味料を発見した
+  series_brand: 偶然が変えた世界
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1879年、ボルチモアのジョンズ・ホプキンス大学。研究者コンスタンチン・ファールバーグが夕食のパンを食べると、なぜか、強烈に甘く感じました。
+      caption: 1879年、夕食のパンが妙に甘い
+    - panel: p2
+      text: 原因は、その日の研究にありました。彼はコールタールから取り出した化合物を扱ったあと、手を洗うのを、すっかり忘れていたんです。
+      caption: 手を洗い忘れた研究者
+    - panel: p3
+      text: 翌日、彼はラボに戻り、ビーカーを片っ端から舐めて、甘さの正体を、特定しました。その物質は、砂糖のおよそ300倍も甘かったんです。
+      caption: 砂糖の約300倍甘い物質を特定
+    - panel: p4
+      text: この化合物が、世界初の人工甘味料、サッカリンです。カロリーが、ほぼゼロでありながら、砂糖の代わりとして、使える、夢のような物質でした。
+      caption: 世界初の人工甘味料サッカリン誕生
+    - panel: p5
+      text: のちにサッカリンは、第一次世界大戦の砂糖不足を救い、1960年代以降は、ダイエット飲料ブームの主役となって、世界中の食品を、変えていきます。
+      caption: 戦時の砂糖不足とダイエットを支えた
+    - panel: p6
+      text: もしファールバーグが、その夜きちんと手を洗っていれば、サッカリンは、見過ごされていたかもしれません。偶然は、ささいな不注意の中にも、潜んでいるんです。
+      caption: 偶然はささいな不注意にも潜む

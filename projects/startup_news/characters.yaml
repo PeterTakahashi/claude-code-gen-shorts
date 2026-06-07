@@ -1,0 +1,91 @@
+characters:
+  - id: cursor_michael
+    name_ja: Michael Truell (Cursor 共同創業者)
+    description_en: >-
+      a thin pale young American man in his early 20s with short messy
+      dark brown hair, large round wire-frame eyeglasses, slim build,
+      young serious bookish expression, faint stubble
+    outfit_en: >-
+      a plain grey hoodie over a black t-shirt, dark jeans, sneakers
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: murati
+    name_ja: ミラ・ムラティ (Thinking Machines 創業者)
+    description_en: >-
+      a 35-year-old Albanian-American woman with long sleek dark brown hair
+      parted in the middle, fair skin, large warm dark almond eyes, soft
+      composed expression, the calm presence of a senior research executive
+    outfit_en: >-
+      a tailored white blouse under a soft cream blazer, minimal jewelry,
+      simple gold hoop earrings
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: dario_amodei
+    name_ja: ダリオ・アモデイ (Anthropic 共同創業者 CEO)
+    description_en: |
+      Dario Amodei, Anthropic co-founder and CEO, an Italian-American man,
+      slim slightly thin build, medium-tall stature, a slightly long oval face
+      with a high forehead, dark intelligent thoughtful eyes set under straight
+      dark eyebrows, a straight medium nose, full lips usually relaxed into a
+      soft thoughtful line, clean-shaven, very thick wavy almost curly dark brown
+      hair worn somewhat unkempt and long-ish on top with a characteristic loose
+      Italian curl falling over the forehead, no glasses, pale complexion, the
+      introspective measured bearing of an AI safety researcher who carefully
+      weighs every word
+    outfit_en: |
+      practical Silicon Valley researcher-CEO casual — a plain crew-neck sweater
+      (navy, charcoal grey, or muted blue) over a simple button-down or plain
+      t-shirt, well-worn dark jeans, plain sneakers; deliberately understated
+      and academic
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: david_ha
+    name_ja: David Ha (Sakana AI 共同創業者 CEO)
+    description_en: >-
+      a 45-year-old Asian-Canadian male AI researcher and Sakana AI co-founder
+      CEO in 2024 Tokyo, ex-Google Brain Tokyo head, medium-tall slim build,
+      short neatly cut black hair, clean-shaven, smooth Asian features, warm
+      friendly intelligent dark eyes with a slight perpetual amused twinkle,
+      a small relaxed smile of a researcher-founder who clearly enjoys his
+      work, the casual approachable presence of a Silicon-Valley-trained
+      researcher who has chosen Tokyo as home
+    outfit_en: >-
+      a soft charcoal-grey unstructured casual blazer over a plain white
+      t-shirt or soft navy crewneck, well-fitted dark jeans, clean white
+      sneakers, a simple black-strap wristwatch, sometimes a slim laptop
+      tucked under one arm
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: llion_jones
+    name_ja: Llion Jones (Sakana AI 共同創業者)
+    description_en: >-
+      a 42-year-old Welsh-British male AI researcher and Sakana AI co-founder
+      in 2024 Tokyo, last remaining "Attention Is All You Need" Transformer
+      paper author still at the cutting edge, medium-tall slim build, short
+      light-brown hair lightly tousled, fair European complexion with a
+      faint trimmed light-brown stubble, calm thoughtful pale-blue eyes
+      behind rectangular black-rim glasses, gentle slightly shy academic
+      smile, the relaxed bearing of a senior research engineer who would
+      rather be debugging a model than giving a keynote
+    outfit_en: >-
+      a soft heather-grey crewneck sweater over a plain white t-shirt, dark
+      navy chinos, plain dark canvas sneakers, occasionally a thin black
+      backpack strap visible over one shoulder, minimal accessories
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: dario_young
+    name_ja: ダリオ・アモデイ (28歳・OpenAI 入社直前)
+    description_en: |
+      Dario Amodei at age 28 around 2011, the same Italian-American features
+      as the adult version — slim build, slightly long oval face, dark earnest
+      eyes, very thick wavy dark brown hair worn long and unkempt with the
+      characteristic Italian curl, clean-shaven, slightly more youthful and
+      less weathered, the earnest academic bearing of a young postdoc
+      researcher just starting to worry about AI risk
+    outfit_en: |
+      east-coast graduate student casual — a plain solid t-shirt or simple
+      plaid button-down, often under a zip-up grey hoodie or a corduroy
+      jacket, well-worn jeans, plain sneakers, sometimes a backpack slung
+      over one shoulder
+    voice_style_id: 1310138977
+    voice_speed: 1.4

@@ -1,0 +1,188 @@
+id: corpfall-forever21-2019
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    September 2019, a large flagship Forever 21-style fast-fashion
+
+    retail store interior in Los Angeles California on closing day,
+
+    the iconic bright yellow shopping bags scattered across the
+
+    floor, "70% OFF — STORE CLOSING" decorative English signs
+
+    everywhere, half-empty clothing racks, a single American female
+
+    shopper in casual clothes standing in the middle of the empty
+
+    aisle looking up at the giant overhead logo, dim afternoon
+
+    light through the storefront windows, the visual of "the day
+
+    the fast-fashion giant went bankrupt". Wide shot. Clearly Los
+
+    Angeles California USA mall setting. No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 2010s peak-era exterior of a flagship Forever 21-style
+
+    flagship store in Times Square New York City, a massive multi-
+
+    story store with the bright yellow brand sign blazing on the
+
+    facade, crowds of young American shoppers streaming in and out
+
+    carrying the iconic yellow plastic bags, vibrant bright sunny
+
+    afternoon, the visual of "a global fast-fashion empire at its
+
+    peak", glossy advertising on the walls. Wide shot. Clearly New
+
+    York City USA setting. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Clean retail-business infographic on soft pale-yellow background,
+
+    a stylized world map of the Earth with about 800 tiny yellow
+
+    shop pins scattered across 57 countries, a decorative English
+
+    label "800+ STORES IN 57 COUNTRIES", clean educational
+
+    infographic style. Pure infographic composition. Decorative
+
+    English text only. No people. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2017-2018, a typical young American Gen-Z woman in casual
+
+    clothes sitting on a sofa in Los Angeles California browsing a
+
+    smartphone screen showing decorative English app icons "SHEIN"
+
+    and "ZARA ONLINE", a half-finished iced coffee on the table,
+
+    a small Forever 21-style yellow shopping bag tossed aside on
+
+    the floor, the visual of "the customer moved online and the
+
+    stores were left behind", warm afternoon light. Mid-shot.
+
+    Clearly Los Angeles California USA setting. No Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    September 29th 2019, a tense modern corporate boardroom in Los
+
+    Angeles California, a generic 60-something Korean-American male
+
+    retail executive in a charcoal grey business suit and rectangular
+
+    metal-frame glasses, sitting at a long table with a printed
+
+    decorative English document "CHAPTER 11 — VOLUNTARY PETITION"
+
+    in front of him, three lawyers in dark suits around him, his
+
+    expression somber and composed, cool office lighting through
+
+    floor-to-ceiling windows. Mid close-up. Clearly Los Angeles
+
+    California USA setting. No Japanese text.
+
+    Character: {forever21_ceo}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same flagship Forever 21-style fast-fashion retail store interior
+
+    in Los Angeles California as panel 1, the iconic bright yellow
+
+    shopping bags still scattered on the floor, the same empty
+
+    clothing racks, this time the front door is being padlocked from
+
+    outside by an American mall security worker, a decorative English
+
+    sign in the window now reads "STORE PERMANENTLY CLOSED", dim
+
+    afternoon light through the storefront windows, no shoppers
+
+    visible, the empty loop image of "the global empire went dark".
+
+    Wide shot. Clearly Los Angeles California USA mall setting. No
+
+    Japanese text.
+
+    '
+ja:
+  title: 'FOREVER 21、世界一の店舗数だった巨人が消えた話 #Shorts'
+  description: '2019年、世界57カ国に800店舗を持ったFast Fashionの王者FOREVER 21が、突然破産を申請した。
+
+    なぜ、これほどの巨人が、たった数年で崩れたのか、その理由を30秒で解説します。
+
+
+    #Shorts #倒産 #Forever21 #FastFashion #SHEIN
+
+    '
+  hook_caption: FOREVER 21崩壊の理由
+  series_brand: バルトゥーン倒産企業
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 7年前の2019年、世界57カ国に800店舗を持っていた、Fast Fashionの王者FOREVER 21が、突然破産を申請した話を知っていますか?
+    caption: 2019年、FOREVER 21が破産申請
+  - panel: p2
+    text: 全盛期のFOREVER 21は、巨大モールの目玉テナントとして、若者を黄色い紙袋ごと飲み込む、世界最大級のFast Fashion帝国でした。
+    caption: 全盛期は世界最大級のFast Fashion帝国
+  - panel: p3
+    text: ピーク時には、世界57カ国に約800店舗を展開し、年商は約44億ドル。同じZARAやH&Mと並ぶ、業界三強の一角と、見られていました。
+    caption: 57カ国800店舗、年商44億ドル
+  - panel: p4
+    text: しかし2010年代後半から、若者の購買が、SHEINやオンラインに、急速に流れていきます。巨大なリアル店舗網が、逆に重い固定費として、経営を圧迫していったんです。
+    caption: 巨大店舗網が重い固定費に転落
+  - panel: p5
+    text: さらに国際展開でも、家賃の高い欧州や日本で、軒並み赤字。撤退コストが膨らみ、2019年9月、ついに連邦破産法11条を申請しました。
+    caption: 2019年9月、連邦破産法11条申請
+  - panel: p6
+    text: 結果、米国だけで350店舗以上が閉鎖。世界一の店舗数を誇った巨人は、時代の変化に、たった数年で押し流された、Fast Fashion終焉の象徴になりました。
+    caption: 米国だけで350店舗以上が閉鎖
+en:
+  title: 'Why Forever 21 Disappeared Almost Overnight #Shorts'
+  description: 'In 2019, Forever 21 went from 800 stores worldwide to filing for bankruptcy. Here''s how the fast-fashion giant collapsed in just a few years.
+
+
+    #Shorts #Forever21 #FastFashion #Business #Retail'
+  hook_caption: How The King of Fast Fashion Vanished
+  series_brand: Corporate Collapse
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: At its peak, Forever 21 was an unstoppable force in fast fashion, with massive flagships in places like Times Square.
+    caption: A Fashion Empire
+  - panel: p3
+    text: It was a global giant with 800 stores across 57 countries, pulling in over 4 billion dollars a year.
+    caption: 800 Stores Worldwide
+  - panel: p4
+    text: But their core audience started moving online, flocking to ultra-fast fashion brands like SHEIN.
+    caption: The Online Shift
+  - panel: p5
+    text: Suddenly, their giant stores became a crushing liability, and in September 2019, they filed for bankruptcy.
+    caption: Forced into Bankruptcy
+  - panel: p1
+    text: The king of fast fashion vanished almost overnight, becoming a symbol of how quickly trends can change.
+    caption: The Giant Disappeared

@@ -1,0 +1,59 @@
+id: love-mere-exposure
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a young woman noticing a male coworker she sees every
+      day, a small heart forming faintly, the visual of "someone you see daily slowly grows on you". Soft warm office light.
+  - id: p2
+    prompt: |
+      A clean psychology infographic showing a face appearing repeatedly, day 1, day 3, day 7,
+      with a rising "好感度" meter, the visual of
+      "repeated exposure raises liking". Clean infographic, soft palette.
+  - id: p3
+    prompt: |
+      A webtoon scene of brief, casual daily greetings between two coworkers — a nod, a hello,
+      a shared elevator — small moments accumulating, the visual of "tiny repeated contacts add up". Warm slice-of-life tone.
+  - id: p4
+    prompt: |
+      An infographic contrast: one long rare meeting versus many short frequent meetings, with
+      the frequent side glowing brighter, the visual
+      of "frequency beats duration". Clean comparison infographic.
+  - id: p5
+    prompt: |
+      A webtoon scene of the woman realizing she now looks forward to seeing him, a soft blush,
+      the visual of "you catch yourself
+      looking for them". Tender, warm tone.
+  - id: p6
+    prompt: |
+      A gentle webtoon scene of the two finally talking comfortably, warm light, a decorative
+      Japanese caption "好意は回数で育つ", the loop image of "affection grows with frequency".
+      Hopeful, soft romance tone.
+ja:
+  title: '会う回数が多いほど好きになる脳の仕組み #Shorts'
+  description: |
+    なぜ毎日顔を合わせる相手を、いつの間にか好きになってしまうのか。心理学では「単純接触効果」と呼ばれ、好意は会う時間の長さより回数で育つことが分かっています。恋愛で使える心理を30秒で解説します。
+
+    #Shorts #恋愛心理 #単純接触効果 #心理学 #恋愛
+  hook_caption: 会う回数が多いほど好きになる理由
+  series_brand: 恋愛科学
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 特別なことは何もしていないのに、毎日顔を合わせる人を、なぜか好きになっていた。そんな経験はありませんか。
+      caption: 毎日会う人をなぜか好きになる現象
+    - panel: p2
+      text: これは「単純接触効果」と呼ばれる心理です。人は、繰り返し接した相手に、自然と好感を持つようにできているんです。
+      caption: 繰り返し接すると好感が湧く単純接触効果
+    - panel: p3
+      text: ポイントは、特別な会話ではありません。軽い挨拶や、同じエレベーターに乗るような、小さな接触の積み重ねでいいんです。
+      caption: 軽い挨拶など小さな接触の積み重ねでいい
+    - panel: p4
+      text: しかも大事なのは、一回の長さより回数です。月に一度の長いデートより、毎日の短い接触のほうが、好意は育ちやすいんです。
+      caption: 一回の長さより会う回数のほうが効く
+    - panel: p5
+      text: だから気づいたときには、無意識にその人の姿を目で探している。あなたの心は、回数によって少しずつ動かされているんです。
+      caption: 気づけば無意識に相手を目で探している
+    - panel: p6
+      text: 好意は、劇的な出来事ではなく、回数で育つ。気になる人がいるなら、まず会う回数を増やすことが、いちばんの近道かもしれません。
+      caption: 気になる人とは会う回数を増やすのが近道

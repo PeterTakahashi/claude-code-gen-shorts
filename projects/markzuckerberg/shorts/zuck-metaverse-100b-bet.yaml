@@ -1,0 +1,160 @@
+id: zuck-metaverse-100b-bet
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 37-year-old Mark Zuckerberg standing in a dark Meta corporate office,
+
+    wearing a sleek matte-black VR headset over his eyes, his round face
+
+    lit blue from the headset''s internal glow visible at the edges, hands
+
+    raised slightly as if interacting with an invisible interface in front
+
+    of him, a plain dark t-shirt on his stockier muscular frame, the room
+
+    around him a polished modern office, October 2021. Mid-shot. Conveys
+
+    the moment one man committed his company''s future to virtual reality.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A wide establishing exterior shot of the Meta Platforms corporate campus
+
+    in Menlo Park California in October 2021, the iconic large outdoor sign
+
+    at the entrance being changed from the old blue "facebook" thumbs-up
+
+    logo on one side to a new blue infinity-loop "Meta" logo on the other,
+
+    construction workers visible on a small lift, bright California
+
+    daylight. Conveys a corporate identity transition.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 37-year-old Mark Zuckerberg standing on a brightly lit modern keynote
+
+    stage in October 2021, gesturing toward an enormous screen behind him
+
+    that displays a glowing blue Metaverse-themed graphic with floating
+
+    avatars and virtual environments, microphone clipped to his plain dark
+
+    t-shirt, an audience silhouette in the dark foreground, conveying the
+
+    Connect 2021 corporate announcement.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Extreme close-up product shot of a Meta Quest 2 standalone virtual
+
+    reality headset and two white plastic controllers, resting on a clean
+
+    white surface, the headset''s white matte plastic and elastic strap
+
+    detail clearly visible, the Meta logo subtly embossed, soft studio
+
+    lighting, the device that an entire corporation has bet its future on.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A close-up of a printed Meta Platforms quarterly earnings report on a
+
+    mahogany desk, with a clearly visible bar chart titled "Reality Labs
+
+    Operating Loss" showing increasing red bars year over year reaching
+
+    figures in the tens of billions of dollars, a pen and reading glasses
+
+    beside the page, conveying the massive ongoing financial cost of the
+
+    Metaverse bet. Cool office lighting.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A split-feel composition: on one side a 37-year-old Mark Zuckerberg in
+
+    a real Meta office wearing a VR headset, on the other side his stylized
+
+    cartoon-like Metaverse avatar visible on a large screen behind him,
+
+    bright but slightly empty virtual landscape in the avatar''s background,
+
+    the contrast between the real world and his virtual bet sharply lit.
+
+    The image of a man inside his own dream.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '37歳が $1000億 を Metaverse に賭けた話 #Shorts'
+  description: '2021年10月、Facebook 社が、社名を Meta に変更した日。マーク・ザッカーバーグが、会社の未来を Metaverse という賭けに、$1000億 規模で投じた話。
+
+
+    #Shorts #マークザッカーバーグ #Meta #Facebook #人物伝
+
+    '
+  hook_caption: $1000億 を Metaverse に賭けた男
+  series_brand: マーク・ザッカーバーグ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 会社の未来に、$1000億 規模を、たった一つの賭けに、投じた CEO がいます。
+    caption: 未来に $1000億 を賭けた CEO
+  - panel: p2
+    text: 2021年10月、メンローパーク、Facebook 社の年次イベント。
+    caption: 2021年10月、Facebook の年次イベント
+  - panel: p3
+    text: 37歳のマーク・ザッカーバーグは、こう宣言したんです——「これからは、Metaverse の時代だ」。
+    caption: 「これからは、Metaverse の時代だ」
+  - panel: p4
+    text: そして、その日、会社名は、Facebook から Meta に、変わりました。
+    caption: 社名が Facebook から Meta に変更
+  - panel: p5
+    text: VR 部門 Reality Labs は、毎年 $100億 以上の赤字を、出し続けることになります。
+    caption: VR 部門は毎年 $100億 超の赤字
+  - panel: p6
+    text: 市場は嘲笑し、株価は7割落ちた。それでも、彼は、賭け金を、引き下げない。Metaverse は、彼にとって、もう個人のアイデンティティに、なっているんです。
+    caption: 7割の株価暴落、それでも降りない
+en:
+  title: 'He Bet $100 Billion on the Metaverse #Shorts'
+  description: 'In October 2021, Mark Zuckerberg changed Facebook''s name to Meta, betting the company''s future on the Metaverse. This is the story of that $100 billion gamble.
+
+
+    #Shorts #MarkZuckerberg #Meta #Facebook #Business'
+  hook_caption: His $100 Billion Gamble
+  series_brand: The Mark Zuckerberg Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: This CEO bet his company's entire future—over $100 billion—on a single, unproven idea.
+    caption: A $100 Billion Bet
+  - panel: p3
+    text: In October 2021, a 37-year-old Mark Zuckerberg announced that Facebook would now be called Meta.
+    caption: Facebook becomes Meta
+  - panel: p4
+    text: He was going all-in on building the Metaverse, a new virtual reality for work, play, and connection.
+    caption: Building the Metaverse
+  - panel: p5
+    text: But the cost was staggering. His VR division began losing over $10 billion every single year.
+    caption: $10 Billion Annual Loss
+  - panel: p6
+    text: The market panicked and the stock crashed 70%. But Zuckerberg refuses to back down. For him, it's personal.
+    caption: He won't quit

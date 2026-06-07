@@ -1,0 +1,131 @@
+id: news-uketsu-dagger-shortlist
+parent_chapter: null
+image_style: photorealistic
+date_overlay: auto
+panels:
+  - id: p1
+    image_ref: "UK Crime Writers Dagger Award ceremony"
+    prompt: |
+      Cinematic photograph of a prestigious UK literary awards ceremony at
+      a grand London venue, elegant decor, the visual of "Britain's most
+      respected crime-writing award". Documentary press photography.
+  - id: p2
+    image_ref: "雨穴 変な絵 ホラー 小説"
+    prompt: |
+      Photoreal close-up of a Japanese hardcover mystery book on a wooden
+      table, the cover featuring a single unsettling line drawing, soft
+      side lighting suggesting late-night reading. Documentary photography.
+      Generic stylized book cover, no real titles.
+  - id: p3
+    image_ref: "翻訳本 海外出版 英語 日本文学"
+    prompt: |
+      Cinematic photograph of an English-translated Japanese novel on a
+      desk next to its Japanese original edition, the visual of "Japanese
+      mystery, translated for the world". Documentary photography.
+  - id: p4
+    image_ref: "London bookshop crime fiction"
+    prompt: |
+      Photoreal photograph of a cozy London bookshop window displaying
+      crime-fiction titles at golden hour, rainy reflections on the
+      pavement, the visual of "where the UK reads its mysteries".
+      Documentary travel photography.
+  - id: p5
+    image_ref: "Japanese horror mystery storytelling YouTube"
+    prompt: |
+      Cinematic close-up of a darkened Japanese home study with a single
+      desk lamp, a notebook and pen, faint silhouette of someone writing
+      late at night. Documentary atmospheric photography. No identifiable
+      faces.
+  - id: p6
+    image_ref: "Crime Writers Association UK history"
+    prompt: |
+      Photoreal photograph of an old leather-bound award certificate
+      embossed with the year "1955" on a dark wooden surface, the visual
+      of "a 70-year-old British literary tradition". Documentary
+      photography.
+  - id: p7
+    image_ref: "Tokyo bookstore Japanese reader"
+    prompt: |
+      Photoreal photograph of a Tokyo bookstore mystery section, a young
+      Japanese reader in a casual jacket browsing, soft warm interior
+      lighting. Documentary photography.
+  - id: p8
+    image_ref: "Tokyo street late night reader"
+    prompt: |
+      Cinematic photograph of a Japanese woman in her 20s reading a paper-
+      back novel on a late-night Tokyo train, warm interior light against
+      the dark city outside the window. Documentary atmospheric photography.
+  - id: p9
+    image_ref: "Japanese mystery novel translation overseas"
+    prompt: |
+      Photoreal photograph of a Western bookstore display showing a stack
+      of Japanese-translated mystery novels, a small "Japan Crime Fiction"
+      sign, the visual of "the new wave of J-mystery overseas". Documentary
+      photography.
+  - id: p10
+    image_ref: "publishing house editor desk manuscript"
+    prompt: |
+      Cinematic photograph of a publishing editor's desk piled with
+      manuscripts, a single open page glowing under a desk lamp, the visual
+      of "the gatekeepers behind a translation hit". Documentary photography.
+  - id: p11
+    image_ref: "Japanese cultural soft power abroad"
+    prompt: |
+      Photoreal cinematic photograph of a young Western reader at a
+      university library reading a Japanese-authored novel in English,
+      golden-hour light through tall windows. Documentary photography.
+  - id: p12
+    image_ref: "Japanese writer desk introspective"
+    prompt: |
+      Cinematic photograph of a quiet Tokyo writer's room — a tidy desk,
+      a closed laptop, a steaming cup of coffee, the visual of "from this
+      desk, a story crosses the world". Documentary photography. No people.
+
+ja:
+  title: "雨穴さん『変な絵』、英ダガー賞翻訳部門の最終候補に #Shorts"
+  description: |
+    Japan発のミステリー作家・雨穴さんの『変な絵』英訳版が、英国推理作家協会の「ダガー賞」翻訳部門の
+    最終候補に選出されました。70年の伝統を持つ権威ある賞での快挙の意味を、30秒で解説。
+
+    #Shorts #ニュース #国際 #雨穴 #ダガー賞 #日本文学
+  hook_caption: "雨穴『変な絵』、英ダガー賞最終候補"
+  series_brand: "雨穴、世界へ"
+  voice_speed: 1.25
+  voice_pitch: -0.10
+  narration:
+    - panel: p1
+      text: "イギリスの権威ある推理小説賞、「ダガー賞」。"
+      caption: "英ダガー賞、推理小説の権威"
+    - panel: p2
+      text: "その翻訳部門の最終候補に、日本のホラーミステリー作家、雨穴さんの『変な絵』が選ばれました。"
+      caption: "雨穴『変な絵』、最終候補入り"
+    - panel: p3
+      text: "ダガー賞は、英国推理作家協会が主催する、世界的に認知度の高い文学賞です。"
+      caption: "英国推理作家協会の主催"
+    - panel: p4
+      text: "創設は1955年。70年の歴史を持つ、ミステリーの本場・英国の最高級ステージ。"
+      caption: "1955年創設、70年の伝統"
+    - panel: p5
+      text: "雨穴さんは、YouTubeを起点に、独特のホラーミステリーで日本に大ヒットを生み出した作家です。"
+      caption: "YouTube発、独自のホラー作風"
+    - panel: p6
+      text: "「変な絵」は、一見おかしな絵をめぐる、現代的なミステリー長編。"
+      caption: "『変な絵』は、現代ミステリー長編"
+    - panel: p7
+      text: "翻訳部門の最終候補入りが意味するのは、英訳の質の高さと、テーマの普遍性、その両方が評価されたということ。"
+      caption: "英訳の質＋普遍性が、評価"
+    - panel: p8
+      text: "海外読者にとっての「日本ミステリー」は、これまで横溝正史や東野圭吾が中心でした。"
+      caption: "横溝・東野の系譜に、続く"
+    - panel: p9
+      text: "そこに、SNS時代から生まれた新世代の語り口が、ガチで国際舞台に乗ってきています。"
+      caption: "SNS世代の語り、国際舞台へ"
+    - panel: p10
+      text: "翻訳出版の世界でも、これは大きな一歩。"
+      caption: "翻訳出版にとって、大きな一歩"
+    - panel: p11
+      text: "日本のコンテンツが「面白い」から「読まれる」へ。流通の質が、変わってきました。"
+      caption: "「面白い」から「読まれる」へ"
+    - panel: p12
+      text: "東京の机から書かれた一冊が、ロンドンの読者の手に届く。文化の輸出は、もう「ジブリだけ」じゃない時代です。"
+      caption: "日本文化の輸出、新章に入る"

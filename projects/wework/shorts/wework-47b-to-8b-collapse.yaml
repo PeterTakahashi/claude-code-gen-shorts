@@ -1,0 +1,196 @@
+id: wework-47b-to-8b-collapse
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2019, the lavish penthouse executive office on the top floor of
+
+    WeWork headquarters in New York City, a very tall barefoot
+
+    Israeli-American man in his late 30s with long wavy dark brown
+
+    hair loose, black designer t-shirt and ripped designer jeans,
+
+    standing dramatically at floor-to-ceiling windows overlooking
+
+    the Manhattan skyline at sunset, a large red downward arrow
+
+    decorative graphic faintly visible across the window glass,
+
+    visual of "a king watching his kingdom crash". Wide mid-shot.
+
+    Clearly American Manhattan setting. No Japanese text.
+
+    Character: {neumann}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2010, an early dusty SoHo loft in lower Manhattan, the same now
+
+    30-year-old man, dark wavy hair, white plain t-shirt and faded
+
+    jeans, standing barefoot in front of long rough-hewn wooden
+
+    shared desks with mismatched chairs and laptops, a cofounder
+
+    (Miguel McKelvey, big bearded American man) beside him gesturing
+
+    enthusiastically, hipster-style exposed brick walls, plants in
+
+    pots, the original first WeWork coworking space, golden afternoon
+
+    light. Wide mid-shot. Clearly American Manhattan loft setting.
+
+    Character: {neumann}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern WeWork office floor in 2018, dozens of trendy young
+
+    professionals in casual clothes working at long communal wooden
+
+    tables under hanging Edison bulbs, an open kraft-paper keg of
+
+    free craft beer on the side, large neon wall sign reading
+
+    decorative English "DO WHAT YOU LOVE", potted plants everywhere,
+
+    glass-walled phone booths, the visual of "the most aspirational
+
+    coworking space in the world". Wide shot. American hipster
+
+    coworking aesthetic. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2017, a luxurious private corporate conference room in central
+
+    Tokyo Japan, on one side a 60-year-old short Japanese man in a
+
+    dark navy suit (clearly meant to suggest Masayoshi Son) and on
+
+    the other side the same tall barefoot Israeli-American man with
+
+    long wavy dark hair in a black t-shirt and jeans, leaning across
+
+    the table shaking hands enthusiastically, a stack of paper
+
+    contracts with a large decorative English "$10 BILLION" header
+
+    visible on top. The famous historic SoftBank investment moment.
+
+    Mid-shot. Clearly Japanese executive boardroom setting.
+
+    No Japanese text.
+
+    Character: {neumann}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    September 2019, a black-and-white front page of a major American
+
+    financial newspaper, decorative English headline reading
+
+    "WEWORK PULLS IPO AS VALUATION COLLAPSES FROM $47B TO $8B",
+
+    a smaller second article below reading "ADAM NEUMANN OUSTED AS
+
+    CEO", placed on a polished wooden desk under a single reading
+
+    lamp, financial-district skyline silhouette faintly visible
+
+    through a window in the background. Newspaper composition.
+
+    Decorative English text only. No people. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2019 / early 2020, an empty boarded-up WeWork office lobby
+
+    in Manhattan, the once-glowing yellow "We" logo above the
+
+    reception desk now dimmed and partially covered by a cardboard
+
+    box stack, a single late-night cleaning crew member in the
+
+    distance, dim lighting, plants wilting, a sense of an
+
+    aspirational empire that aged ten years in three months.
+
+    Wide shot. American empty office setting. No people in foreground.
+
+    No Japanese text.
+
+    '
+ja:
+  title: '470億ドルが80億ドルに溶けた日、WeWork崩壊 #Shorts'
+  description: '2019年、シェアオフィス WeWork は世界で最も注目された未上場企業の一つだった。
+
+    しかし、たった6週間で評価額は470億ドルから80億ドルへ激減。創業者のアダム・ニューマンは追放された。
+
+
+    #Shorts #WeWork #AdamNeumann #SoftBank #事件
+
+    '
+  hook_caption: 470億ドルが80億ドルに溶けた日
+  series_brand: WeWork崩壊
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 6週間で、評価額が470億ドルから、80億ドルへ。たった42日間で約5兆円が消えた、シリコンバレー史上最大の崩壊劇を、知っていますか?
+    caption: 6週間で評価額が約5兆円消えた
+  - panel: p2
+    text: 2010年、アダム・ニューマンが Manhattan の小さな loftで始めたシェアオフィス WeWork は、世界中の若者が憧れる働き方の象徴になっていきました。
+    caption: 2010年、Manhattanの小さな倉庫から
+  - panel: p3
+    text: 無料のクラフトビール、ヨガ、洗練された空間。WeWorkは、オフィスではなく、ライフスタイルを売る、と彼は語っていました。
+    caption: ビール・ヨガ・ライフスタイルを売る
+  - panel: p4
+    text: 2017年、SoftBankの孫正義は、彼にわずか28分で、100億ドルの投資を、即決しました。会社の評価額は、最終的に470億ドルに、達します。
+    caption: 2017年、孫正義が28分で100億ドル即決
+  - panel: p5
+    text: しかし2019年9月、IPOを準備するため公開された目論見書は、酷い財務と異常なガバナンスを、暴いてしまいました。投資家が一斉に離反し、彼は、CEOを追われます。
+    caption: 2019年、IPO直前で全てが暴かれた
+  - panel: p6
+    text: 評価額は80億ドルへ。たった42日間で、彼の理想郷は、その8割が、消えました。「ライフスタイルを売る会社」の、本当の値段が、世界に晒された瞬間です。
+    caption: 80億ドルへ、理想郷の8割が消えた
+en:
+  title: 'The $47 Billion Implosion of WeWork #Shorts'
+  description: 'In 2019, WeWork was one of the world''s most valuable startups. Just six weeks later, its valuation had collapsed by 80% and its charismatic founder was fired. This is the story of a spectacular
+    rise and an even more spectacular fall.
+
+
+    #Shorts #WeWork #AdamNeumann #SoftBank #Business'
+  hook_caption: How to Lose $39 Billion in 42 Days
+  series_brand: The WeWork Collapse
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: In just 42 days, a company valued at $47 billion suddenly cratered, losing nearly 80% of its worth.
+    caption: $39 Billion Vanished
+  - panel: p2
+    text: This was WeWork, which founder Adam Neumann had started in a single Manhattan loft back in 2010.
+    caption: From a single loft...
+  - panel: p3
+    text: He wasn't just selling desks; he was selling a 'lifestyle'—a community fueled by free beer and a revolutionary vision for work.
+    caption: '...to a global ''lifestyle'''
+  - panel: p4
+    text: The vision was so seductive that SoftBank's Masayoshi Son famously invested $10 billion after a meeting of less than 30 minutes.
+    caption: $10B in under 30 min
+  - panel: p5
+    text: 'But when the company filed to go public in 2019, its financial documents revealed the ugly truth: staggering losses and chaotic leadership.'
+    caption: The truth comes out
+  - panel: p6
+    text: The IPO was cancelled, Neumann was ousted, and the $47 billion dream came crashing down to reality.
+    caption: The dream collapses

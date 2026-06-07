@@ -1,0 +1,60 @@
+id: animals-bee-waggle-dance
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A close-up of a honeybee on a honeycomb performing a figure-eight dance, faint motion
+      trails tracing the "8" shape, other bees watching closely, the visual of "a bee telling friends where the flowers are".
+      Warm golden hive light.
+  - id: p2
+    prompt: |
+      A clean infographic of a honeybee waggle-dancing, a bold figure-eight path with an arrow
+      through the middle, a small sun icon in the corner, the visual of "the figure-eight waggle dance". Clean biology infographic.
+  - id: p3
+    prompt: |
+      An infographic linking the dance angle to the sun: the bee's straight run tilted at an
+      angle, a dotted line to the sun and a dotted line to a flower field, a decorative Japanese
+      caption "角度＝太陽からの方向", the visual of "the angle encodes direction". Clean diagram.
+  - id: p4
+    prompt: |
+      An infographic showing a stopwatch beside the waggling bee and a distance ruler to a
+      far flower field, the visual of
+      "the longer the waggle, the farther the flowers". Clean science illustration.
+  - id: p5
+    prompt: |
+      A vintage-style portrait scene of a 1900s European scientist watching bees through glass,
+      notebook in hand (no recognizable real face, generic researcher), a decorative Japanese
+      caption "解読でノーベル賞", the visual of "a scientist decoded the bee language". Warm study light.
+  - id: p6
+    prompt: |
+      A wide warm shot of the hive, many bees dancing and flying out toward a distant flower
+      field, the loop image of "a language without
+      words". Hopeful golden light.
+ja:
+  title: 'ミツバチは8の字ダンスで花の場所を伝えていた #Shorts'
+  description: |
+    言葉を持たないミツバチが、巣の中で「8の字ダンス」を踊り、仲間に花の方向と距離を正確に伝える。その解読はノーベル賞に輝きました。動物の知られざる言語を30秒で解説します。
+
+    #Shorts #動物雑学 #ミツバチ #生き物 #雑学
+  hook_caption: ミツバチは踊りで場所を伝える
+  series_brand: 言葉なき言語
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 言葉を持たないはずのミツバチが、仲間に花のありかを正確に伝えています。使うのは、巣の上で踊る一風変わったダンスです。
+      caption: ミツバチは踊りで花の場所を伝える
+    - panel: p2
+      text: 花を見つけた働きバチは、巣に戻ると「8の字」を描くように踊り始めます。これが、彼らの言葉なんです。
+      caption: 巣に戻ると8の字を描いて踊る
+    - panel: p3
+      text: 踊る向きには意味があります。太陽を基準にした角度が、そのまま花のある方向を示しているんです。
+      caption: ダンスの角度が花の方向を示す
+    - panel: p4
+      text: さらに、お尻を震わせる時間の長さが、距離を表します。長く震えるほど、花は遠い、という仕組みです。
+      caption: 震える時間の長さが距離を表す
+    - panel: p5
+      text: この「ダンスの言葉」を解き明かした科学者は、その功績でノーベル賞を受賞しました。それほど、衝撃的な発見だったんです。
+      caption: 解読した科学者はノーベル賞を受賞した
+    - panel: p6
+      text: 言葉なき小さな体に、方向と距離を伝える言語がある。私たちはまだ、自然の会話のほんの一部しか、聞き取れていないのかもしれません。
+      caption: 自然の会話を私たちはまだ理解しきれていない

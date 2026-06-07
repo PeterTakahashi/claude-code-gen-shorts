@@ -1,0 +1,179 @@
+id: larrypage-pagerank-stanford
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A dim Stanford graduate-student dorm room in California, around 2 AM in early
+
+    1996. A 23-year-old Larry Page, just woken from a vivid dream, sitting up on
+
+    the edge of a single bed in a wrinkled t-shirt, scribbling furiously with a
+
+    pen on a yellow legal pad, eyes wide open with quiet intense focus, a small
+
+    desk lamp casting warm light across stacks of papers and a beige CRT monitor
+
+    in the background. Papers scattered on the floor. The exact moment a 23-year-old
+
+    grad student wrote down the idea that would become Google. Wide mid-shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Summer 1995, sunlit Stanford University campus walkway with palm trees and
+
+    sandstone arches. A 22-year-old Larry Page meeting a 21-year-old Sergey Brin
+
+    for the first time during a campus tour, the two young men walking and
+
+    arguing animatedly about almost everything, Sergey gesturing energetically
+
+    mid-sentence, Larry quietly amused but already pushing back, summer
+
+    California sunlight. The famous first meeting — they disagreed on every
+
+    topic that day, then became inseparable.
+
+    Characters: {subject_young}, {cofounder_sergey}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1996, the cramped Stanford Gates computer science building grad student
+
+    office at midnight. Larry Page and Sergey Brin hunched over two beige CRT
+
+    monitors side by side, Larry quietly typing while Sergey points at the screen
+
+    arguing a point, the office wall behind them covered in printed research
+
+    papers and hand-written diagrams with the word "BackRub" visible on a taped
+
+    note, cables snaking across the floor, half-empty soda cans, a single desk
+
+    lamp casting amber light. The grimy birthplace of a search engine.
+
+    Characters: {subject_young}, {cofounder_sergey}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A stylized close-up of a 1996-era CRT computer screen showing a
+
+    hand-drawn-looking diagram of web pages as nodes connected by glowing arrows
+
+    representing hyperlinks, some nodes drawn larger than others, with a
+
+    faintly visible academic paper title "The Anatomy of a Large-Scale
+
+    Hypertextual Web Search Engine" reflected on a young man''s glasses-less
+
+    face leaning in close, the room dark behind. The visual essence of the
+
+    PageRank algorithm — pages voting for pages.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    1997, a Stanford dorm room turned data center. A makeshift server rack
+
+    built from colorful LEGO bricks holding bare hard drives stacked vertically,
+
+    tangled rainbow ribbon cables, a small ceiling fan struggling to cool the
+
+    hardware, Larry Page kneeling beside it inspecting a cable with a quiet
+
+    half-smile, the homemade contraption humming. The famous Lego-server origin
+
+    story of Google''s first crawler infrastructure.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1997, Larry Page alone at his Stanford office desk at dawn, the warm
+
+    orange light of sunrise just starting to come through a window behind him,
+
+    a beige CRT monitor showing a simple text list of ranked web search
+
+    results, his face lit softly by the screen, expression quietly amazed —
+
+    the look of a young man realizing his algorithm actually works. Over-shoulder
+
+    framing, the screen as hero element. The quiet moment a world-changing
+
+    idea first works.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: 'Stanford院生が世界を変えた論文 #Shorts'
+  description: '1996年、Stanford大学院生のラリー・ペイジが、Webを「リンクの引用関係」として
+
+    分析する論文を発表した。それが、後のGoogleとなるPageRankの誕生だった。
+
+
+    #Shorts #ラリーペイジ #Google #Stanford #人物伝
+
+    '
+  hook_caption: ある夢から世界が変わった
+  series_brand: ラリー・ペイジ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: ある夢から、世界最大の検索エンジンが生まれた話です。
+    caption: ある夢から世界最大の検索が誕生
+  - panel: p2
+    text: 1996年、Stanford大学院生のラリー・ペイジは、ある夜、Webの全リンクをダウンロードする夢を見て、目を覚ましました。
+    caption: 1996年、Stanford院生時代
+  - panel: p3
+    text: 彼は前年、同じ研究室で、セルゲイ・ブリンと出会っていました。最初は、ほぼ全ての話題で意見が対立していたんです。
+    caption: 1995年、Sergey Brinと出会う
+  - panel: p4
+    text: 2人は、論文の引用関係のように、リンクが多いページほど重要だ、と考え、その仕組みをBackRubと名付けました。
+    caption: BackRubプロジェクト始動
+  - panel: p5
+    text: サーバーの予算が足りず、LEGOで自作のラックを組み、寮の部屋でWebをクロールし続けました。
+    caption: LEGOで自作サーバーを構築
+  - panel: p6
+    text: そして、その2年後、彼らは、その論文の技術を、Googleという会社にするんです。
+    caption: 2年後、Googleを創業
+en:
+  title: 'How a Dream Became The World''s Biggest Search Engine #Shorts'
+  description: 'It started with a dream. Stanford Ph.D. student Larry Page had an idea to rank web pages by their links. That project, built with Sergey Brin in a dorm room, would become Google.
+
+
+    #Shorts #Google #LarryPage #Stanford #TechHistory'
+  hook_caption: A 2 AM Dream That Changed The Internet
+  series_brand: The Story of Larry Page
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1995, grad students Larry Page and Sergey Brin met at Stanford. They argued about almost everything.
+    caption: An unlikely pair
+  - panel: p1
+    text: 'Then one night, Larry woke from a dream with a wild idea: what if you could map the entire web based on how pages link to each other?'
+    caption: A world-changing dream
+  - panel: p4
+    text: 'The insight was simple but brilliant: a link was like a vote. The more ''votes'' a page had, the more important it was.'
+    caption: Ranking the web
+  - panel: p3
+    text: He and Sergey teamed up, naming their ambitious project 'BackRub' and getting to work in their cluttered grad student office.
+    caption: Project 'BackRub' begins
+  - panel: p5
+    text: With no money for real servers, they built a custom data rack from LEGO bricks right in their dorm room.
+    caption: LEGO-powered server
+  - panel: p6
+    text: Just two years later, that dorm room project became a company. They called it Google.
+    caption: Google is born

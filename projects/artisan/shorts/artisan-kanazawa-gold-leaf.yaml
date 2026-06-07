@@ -1,0 +1,61 @@
+id: artisan-kanazawa-gold-leaf
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A breathtaking close-up of an artisan's hand lifting a glowing thin sheet of pure gold
+      leaf with bamboo tweezers, the leaf so thin it ripples like air, warm workshop light, the
+      visual of "Japan's gold leaf, thin enough to see through". Awe-inspiring artisan tone.
+  - id: p2
+    prompt: |
+      A wide shot of a Kanazawa workshop in winter: traditional wooden building, snow outside,
+      Japanese craftsmen pounding gold between thick paper, the visual of "almost all of Japan's
+      gold leaf is made in one city". Warm artisan historical tone.
+  - id: p3
+    prompt: |
+      A clean infographic of Japan with a single bright dot on Kanazawa, a "99%" caption beside
+      it, the visual of "99 percent of Japan's gold leaf is made here". Clean serious
+      infographic.
+  - id: p4
+    prompt: |
+      A detailed scene of a craftsman repeatedly hammering a small lump of gold sandwiched
+      between sheets of special paper, sweat on his brow, the visual of "pounded thinner than
+      one-ten-thousandth of a millimeter". Tense artisan tone.
+  - id: p5
+    prompt: |
+      A serene scene of finished gold leaf being applied to a temple ceiling, a Buddha statue,
+      and a traditional lacquer bowl, the visual of "Kyoto's golden temples and altars depend
+      on Kanazawa". Reverent, glowing tone.
+  - id: p6
+    prompt: |
+      A reflective shot of an aging master gold-beater under warm light, a young apprentice
+      watching his hammer fall, the loop image of "a 400-year-old craft, kept alive by a few
+      hands". Quiet, proud light.
+ja:
+  title: '金沢の金箔職人、日本の金箔99%を作る町 #Shorts'
+  description: |
+    石川県金沢市は、400年以上にわたって金箔を作り続けてきた町。今も日本で流通する金箔の99%以上が、ここで作られている。一万分の一ミリより薄い金を打ち出す、職人の技を30秒で解説します。
+
+    #Shorts #老舗 #金沢 #金箔 #職人
+  hook_caption: 日本の金箔99%を作る町
+  series_brand: 老舗の流儀
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 一万分の一ミリより薄い、金の板。光を当てれば、向こう側が透けて見えるほどです。これが、日本の金箔です。
+      caption: 一万分の一ミリより薄い、日本の金箔
+    - panel: p2
+      text: この金箔は、ほぼ全てが、石川県金沢市で作られています。江戸時代の前期から、400年以上続く伝統技術なんです。
+      caption: 400年以上続く、金沢の伝統技術
+    - panel: p3
+      text: その集中ぶりは、極端です。今も、日本で使われる金箔の、実に99パーセント以上が、この一つの町で生まれています。
+      caption: 国内流通の99%以上が金沢産
+    - panel: p4
+      text: 製法は、ひたすら叩くこと。職人が、和紙の間に挟んだ金の塊を、何千回と打ち延ばし、息ができるほど薄くしていきます。
+      caption: 和紙の間で何千回も金を打ち延ばす
+    - panel: p5
+      text: 出来上がった金箔は、京都の金閣寺や、各地の仏像、漆器を彩ります。日本の輝きの多くは、金沢の職人の手から生まれているのです。
+      caption: 金閣寺も仏像も、金沢の手から生まれる
+    - panel: p6
+      text: しかし今、この技を継ぐ職人は、年々減っています。一万分の一ミリの世界を、誰がこの先、引き継いでいくのでしょうか。
+      caption: 一万分の一ミリの世界を、誰が継ぐのか

@@ -1,0 +1,59 @@
+id: mens-mirroring
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon cafe scene of a man and woman on a date, the man subtly taking a
+      sip of his drink just as she does, a faint sense of sync, the visual of "subtly matching her movements". Warm cafe light.
+  - id: p2
+    prompt: |
+      A psychology infographic of two figures mirroring posture and gestures, a soft "信頼" glow
+      between them, the visual of "mirroring builds
+      rapport". Clean infographic, warm palette.
+  - id: p3
+    prompt: |
+      A webtoon scene showing the man matching her speaking pace and tone, small sound waves
+      in sync, the visual of "match her
+      rhythm, not just gestures". Warm conversation scene.
+  - id: p4
+    prompt: |
+      A do-and-dont infographic: subtle natural mirroring (good) versus copying every move
+      instantly (bad, crossed out, looks creepy), the visual of "overdoing it feels creepy". Clean honest infographic.
+  - id: p5
+    prompt: |
+      A webtoon scene with a small timing note: mirror gently a few seconds later, the woman
+      relaxed and comfortable, the visual of
+      "delay it slightly so it feels natural". Warm, easy tone.
+  - id: p6
+    prompt: |
+      A relaxed webtoon scene of the two laughing comfortably, clearly in sync, a decorative
+      Japanese caption "安心感が生まれる", the loop image of "she feels at ease with you".
+      Warm hopeful date tone.
+ja:
+  title: '相手に好印象を与えるミラーリングの正しい使い方 #Shorts'
+  description: |
+    相手の仕草や話すペースをさりげなく合わせる「ミラーリング」。人は自分と似た相手に無意識の安心感を抱くため、信頼関係を早く築けます。デートで使える心理テクを、やりすぎ注意点まで30秒で解説します。
+
+    #Shorts #恋愛 #ミラーリング #心理学 #モテ
+  hook_caption: 好印象を与えるミラーリングの使い方
+  series_brand: メンズ恋愛
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: デート中に、相手が飲み物を口にしたら、自分も少し遅れて口にする。たったこれだけで、相手の心は開きやすくなります。
+      caption: 相手の動きにさりげなく合わせるだけ
+    - panel: p2
+      text: これは「ミラーリング」と呼ばれる心理です。人は、自分と似た仕草の相手に、無意識のうちに安心感と親しみを抱くんです。
+      caption: 似た仕草の相手に無意識の安心感を抱く
+    - panel: p3
+      text: 合わせるのは、動きだけではありません。話すスピードや声のトーンをそろえると、会話のリズムが心地よくなります。
+      caption: 話すペースや声のトーンも合わせる
+    - panel: p4
+      text: ただし、やりすぎは禁物です。一挙一動を即座に真似すると、不自然で、かえって気味悪がられてしまいます。
+      caption: 全部を即真似するのは不自然で逆効果
+    - panel: p5
+      text: コツは、数秒だけ遅らせて、さりげなく合わせること。相手に気づかれないくらいが、ちょうどいい加減なんです。
+      caption: 数秒遅らせて気づかれない程度に合わせる
+    - panel: p6
+      text: 自然なミラーリングは、言葉以上に「あなたといると落ち着く」と伝えます。まずは飲み物のタイミングから、試してみてください。
+      caption: まずは飲み物のタイミングから試してみて

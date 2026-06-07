@@ -1,0 +1,62 @@
+id: jp-taxi-auto-door
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon street scene of a Japanese taxi pulling up, its rear passenger
+      door swinging open by itself, a Western tourist jumping back in surprise, a decorative
+      Japanese caption "ドアが勝手に開いた", the visual of "the taxi door opens on its own".
+      Bright city-street light.
+  - id: p2
+    prompt: |
+      A close-up of the tourist staring wide-eyed at the automatically opening taxi door,
+      the calm driver inside, the visual of
+      "it looks like magic to a foreigner". Lighthearted city tone.
+  - id: p3
+    prompt: |
+      An infographic cutaway of the driver operating a lever to open the rear door remotely,
+      the visual of "the driver opens it
+      with a lever". Clean explanatory infographic.
+  - id: p4
+    prompt: |
+      A warm illustration of the meaning: a gesture of hospitality so the guest needn't touch
+      the door, the visual of "a small act of
+      hospitality". Warm, gentle tone.
+  - id: p5
+    prompt: |
+      A webtoon scene of the impressed tourist settling into the spotless taxi, white seat
+      covers, a polite gloved driver, the visual
+      of "clean seats, white gloves, polite service". Refined warm tone.
+  - id: p6
+    prompt: |
+      A closing scene of the taxi driving off, the door closing by itself, the tourist smiling
+      and waving, the loop image of "everyday
+      kindness that amazes the world". Warm city light.
+ja:
+  title: '外国人が驚く、勝手に開く日本のタクシーのドア #Shorts'
+  description: |
+    日本のタクシーは、乗ろうとすると後部ドアが勝手に開く。海外では自分で開けるのが普通なため、外国人観光客は「魔法だ」と驚く。日本人には当たり前のおもてなしを、30秒で解説します。
+
+    #Shorts #日本 #タクシー #海外の反応 #日本文化
+  hook_caption: 外国人が驚く、勝手に開くタクシーのドア
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 日本でタクシーに乗ろうとした外国人が、思わず後ずさりしました。手を触れていないのに、後部座席のドアが、勝手に開いたからです。
+      caption: 触れていないのにドアが勝手に開く
+    - panel: p2
+      text: 海外では、タクシーのドアは自分で開けるのが当たり前。だから彼らには、まるで魔法のように見えるんです。
+      caption: 海外では自分で開けるのが当たり前
+    - panel: p3
+      text: 仕掛けはシンプルです。運転手が、運転席のレバーを操作して、ドアを遠隔で開け閉めしているんです。
+      caption: 運転手がレバーで遠隔操作している
+    - panel: p4
+      text: ただ、ここに日本らしさがあります。これは単なる便利機能ではなく、お客様に手間をかけさせない、おもてなしの心の表れなんです。
+      caption: 手間をかけさせないおもてなしの心
+    - panel: p5
+      text: 清潔な白いシートカバー、手袋をした丁寧な運転手。外国人は、ドアだけでなく、その細やかな気遣いにも驚かされます。
+      caption: 清潔な座席と丁寧な運転手にも驚く
+    - panel: p6
+      text: 日本人には当たり前すぎて、気づきもしないこの一手間。世界の人を驚かせる凄さは、いつも足元に隠れているのです。
+      caption: 世界を驚かせる凄さは足元に隠れている

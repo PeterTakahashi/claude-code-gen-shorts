@@ -1,0 +1,60 @@
+id: physics-earth-tunnel
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic cross-section illustration of the Earth with a straight tunnel drilled
+      pole-to-pole, a tiny person diving in head-first at the top, a decorative Japanese
+      caption "地球を貫く穴に飛び込んだら", the visual of "diving into a hole through the
+      whole Earth". Cinematic science-illustration style.
+  - id: p2
+    prompt: |
+      A cross-section of Earth with the falling person accelerating downward, speed lines and
+      an arrow growing, glowing hot mantle around the tunnel, the visual of "falling faster and faster toward the center". Dynamic diagram.
+  - id: p3
+    prompt: |
+      A diagram at Earth's core: the person blazing through the center at maximum speed,
+      a speedometer pegged high, the visual of
+      "rocketing through the center at huge speed". Intense science illustration.
+  - id: p4
+    prompt: |
+      A cross-section showing the person now slowing as they rise toward the far side, arrow
+      shrinking, the visual of "slowing down as
+      you climb to the other side". Clean physics diagram.
+  - id: p5
+    prompt: |
+      A diagram of the person reaching the far opening, momentarily floating at the surface,
+      a stopwatch reading about 42 minutes, the visual
+      of "you arrive at the other side in 42 minutes". Clean infographic.
+  - id: p6
+    prompt: |
+      A whimsical cross-section of the person oscillating back and forth through the Earth
+      tunnel like a pendulum, dotted motion path, the loop image of "bouncing forever through the planet". Playful science tone.
+ja:
+  title: '地球を貫く穴に飛び込んだら何が起きるか #Shorts'
+  description: |
+    もし地球の中心を貫く穴を掘り、そこに飛び込んだら何が起きるのか。空気抵抗がなければ、人はわずか42分で地球の反対側に到達し、振り子のように往復し続ける。物理の不思議を30秒で解説します。
+
+    #Shorts #物理 #思考実験 #地球 #雑学
+  hook_caption: 地球を貫く穴に飛び込んだら
+  series_brand: 30秒の思考実験
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: もし地球の反対側まで、まっすぐ穴を掘って飛び込んだら、どうなると思いますか。空気抵抗がないと仮定して、考えてみましょう。
+      caption: 地球を貫く穴に飛び込んだらどうなる
+    - panel: p2
+      text: 飛び込んだあなたは、重力に引かれてどんどん加速します。中心に近づくほど、速度は上がり続けます。
+      caption: 重力に引かれて中心へ加速する
+    - panel: p3
+      text: 中心を通過する瞬間、速度は時速およそ4万キロにも達します。これは、ロケットすら超える猛烈なスピードです。
+      caption: 中心通過時は時速約4万kmに達する
+    - panel: p4
+      text: ところが中心を過ぎると、今度は重力がブレーキになります。反対側へ昇るにつれて、あなたは少しずつ減速していきます。
+      caption: 中心を過ぎると重力がブレーキになる
+    - panel: p5
+      text: そして地球の反対側に着くのは、飛び込んでからわずか42分後。地球のどこを貫いても、片道42分で着く計算になります。
+      caption: 反対側まで片道わずか42分で着く
+    - panel: p6
+      text: しかも、つかまり損ねれば、あなたは振り子のように地球を往復し続けます。掘る前に、向こう側で誰かが待っていてくれるか、確認しておくべきですね。
+      caption: つかまり損ねると永遠に往復し続ける

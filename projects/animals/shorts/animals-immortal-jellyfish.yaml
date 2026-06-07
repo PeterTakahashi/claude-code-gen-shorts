@@ -1,0 +1,86 @@
+id: animals-immortal-jellyfish
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+      A tiny translucent bell-shaped jellyfish (Turritopsis) floating in deep dark
+      blue ocean water, its core glowing bright red like a cross inside the clear
+      bell, fine delicate tentacles trailing, faint bioluminescent glow around it,
+      a small decorative English caption "BIOLOGICALLY IMMORTAL", the visual of "an
+      animal that does not die of old age". Subject filling the square center for
+      vertical short layout with blurred padding above/below. Eerie wondrous deep-sea
+      tone. Decorative English text only. No Japanese text.
+  - id: p2
+    prompt: |
+      Square 1:1 anime/webtoon style infographic-style panel.
+      Clean marine-biology infographic on a deep-blue background, a circular life-cycle
+      loop diagram with thick glowing yellow arrows, showing an adult red-cored
+      jellyfish transforming into a blob, then into a small stalk-like polyp, then
+      growing back into an adult jellyfish, decorative English labels "ADULT —
+      REVERT — POLYP — REBORN", the visual of "growing up, then growing young again".
+      Clean educational infographic style. Decorative English text only.
+      No Japanese text.
+  - id: p3
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A split underwater comparison scene, on the left an ordinary jellyfish drifting
+      downward fading and dying into the dark, on the right the same red-cored
+      Turritopsis collapsing into a small gelatinous blob then settling onto a rock
+      as a tiny polyp, soft beams of light through the water, a decorative English
+      caption "OTHERS DIE — IT RESETS", the visual of "rewinding instead of dying".
+      Mid-shot underwater. Decorative English text only. No Japanese text.
+  - id: p4
+    prompt: |
+      Square 1:1 anime/webtoon style infographic-style panel.
+      Clean science infographic on a dark teal background, a stylized close-up of
+      cells visibly changing from one type into another with glowing transformation
+      arrows, a bold decorative English headline "TRANSDIFFERENTIATION" and a smaller
+      caption "CELLS REWIND THEIR OWN TYPE", the visual of "the body turning its
+      clock backwards". Infographic composition. Decorative English text only.
+      No Japanese text.
+  - id: p5
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A laboratory microscope view, a glowing circular lens field showing the tiny
+      red-cored immortal jellyfish in crisp detail, a scientist's silhouette and
+      blue lab light behind, a thin decorative English caption "NEVER DIES OF AGE",
+      the visual of "humans studying a creature that won't age". Mid-shot.
+      Decorative English text only. No Japanese text.
+  - id: p6
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Same tiny translucent red-cored Turritopsis jellyfish glowing in deep dark blue
+      water as panel 1, now surrounded by a soft eternal halo of light, a thin
+      decorative English caption "THE ANIMAL THAT WON'T DIE", the loop image of
+      "immortality already exists in the sea". Subject filling the square center for
+      vertical short layout with blurred padding above/below. Decorative English text
+      only. No Japanese text.
+ja:
+  title: '老いると若返る不老不死のクラゲ、ベニクラゲ #Shorts'
+  description: |
+    老いると体を巻き戻し、子供の姿に若返って何度でもやり直す。寿命では死なない不老不死の生き物、ベニクラゲの正体を30秒で解説します。
+
+    #Shorts #動物雑学 #ベニクラゲ #不老不死 #海洋生物
+  hook_caption: 老いると若返る不老不死のクラゲ
+  series_brand: 不老不死のクラゲ
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 老いると、子供に戻ってやり直す——そんな不老不死の生き物が、実在します。ベニクラゲです。
+      caption: 不老不死の生き物、ベニクラゲ
+    - panel: p2
+      text: 普通の生き物は、成長したら老いて死ぬ。ところがベニクラゲは、老いたり傷ついたりすると、体を一度ゼリー状に戻すんです。
+      caption: 老いると体をゼリー状に戻す
+    - panel: p3
+      text: そしてそこから、子供の段階であるポリプへと逆戻りし、また一から成長を、やり直します。
+      caption: 子供のポリプに逆戻りして再成長
+    - panel: p4
+      text: これは細胞が、別の種類の細胞へ作り変わる「分化転換」という現象。いわば、体の時間を巻き戻しているんです。
+      caption: 細胞が時間を巻き戻す「分化転換」
+    - panel: p5
+      text: 理論上、この若返りは何度でも繰り返せる。だからベニクラゲは、寿命では死なない生き物だと言われます。
+      caption: 寿命では死なない生き物
+    - panel: p6
+      text: 食べられさえしなければ、永遠に生き続ける。不老不死の鍵は、海の小さなクラゲが、すでに持っていたのかもしれません。
+      caption: 不老不死の鍵は海の中にあった

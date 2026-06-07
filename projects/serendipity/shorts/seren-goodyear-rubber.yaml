@@ -1,0 +1,64 @@
+id: seren-goodyear-rubber
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A 19th century American kitchen workshop in winter 1839, a haggard middle-aged man in
+      a rough shirt holding a lump of sticky natural rubber, accidentally dropping it onto
+      a hot iron stove, a small puff of smoke rising, the visual of "the day he dropped
+      rubber onto a hot stove". Warm vintage tone.
+  - id: p2
+    prompt: |
+      A close-up of the rubber on the stove transforming — instead of melting, it hardens
+      into a tough rubbery sheet, a small thought bubble of surprise above the man, the
+      visual of "the rubber didn't melt, it cured". Curious vintage workshop tone.
+  - id: p3
+    prompt: |
+      An infographic explaining the chemistry simply, a decorative English label "RUBBER +
+      SULFUR + HEAT", three small cartoon polymer chains being cross-linked by sulfur
+      bridges, the visual of "heat plus sulfur creates cross-links". Clean science
+      illustration.
+  - id: p4
+    prompt: |
+      A 19th century factory scene of vulcanized rubber being shaped into boots, tires, and
+      industrial belts, workers carrying finished rubber goods, the visual of "the discovery
+      that built the rubber industry". Warm period factory illustration.
+  - id: p5
+    prompt: |
+      A montage of modern uses — car tires, sneaker soles, surgical gloves, sealing rings
+      — radiating outward from a central rubber ball, a decorative English caption
+      "EVERYWHERE TODAY", the visual of "vulcanized rubber is in everything around us
+      today". Clean modern infographic.
+  - id: p6
+    prompt: |
+      A reflective scene of Charles Goodyear holding the small rubber lump from panel 1,
+      soft warm light, a decorative Japanese caption "うっかりが世界を変えた", the loop image of
+      "one accidental drop reshaped industry forever". Inspiring, gentle tone.
+ja:
+  title: 'ストーブに落ちたゴムが、世界を変えた話 #Shorts'
+  description: |
+    1839年、貧しい発明家チャールズ・グッドイヤーが、ベタつくゴムの塊を、うっかり熱いストーブの上に落としてしまった。すると、溶けるはずのゴムが、丈夫な素材に変化した。タイヤや工業を支える「加硫ゴム」誕生の偶然を30秒で解説します。
+
+    #Shorts #偶然の発見 #加硫ゴム #グッドイヤー #雑学
+  hook_caption: ストーブに落としたゴムが世界を変えた
+  series_brand: 偶然が変えた世界
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1839年、アメリカの貧しい発明家チャールズ・グッドイヤーは、ベタついて夏は溶ける天然ゴムを、なんとか実用化しようと、何年も格闘していました。
+      caption: 1839年、ゴムを実用化したい男
+    - panel: p2
+      text: ある冬の日、彼は硫黄を混ぜたゴムの塊を、うっかり熱いストーブの上に、落としてしまいます。ところが、溶けるはずのゴムは、なぜか丈夫な素材に変わっていました。
+      caption: 落としたゴムが溶けず丈夫に変化
+    - panel: p3
+      text: のちにわかるのは、加熱によって硫黄がゴムの分子をつなぎ、網目状の構造を作っていたことです。これが「加硫」と呼ばれる現象でした。
+      caption: 加熱でゴム分子が架橋される加硫
+    - panel: p4
+      text: この加硫ゴムは、熱でも冷気でも、形を保ち続けます。やがてブーツや工業ベルト、自動車のタイヤへと、急速に応用が広がっていきました。
+      caption: ブーツ、ベルト、タイヤへ広がる
+    - panel: p5
+      text: 現代の自動車タイヤ、スニーカー、医療用手袋、密封リングまで、ほぼ全ての弾力性のあるゴム製品は、この加硫の技術の上に、成り立っています。
+      caption: 現代のあらゆるゴム製品の土台に
+    - panel: p6
+      text: たった一度の「うっかり」がなければ、加硫ゴムの発明は、何十年も遅れていたかもしれません。偶然は、諦めずに観察し続けた人の手元に、落ちてきたんです。
+      caption: 諦めず観察した人に偶然は落ちる

@@ -1,0 +1,73 @@
+id: news-eth-etf-1year
+parent_chapter: null
+image_style: photorealistic
+panels:
+  - id: p1
+    prompt: |
+      Macro close-up photograph of a single shiny silver Ethereum logo coin
+      sitting on a dark surface, sharp focus, a glowing green stock chart line
+      rising in the deep background, a soft caption "$20B" floating beside it.
+      The visual of "Ether spot ETFs cross $20B AUM one year in".
+      Documentary photography quality.
+  - id: p2
+    prompt: |
+      Photoreal newsroom — a Japanese female TV news anchor in her late 20s in
+      a navy blazer behind a modern Tokyo news desk, behind her a large studio
+      monitor showing the Ethereum logo next to a chart labelled "ETH 現物ETF
+      1年". Composed broadcast lighting.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      Realistic photo of a Wall Street brokerage trading floor at dawn —
+      institutional traders in suits in front of curved monitors showing ETF
+      inflow tables and Ethereum charts, the visual of "institutional money
+      flowing into ETH ETFs as well as BTC". Modern photography.
+  - id: p4
+    prompt: |
+      Clean photoreal infographic composite — left half a Bitcoin logo with
+      "$150B", right half an Ethereum logo with "$20B", a thin glowing arrow
+      between them, the visual of "BTC ETF is bigger, but ETH is catching up".
+      Modern financial news look. No people.
+  - id: p5
+    prompt: |
+      Photoreal close-up of a Japanese investor in his 30s in a Tokyo
+      apartment, looking at his smartphone showing his crypto holdings and a
+      news headline about Japanese spot ETF discussions, the visual of "Japanese
+      retail eyes the next move". Documentary photography.
+  - id: p6
+    prompt: |
+      Photoreal newsroom — the same anchor at her desk, behind her a split-
+      screen monitor: left an Ethereum logo, right a chart of ETF inflows.
+      A calm explanatory closing shot.
+      Character: {anchor}.
+
+ja:
+  title: "イーサリアム現物ETF、上場1年で200億ドル超に成長 #Shorts"
+  description: |
+    2024年に米国で承認されたイーサリアム現物ETF。
+    上場1年で運用残高が200億ドルを突破し、機関投資家マネーが本格流入。
+    BTCに続く資産クラスとしての地位を固めつつある背景を、30秒で解説。
+
+    #Shorts #ニュース #仮想通貨 #イーサリアム #ETF
+  hook_caption: "ETH ETF、1年で200億ドル"
+  series_brand: "ETHが本気で動く"
+  voice_speed: 1.35
+  narration:
+    - panel: p1
+      text: "イーサリアムの現物ETFが、米国で上場してちょうど1年。運用残高は、200億ドルを超えました。"
+      caption: "ETH現物ETF、200億ドル超え"
+    - panel: p2
+      text: "ビットコインに続いて承認されたETHのETFは、当初こそ「弱い兄弟」と見られていました。それが、機関投資家の流入で、化けつつあります。"
+      caption: "上場1年で、資金が本格流入"
+    - panel: p3
+      text: "背景にあるのが、ETH特有の「ステーキング」収益。米SECがETF内でのステーキングを段階的に認める方針を示したことで、ファンドにとっての魅力が一気に増しました。"
+      caption: "ステーキングETFが、潮目を変えた"
+    - panel: p4
+      text: "BTC現物ETFの1500億ドルにはまだ遠いものの、成長率では肉薄。「次の本命」として、米運用大手の主力プロダクトに育ちつつあります。"
+      caption: "BTCには遠いが、成長率で肉薄"
+    - panel: p5
+      text: "日本でも、暗号資産ETFの解禁議論が、政府税調と金融庁で動き出しました。実現すれば、まずBTC、次にETHという順番が、最有力シナリオです。"
+      caption: "日本も、ETF解禁議論が加速"
+    - panel: p6
+      text: "ステーキング、レイヤー2、機関マネー。3つが揃ったETHは、もう「もう一つの仮想通貨」ではない。投資の本流に入り始めています。"
+      caption: "ETH、投資の本流に入る"

@@ -1,0 +1,59 @@
+id: astro-neutron-star-spoon
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A cinematic space scene of a tiny, intensely glowing neutron star, a single teaspoon
+      hovering beside it for scale, the visual of "a spoonful of this star weighs a billion tons". Ominous cosmic light.
+  - id: p2
+    prompt: |
+      An infographic of a giant star collapsing in a supernova, crushing down into a tiny
+      sphere, the visual of "a huge star
+      crushed into a tiny ball". Dramatic astronomy illustration.
+  - id: p3
+    prompt: |
+      A scale infographic comparing a city skyline silhouette with a neutron star of the same
+      ~20km width, the visual of "a whole star
+      the size of a city". Clean comparison diagram, starfield.
+  - id: p4
+    prompt: |
+      A dramatic illustration of a single teaspoon glowing, with a label of impossible weight,
+      a tiny mountain icon for comparison, the visual of "one spoonful outweighs a mountain". Clean infographic, intense.
+  - id: p5
+    prompt: |
+      A cosmic illustration of the neutron star spinning rapidly, twin beams of light sweeping
+      space like a lighthouse, the visual of
+      "spinning hundreds of times per second". Dynamic, mesmerizing cosmic light.
+  - id: p6
+    prompt: |
+      The lone neutron star glowing in deep space, beams sweeping slowly, a decorative Japanese
+      caption "宇宙一重い星", the loop image of "the densest star in the universe". Majestic,
+      quiet cosmic tone.
+ja:
+  title: 'ティースプーン1杯で10億トン、宇宙一重い星 #Shorts'
+  description: |
+    巨大な星が押しつぶされて生まれる中性子星。直径わずか20kmなのに、ティースプーン1杯ですくっただけで重さは10億トンに達する。宇宙でもっとも密度の高い星を30秒で解説します。
+
+    #Shorts #宇宙 #中性子星 #宇宙の雑学 #雑学
+  hook_caption: スプーン1杯で10億トンの星
+  series_brand: 宇宙一重い星
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: ティースプーンで一杯すくうだけで、重さがおよそ10億トン。そんな信じられない星が、宇宙には実在します。
+      caption: スプーン1杯で重さ10億トンの星
+    - panel: p2
+      text: それは、太陽より何倍も重い星が寿命を終え、自分の重力で一気に押しつぶされたときに生まれます。中性子星です。
+      caption: 巨大な星が押しつぶされて生まれる
+    - panel: p3
+      text: 押しつぶされた結果、星の直径はたったの20kmほど。都市ひとつ分の大きさに、太陽以上の質量が詰め込まれているんです。
+      caption: 直径20kmに太陽以上の質量が詰まる
+    - panel: p4
+      text: だから密度はけた違いです。ティースプーン一杯の中性子星は、地球上の山ひとつぶんよりも重い計算になります。
+      caption: スプーン1杯が山より重い密度
+    - panel: p5
+      text: しかもこの星は、1秒間に何百回も高速で自転し、灯台のように光のビームを宇宙へ放ちます。
+      caption: 1秒に何百回も自転し光を放つ
+    - panel: p6
+      text: 都市ほどの大きさに、星まるごとの重さを秘めた天体。宇宙は、私たちの常識をどこまで裏切れば気が済むのでしょうか。
+      caption: 宇宙はどこまで常識を裏切るのか

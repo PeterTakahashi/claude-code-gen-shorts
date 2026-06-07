@@ -1,0 +1,162 @@
+id: zuck-cambridge-analytica-hearing
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 33-year-old Mark Zuckerberg seated alone at a wooden witness table
+
+    inside the United States Senate hearing room in Washington D.C., April
+
+    2018, wearing an unusually formal dark navy suit and pale blue tie,
+
+    his pale eyes facing forward with measured composure, dozens of camera
+
+    flashes from photographers behind him captured as bright white bursts,
+
+    the marble-and-wood paneled chamber towering around him. Mid-shot.
+
+    Conveys one man under the spotlight of a nation.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Establishing exterior wide shot of the United States Capitol building
+
+    in Washington D.C. in April 2018, daylight, the iconic white dome
+
+    against a blue sky, news vans with satellite dishes parked along the
+
+    perimeter, crowds of reporters on the lawn, the political center of
+
+    gravity of a country.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A close-up of a stack of 2018 American newspapers and a tablet screen
+
+    laid out on a wooden table, the front pages dominated by large bold
+
+    headlines about a major data breach involving Facebook, the words
+
+    "Data scandal" "87 million users" visible on different pages, smaller
+
+    photos of a corporate logo in the layout, conveying media frenzy. The
+
+    visual texture of a scandal hitting every breakfast table in America.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A wide shot of the U.S. Senate panel in session April 2018, a long
+
+    curved wooden dais with about ten senators of various ages seated in
+
+    a row, microphones in front of each, one senator in the center leaning
+
+    forward to ask a pointed question, stern faces, dark suits, American
+
+    flags and Senate seals on the wall behind them, formal cool overhead
+
+    lighting. Conveys institutional pressure.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Close-up of Mark Zuckerberg''s hands clasped on the wooden witness
+
+    table during the April 2018 Senate hearing, a glass of water and a
+
+    stack of typed prep notes visible beside them, the cuffs of his navy
+
+    suit jacket and a hint of his tie visible, conveying tightly
+
+    controlled tension without showing his face. The small physical
+
+    details of testifying under oath.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 33-year-old Mark Zuckerberg leaning slightly into the witness-table
+
+    microphone at the April 2018 Senate hearing, lips parted mid-sentence
+
+    delivering a measured public apology, pale blue eyes calm but tired,
+
+    dark navy suit and pale tie, the chamber blurred behind him, a single
+
+    camera flash captured to one side. The moment Silicon Valley said
+
+    sorry to America.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '8700万人分のデータが流出した日 #Shorts'
+  description: '2018年4月、米議会の公聴会で、マーク・ザッカーバーグが10時間にわたり証言した話。Cambridge Analytica が、Facebook ユーザー8700万人分のデータを、無断で取得していた事件の真相。
+
+
+    #Shorts #マークザッカーバーグ #Meta #Facebook #人物伝
+
+    '
+  hook_caption: 8700万人分のデータが盗まれた日
+  series_brand: マーク・ザッカーバーグ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 8700万人分の Facebook ユーザーのデータが、知らない間に、政治コンサル会社に、流れていた事件があります。
+    caption: 8700万人分のデータが流出していた
+  - panel: p2
+    text: 2018年4月、ワシントンD.C.、米連邦議会。
+    caption: 2018年4月、米議会
+  - panel: p3
+    text: 事件の名は、Cambridge Analytica。研究目的と称し集めたデータが、選挙のターゲティングに、流用されていたんです。
+    caption: Cambridge Analytica、選挙への流用
+  - panel: p4
+    text: Facebook の CEO マーク・ザッカーバーグは、当時33歳。普段の灰色のTシャツを脱ぎ、紺色のスーツとネクタイで、議会に出頭しました。
+    caption: Tシャツを脱ぎ、スーツで議会へ
+  - panel: p5
+    text: 10時間以上に及ぶ質疑で、彼は、繰り返し、こう答え続けたんです——「責任は、私にあります」。
+    caption: 「責任は、私にあります」
+  - panel: p6
+    text: シリコンバレーが、初めて国家に頭を下げた日。テクノロジーが「無邪気な道具」では無くなった、転換点でした。
+    caption: テクノロジーが無邪気で無くなった日
+en:
+  title: 'The Day 87 Million Facebook Profiles Were Leaked #Shorts'
+  description: 'In April 2018, Mark Zuckerberg testified before Congress about the Cambridge Analytica scandal, where 87 million user profiles were improperly harvested. This is the story of tech''s day
+    of reckoning.
+
+
+    #Shorts #MarkZuckerberg #Facebook #Privacy #History'
+  hook_caption: He took the blame for 87 million stolen profiles.
+  series_brand: 'Mark Zuckerberg: A Biography'
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: April 2018, Washington D.C. The U.S. Congress is in session.
+    caption: Washington D.C., 2018
+  - panel: p1
+    text: The man on the witness stand is 33-year-old Facebook CEO, Mark Zuckerberg.
+    caption: Mark Zuckerberg
+  - panel: p3
+    text: He's there to answer for the Cambridge Analytica scandal, where the data of 87 million users was secretly harvested for political ads.
+    caption: 87 million users
+  - panel: p4
+    text: Trading his iconic grey t-shirt for a suit, he faced a grilling from lawmakers for over 10 hours.
+    caption: 10-hour testimony
+  - panel: p5
+    text: 'Throughout the marathon hearing, his message was consistent: ''It was my mistake, and the responsibility is mine.'''
+    caption: '''The responsibility is mine.'''
+  - panel: p6
+    text: This was the day Silicon Valley bowed to the government... the day technology lost its innocence.
+    caption: Tech lost its innocence

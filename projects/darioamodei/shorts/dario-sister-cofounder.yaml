@@ -1,0 +1,157 @@
+id: dario-sister-cofounder
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2022 San Francisco, Anthropic headquarters lobby. Dario Amodei standing on the
+
+    left and his sister Daniella Amodei on the right, both facing the camera in a
+
+    relaxed standing pose, side by side, their similar Italian-American features
+
+    visible. Behind them on a clean white wall, the simple Anthropic wordmark logo.
+
+    Warm modern startup lobby lighting. Mid shot, the visual feeling of two
+
+    co-founders presenting as a unit.
+
+    Character: {subject_adult}, {sister_daniella}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A late-1980s suburban American family living room, soft warm light. A boy of
+
+    about 10 years old with thick wavy dark brown hair (young Dario) sitting on
+
+    the carpet next to a younger girl of about 7 with long wavy dark brown hair
+
+    (young Daniella), both Italian-American features, both bent over a board game
+
+    and a stack of science books. Family photographs on the wall. The visual
+
+    feeling of a close intellectual sibling bond.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2019, inside the OpenAI office, an open-plan modern startup space. Dario
+
+    Amodei at a desk with two monitors showing neural network diagrams; his
+
+    sister Daniella Amodei standing beside him reviewing a printed document, both
+
+    in mid-discussion with comfortable familiar body language. Other researchers
+
+    visible in the background. Daylight through tall windows.
+
+    Character: {subject_adult}, {sister_daniella}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 2021, a small modern conference room. Dario Amodei seated at a table
+
+    signing a stack of incorporation documents with a black pen, his sister
+
+    Daniella seated beside him watching with a calm proud smile, a folder labeled
+
+    "Anthropic PBC" visible on the table. Five other co-founders standing behind
+
+    them in casual tech clothing. Mid shot, the bright clean light of a beginning.
+
+    Character: {subject_adult}, {sister_daniella}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Split-panel composition (left half / right half within the 9:16 frame): on the
+
+    left, Dario Amodei at a whiteboard covered with AI safety equations explaining
+
+    to three research staff; on the right, Daniella Amodei seated at a small
+
+    round table with three operations staff reviewing a hiring document. Two
+
+    adjacent rooms of the same Anthropic office, visually balanced.
+
+    Character: {subject_adult}, {sister_daniella}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A tight mid-close shot of Dario Amodei on the left and Daniella Amodei on
+
+    the right, side by side in front of a softly blurred Anthropic office wall,
+
+    both with quietly confident expressions, facing the camera. Modern soft
+
+    lighting. The visual feeling of family running a frontier AI lab together.
+
+    Character: {subject_adult}, {sister_daniella}.
+
+    '
+ja:
+  title: '兄妹で立ち上げたAI会社 #Shorts'
+  description: '2021年、ダリオ・アモデイは妹ダニエラと共にAnthropicを共同創業した。
+
+    兄がCEO、妹がPresident。兄妹で世界トップクラスのAI企業を率いるのは、シリコンバレーでも極めて異例。
+
+    #Shorts #ダリオアモデイ #Anthropic #Claude #人物伝
+
+    '
+  hook_caption: 兄妹で立ち上げたAI会社
+  series_brand: ダリオ・アモデイ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 兄がCEO、妹がプレジデント。兄妹で、世界トップクラスのAI企業を、率いている男がいます。
+    caption: 兄CEO、妹President
+  - panel: p2
+    text: ダリオ・アモデイと、妹のダニエラ・アモデイ。AI会社Anthropicの、共同創業者です。
+    caption: Anthropic 共同創業者
+  - panel: p3
+    text: 二人は、子どもの頃から、科学と倫理を、いつも一緒に語り合う、極めて近い兄妹でした。
+    caption: 幼い頃から科学を語り合う兄妹
+  - panel: p4
+    text: そして、大人になってからは、OpenAIでも、同じ職場で、肩を並べて働いていたんです。
+    caption: OpenAIでも同じ職場
+  - panel: p5
+    text: 2021年、二人は、信頼する仲間と一緒に、Anthropicを、設立しました。
+    caption: 2021年、Anthropic 設立
+  - panel: p6
+    text: ダリオが研究と戦略、ダニエラが組織と運営。役割を、見事に、分担しています——シリコンバレーでも、極めて、異例の兄妹経営です。
+    caption: 兄妹で完璧な役割分担
+en:
+  title: 'He Left OpenAI to Build A Rival With His Sister #Shorts'
+  description: 'In 2021, Dario and Daniela Amodei co-founded Anthropic. He serves as CEO, she as President. This brother-sister team leading a top AI company is a rarity, even in Silicon Valley.
+
+    #Shorts #Anthropic #DarioAmodei #Claude #AI'
+  hook_caption: He Quit OpenAI To Start A Rival... With His Sister
+  series_brand: The Story of Dario Amodei
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Meet Dario and Daniela Amodei, the brother-sister duo running Anthropic, one of the world's top AI companies.
+    caption: A Family Affair
+  - panel: p2
+    text: Ever since they were kids, the two were inseparable, constantly debating science and ethics.
+    caption: Inseparable Siblings
+  - panel: p3
+    text: As adults, they worked side-by-side again, this time at the pioneering AI lab, OpenAI.
+    caption: Colleagues at OpenAI
+  - panel: p4
+    text: But in 2021, they left to start their own company, bringing a team of trusted colleagues with them.
+    caption: Anthropic is Born
+  - panel: p5
+    text: 'Today, they have the perfect partnership: Dario leads research and long-term strategy...'
+    caption: The Visionary
+  - panel: p6
+    text: '...while Daniela, as President, builds the organization. A true power duo, almost unheard of in Silicon Valley.'
+    caption: The President

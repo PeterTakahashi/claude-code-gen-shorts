@@ -1,0 +1,73 @@
+id: news-takaichi-wage-hike
+parent_chapter: null
+image_style: photorealistic
+panels:
+  - id: p1
+    prompt: |
+      Photoreal close-up of a Japanese payslip with the salary line subtly
+      highlighted, a faded background showing Japanese Prime Minister Sanae
+      Takaichi at a press podium, soft natural light, the visual of "Takaichi
+      bets the budget on wages". Documentary photography.
+  - id: p2
+    prompt: |
+      Photoreal newsroom — a Japanese female TV news anchor in her late 20s in
+      a navy blazer behind a modern Tokyo news desk, behind her a large studio
+      monitor showing Prime Minister Takaichi at the podium and a lower-third
+      reading "高市政権 / 賃上げ重視". Composed broadcast lighting.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      Cinematic press conference photograph of Japanese Prime Minister Sanae
+      Takaichi at a Tokyo press podium, national flag behind her, photographers
+      and journalists in the foreground, gesturing firmly, the visual of "the
+      PM lays out the wage-hike pillar of the extra budget". Composed press-
+      room realism.
+  - id: p4
+    prompt: |
+      Photoreal infographic composite — a pie chart of a 3-trillion-yen budget,
+      with the largest slice labeled "賃上げ支援" highlighted in bright color,
+      the visual of "wage hikes get the biggest slice". Modern policy-news
+      look. No people.
+  - id: p5
+    prompt: |
+      Photoreal photo of a small/medium-sized Japanese factory floor — middle-
+      aged Japanese workers in matching uniforms, a manager checking a tablet,
+      the visual of "wage policy meets the real economy: SMEs". Documentary
+      photography.
+  - id: p6
+    prompt: |
+      Photoreal newsroom — the same anchor at her desk, behind her a split-
+      screen monitor: left a Japanese payslip close-up, right a small-factory
+      photo. A calm explanatory closing shot.
+      Character: {anchor}.
+
+ja:
+  title: "高市3兆円補正、最大の柱は「賃上げ支援」だった理由 #Shorts"
+  description: |
+    高市政権の3兆円規模補正予算。市場の関心は財政赤字に集まりがちだが、
+    最大の柱として打ち出されたのは「賃上げ支援」。中小企業の人件費補助を中心に、
+    家計の購買力を上げる狙いを、30秒で解説。
+
+    #Shorts #ニュース #政治 #高市政権 #賃上げ #補正予算
+  hook_caption: "3兆円補正の、最大の柱"
+  series_brand: "賃上げが、補正の柱"
+  voice_speed: 1.35
+  narration:
+    - panel: p1
+      text: "高市政権の3兆円補正予算、最大の柱は「賃上げ支援」でした。"
+      caption: "補正の柱は、賃上げ支援"
+    - panel: p2
+      text: "中東危機への対応として組まれた今回の補正。でも実際には、原油対策よりも賃上げ関連のメニューに、より多くの財源が割かれる見通しです。"
+      caption: "原油対策よりも、賃上げ重視"
+    - panel: p3
+      text: "狙いは、家計の購買力。日本の物価上昇には、輸入インフレと、企業の価格転嫁の両方が効いています。賃金が上がらなければ、生活感はますます苦しくなる。"
+      caption: "家計の購買力を、押し上げる"
+    - panel: p4
+      text: "焦点は、中小企業の賃上げを直接支援するメニュー。社会保険料の事業主負担軽減や、人件費の税優遇など、構造的な後押しが含まれます。"
+      caption: "中小企業の人件費を、直接支援"
+    - panel: p5
+      text: "問題は、これが「ばらまき」で終わらず、本当に賃金へつながるかどうか。実効性をどう担保するかが、今後の国会論戦の主戦場になります。"
+      caption: "実効性が、論戦の主戦場"
+    - panel: p6
+      text: "財政か、賃金か、ではなく、賃金で経済を引き上げる。高市政権が描いた処方箋は、結果でしか評価されません。"
+      caption: "結果でしか、評価されない処方箋"

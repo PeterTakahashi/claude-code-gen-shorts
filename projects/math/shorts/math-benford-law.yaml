@@ -1,0 +1,61 @@
+id: math-benford-law
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A clean math infographic of digits 1 through 9, with the digit "1" glowing far larger
+      than the rest, a magnifying glass over a ledger, the visual of "the first digit is most often a 1". Clean,
+      intriguing infographic style.
+  - id: p2
+    prompt: |
+      A bar-chart infographic of leading-digit frequencies, a tall bar at 1 (~30%) descending
+      to a short bar at 9, the visual of "1 leads
+      about 30% of the time". Clean data-visualization style.
+  - id: p3
+    prompt: |
+      An infographic collage of real-world data sources: river lengths, populations, stock
+      prices, electricity bills, all funneling into the same curved distribution, a decorative
+      Japanese caption "自然のデータに共通", the visual of "the same pattern hides everywhere".
+      Clean infographic.
+  - id: p4
+    prompt: |
+      An audit scene: an accountant examining a spreadsheet where the leading digits look
+      suspiciously even, a red warning highlight, the visual of "faked numbers break the pattern". Clean office-illustration style.
+  - id: p5
+    prompt: |
+      An infographic of a courtroom / tax-audit context, a chart overlay flagging fraudulent
+      books, the visual of "used to catch
+      accounting fraud". Clean serious infographic.
+  - id: p6
+    prompt: |
+      A thoughtful illustration of a glowing "1" at the front of a long line of numbers,
+      the loop image of "numbers can't lie".
+      Calm, clever tone.
+ja:
+  title: '数字の最初の桁で不正を見抜く、ベンフォードの法則 #Shorts'
+  description: |
+    川の長さ、人口、株価、電気代。世の中の多くの数字は、最初の桁が「1」になる確率が約30%に偏る。この「ベンフォードの法則」は、会計不正を見抜く武器として実際に使われています。30秒で解説します。
+
+    #Shorts #数学 #ベンフォードの法則 #数学雑学 #雑学
+  hook_caption: 数字の最初の桁で不正を見抜く法則
+  series_brand: 数字は嘘をつけない
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 世の中にあふれる数字。その「最初の桁」を調べると、1がやたらと多く現れます。これには、ちゃんとした理由があります。
+      caption: 数字の最初の桁は1が多く現れる
+    - panel: p2
+      text: 最初の桁が1になる確率は、なんと約30%。9になる確率は5%もありません。9つの数字が、均等には現れないんです。
+      caption: 最初が1になる確率は約30%に偏る
+    - panel: p3
+      text: 不思議なことに、これは川の長さでも、人口でも、株価でも成り立ちます。自然に生まれた多くのデータに、共通して現れる偏りなんです。
+      caption: 川・人口・株価など自然のデータに共通する
+    - panel: p4
+      text: ここに、面白い使い道があります。人が数字を捏造すると、この偏りが崩れ、桁がやけに均等になりがちなんです。
+      caption: 数字を捏造すると桁の偏りが崩れる
+    - panel: p5
+      text: だからこの法則は、会計監査や税務調査で、不正を見抜くために実際に使われています。嘘の帳簿は、数字の分布で見破られるんです。
+      caption: 会計監査で不正の発見に使われている
+    - panel: p6
+      text: 人は嘘をつけても、数字の自然な偏りまでは真似できない。あなたの提出する数字も、静かにこの法則で見られているかもしれません。
+      caption: あなたの数字も静かに見られているかもしれない

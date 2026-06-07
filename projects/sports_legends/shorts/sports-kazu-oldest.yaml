@@ -1,0 +1,79 @@
+id: sports-kazu-oldest
+parent_chapter: null
+# NOTE: This is a SOCCER (football) story — King Kazu. Every panel must be SOCCER.
+# Absolutely NO baseball: no baseball uniform, no bat, no glove, no baseball cap, no
+# baseball field. Use soccer kit (jersey + shorts + shin guards + soccer cleats),
+# a green soccer pitch, a soccer ball, and a soccer stadium.
+panels:
+  - id: p1
+    prompt: |
+      A Japanese male professional SOCCER (football) player in his mid-50s, fit and
+      dignified, wearing a blue J-League-style soccer jersey with shorts, shin guards and
+      soccer cleats, standing on a green grass SOCCER PITCH under stadium floodlights with
+      a soccer ball at his feet, much younger soccer teammates around him, a decorative
+      Japanese caption "56歳、現役". This is SOCCER, NOT baseball — no bat, no glove, no
+      baseball uniform. Cinematic soccer stadium.
+      Character: a lean Japanese man in his 50s, tanned, slicked-back dark hair, calm intense eyes, a famous footballer.
+  - id: p2
+    prompt: |
+      A flashback infographic, a timeline ribbon with decorative Japanese years
+      "1990年代 → 2020年代", a SOCCER BALL traveling along it, the visual of "a soccer career
+      spanning over 35 years". Clean infographic, decorative Japanese text. Soccer ball only,
+      no baseball.
+  - id: p3
+    prompt: |
+      The same older SOCCER player training alone at dawn on a green soccer pitch, doing
+      dynamic stretches beside a SOCCER BALL, wearing a soccer training kit, a decorative
+      Japanese caption "誰よりも自分を管理する", the visual of "extreme self-discipline keeps his
+      body young". This is SOCCER training — no baseball, no bat, no glove. Early light, pitch.
+      Character: same Japanese footballer.
+  - id: p4
+    prompt: |
+      The same SOCCER player sitting on the substitutes' bench at the side of a soccer
+      pitch in his blue soccer kit, watching the match intently with no bitterness, young
+      soccer players looking up to him, a decorative Japanese caption "出番は少なくても", the
+      visual of "he plays rarely now, but never complains". Soccer stadium, NOT baseball.
+      Character: same Japanese footballer.
+  - id: p5
+    prompt: |
+      The same SOCCER player being interviewed pitch-side, wearing his blue soccer jersey,
+      microphones in front of him, a green soccer pitch blurred behind, calm expression, a
+      decorative Japanese caption "好きだから、続ける", the visual of "asked why he keeps going,
+      he simply says he loves it". He is clearly a FOOTBALLER in a soccer jersey — NOT a
+      baseball player, no baseball cap, no baseball uniform.
+      Character: same Japanese footballer.
+  - id: p6
+    prompt: |
+      Close-up of the older SOCCER player lacing up his SOCCER CLEATS (football boots) with
+      quiet resolve, a soccer ball and green pitch beside him under stadium lights, a
+      decorative Japanese caption "続けることが、伝説", the loop image of "simply continuing
+      became the legend". SOCCER boots and ball — no baseball gear.
+      Character: same Japanese footballer.
+ja:
+  title: '三浦カズが56歳までプロを続ける本当の理由 #Shorts'
+  description: |
+    キングカズこと三浦知良は、50代になっても現役のプロサッカー選手であり続ける。出番が減っても続ける、その理由を本人の言葉から解説します。
+
+    #Shorts #三浦知良 #キングカズ #サッカー #現役
+  hook_caption: 56歳でプロを続ける男、カズ
+  series_brand: キングカズ伝
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 50代になっても、プロのサッカー選手で在り続ける男がいます。キングカズこと、三浦知良です。
+      caption: 56歳でも現役プロのカズ
+    - panel: p2
+      text: 彼のキャリアは、なんと35年以上。チームメイトには、自分の子供ほど年の離れた選手も、珍しくありません。
+      caption: 35年以上続くキャリア
+    - panel: p3
+      text: その若さの秘密は、徹底した自己管理。誰よりも早く練習場に来て、食事も、睡眠も、体のケアも、一切妥協しないんです。
+      caption: 誰よりも徹底した自己管理
+    - panel: p4
+      text: 今では、試合に出られる時間は、わずか。それでも彼は、不満ひとつ言わず、若い選手の手本であり続けます。
+      caption: 出番が減っても不満を言わない
+    - panel: p5
+      text: なぜ続けるのか、と問われると、彼はこう答えます。サッカーが、好きだから。理由は、ただそれだけなんです。
+      caption: 「好きだから、続ける」
+    - panel: p6
+      text: 才能でも、記録でもない。ただ好きなことを、続ける。その姿そのものが、伝説になったんです。
+      caption: 続けることが、伝説になった

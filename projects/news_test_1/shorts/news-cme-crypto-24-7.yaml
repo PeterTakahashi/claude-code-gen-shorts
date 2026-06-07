@@ -1,0 +1,137 @@
+id: news-cme-crypto-24-7
+parent_chapter: null
+image_style: photorealistic
+date_overlay: auto
+panels:
+  - id: p1
+    image_ref: "CME Group Chicago exchange building"
+    prompt: |
+      Cinematic photoreal photograph of the Chicago Mercantile Exchange
+      building lit up at dusk, a glowing "CME" sign visible on the façade,
+      the visual of "where the world prices its derivatives". Documentary
+      financial-press photography.
+  - id: p2
+    image_ref: "Bitcoin futures trading screen"
+    prompt: |
+      Photoreal close-up of a multi-monitor trader desk showing a BTC
+      futures chart with a 24-hour candle pattern, a small "BTC" ticker
+      lower-third, the visual of "Bitcoin futures now trade non-stop".
+      Documentary realistic. No real logos beyond generic exchange UI.
+  - id: p3
+    image_ref: "weekend market closed empty trading floor"
+    prompt: |
+      Photoreal cinematic shot of a dim, empty trading floor on a weekend,
+      one row of monitors still glowing in the dark, the visual of "the
+      weekend pause that defined a generation of futures". Documentary
+      photography. No people.
+  - id: p4
+    image_ref: "candlestick chart trading screen close up"
+    prompt: |
+      Photoreal close-up of an abstract candlestick price chart on a dark
+      trading screen with a soft red rectangle highlighting a small empty
+      space between two candles, the visual of "a price gap on the chart".
+      Modern fintech UI aesthetic. No people, no logos, no tickers.
+  - id: p5
+    image_ref: "trader analyzing chart pattern"
+    prompt: |
+      Cinematic photograph of a Japanese male crypto trader in his 30s in
+      a hoodie staring at multiple monitors covered in candlestick charts
+      late at night, soft blue desk light. Documentary realism.
+  - id: p6
+    image_ref: "institutional investor hedge desk"
+    prompt: |
+      Photoreal photograph of a sleek institutional trading desk at a Tokyo
+      asset manager — multiple suited traders in soft focus, foreground
+      monitor showing a BTC derivatives risk dashboard. Documentary
+      financial photography. Generic financial software, no real logos.
+  - id: p7
+    image_ref: "Bitcoin price chart volatility spike"
+    prompt: |
+      Photoreal financial chart close-up showing a violent weekend
+      volatility spike in BTC, sharp red wick, the visual of "the
+      weekend whip the new rule is meant to dampen". Modern realistic.
+      No people.
+  - id: p8
+    image_ref: "Sunday night reopen futures market"
+    prompt: |
+      Cinematic photoreal photograph of a quiet Tokyo apartment at Sunday
+      midnight, a trader checking a phone showing a price spike, the
+      visual of "the old Sunday-night reopen ritual". Documentary
+      atmospheric photography.
+  - id: p9
+    image_ref: "BTC futures derivatives strategy"
+    prompt: |
+      Photoreal photograph of a printed BTC derivatives strategy book on
+      a desk next to a coffee, a glowing screen behind it, the visual of
+      "decades of weekend-gap playbooks rewritten in a day". Documentary
+      photography.
+  - id: p10
+    image_ref: "Bitcoin 67000 dollar chart"
+    prompt: |
+      Photoreal close-up of a BTC price chart with a small marker at the
+      $67,000-$70,000 zone highlighted in soft yellow as a "support",
+      modern fintech UI. No people.
+  - id: p11
+    image_ref: "regulator office crypto regulation"
+    prompt: |
+      Photoreal photograph of a generic US regulator's office hallway,
+      "Commodity Futures" signage in soft focus, the visual of "the
+      regulator's quiet green light behind this". Documentary realism.
+      No identifiable individuals.
+  - id: p12
+    image_ref: "global crypto market 24 hours"
+    prompt: |
+      Cinematic photoreal photograph of a world map illuminated with
+      financial data points across Asia, Europe, and the Americas all at
+      once, the visual of "a market that no longer has a weekend".
+      Modern realistic fintech aesthetic. No people.
+
+ja:
+  title: "CMEが仮想通貨先物を24時間365日化、「CMEギャップ」が消滅へ #Shorts"
+  description: |
+    米シカゴ・マーカンタイル取引所(CME)が、5月29日から仮想通貨先物・オプションを
+    24時間365日取引に移行。長くBTCトレーダーの定番テーマだった「CMEギャップ」が、
+    構造的に発生しなくなります。市場構造の意味を、30秒で解説。
+
+    #Shorts #ニュース #仮想通貨 #ビットコイン #CME #暗号資産
+  hook_caption: "CMEギャップが、構造的に消滅"
+  series_brand: "暗号通貨先物、無休化"
+  voice_speed: 1.25
+  voice_pitch: -0.10
+  narration:
+    - panel: p1
+      text: "米CMEが、5月29日から仮想通貨先物を、24時間365日取引にします。"
+      caption: "CME、暗号通貨先物を24時間化"
+    - panel: p2
+      text: "これまで先物は、金曜午後にクローズし、日曜夕方に再オープンしていました。"
+      caption: "金曜クローズ→日曜オープン"
+    - panel: p3
+      text: "その間に現物市場が動くと、月曜朝のチャートに「空白」が生まれる。"
+      caption: "週末の動きが、空白を作る"
+    - panel: p4
+      text: "それが「CMEギャップ」、長年トレーダーの定番テーマでした。"
+      caption: "それが「CMEギャップ」"
+    - panel: p5
+      text: "過去の研究では、このギャップが、65〜90%の確率で後日埋められたとされます。"
+      caption: "65〜90%が、後日埋まる"
+    - panel: p6
+      text: "つまりギャップは、ビットコインの売買戦略に、深く組み込まれていました。"
+      caption: "売買戦略に、深く埋め込み"
+    - panel: p7
+      text: "今回の24時間化で、構造的にギャップが、発生しなくなります。"
+      caption: "ギャップは、構造的に消滅"
+    - panel: p8
+      text: "機関投資家は、週末のニュースを、日曜まで待たずにヘッジできる。"
+      caption: "週末ヘッジが、即時に"
+    - panel: p9
+      text: "週末特有のボラティリティスパイクも、抑える方向に効きます。"
+      caption: "週末ボラ、抑制方向"
+    - panel: p10
+      text: "ただし、すでにある未消化ギャップは、まだチャートに残ります。"
+      caption: "既存ギャップは、まだ残る"
+    - panel: p11
+      text: "最も低い未解消ギャップは、67,000〜70,000ドルの間。"
+      caption: "67000〜70000ドルにギャップ"
+    - panel: p12
+      text: "デリバティブの「定休日」がなくなる、暗号通貨市場の構造変化です。"
+      caption: "暗号通貨市場の構造、変化"

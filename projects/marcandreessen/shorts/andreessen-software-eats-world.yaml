@@ -1,0 +1,184 @@
+id: andreessen-software-eats-world
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    August 20, 2011, a top-down close shot of an open Wall Street Journal
+
+    newspaper lying on a polished wooden table, the page prominently
+
+    displaying the famous essay headline in big bold English block letters
+
+    "WHY SOFTWARE IS EATING THE WORLD" clearly readable, with Marc
+
+    Andreessen''s small byline photo below the title showing his bald
+
+    large-framed face. A morning cup of black coffee beside the paper, soft
+
+    east-coast morning light from a window. The exact moment a single
+
+    essay defined the next decade.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Summer 2011, the a16z partner office at night. A 40-year-old Marc
+
+    Andreessen — bald, large-framed, in a plain white open-collared dress
+
+    shirt with sleeves rolled up — sitting at a modern wooden desk
+
+    hunched over a slim silver laptop, typing with intense focused
+
+    concentration, his bald head dimly lit by the screen glow, a single
+
+    desk lamp casting warm light, the dark Menlo Park hills visible through
+
+    the office window. Conveys: he is writing the most important essay of
+
+    his life.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A stylized webtoon-allegorical image: a giant glowing geometric blue
+
+    "software code" wave made of falling green code characters,
+
+    progressively absorbing and dissolving the silhouettes of traditional
+
+    industries arranged in a row in front of it — a bookstore, a taxi cab,
+
+    a hotel, a movie theater, a record store, a newspaper printing press —
+
+    each fading into pixels as the code wave touches them. Dramatic
+
+    cinematic lighting, dark background. The visual metaphor of the essay.
+
+    No human figures.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A stylized large modern digital screen displaying a sequence of company
+
+    logos as soft simplified colored shapes labeled clearly in English text
+
+    below each: "AMAZON eats RETAIL", "NETFLIX eats VIDEO", "SPOTIFY eats
+
+    MUSIC", "UBER eats TAXIS", "AIRBNB eats HOTELS", "TESLA eats AUTO" —
+
+    each label written in clean readable English block letters. A faint
+
+    reflection of an unseen viewer''s eye on the screen surface. Cinematic
+
+    lighting. Visual proof the 2011 prediction came true.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 2014-era tech conference main stage. A large screen behind the
+
+    podium clearly displays the big English text "SOFTWARE IS EATING THE
+
+    WORLD — MARC ANDREESSEN, 2011" as a quote. A different speaker (not
+
+    Andreessen) stands at the podium gesturing at the quote on the screen,
+
+    blurry audience of hundreds in the foreground. Conveys: his single
+
+    essay has become the defining catchphrase of the 2010s tech industry.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2024, the a16z office. A 53-year-old Marc Andreessen — bald,
+
+    heavier, in a fitted dark navy blazer over a white shirt — sitting in
+
+    a leather lounge chair holding a slim tablet displaying his own 2011
+
+    Wall Street Journal essay (the headline "Why Software Is Eating the
+
+    World" faintly visible on the tablet screen in English), a soft
+
+    knowing half-smile on his face, looking up slightly past the camera.
+
+    Warm afternoon light through floor-to-ceiling windows behind him.
+
+    Conveys: 13 years later, the prediction came true, and now AI is the
+
+    next wave.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '15年前に未来を完全に予言したエッセイ #Shorts'
+  description: '2011年、マーク・アンドリーセンはWall Street Journalに「Why Software Is Eating the World」を寄稿し、
+
+    15年後の世界を、ほぼ完璧に、予言した。
+
+
+    #Shorts #マークアンドリーセン #a16z #SoftwareEatsWorld #人物伝
+
+    '
+  hook_caption: 15年前に未来を予言したエッセイ
+  series_brand: マーク・アンドリーセン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 15年前のたった1本のエッセイで、現代の経済を、完璧に予言した男がいます。
+    caption: 15年前に現代経済を予言した男
+  - panel: p2
+    text: 2011年8月、マーク・アンドリーセンは、Wall Street Journalに、寄稿しました。
+    caption: 2011年8月、WSJに寄稿
+  - panel: p3
+    text: タイトルは、「ソフトウェアが世界を食べる理由」。
+    caption: 「ソフトウェアが世界を食べる」
+  - panel: p4
+    text: 彼の主張は、明確でした。これからの10年、書店も、タクシーも、ホテルも、すべて、ソフトウェア会社に、置き換えられる、と。
+    caption: あらゆる産業がソフトに置換される
+  - panel: p5
+    text: そして10年後、Amazonが小売を、Uberがタクシーを、Airbnbがホテルを、Netflixが映画を、本当に、食べてしまったんです。
+    caption: 10年後、すべて現実になった
+  - panel: p6
+    text: 彼の1本のエッセイが、2010年代のシリコンバレーの、教義になりました。
+    caption: シリコンバレーの教義になった1本
+en:
+  title: 'This 2011 Essay Predicted Everything #Shorts'
+  description: 'In August 2011, Marc Andreessen published ''Why Software Is Eating the World.''
+
+    His prediction wasn''t just accurate—it became the blueprint for modern tech.
+
+    #Shorts #MarcAndreessen #a16z #Tech #History'
+  hook_caption: He PREDICTED the future in 6 words
+  series_brand: The Marc Andreessen Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 2011, venture capitalist Marc Andreessen wrote a single essay that would define the next decade.
+    caption: A defining essay
+  - panel: p1
+    text: Published in the Wall Street Journal, it made a bold and shocking prediction.
+    caption: August 2011
+  - panel: p5
+    text: 'The title was simple: "Why Software Is Eating the World."'
+    caption: '"Software is Eating the World"'
+  - panel: p3
+    text: He argued that software companies would systematically devour entire industries, from retail to media to travel.
+    caption: A radical prediction
+  - panel: p4
+    text: And he was right. Amazon took over retail, Uber replaced taxis, and Netflix transformed movies.
+    caption: And he was right.
+  - panel: p6
+    text: That one essay became the undisputed gospel of Silicon Valley, and changed the world forever.
+    caption: The gospel of Silicon Valley

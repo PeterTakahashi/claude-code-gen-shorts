@@ -1,0 +1,63 @@
+id: animals-pistol-shrimp
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      An extreme close-up of a colorful pistol shrimp underwater, one claw dramatically
+      oversized and cocked open like a pistol, a tiny glowing bubble of light flashing at
+      the claw tip, the visual of
+      "a tiny shrimp whose claw makes a flash hotter than you'd believe". Dramatic deep-sea light.
+  - id: p2
+    prompt: |
+      A high-speed science illustration of the pistol shrimp snapping its claw shut, a
+      collapsing cavitation bubble drawn as a white-hot sphere, motion lines and a shockwave
+      ring, the visual of "the snap creates
+      a collapsing bubble". Clean physics-illustration style.
+  - id: p3
+    prompt: |
+      A dramatic infographic of the bursting bubble glowing white-orange with a thermometer
+      spiking, the visual of "for an instant the
+      bubble nears the surface temperature of the sun". Intense heat-glow illustration.
+  - id: p4
+    prompt: |
+      An underwater scene of a small fish frozen mid-water, stunned, sound waves rippling
+      from the shrimp's claw, the visual of
+      "the shockwave stuns prey from a distance". Dynamic, ominous deep-sea tone.
+  - id: p5
+    prompt: |
+      A clean comparison infographic: the tiny shrimp icon beside a jet engine and a gunshot
+      icon, sound-level bars, the visual
+      of "one of the loudest animals on Earth". Clean infographic style.
+  - id: p6
+    prompt: |
+      The pistol shrimp back in its burrow, claw cocked and ready, a faint glow at the tip,
+      the loop image of "a tiny sniper of the
+      sea". Calm, wondrous deep-sea light.
+ja:
+  title: 'ハサミで太陽級の熱を出す最強のエビ、テッポウエビ #Shorts'
+  description: |
+    体長数センチのエビが、ハサミの一撃で瞬間4700℃の泡を作り、ジェット機より大きい音で獲物を気絶させる。海の小さな狙撃手、テッポウエビを30秒で解説します。
+
+    #Shorts #動物雑学 #テッポウエビ #海の生き物 #雑学
+  hook_caption: ハサミで太陽級の熱を出すエビ
+  series_brand: 海の小さな狙撃手
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 体長わずか数センチのエビが、ハサミの一撃で、太陽の表面に迫る熱を生み出します。テッポウエビです。
+      caption: ハサミの一撃で太陽級の熱を出すエビ
+    - panel: p2
+      text: 大きなハサミを猛スピードで閉じると、水中に小さな泡が生まれます。そしてこの泡が、はじける瞬間が問題なんです。
+      caption: ハサミを閉じると泡が生まれる
+    - panel: p3
+      text: 泡がつぶれる一瞬、内部の温度はおよそ4700度。太陽の表面温度に迫る熱が、ほんの一瞬だけ生まれます。
+      caption: 泡がつぶれる瞬間4700℃に達する
+    - panel: p4
+      text: その衝撃波は獲物を気絶させ、発生する音はおよそ218デシベル。離れた小魚すら、撃ち落とせるほどです。
+      caption: 衝撃波で離れた獲物も気絶させる
+    - panel: p5
+      text: これは、ジェット機の離陸音をも超える大きさ。テッポウエビは、地球で最も騒がしい生き物のひとつなんです。
+      caption: ジェット機を超える地球一うるさい生き物
+    - panel: p6
+      text: 数センチの体に、太陽の熱と銃声を秘めた狙撃手。もし彼らが人間サイズだったらと思うと、海には近づけません。
+      caption: もし人間サイズだったら海に近づけない

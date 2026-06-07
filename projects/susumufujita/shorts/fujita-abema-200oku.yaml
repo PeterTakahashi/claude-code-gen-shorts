@@ -1,0 +1,168 @@
+id: fujita-abema-200oku
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2010s Tokyo CyberAgent executive room. A 45-year-old Susumu Fujita
+
+    in a navy jacket standing alone in front of a massive wall-projection
+
+    displaying a steeply downward-trending red graph labeled with arabic
+
+    numerals "-200" and a small Japanese label "億円", his expression of
+
+    quiet unbroken determination, jaw set, no panic. Cold blue night light
+
+    through the window behind him. The exact moment a CEO chooses to keep
+
+    burning money. Wide-mid shot framing him centered.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 2016 Tokyo press conference hall. A 42-year-old Susumu Fujita in
+
+    a tailored navy suit standing at a podium alongside a slightly older
+
+    Japanese male TV Asahi executive in a grey suit (generic, not a real
+
+    person), both behind a press conference table, a large ABEMA logo
+
+    backdrop behind them, dozens of camera flashes from the press, formal
+
+    cool lighting. The launch announcement of the joint venture.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late-2010s Tokyo ABEMA broadcast control room, walls of monitors showing
+
+    multiple live channels of variety shows, news, drama, anime, several
+
+    young Japanese technical staff in casual shirts working at long consoles
+
+    with headsets, the ABEMA logo subtly on a corner monitor, cool blue
+
+    production-room lighting. The 24-hour live streaming network that
+
+    didn''t exist in Japan before.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A late-2010s Tokyo CyberAgent boardroom. A 45-year-old Susumu Fujita
+
+    standing at the head of a long modern conference table, gesturing
+
+    firmly while explaining, several older Japanese directors in dark suits
+
+    seated and listening with skeptical or worried expressions, a printed
+
+    annual report visible on the table. Cool corporate light through tall
+
+    windows. The CEO defending continued investment despite the losses.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2022 Tokyo at night, a bird''s-eye view of a Japanese living room
+
+    with a family watching a football match on a TV, the screen faintly
+
+    showing a Japanese national team match with an ABEMA logo in the corner
+
+    (generic, no real player faces), the family on the sofa cheering with
+
+    raised hands, takeaway food on the low table, warm domestic lighting.
+
+    The moment ABEMA gained mass-market validation by free-streaming the
+
+    World Cup.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2020s Tokyo CyberAgent corner office at dusk. A 48-year-old Susumu
+
+    Fujita standing alone in front of a tall window overlooking the Shibuya
+
+    skyline, holding a smartphone showing an ABEMA stream, his expression
+
+    of quiet measured pride and slight exhaustion, the city''s lights
+
+    reflected faintly on the glass. The conviction that kept the channel
+
+    alive. Over-shoulder framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '累積赤字200億超でも続けたABEMAの話 #Shorts'
+  description: '2016年、フジタ ススムは ABEMA をテレ朝と合弁で立ち上げた。
+
+    累積赤字が200億円を超えても、続行する決断をした男の話。
+
+
+    #Shorts #藤田晋 #ABEMA #CyberAgent #人物伝
+
+    '
+  hook_caption: 赤字200億でもABEMAを続けた
+  series_brand: フジタ ススム伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 累積赤字、200億円を、超えても、続けると、決めた経営者がいます。
+    caption: 累積赤字200億超でも続行
+  - panel: p2
+    text: 2016年、フジタ ススムは、テレ朝と組んで、ABEMA を、立ち上げました。
+    caption: 2016年、テレ朝と ABEMA を合弁
+  - panel: p3
+    text: 日本初の、24時間、無料の、インターネットテレビ。コンセプトは、画期的でした。
+    caption: 日本初、24時間無料ネットTV
+  - panel: p4
+    text: しかし、毎年、数十億円の、巨額赤字が、続いたんです。
+    caption: 毎年、数十億円の赤字
+  - panel: p5
+    text: それでも、フジタは、撤退を、選びませんでした。社内の反対を、押し切ったんです。
+    caption: 社内の反対を押し切って続行
+  - panel: p6
+    text: そして、2022年、サッカーワールドカップの、無料配信で、ABEMA は、一気に、国民的な、サービスになりました。
+    caption: 2022年、W杯配信で国民的サービスに
+en:
+  title: 'Why He Gambled ¥20 Billion on a Failing TV Network #Shorts'
+  description: 'Susumu Fujita''s streaming service ABEMA was losing billions. Instead of quitting, he made a risky bet that changed everything.
+
+
+    #Shorts #SusumuFujita #ABEMA #Business #Japan'
+  hook_caption: He Lost ¥20 Billion. Here's Why.
+  series_brand: The Susumu Fujita Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: 'In 2016, Susumu Fujita launched ABEMA, a radical new idea: completely free, 24/7 internet TV.'
+    caption: A Radical Idea
+  - panel: p3
+    text: But while the concept was revolutionary, the business was bleeding money... a lot of it.
+    caption: Bleeding Money
+  - panel: p1
+    text: Soon, the company was over 20 billion yen in the red, a staggering amount of debt.
+    caption: ¥20 Billion in the Red
+  - panel: p4
+    text: His own team wanted out, but Fujita refused to give up on his vision and pushed back hard.
+    caption: Refusing to Quit
+  - panel: p5
+    text: His final gamble? Streaming the 2022 World Cup for free, turning ABEMA into a national sensation overnight.
+    caption: The Winning Bet

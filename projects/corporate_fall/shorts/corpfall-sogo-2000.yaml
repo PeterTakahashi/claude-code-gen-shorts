@@ -1,0 +1,85 @@
+id: corpfall-sogo-2000
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+      A grand 1990s Japanese department store building at dusk, its huge facade dark
+      with a half-lowered metal shutter and a faint "CLOSED" feeling, dramatic cracks
+      of shadow running up the building, a small decorative English caption "¥1.8
+      TRILLION DEBT", the visual of "a retail giant about to fall". Subject filling
+      the square center for vertical short layout with blurred padding above/below.
+      Clearly Japanese city setting. Somber tone. Decorative English text only.
+      No Japanese text.
+  - id: p2
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Late 1980s Japan at the height of the bubble economy, the same department store
+      brand shown glamorous and brilliantly lit, elegant Japanese shoppers in 1980s
+      fashion streaming through golden revolving doors, a small map overlay showing
+      many store-pin icons spreading across Japan, a decorative English caption
+      "BUBBLE-ERA EXPANSION", the visual of "a giant growing too fast". Mid-shot.
+      Clearly 1980s Japan setting. Decorative English text only. No Japanese text.
+  - id: p3
+    prompt: |
+      Square 1:1 anime/webtoon style infographic-style panel.
+      Clean financial infographic on a dark navy background, a steeply rising red debt
+      curve climbing off the top of the chart, the X axis labeled in decorative
+      English "1985 ... 1995 ... 2000" and the Y axis "DEBT", a bold figure floating
+      "¥1.87 TRILLION", small land-plot icons stacking up under the curve labeled
+      "LAND BOUGHT ON CREDIT", the visual of "land turned into a mountain of debt".
+      Infographic composition. Decorative English text only. No Japanese text.
+  - id: p4
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Year 2000 Japan, a grim scene of the department store with a row of darkened
+      shuttered storefronts, faint overlapping newspaper-headline shapes in the sky
+      with decorative English fragments "COLLAPSE" and "REHABILITATION FILED", grey
+      overcast light, the visual of "the day the giant filed for failure". Mid-shot.
+      Clearly Japanese street setting. Decorative English text only. No Japanese text.
+  - id: p5
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A line of Japanese department-store employees in uniform standing outside the
+      closing store bowing deeply at 90 degrees toward a small crowd of longtime
+      customers, some customers wiping away tears, the lowered store shutter behind
+      them, soft melancholy evening light, the visual of "the human cost of a
+      collapse". Mid-shot. Clearly Japanese setting. Decorative English text only.
+      No Japanese text.
+  - id: p6
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Same grand department store building as panel 1 but now completely dark and
+      empty against a deep blue evening sky, a single dim light fading out, a thin
+      decorative English caption "TOO BIG TO FALL?", the loop image of "even giants
+      die when the bubble bursts". Subject filling the square center for vertical
+      short layout with blurred padding above/below. Somber tone. Decorative English
+      text only. No Japanese text.
+ja:
+  title: 'そごう、1兆8千億円の借金で消えた百貨店 #Shorts'
+  description: |
+    かつて日本一の店舗網を誇った百貨店そごうが、1兆8700億円もの負債を抱えて倒れた。バブルが生んだ巨人の崩壊を30秒で解説します。
+
+    #Shorts #倒産 #そごう #バブル崩壊 #経済
+  hook_caption: 1.8兆円で消えた百貨店そごう
+  series_brand: そごう倒産
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: かつて日本一の店舗網を誇った百貨店そごうが、1兆8千億円もの借金を抱えて倒れた、という話です。
+      caption: 1.8兆円の借金で倒れたそごう
+    - panel: p2
+      text: バブルの時代、そごうは強気の出店を続け、全国に巨大な店舗網を築きました。土地は値上がりし続ける、と信じていたからです。
+      caption: バブル期に強気の全国出店
+    - panel: p3
+      text: ところがバブルが弾けると、買い込んだ土地は、ただの重い借金に変わります。負債は雪だるま式に、膨らみました。
+      caption: 土地が一転、巨額の借金に
+    - panel: p4
+      text: そして2000年、そごうは民事再生法を申請。負債総額は、約1兆8700億円。流通業として、戦後最大級の倒産でした。
+      caption: 2000年、負債1兆8700億円で倒産
+    - panel: p5
+      text: 1万人を超える従業員と、長年通った客を残し、店の看板は、次々と下ろされていきました。
+      caption: 1万人超の従業員を残し閉店
+    - panel: p6
+      text: 大きすぎて潰れない、はずだった。そごうの崩壊は、その神話が幻だと証明した、バブルの墓標でした。
+      caption: 「大きすぎて潰れない」神話の崩壊

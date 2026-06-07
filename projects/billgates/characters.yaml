@@ -1,0 +1,153 @@
+# ビル・ゲイツ cast — visual character sheets for anime/webtoon shorts.
+# Two life-stage variants of Bill Gates:
+#   - subject_young: 13-20s, Lakeside School / Harvard / early Microsoft era (late 1960s - late 1970s)
+#   - subject_adult: 40-60s, post-Microsoft CEO / Gates Foundation era (2000s onward)
+characters:
+  - id: subject_adult
+    name_ja: ビル・ゲイツ
+    description_en: |
+      A 50-60-year-old white American man with the characteristic mature Bill Gates
+      features: a softly rounded face with mild jowls, a slightly receding hairline
+      of thinning light-brown to dirty-blond hair neatly combed to the side and
+      faintly greying at the temples, signature thin-rimmed rectangular rimless or
+      thin-frame eyeglasses sitting on a straight medium nose, calm intelligent
+      blue eyes with a faintly bemused thoughtful gaze, thin lips usually settled
+      in a soft closed-mouth smile, pale slightly ruddy skin, slim narrow shoulders
+      and a thin almost lanky build, an unhurried scholarly bearing — the soft-
+      spoken philanthropist-after-tech-mogul stage of life, kind but precise.
+    outfit_en: |
+      a signature relaxed Bill Gates uniform — a soft V-neck or crewneck pullover
+      sweater in navy, charcoal, soft pink, or muted teal, worn over a plain
+      light-blue or white button-down collared shirt with a visible open collar,
+      well-fitting khaki or grey trousers, plain leather loafers or simple
+      walking shoes. Occasionally a soft unstructured blazer in muted tones over
+      the same sweater-and-shirt combo. Never a tie, never flashy. Quiet,
+      understated, slightly preppy intellectual aesthetic.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - calm thoughtful explanation with slight head tilt
+      - soft amused closed-mouth smile
+      - earnest concerned listening
+      - quietly intense focus reading a document
+      - warm grandfatherly philanthropist nodding
+    poses:
+      - "Front-facing seated at a TED-talk style chair leaning slightly forward"
+      - "Three-quarter view standing with hands clasped in front"
+      - "Side profile reading a thick hardcover book"
+      - "Mid-shot gesturing with one open hand while speaking"
+
+  - id: subject_young
+    name_ja: ビル・ゲイツ (10代-20代)
+    description_en: |
+      A young white American male between 13 and 25, with the characteristic
+      young Bill Gates features: a thin angular face, very large square or
+      aviator-style 1970s eyeglasses with thick brown plastic frames sitting on
+      a narrow nose, slightly prominent front teeth visible in faint smiles,
+      shaggy unkempt sandy light-brown hair falling messily over the forehead
+      and ears, pale freckled skin, narrow shoulders and a notably thin almost
+      gawky teenager-to-twenties build, a precocious intense bearing of a
+      nerdy prodigy who is clearly the smartest person in any room — quick
+      darting intelligent eyes, slightly hunched posture leaning toward a
+      keyboard or book, often a faintly impatient or absorbed expression.
+    outfit_en: |
+      either a late-1960s American private boarding school uniform when at
+      Lakeside (a beige or navy V-neck sweater over a white button-down
+      collared shirt with a striped tie, dark trousers, plain leather shoes),
+      or a 1970s Harvard / early-Microsoft casual outfit (a wide-collared
+      patterned or solid button-down shirt — sometimes plaid — worn untucked
+      over flared bell-bottom jeans or beige slacks, simple sneakers or
+      leather shoes, occasionally a brown corduroy or denim jacket). Always
+      slightly rumpled, never trying too hard.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - intense absorbed staring at a teletype terminal
+      - precocious half-smile pitching an idea
+      - quick darting nerdy excitement
+      - sleep-deprived focus typing through the night
+      - cocky confidence behind oversized glasses
+    poses:
+      - "Front view seated at a 1970s teletype terminal hunched over the keyboard"
+      - "Three-quarter view standing with arms crossed in front of a chalkboard"
+      - "Side profile peering at a printout of code"
+      - "Mid-shot leaning over a desk pointing at a screen with a pen"
+
+  - id: akio_morita
+    name_ja: 盛田昭夫
+    description_en: |
+      A dignified 60-year-old Japanese man with the characteristic features of
+      Sony co-founder Akio Morita in his prime: a refined oval face with high
+      cheekbones, a strong straight nose, intelligent dark-brown almond-shaped
+      eyes that radiate quiet confidence and warmth, a soft closed-mouth smile
+      that conveys both gentle hospitality and unshakable resolve, neatly combed
+      salt-and-pepper hair fully white at the temples, a smooth high forehead,
+      pale-honey clear complexion with faint laugh lines around the eyes, an
+      upright dignified posture conveying old-world Japanese executive
+      gravitas, slim-medium build, the bearing of a global industrialist who
+      moves between Tokyo and New York with equal ease.
+    outfit_en: |
+      a classic 1980s Japanese executive uniform — a finely tailored dark navy
+      or charcoal three-piece worsted-wool suit with thin lapels, a crisp white
+      French-cuff dress shirt, a deep maroon or silver-grey silk tie with a
+      subtle dot pattern in a neat half-Windsor knot, polished black oxford
+      shoes, a tasteful gold tie bar, occasionally a small Sony enamel lapel
+      pin. Always immaculate, never flashy — the discreet wealth of postwar
+      Japanese industrial leadership.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - warm dignified closed-mouth smile while shaking hands
+      - quietly proud explanation gesturing toward a prototype
+      - calm attentive listening with a slight forward lean
+      - sharp focused gaze across a boardroom table
+      - serene wisdom looking out over a Tokyo skyline
+    poses:
+      - "Three-quarter view standing with hands behind his back beside a Walkman prototype"
+      - "Front-facing seated at a polished black-lacquer Sony boardroom table"
+      - "Mid-shot offering a small bow with both hands clasped in front"
+      - "Side profile looking out a high Tokyo office window at the skyline"
+
+  - id: eiji_toyoda
+    name_ja: 豊田英二
+    description_en: |
+      A reserved 70-year-old Japanese man with the characteristic features of
+      Toyota Motor chairman Eiji Toyoda in his later years: a long oval face
+      with a slightly square jaw, prominent cheekbones, deep-set wise dark
+      eyes behind thin-rimmed rectangular Japanese eyeglasses, a straight
+      slightly long nose, thin lips usually set in a serious closed line that
+      occasionally relaxes into a small reserved smile, fully white neatly
+      combed back hair revealing a high forehead, weathered honey-tan skin
+      with faint age lines around the eyes and mouth, a tall slim build with
+      a slightly stooped engineer's posture from decades on factory floors,
+      the bearing of a quiet patriarchal industrialist who built an empire
+      one shop-floor improvement at a time — modest but commanding.
+    outfit_en: |
+      a classic Toyota chairman's everyday uniform — a clean cream or pale-blue
+      cotton work jacket with the small embroidered Toyota oval logo on the
+      left chest worn over a white button-down dress shirt, no tie or a very
+      plain dark tie, dark-grey or charcoal slacks, sturdy black leather work
+      shoes. Occasionally a more formal dark-navy single-breasted business
+      suit with a plain tie when off the factory floor. Always carries a
+      small notebook and a mechanical pencil in his breast pocket.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - serious thoughtful gaze surveying an assembly line
+      - small reserved smile while pointing at a kanban card
+      - patient explanation with calm open palms
+      - quiet pride watching a worker improve a process
+      - sharp focused listening with notebook in hand
+    poses:
+      - "Three-quarter view standing on a Toyota factory floor with hands behind his back"
+      - "Mid-shot pointing at a hanging kanban card with one finger"
+      - "Side profile bowing his head in conversation with a younger engineer"
+      - "Front-facing standing next to a Toyota Crown sedan on the assembly line"

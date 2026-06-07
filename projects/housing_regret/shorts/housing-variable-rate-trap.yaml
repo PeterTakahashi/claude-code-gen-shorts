@@ -1,0 +1,60 @@
+id: housing-variable-rate-trap
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a happy young couple receiving house keys in front of a
+      brand-new home, the visual of "a couple
+      buys their dream home". Bright, hopeful light.
+  - id: p2
+    prompt: |
+      A scene at the bank desk, the couple choosing a loan, a chart showing the variable rate
+      far lower than the fixed rate, a tempting glow on "変動", the visual of "they pick the cheaper variable rate". Warm office tone.
+  - id: p3
+    prompt: |
+      A calendar/clock infographic of a few years passing, then an interest-rate line bending
+      sharply upward, the visual of "years
+      later, rates climb". Clean infographic, shifting to ominous.
+  - id: p4
+    prompt: |
+      A tense home scene of the couple staring at a much higher monthly repayment notice, faces
+      pale, the visual of "the monthly
+      payment balloons". Heavy, anxious tone.
+  - id: p5
+    prompt: |
+      A stressed scene of the couple cutting back on everything, a thin household-budget sheet
+      in red, the visual of "their life gets
+      squeezed". Somber, draining tone.
+  - id: p6
+    prompt: |
+      A reflective scene of the couple looking at their home, a faint warning glow, a decorative
+      Japanese caption "金利の意味を知っていたら", the loop image of "if only they'd understood the
+      risk". Quiet, cautionary tone.
+ja:
+  title: '変動金利で家を買い、数年後に苦しんだ夫婦の話 #Shorts'
+  description: |
+    金利が低いからと、変動金利でマイホームを購入した夫婦。しかし数年後、金利の上昇で返済額が跳ね上がり、生活が一気に苦しくなった。住宅ローンで見落としがちな落とし穴を、30秒の実話風ストーリーで解説します。
+
+    #Shorts #住宅ローン #マイホーム #変動金利 #後悔
+  hook_caption: 変動金利で家を買い、数年後に苦しんだ夫婦
+  series_brand: 住宅購入の落とし穴
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: ある若い夫婦が、念願のマイホームを手に入れました。鍵を受け取った日の笑顔は、希望に満ちていました。
+      caption: ある夫婦が念願のマイホームを手に入れた
+    - panel: p2
+      text: ローンを組むとき、二人は変動金利を選びます。固定より金利が低く、毎月の返済も楽になる。そう説明されたからです。
+      caption: 金利が低いからと変動金利を選んだ
+    - panel: p3
+      text: 最初の数年は、順調でした。ところが、世の中の金利が上昇に転じると、変動金利も、つられて上がり始めます。
+      caption: 数年後、世の中の金利が上昇に転じた
+    - panel: p4
+      text: ある月、二人は返済通知を見て青ざめます。毎月の返済額が、当初より大きく跳ね上がっていたんです。
+      caption: 毎月の返済額が大きく跳ね上がった
+    - panel: p5
+      text: 食費も、レジャーも削り、それでも家計は苦しいまま。低い金利の魅力の裏に、上昇のリスクが隠れていたんです。
+      caption: 低金利の裏に上昇リスクが隠れていた
+    - panel: p6
+      text: 変動金利は、得をすることも、苦しむこともある諸刃の剣。意味を理解せずに選ぶと、夢のマイホームが、重荷に変わってしまうのです。
+      caption: 意味を知らずに選ぶと夢が重荷に変わる

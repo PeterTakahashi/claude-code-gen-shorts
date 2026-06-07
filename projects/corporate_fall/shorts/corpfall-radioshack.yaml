@@ -1,0 +1,63 @@
+id: corpfall-radioshack
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A nostalgic 1980s American small-town strip-mall scene of a bright electronics specialty
+      store, hobbyists browsing aisles of transistors, capacitors, radio kits and walkie-talkies,
+      conveying "the store every electronics tinkerer in America went to". Warm vintage Americana
+      tone, no real logos.
+  - id: p2
+    prompt: |
+      A proud retro infographic of the chain at its peak: thousands of store icons spreading
+      across a map of the United States, towering stacks of small electronic parts, conveying
+      "more than 7,000 stores at its height". Clean vintage infographic.
+  - id: p3
+    prompt: |
+      A late-1990s scene of a small staffed electronics store filled with parts drawers, while
+      outside, big-box electronics warehouses and a glowing internet shopping window draw the
+      crowds away, conveying "big-box stores and online shopping pulled customers away". Cold,
+      anxious mood.
+  - id: p4
+    prompt: |
+      A tense scene of the chain trying to reinvent itself by stocking phones and gadgets it
+      doesn't really know how to sell, confused customers and staff, conveying "they pivoted to
+      phones but lost their identity". Cluttered store, tired tone.
+  - id: p5
+    prompt: |
+      A somber 2015 scene of a closed-down electronics store with "going out of business" signs,
+      empty parts drawers, a bankruptcy notice on the door, conveying "in 2015 the electronics
+      institution filed for bankruptcy". Cold, melancholic.
+  - id: p6
+    prompt: |
+      A symbolic closing image of a single small transistor lying alone on an empty store
+      counter, the dim sign turning off overhead, conveying "the store that taught a generation
+      electronics couldn't find its own place in the new world". Haunting, cautionary tone.
+ja:
+  title: '電子工作の聖地、RadioShackが倒産した理由 #Shorts'
+  description: |
+    かつてアメリカの電子工作好きが必ず通った専門店RadioShack。一時は世界に7,000店舗を超え、街角の風景の一部だった。家電量販店とネット通販の波に挟まれ、自分の強みを失った巨人の崩壊を30秒で解説します。
+
+    #Shorts #倒産 #RadioShack #電子部品 #ビジネス
+  hook_caption: 電子工作の聖地RadioShackが倒れた理由
+  series_brand: 倒産の真相
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: アメリカで電子工作を始める人が、まず通った店があります。RadioShack。トランジスタやケーブルを、街中で買える、特別な場所でした。
+      caption: 電子工作好きの聖地だったRadioShack
+    - panel: p2
+      text: 全盛期は、世界に7,000店舗超。小さな部品から無線機まで、何でも揃う。誰もが、その存在を当たり前だと感じていました。
+      caption: 全盛期は世界に7,000店舗超を展開した
+    - panel: p3
+      text: ところが90年代後半、家電量販店が安く大量に売り始め、続いてネット通販が、部品まで自宅へ届けるようになります。専門店の強みが、薄れていきました。
+      caption: 量販店とネット通販に強みを奪われた
+    - panel: p4
+      text: 焦ったRadioShackは、携帯電話の販売に活路を求めますが、自社の強みであった「部品の専門店」という顔は、ぼやけていきました。
+      caption: 携帯販売に走り、専門店の顔を失った
+    - panel: p5
+      text: そして2015年、ついに経営破綻。一時は街角に当たり前にあった電子工作の聖地は、ほとんどの店舗が、姿を消すことになりました。
+      caption: 2015年に経営破綻、店舗は姿を消した
+    - panel: p6
+      text: 自分の強みを忘れた瞬間、誰でもない店になってしまう。一世代の好奇心を育てた老舗の崩壊が、そのことを静かに語っています。
+      caption: 強みを忘れた店は誰でもなくなる

@@ -1,0 +1,60 @@
+id: physics-bucket-swing
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A playful illustration of a person holding a bucket full of water, about to swing it in
+      a full vertical circle around their arm, water sloshing, the visual of "swing a bucket of
+      water over your head — will it spill?". Bright, curious tone.
+  - id: p2
+    prompt: |
+      A diagram of the bucket at the top of its swing, upside down, but the water still pressed
+      firmly against the bucket's bottom, arrows showing it pushed outward, the visual of "at
+      the top, water stays inside even upside down". Clean physics infographic.
+  - id: p3
+    prompt: |
+      A clear diagram of centripetal force: an arrow from the water pointing outward (away from
+      the swing center), the bucket bottom catching it, the visual of "the water wants to fly
+      outward, the bucket gets in the way". Clean physics diagram.
+  - id: p4
+    prompt: |
+      A diagram contrasting two cases: fast swing (water stays in), slow swing (water spills at
+      the top), the visual of "swing too slowly, and gravity wins". Clean comparison infographic.
+  - id: p5
+    prompt: |
+      A whimsical scene of astronauts inside a giant rotating ring-shaped space station, walking
+      upside-down on the inner wall as if it were the floor, the visual of "this is how a
+      spinning space station fakes gravity". Fun science illustration.
+  - id: p6
+    prompt: |
+      A calm shot of the person setting the bucket down, the still water reflecting their smile,
+      the loop image of "spin fast enough, and 'down' becomes wherever you want it". Warm,
+      thoughtful tone.
+ja:
+  title: '水の入ったバケツを振り回してもこぼれない理由 #Shorts'
+  description: |
+    水を入れたバケツを腕で縦に振り回すと、頂点で逆さまになっても、水はこぼれない。原因は遠心力。これが回転式の宇宙ステーションが擬似重力を生む仕組みでもあります。30秒で解説します。
+
+    #Shorts #物理 #遠心力 #宇宙 #雑学
+  hook_caption: 逆さでも水がこぼれない理由
+  series_brand: 30秒の思考実験
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 水を入れたバケツを、腕で勢いよく縦に一回転させてみます。頂点では、バケツは逆さまになるはずです。
+      caption: 水入りバケツを縦に振り回してみる
+    - panel: p2
+      text: ところが、十分な速さで振れば、頂点で逆さになっても、水は一滴もこぼれません。
+      caption: 速ければ逆さでも水はこぼれない
+    - panel: p3
+      text: 理由は、回転で生まれる遠心力。水は外へ飛んでいこうとして、バケツの底に押し付けられるからです。
+      caption: 遠心力が水をバケツの底に押し付ける
+    - panel: p4
+      text: ただし、回転が遅すぎると、重力が勝ってこぼれます。鍵は、重力を上回るスピードを保ち続けることなんです。
+      caption: 遅いと重力が勝ち、水はこぼれる
+    - panel: p5
+      text: そして同じ仕組みで、回転する宇宙ステーションの中では、外向きの遠心力が、人工的な重力を生み出します。
+      caption: 回転式宇宙ステーションも同じ原理で重力を作る
+    - panel: p6
+      text: 十分に速く回せば、上下の感覚すら入れ替わる。宇宙で暮らす日は、頭の上が床になるかもしれません。
+      caption: 十分に回せば、上下の感覚すら入れ替わる

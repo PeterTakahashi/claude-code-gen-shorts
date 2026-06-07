@@ -1,0 +1,68 @@
+id: sports-nomo-mlb
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A Japanese baseball pitcher in a 1990s Los Angeles Dodgers uniform mid-windup with
+      his iconic dramatic "tornado" twisting motion, back fully turned to the batter,
+      a packed MLB stadium roaring, a decorative Japanese caption "トルネード投法", the visual
+      of "the first Japanese pitcher to conquer the major leagues". 1995 American stadium.
+      Character: a determined Japanese man in his mid-20s, short black hair, intense focused eyes.
+  - id: p2
+    prompt: |
+      A 1995 scene of the same pitcher leaving Japan, Japanese sports newspapers with
+      decorative Japanese headlines "無謀だ" "通用しない", reporters doubting him, the visual
+      of "everyone in Japan said he would fail". Clearly Japan, tense.
+      Character: same Japanese pitcher (now in a suit).
+  - id: p3
+    prompt: |
+      The same pitcher alone in an American locker room, isolated, not speaking English,
+      a decorative Japanese caption "言葉も通じない異国で", the visual of "alone in a country
+      whose language he didn't speak". American MLB locker room.
+      Character: same Japanese pitcher.
+  - id: p4
+    prompt: |
+      Dynamic action of the pitcher striking out American batters one after another, the
+      crowd erupting, a scoreboard with a decorative Japanese caption "奪三振の嵐", the visual
+      of "American hitters couldn't touch his forkball". 1995 MLB stadium.
+      Character: same Japanese pitcher.
+  - id: p5
+    prompt: |
+      A jubilant scene — the pitcher selected for the MLB All-Star game, American fans
+      waving Japanese flags, a decorative Japanese caption "NOMOマニア", the visual of "he
+      became a phenomenon, opening the door for every Japanese player after him". Stadium.
+      Character: same Japanese pitcher.
+  - id: p6
+    prompt: |
+      Close-up of the same pitcher quietly tipping his cap, the stadium lights behind him,
+      a decorative Japanese caption "最初に扉を開けた男", the loop image of "the man who opened
+      the door". 1995 MLB stadium, warm.
+      Character: same Japanese pitcher.
+ja:
+  title: '野茂英雄が誰にも信じられず大リーグに挑んだ日 #Shorts'
+  description: |
+    1995年、誰もが「通用しない」と笑った中、野茂英雄はトルネード投法で大リーグに挑み、奪三振の嵐を巻き起こした。日本人選手の扉を開いた男の物語。
+
+    #Shorts #野茂英雄 #野球 #MLB #トルネード
+  hook_caption: 誰にも信じられず大リーグへ挑んだ男
+  series_brand: 野茂英雄伝
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 背中を完全に打者へ向ける、トルネード投法。この男が、日本人として初めて、大リーグの扉を、こじ開けました。野茂英雄です。
+      caption: トルネード投法で大リーグへ
+    - panel: p2
+      text: 1995年、彼が海を渡ると言った時、日本中が「無謀だ」「通用しない」と、笑いました。誰一人、信じなかったんです。
+      caption: 1995年、誰もが「通用しない」と笑った
+    - panel: p3
+      text: 言葉も通じない異国で、彼は一人きり。頼れるのは、自分の右腕と、ひとつの決意だけでした。
+      caption: 言葉も通じない異国で一人
+    - panel: p4
+      text: ところがマウンドに立つと、消えるようなフォークボールに、アメリカの強打者たちが、空を切り続けます。奪三振の、嵐でした。
+      caption: 奪三振の嵐、強打者が空を切る
+    - panel: p5
+      text: 彼はオールスターにも選ばれ、「NOMOマニア」という社会現象に。そして、後に続く全ての日本人選手の、扉を開いたんです。
+      caption: 後の日本人選手の扉を開いた
+    - panel: p6
+      text: 誰にも信じられなくても、自分だけは信じた。最初に扉を開ける人間は、いつも、たった一人から始まるんです。
+      caption: 最初に扉を開けた、たった一人

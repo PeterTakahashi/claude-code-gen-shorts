@@ -1,0 +1,60 @@
+id: jp-mujin-stand
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a Western tourist on a quiet Japanese countryside road,
+      stopping in surprise at a small unmanned roadside vegetable stand — fresh vegetables on
+      a wooden shelf, no shopkeeper anywhere. Conveys "a shop with no one watching." Warm rural light.
+  - id: p2
+    prompt: |
+      Close-up anime panel of the simple stand: bundles of fresh vegetables, small handwritten
+      price tags, and a small wooden money box with a slot. No cameras, no staff. Conveys
+      "you pay into a box on the honor system." Warm, gentle tone.
+  - id: p3
+    prompt: |
+      An anime scene of the tourist looking around, puzzled, a thought bubble wondering
+      "couldn't anyone just take the money or the vegetables?" Conveys the foreigner's
+      disbelief. Lighthearted countryside tone.
+  - id: p4
+    prompt: |
+      A warm anime panel of a local farmer happily restocking the stand later, the money box
+      safe and full, trust intact. Conveys "yet it works, the money is there." Gentle, warm tone.
+  - id: p5
+    prompt: |
+      An anime infographic-style panel showing these unmanned stands existing all over rural
+      Japan, small map dots, built on mutual trust and honesty. Conveys "this trust is
+      everywhere in Japan." Clean warm illustration.
+  - id: p6
+    prompt: |
+      A closing anime scene of the tourist gently placing coins into the wooden box and taking
+      his vegetables, smiling, moved by the trust. Conveys "a society built on honesty."
+      Warm hopeful rural light.
+ja:
+  title: 'お金を盗まれない無人販売所に外国人が驚いた #Shorts'
+  description: |
+    日本の田舎道に置かれた、店員のいない無人販売所。野菜と料金箱だけで成り立ち、誰も盗まない。性善説で回るこの仕組みに、外国人は衝撃を受ける。日本の信頼の文化を30秒で解説します。
+
+    #Shorts #日本 #無人販売所 #海外の反応 #日本文化
+  hook_caption: 誰も盗まない無人販売所に外国人が驚く
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 日本の田舎道で、外国人が足を止めました。野菜が並んでいるのに、店員が、どこにもいなかったからです。
+      caption: 店員のいない無人販売所に足を止めた
+    - panel: p2
+      text: そこにあるのは、野菜と、手書きの値段、そして小さな料金箱だけ。お客さんが自分で、箱にお金を入れる仕組みです。
+      caption: 野菜と料金箱だけ、自分でお金を入れる
+    - panel: p3
+      text: 外国人は思います。これでは、お金も野菜も、誰かに盗まれてしまうのではないか、と。
+      caption: お金も野菜も盗まれないのかと疑問に思う
+    - panel: p4
+      text: ところが、箱のお金は、ちゃんとそこにあります。盗む人は、ほとんどいない。日本では、それが当たり前なんです。
+      caption: それでも箱のお金はちゃんと残っている
+    - panel: p5
+      text: こうした無人販売所は、日本各地にあります。人を信じることを前提にした、性善説の上に成り立つ文化なんです。
+      caption: 人を信じる前提で成り立つ日本各地の文化
+    - panel: p6
+      text: 見られていなくても、ずるをしない。その当たり前の信頼こそ、外国人が最も驚く、日本の本当の豊かさなのです。
+      caption: 見られなくてもずるをしない信頼の豊かさ

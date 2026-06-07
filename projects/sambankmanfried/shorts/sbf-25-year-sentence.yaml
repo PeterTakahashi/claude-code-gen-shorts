@@ -1,0 +1,178 @@
+id: sbf-25-year-sentence
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    March 28, 2024, a wood-paneled Manhattan federal courtroom. Sam
+
+    Bankman-Fried, 32 years old, stands at the defense table in an ill-fitting
+
+    grey jail-issued sweatshirt and grey loose pants instead of his usual
+
+    t-shirt, his explosively curly mop of brown hair now visibly shorter and
+
+    flattened from months in detention, sleepy half-lidded eyes wide and
+
+    hollow, hands clasped at his waist as a silhouetted judge on a raised
+
+    bench in the foreground delivers a sentence. The exact moment of hearing
+
+    twenty-five years. Mid-shot from behind the judge.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 12, 2022, night-time Bahamas. Sam Bankman-Fried, 30 years old,
+
+    led out of a modern condo building by two anonymous Bahamian police
+
+    officers in dark uniforms, hands cuffed in front, his frizzy mop of hair
+
+    still wild, wrinkled t-shirt and shorts, sleepy eyes calm but stunned,
+
+    tropical palm trees and warm streetlamps in the background. The arrest
+
+    one month after the FTX collapse.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    October 2023, inside a packed Manhattan federal courtroom. A prosecutor
+
+    figure in a dark suit gestures at a large evidence display screen showing
+
+    generic flow-chart arrows between two boxes labeled abstractly as
+
+    "Customer Funds" and "Hedge Fund", a packed gallery of journalists
+
+    taking notes, Sam Bankman-Fried visible in the foreground at the defense
+
+    table in a navy blue suit with his hair flattened, sleepy eyes downcast.
+
+    The case against him being laid out. No real readable text on screens.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2023, a courtroom witness stand. A young white woman in her late
+
+    twenties with shoulder-length brown hair, glasses, a modest dark blouse,
+
+    sits in the witness chair speaking calmly to an unseen attorney, her
+
+    face determined and emotional, a microphone in front of her. In the
+
+    foreground, the back of Sam Bankman-Fried''s curly head as he watches
+
+    from the defense table. The ex-CEO of Alameda testifying against him.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 2, 2023, the Manhattan courtroom. A jury box in the foreground
+
+    with a silhouetted jury foreperson standing and reading from a paper,
+
+    the courtroom hushed, Sam Bankman-Fried at the defense table in a navy
+
+    suit, his frizzy curly mop, sleepy eyes wide and frozen, his lawyer
+
+    seated next to him looking grim. A faint count-style overlay implying
+
+    seven guilty verdicts without legible text. The verdict moment.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    March 28, 2024, just after sentencing. Sam Bankman-Fried, 32 years old,
+
+    led away from the defense table by a US Marshal figure in a dark
+
+    uniform, hands cuffed in front, wearing the grey jail sweatshirt, his
+
+    flattened curly hair still recognizable, sleepy half-lidded eyes blank
+
+    and exhausted, a final glance back toward the empty courtroom gallery.
+
+    Cool blue light from tall courthouse windows. The man who built a 32
+
+    billion dollar empire walking toward a 25-year sentence. Loop-back framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '32歳で禁固25年を言い渡された男 #Shorts'
+  description: '2024年3月、サム・バンクマン・フリードは、マンハッタン連邦裁判所で、禁固25年の実刑判決を受けた。
+
+    詐欺・マネーロンダリングの全7罪、有罪。
+
+
+    #Shorts #SBF #FTX #人物伝
+
+    '
+  hook_caption: 32歳、禁固25年の判決
+  series_brand: サム・バンクマン・フリード伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 32歳の元億万長者が、禁固25年の、実刑判決を、受けました。
+    caption: 32歳、禁固25年の実刑
+  - panel: p2
+    text: 2022年12月、サム・バンクマン・フリードは、Bahamasで、逮捕されます。FTX破綻から、わずか1ヶ月後、でした。
+    caption: 2022年12月、Bahamasで逮捕
+  - panel: p3
+    text: 翌2023年10月、マンハッタン連邦裁判所で、裁判が、開廷。検察は、顧客資金80億ドルの、不正流用を、立証しました。
+    caption: 2023年10月、Manhattanで開廷
+  - panel: p4
+    text: 決定打は、元恋人で、Alameda CEOのキャロライン・エリソンの、証言でした。
+    caption: 元恋人エリソンの証言が決定打
+  - panel: p5
+    text: 11月2日、陪審は、わずか4時間で、全7罪、有罪を、評決します。
+    caption: 陪審は4時間で全7罪有罪
+  - panel: p6
+    text: そして、2024年3月28日、判決。詐欺、マネーロンダリング、その他、合計25年。
+    caption: 2024年3月28日、合計25年
+en:
+  title: 'The Crypto King Who Got 25 Years in Prison #Shorts'
+  description: 'Sam Bankman-Fried was a 32-year-old billionaire. Now he''s facing 25 years in prison for one of the biggest financial frauds in history.
+
+    #Shorts #SBF #FTX #TrueCrime'
+  hook_caption: How a Billionaire Got a 25-Year Sentence
+  series_brand: The SBF Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: At 32 years old, former crypto billionaire Sam Bankman-Fried was sentenced to 25 years in federal prison.
+    caption: 25-Year Sentence
+  - panel: p2
+    text: His downfall began in December 2022, with his arrest in the Bahamas just a month after his exchange, FTX, collapsed.
+    caption: Arrested in Bahamas
+  - panel: p3
+    text: 'By October 2023, his trial began in Manhattan, where prosecutors laid out their case: 8 billion dollars in stolen customer funds.'
+    caption: $8 Billion Fraud Trial
+  - panel: p4
+    text: The star witness against him was his former girlfriend and business partner, Caroline Ellison.
+    caption: Star Witness Testifies
+  - panel: p5
+    text: Her testimony was devastating. The jury took only four hours to find him guilty on all seven counts.
+    caption: Guilty on All Counts
+  - panel: p6
+    text: On March 28, 2024, the judge delivered the final verdict, and he was led away to begin his sentence.
+    caption: ''

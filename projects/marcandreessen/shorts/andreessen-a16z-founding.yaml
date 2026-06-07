@@ -1,0 +1,179 @@
+id: andreessen-a16z-founding
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    July 2009, the brand-new Andreessen Horowitz office on Sand Hill Road,
+
+    Menlo Park California. A 38-year-old Marc Andreessen — already bald,
+
+    tall, large-framed, wearing a crisp white open-collared dress shirt
+
+    under a dark blazer — sitting at a long polished modern conference
+
+    table next to Ben Horowitz, a slim white American man in his early 40s
+
+    with short black-and-grey hair, glasses, dark sweater. Both face the
+
+    camera with confident composed expressions, a soft "a16z" logo subtly
+
+    visible on the wall behind them in muted black. Bright California
+
+    morning light through floor-to-ceiling windows.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    September 2008, a dramatic dark moody image of a stylized Wall Street
+
+    street view at night — a few dark-suited bankers walking with cardboard
+
+    boxes of belongings, a flickering ticker display showing red downward
+
+    arrows and the implied collapse of Lehman Brothers, rain on the
+
+    pavement, cold blue and grey tones. No faces visible. Establishes the
+
+    worst possible moment to start a new venture fund.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2002, the early Loudcloud / Opsware office. A younger Marc
+
+    Andreessen, age 31, still with thinning curly hair, and Ben Horowitz,
+
+    mid-30s, sitting side by side at adjacent desks in front of CRT
+
+    monitors, both looking exhausted but determined, server racks visible
+
+    in the background, fluorescent lighting. Conveys: before they were VCs,
+
+    they had survived running a real software company together through
+
+    the first dot-com crash.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 2009, an LP fundraising meeting in a wood-paneled boardroom. Marc
+
+    Andreessen stands beside a large minimalist projection screen showing
+
+    a single bold English headline "FOUNDERS BACKING FOUNDERS" in clean
+
+    sans-serif text, gesturing with one open hand toward a panel of
+
+    seated older-looking limited-partner investors in dark suits, their
+
+    backs partially visible. Calm confident posture. Conveys: the new
+
+    operator-friendly VC pitch.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2012, the bustling Andreessen Horowitz office. A dozen young
+
+    a16z operating partners in business-casual attire working at long
+
+    shared desks, on phones, around whiteboards labeled "MARKETING",
+
+    "RECRUITING", "PR", "BIZDEV", helping unseen portfolio founders. A
+
+    glass-walled conference room visible in the background with founders
+
+    pitching. Daylight, modern Menlo Park aesthetic. Conveys: a16z
+
+    reinvented VC as a full-service agency for startups.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late afternoon, the Andreessen Horowitz partner office around 2013.
+
+    Marc Andreessen, age 42, bald, large-framed, in a crisp light-blue
+
+    open-collared shirt, standing alone by a tall floor-to-ceiling window
+
+    looking out over the green Menlo Park hills, hands clasped behind his
+
+    back, expression of measured confidence. Soft golden California
+
+    afternoon light on his face. Over-shoulder framing. Conveys: a16z is
+
+    now the dominant new force in VC, and he is about to call software
+
+    the thing that eats the world.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'VC界を変えたa16zを作った男 #Shorts'
+  description: '2009年、マーク・アンドリーセンとベン・ホロウィッツが、リーマンショック直後にa16zを創業した。
+
+    "創業者出身のVC"という新しい型を作り、サンドヒル・ロードのルールを書き換えた。
+
+
+    #Shorts #マークアンドリーセン #a16z #AndreessenHorowitz #人物伝
+
+    '
+  hook_caption: サンドヒル・ロードのルールを変えた男
+  series_brand: マーク・アンドリーセン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: サンドヒル・ロードのVC業界の、ルールを書き換えた男がいます。
+    caption: VC業界のルールを書き換えた男
+  - panel: p2
+    text: 2008年、リーマンショックで、世界経済が、崩壊しました。
+    caption: 2008年、リーマンショック
+  - panel: p3
+    text: その翌年2009年、マーク・アンドリーセンと、ベン・ホロウィッツは、最悪のタイミングで、新しいVCを立ち上げたんです。
+    caption: 2009年、最悪のタイミングで創業
+  - panel: p4
+    text: 2人は、すでに2社を、共同経営した、本物の創業者でした。だから、創業者の気持ちが、分かったんです。
+    caption: 創業者出身のVCコンビ
+  - panel: p5
+    text: 彼らは、採用、広報、営業まで支援する、フルサービス型VCを発明し、サンドヒル・ロードの、常識を覆しました。
+    caption: フルサービス型VCを発明
+  - panel: p6
+    text: そして10年後、a16zは、運用資産360億ドル超の、シリコンバレー最強のVCになるんです。
+    caption: 10年後、運用資産360億ドル超
+en:
+  title: 'How Andreessen Horowitz Broke Venture Capital #Shorts'
+  description: 'In the ashes of the 2008 financial crisis, Marc Andreessen and Ben Horowitz founded a16z. They rewrote the rules of venture capital by being founders first, creating a Silicon Valley giant.
+
+    #Shorts #a16z #AndreessenHorowitz #MarcAndreessen #VentureCapital'
+  hook_caption: This VC broke all the rules... and won.
+  series_brand: The Marc Andreessen Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 2008, the global economy was collapsing.
+    caption: Global Meltdown
+  - panel: p1
+    text: But in the middle of the chaos, Marc Andreessen and Ben Horowitz launched a brand new venture capital firm.
+    caption: The Worst Possible Time
+  - panel: p4
+    text: Their secret? They weren't bankers. They were founders who had already built and sold two companies.
+    caption: Founders Backing Founders
+  - panel: p5
+    text: 'They invented a new model: a full-service firm that helped with everything from recruiting to PR.'
+    caption: A New Kind of VC
+  - panel: p6
+    text: Just a decade later, a16z was one of the most powerful VCs in the world, managing over $36 billion.
+    caption: Silicon Valley's New King

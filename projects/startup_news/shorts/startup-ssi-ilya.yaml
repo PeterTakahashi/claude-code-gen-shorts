@@ -1,0 +1,62 @@
+id: startup-ssi-ilya
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern tech-portrait of Ilya Sutskever (bald, dark beard, intense thoughtful eyes,
+      plain dark shirt) standing alone against a minimalist white background, a single glowing
+      line of code/AI motif behind him. Conveys "the AI genius who walked away." Dramatic clean
+      lighting.
+  - id: p2
+    prompt: |
+      A tense illustration of a Silicon Valley AI lab in turmoil in 2024, a boardroom with
+      empty chairs and a fractured logo, suggesting a famous falling-out at a leading AI
+      company. Cold corporate drama, no real logos.
+  - id: p3
+    prompt: |
+      Ilya Sutskever quietly founding a tiny new company, a stark minimalist office with just
+      a whiteboard reading "SAFE SUPERINTELLIGENCE", a handful of elite researchers. Conveys
+      "one mission, nothing else." Clean, focused tone.
+  - id: p4
+    prompt: |
+      A striking financial infographic: a giant money mountain labeled with a multi-billion
+      dollar valuation towering over a tiny office with NO product, a big question mark.
+      Conveys "billions raised, zero product." Clean infographic.
+  - id: p5
+    prompt: |
+      An illustration of the company's single-minded philosophy: a straight arrow ignoring
+      side doors of "products" and "revenue", aimed only at a distant glowing goal labeled
+      "safe superintelligence". Minimalist conceptual art.
+  - id: p6
+    prompt: |
+      A contemplative shot of Ilya Sutskever looking toward a glowing AI horizon, the weight
+      of building safe superintelligence on his shoulders, the question of whether he can
+      deliver. Cinematic, thoughtful.
+ja:
+  title: 'イリヤがOpenAIを去り作ったSSI、製品ゼロで時価総額3兆円 #Shorts'
+  description: |
+    AIの天才イリヤ・サツケバーは、OpenAIを去り、新会社SSIを設立した。製品はゼロ、目的はただ一つ「安全な超知能」を作ること。それだけで数千億円を集め、時価総額は数兆円に達した。その異例の挑戦を30秒で解説します。
+
+    #Shorts #スタートアップ #AI #OpenAI #テック
+  hook_caption: 製品ゼロで時価総額3兆円のAI企業
+  series_brand: スタートアップ
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: AI開発の中心にいた天才が、頂点で会社を去りました。イリヤ・サツケバー。OpenAIの設立メンバーの一人です。
+      caption: AIの天才イリヤがOpenAIを去った
+    - panel: p2
+      text: きっかけは、2024年に起きた、経営をめぐる激しい対立だったと言われています。彼は、自らの道を歩むことを選びました。
+      caption: 2024年の経営対立を経て独立を選んだ
+    - panel: p3
+      text: 彼が立ち上げた新会社、SSI。掲げる目的は、たった一つ。「安全な超知能」を作ること、それだけでした。
+      caption: 新会社SSIの目的は「安全な超知能」だけ
+    - panel: p4
+      text: 驚くのはここからです。製品も、売上もまだ何もない。それなのに、数千億円を集め、時価総額は数兆円に達しました。
+      caption: 製品も売上もないのに数兆円の価値がついた
+    - panel: p5
+      text: 目先の製品も収益も追わず、ただ一点だけを目指す。その潔さに、世界の投資家たちが賭けたんです。
+      caption: 一点だけを目指す潔さに投資家が賭けた
+    - panel: p6
+      text: 製品なきまま集めた巨額の期待に、彼は応えられるのか。AIの未来をめぐる、最も大胆な賭けが始まっています。
+      caption: 製品なき巨額の期待に応えられるか

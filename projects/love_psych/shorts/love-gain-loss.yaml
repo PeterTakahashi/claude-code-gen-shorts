@@ -1,0 +1,60 @@
+id: love-gain-loss
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a normally cool, aloof man unexpectedly showing a
+      gentle, kind gesture, a woman's heart skipping, the visual of "a cold person's sudden kindness hits hard".
+      Soft, dramatic romance light.
+  - id: p2
+    prompt: |
+      A psychology infographic showing two arrows: a cold baseline rising sharply to warmth
+      (big impact) versus a constantly-warm flat line, the visual of "the change, not the level, moves the heart". Clean infographic.
+  - id: p3
+    prompt: |
+      A webtoon split scene: left, a usually-strict man gently helping; right, the impressed
+      reaction, the visual of "the gain-loss
+      effect of contrast". Clean dual-panel illustration.
+  - id: p4
+    prompt: |
+      A webtoon warning scene: a usually-kind person suddenly turning cold, the partner more
+      hurt than usual, the visual of "the reverse
+      stings even harder". Slightly tense, emotional tone.
+  - id: p5
+    prompt: |
+      An infographic of a do-and-dont: small genuine gap (good) versus fake manipulative
+      coldness (bad, crossed out), the visual
+      of "forced gaps backfire". Clean honest-advice infographic.
+  - id: p6
+    prompt: |
+      A tender webtoon scene of two people connecting after a small genuine moment of warmth,
+      soft light, the loop image of "hearts move
+      on contrast". Warm romance tone.
+ja:
+  title: '普段クールな人の優しさにグッとくる理由、ゲインロス効果 #Shorts'
+  description: |
+    いつも素っ気ない人がふと見せる優しさに、なぜか強く惹かれてしまう。これは「ゲインロス効果」と呼ばれ、人の心は状態そのものより「変化」に動かされるからです。恋愛で効く心理を30秒で解説します。
+
+    #Shorts #恋愛心理 #ゲインロス効果 #心理学 #恋愛
+  hook_caption: クールな人の優しさにグッとくる理由
+  series_brand: 恋愛科学
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: いつも素っ気ない人が、ふいに見せた優しさ。なぜあれほど、心を強く揺さぶられるのでしょうか。
+      caption: 素っ気ない人の優しさに強く揺さぶられる
+    - panel: p2
+      text: 理由は、人の心が「状態」より「変化」に反応するからです。低いところから上がった優しさほど、インパクトが大きく感じられます。
+      caption: 心は状態より変化のほうに強く反応する
+    - panel: p3
+      text: これを「ゲインロス効果」と言います。普段が冷たい分、見せた優しさのギャップが、好感度を一気に押し上げるんです。
+      caption: 冷たさとのギャップが好感度を押し上げる
+    - panel: p4
+      text: ただし、逆も成り立ちます。いつも優しい人が急に冷たくなると、その落差は、普通以上に深く相手を傷つけてしまいます。
+      caption: 優しい人が冷たくなると落差で深く傷つく
+    - panel: p5
+      text: 大事なのは、これを演技に使わないことです。わざとらしい冷たさは、すぐに見抜かれ、信頼を失うだけだからです。
+      caption: わざとらしい演技は見抜かれ逆効果になる
+    - panel: p6
+      text: 心を動かすのは、状態ではなく変化。だからこそ、いつもの自分にときどき見せる素直さが、いちばん強い武器になるんです。
+      caption: いつもの自分に見せる素直さが最強の武器

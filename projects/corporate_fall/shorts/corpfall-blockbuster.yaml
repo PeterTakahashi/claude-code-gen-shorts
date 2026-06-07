@@ -1,0 +1,63 @@
+id: corpfall-blockbuster
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A nostalgic late-1990s American suburban scene of a brightly lit blue-and-yellow video rental
+      store at night, families browsing shelves of VHS tapes and DVDs, "Friday night movie" energy,
+      conveying "the video store giant everyone went to on weekends". Warm vintage Americana tone,
+      no real logos.
+  - id: p2
+    prompt: |
+      A peak-era infographic of the rental chain dominating the world: thousands of store icons
+      spreading across a map of America and beyond, towering stacks of rental tapes, conveying
+      "9,000 stores worldwide at its peak". Clean retro infographic.
+  - id: p3
+    prompt: |
+      A pivotal year-2000 boardroom scene: a young founder of a small mail-order DVD startup
+      (Netflix-style) offering himself for sale to skeptical video-store executives who laugh and
+      wave him away, conveying "they laughed off the chance to buy Netflix for 50 million dollars".
+      Tense corporate, cautionary.
+  - id: p4
+    prompt: |
+      A montage of consumers switching from physical rentals to mail-order DVDs and then to
+      streaming on laptops and TVs, while the blue-and-yellow stores sit empty, conveying
+      "streaming swept the world while the giant stood still". Dramatic shift illustration.
+  - id: p5
+    prompt: |
+      A somber 2010 scene of a closed-down video rental store, "going out of business" signs in
+      the window, empty shelves, a bankruptcy notice on the door, conveying "in 2010 the empire
+      filed for bankruptcy". Cold, melancholic.
+  - id: p6
+    prompt: |
+      A symbolic closing image of one last lonely Blockbuster-style store glowing at night in a
+      sea of dark streaming-screen icons, conveying "the giant who said no to the future was
+      erased by it". Haunting, cautionary tone.
+ja:
+  title: 'Netflixを買う機会を笑って断ったブロックバスターの末路 #Shorts'
+  description: |
+    かつて世界に9,000店舗を展開したビデオレンタル王国ブロックバスター。2000年、当時無名だったNetflixを5,000万ドルで買えるチャンスを、笑って断ったという。動画配信の波に飲まれた巨人の崩壊を30秒で解説します。
+
+    #Shorts #倒産 #ブロックバスター #Netflix #ビジネス
+  hook_caption: Netflixを笑って断ったブロックバスター
+  series_brand: 倒産の真相
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 週末の夜は家族で、ビデオレンタル店へ。そんな時代を支配したのが、ブロックバスターでした。世界中の人が、通った店です。
+      caption: 週末の夜を支配したビデオ王国
+    - panel: p2
+      text: ピーク時は、世界に約9,000店舗。映画はここで借りるのが、当たり前。誰もが、その王座は揺らがないと、信じていました。
+      caption: ピーク時は世界に約9,000店舗あった
+    - panel: p3
+      text: 2000年、当時無名だったNetflixの創業者が、自社を5,000万ドルで買ってほしいと提案します。しかし経営陣は、まともに取り合いませんでした。
+      caption: 2000年、Netflixを5,000万ドルで断った
+    - panel: p4
+      text: その後、世界は郵送DVDから、動画配信へと進みます。店舗に行く必要が消えていく中、ブロックバスターは、過去のビジネスに、しがみつきました。
+      caption: 世界が動画配信へ進む中で取り残された
+    - panel: p5
+      text: そして2010年、ブロックバスターは、ついに経営破綻。一方、断られたNetflixは、世界最大の動画配信企業へと、成長していきます。
+      caption: 2010年に破綻、断ったNetflixが世界を取った
+    - panel: p6
+      text: 目の前のチャンスを笑った瞬間に、未来は別の人の手に渡る。9,000店舗の王国を、たった一つの判断が、消し去ったのです。
+      caption: 一度の判断で9,000店舗が消えた

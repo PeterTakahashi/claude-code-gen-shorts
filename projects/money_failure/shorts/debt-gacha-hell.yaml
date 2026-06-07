@@ -1,0 +1,60 @@
+id: debt-gacha-hell
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a young man on the couch happily pulling a mobile-game
+      gacha, colorful loot effects on the phone, the visual of "spending to get his favorite character". Cozy but glowing-screen tone.
+  - id: p2
+    prompt: |
+      A scene of dazzling rare-character pull effects, the man elated, a small "¥" counter
+      starting to climb, the visual of "the
+      rare pull gives a dopamine rush". Vivid, addictive glow.
+  - id: p3
+    prompt: |
+      An infographic of escalating monthly spending bars, 1万, 5万, 20万, the counter spiking,
+      the visual of "spending spirals upward".
+      Clean infographic shifting to ominous.
+  - id: p4
+    prompt: |
+      A tense scene of the man tapping a credit-card / リボ payment to keep spinning, a faint
+      red warning, the visual of "he borrows to
+      keep pulling". Anxious, dim tone.
+  - id: p5
+    prompt: |
+      A dark scene of a credit-card statement showing a huge balance, the man holding his head,
+      the visual of "he wakes up buried in
+      debt". Heavy, despairing tone (non-graphic).
+  - id: p6
+    prompt: |
+      A reflective scene of the man setting the phone face-down, a faint warning glow,
+      the loop image of "know the odds and your
+      limit". Quiet, cautionary tone.
+ja:
+  title: 'ガチャに月20万、課金が止まらなくなった男の話 #Shorts'
+  description: |
+    好きなキャラを引くために始めたソーシャルゲームのガチャ。当たる快感がやめられず、課金は月20万円に膨れ上がり、ついには借りてまで回すように。気づけば借金まみれになった実話風ストーリーを30秒で解説します。
+
+    #Shorts #ソシャゲ #ガチャ #課金 #お金の失敗
+  hook_caption: ガチャに月20万、課金が止まらない男
+  series_brand: お金の落とし穴
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: ある男性が、スマホゲームを始めました。好きなキャラクターを手に入れるため、軽い気持ちで、ガチャに課金したんです。
+      caption: 好きなキャラのため軽い気持ちで課金した
+    - panel: p2
+      text: レアなキャラが当たった瞬間、脳は強い快感を覚えます。彼は、その当たりの瞬間を、もう一度味わいたくなりました。
+      caption: 当たった瞬間の快感が忘れられなくなる
+    - panel: p3
+      text: 課金額は、月に1万、5万、と膨らんでいきます。気づけば、毎月20万円をガチャに溶かすようになっていました。
+      caption: 課金は月20万円にまで膨れ上がった
+    - panel: p4
+      text: それでも、彼は止まれません。給料だけでは足りず、ついにはお金を借りてまで、ガチャを回すようになります。
+      caption: 給料では足りず借りてまで回し始めた
+    - panel: p5
+      text: ある日、クレジットカードの明細を見て、彼は凍りつきます。手元には推しのキャラと、膨れ上がった借金だけが残っていました。
+      caption: 気づけば手元には借金だけが残っていた
+    - panel: p6
+      text: ガチャの当たりは、当たるほど脳が深みにはまる仕組み。確率と、自分の財布の限界を知らないと、誰でもこの沼に落ちるのです。
+      caption: 確率と財布の限界を知らないと誰でも落ちる

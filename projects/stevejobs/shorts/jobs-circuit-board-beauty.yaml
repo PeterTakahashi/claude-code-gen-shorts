@@ -1,0 +1,63 @@
+id: jobs-circuit-board-beauty
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Extreme close-up of a 29-year-old Steve Jobs in 1984, intently inspecting the inside of
+      an opened Macintosh computer, frowning at the circuit board with uncompromising
+      perfectionism, harsh workshop light. Conveys "he cared about a part no customer would
+      ever see." Character: {jobs_young}.
+  - id: p2
+    prompt: |
+      A 1984 engineering scene: tired Apple engineers around a workbench looking puzzled as
+      Jobs points at the green circuit board inside the Macintosh, gesturing that the chip
+      layout is "ugly". Tense, fluorescent-lit lab. Character: {jobs_young}.
+  - id: p3
+    prompt: |
+      A warm flashback illustration: a young boy (Steve Jobs as a child) watching his father
+      Paul Jobs carefully sanding the unseen BACK of a wooden cabinet in a 1960s garage
+      workshop, sawdust in golden light. The lesson of craftsmanship. Character: {jobs_child}.
+  - id: p4
+    prompt: |
+      Close-up of the father's hands finishing the hidden back panel of a cabinet, and a
+      caption-free visual metaphor cutting to the clean, elegant inside of the Macintosh
+      circuit board. 1960s garage warmth blending into 1984 tech. Conveys "beauty even where
+      no one looks."
+  - id: p5
+    prompt: |
+      A 1982 scene of the Macintosh team signing their names inside the plastic case mold,
+      like artists signing a canvas, Jobs smiling approvingly, hands writing signatures.
+      Warm pride. Character: {jobs_young}.
+  - id: p6
+    prompt: |
+      A 42-year-old mature Steve Jobs on a 1998 Apple stage holding the iMac, the same
+      obsession with hidden beauty now legendary, confident, black turtleneck. The philosophy
+      that built Apple. Character: {jobs_adult}.
+ja:
+  title: 'ジョブズが見えない基板の裏まで美しさを求めた理由 #Shorts'
+  description: |
+    誰も見ない、コンピューターの内部の基板。なぜスティーブ・ジョブズは、そこにまで美しさを求めたのか。父から受け継いだ「職人の哲学」が、後のアップルを形づくりました。30秒で解説します。
+
+    #Shorts #偉人伝 #スティーブジョブズ #Apple #名言
+  hook_caption: ジョブズは見えない部分にこだわった
+  series_brand: スティーブ・ジョブズ
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: スティーブ・ジョブズは、コンピューターの内部にある基板を見て、こう言いました。これは美しくない、作り直せ、と。
+      caption: 内部の基板を見て「美しくない」と言った
+    - panel: p2
+      text: 技術者たちは戸惑います。基板は、ケースの中。お客さんには、絶対に見えない部分だからです。
+      caption: 客には見えない部分なのに作り直しを命じた
+    - panel: p3
+      text: このこだわりは、父から受け継いだものでした。父は、家具職人。見えない裏側まで、丁寧に磨く人だったんです。
+      caption: 父は家具の見えない裏側まで磨く職人だった
+    - panel: p4
+      text: 優れた職人は、誰も見ない場所にも、安い木を使わない。その教えが、ジョブズのものづくりの根っこにありました。
+      caption: 「見えない場所にも妥協しない」という教え
+    - panel: p5
+      text: だから彼は、開発メンバー全員の名前を、ケースの内側に刻ませました。中身もまた、作品だったからです。
+      caption: ケースの内側に開発者全員の名を刻ませた
+    - panel: p6
+      text: 見えない部分にこそ、本質は宿る。この哲学があったからこそ、アップルの製品は、世界を魅了し続けるのです。
+      caption: 見えない部分への妥協なき哲学が世界を魅了した

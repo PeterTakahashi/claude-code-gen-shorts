@@ -1,0 +1,263 @@
+id: animals-crow-iq-7yo
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic shot of a single jet-black Japanese jungle
+
+    crow''s intelligent face filling the frame, glossy black feathers
+
+    reflecting subtle iridescent blue-purple, one piercing dark eye locked
+
+    directly toward the viewer with unsettling human-like awareness, sharp
+
+    thick black beak slightly open, a soft-focus red traffic light glow
+
+    visible massively behind it in the bokeh of a Tokyo intersection at
+
+    dusk, decorative Japanese street sign「歩行者信号」barely readable in
+
+    blur. The visual of "this bird is reading the signal — and reading
+
+    you." Subject filling square center for vertical short layout, blurred
+
+    padding above and below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A Tokyo pedestrian crossing at a busy intersection in late afternoon,
+
+    mid-shot from a low angle of a jet-black jungle crow perched calmly on
+
+    the metal arm of a traffic-signal pole, the red pedestrian light glowing
+
+    beside its head, a single walnut held in its beak, cars and salarymen
+
+    blurred in mid-cross below, decorative Japanese signage「青山一丁目」
+
+    readable on a blue street sign. The visual of "the bird that waits
+
+    for the light to change."
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same Tokyo intersection moments later, the signal now green for cars,
+
+    mid-shot of the same crow having dropped the walnut directly into the
+
+    tire path of a stopping sedan, then hopping down onto the white
+
+    crosswalk lines to retrieve the cracked-open walnut shell, the broken
+
+    nutmeat clearly visible, another crow watching from a streetlight
+
+    above, decorative Japanese signage「止まれ」on a small sign readable.
+
+    The visual of "tool use, traffic timing, and patience — by a bird."
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on soft cream background, decorative
+
+    bold English headline "IQ ≈ AGE 7" centered, smaller decorative
+
+    Japanese label beneath「ハシブトガラス / 道具使用 / 顔の記憶 数年」
+
+    readable, a tiny chibi crow figure with a tiny walnut in its beak
+
+    between them, a faint silhouette of a child''s height-chart in the
+
+    corner. The visual of "intelligence on par with a human
+
+    seven-year-old."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of a Japanese university animal-cognition lab, mid-shot of
+
+    a calm 40-something Japanese female researcher in a white lab coat
+
+    and round glasses kneeling beside a clear acrylic test box, a single
+
+    jungle crow inside pulling a string with its beak to lift a small
+
+    treat platform, a clipboard with decorative Japanese label
+
+    「実験記録」readable on a side desk, soft fluorescent lab light, the
+
+    visual of "the lab that confirmed what Tokyo streets already knew."
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic shot as panel 1 but slightly later — the
+
+    same single jet-black Japanese jungle crow''s face filling the frame,
+
+    the same piercing dark eye locked toward the viewer but now with the
+
+    faintest tilt of the head, the sharp black beak now closed around a
+
+    tiny cracked walnut shell fragment, the soft-focus traffic-signal glow
+
+    behind shifting subtly to green. The loop image of "the bird that
+
+    thinks." Subject filling square frame for vertical short with blurred
+
+    padding above and below.
+
+    '
+- id: na
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame. Macro extreme
+    close-up of a single jet-black Japanese jungle crow''s eye, the curved glossy eye
+    reflecting two tiny traffic-signal lights — a red and a green dot — mirrored in the
+    dark iris, blurred Tokyo intersection bokeh around. The visual of "it sees timing,
+    not just red and green." Centered for vertical short, blurred padding above and below.'
+- id: nb
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame. Low wide shot
+    of a jet-black jungle crow perched on the metal arm of a Tokyo traffic-signal pole,
+    looking down calmly as a row of cars comes to a complete stop at a glowing red
+    pedestrian light below, salarymen blurred, decorative Japanese sign「停止」readable.
+    The visual of "it waits until every car has stopped." Blurred padding above and below.'
+- id: nc
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame. Mid-shot of the
+    same jet-black jungle crow hopping onto the white crosswalk lines, carefully placing a
+    single walnut directly in the tire path just ahead of a stopped sedan''s front wheel,
+    the pedestrian signal beside about to switch, Tokyo intersection. The visual of
+    "reading the tire''s path." Blurred padding above and below.'
+- id: nd
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame. Dynamic close-up
+    of a car''s black rubber tire rolling over and cracking a walnut on the white crosswalk
+    paint, tiny shell fragments scattering, the same jungle crow watching intently from the
+    signal pole above in soft focus. The visual of "letting the car do the work." Blurred
+    padding above and below.'
+- id: ne
+  prompt: 'Square 1:1 anime/webtoon style infographic panel on soft cream background.
+    Two clean decorative icons side by side: a chibi crow holding a small stick-tool, and a
+    chibi crow with a thought-bubble containing a simple human face, decorative Japanese
+    labels「道具を使う」「顔を覚える」readable. The visual of "tool use and face memory."
+    Blurred padding above and below.'
+- id: nf
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame. Several jet-black
+    jungle crows perched along Tokyo power lines at dusk, beaks open as if calling to each
+    other, small stylized sound/info marks floating between them, warm orange sky. The visual
+    of "they share information with the flock." Blurred padding above and below.'
+- id: ng
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame. Close-up inside a
+    clear acrylic test box, a single jungle crow gripping a string in its beak and pulling it
+    to lift a small treat platform with a piece of food, soft fluorescent lab light. The
+    visual of "solving the string-pull puzzle on the first try." Blurred padding above/below.'
+- id: nh
+  prompt: 'Square 1:1 anime/webtoon style split-composition panel. Left half: a jungle crow
+    on a Tokyo crosswalk; right half: a clean lab line-graph trending up on a clipboard with
+    decorative Japanese label「実験データ」; a glowing "=" symbol bridging the two halves. The
+    visual of "street observation matches the lab numbers." Blurred padding above and below.'
+- id: ni
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame. A jet-black jungle
+    crow at a Tokyo intersection with faint translucent geometric lines and angle markers
+    overlaid on the cars and road, as if it is calculating trajectories, dusk lighting. The
+    visual of "it reads the signal and calculates the cars." Blurred padding above and below.'
+- id: nj
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame. A jet-black jungle
+    crow perched at eye level locking its gaze onto a passing person''s face, a faint soft
+    glow / recognition motif around the person''s features, Tokyo street bokeh. The visual of
+    "it remembers your face." Blurred padding above and below.'
+ja:
+  title: 'カラスのIQは7歳児級、東京の信号を読む鳥 #Shorts'
+  description: '東京の交差点で、信号が赤から青に変わるのを待ってから、車のタイヤにクルミを置きにいくカラスが、いるんです。
+
+    研究の結果、その知能は、人間の7歳児に、相当することが、分かってきました。
+
+
+    #Shorts #カラス #動物の知能 #雑学 #トリビア
+
+    '
+  hook_caption: カラスのIQは7歳児級
+  series_brand: カラスの知能
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 信号を「読む」カラスが、いるんです。
+    caption: 信号を読む東京のカラス
+  - panel: na
+    text: 彼らが見ているのは、赤と青ではなく、「タイミング」でした。
+    caption: 見ているのは「タイミング」
+  - panel: p2
+    text: 信号が赤の間は、クルミをくわえたまま、ポールの上でじっと待ちます。
+    caption: 赤の間は動かない
+  - panel: nb
+    text: 車が完全に止まるのを確認してから、ようやく動き出します。
+    caption: 車の停止を確認してから
+  - panel: nc
+    text: 青に変わる直前、タイヤの軌道を読んで、クルミを路面に置きます。
+    caption: タイヤの軌道を読む
+  - panel: nd
+    text: あとは、車が踏み割って通り過ぎるのを待つだけ。
+    caption: 車に割らせる
+  - panel: p3
+    text: 再び赤に戻った隙に、割れた実だけを回収していきます。
+    caption: 割れた実だけ回収
+  - panel: p4
+    text: ハシブトガラスの知能は、人間の7歳児に相当すると言われています。
+    caption: IQは7歳児級
+  - panel: ne
+    text: 道具を使い、人の顔を、数年単位で覚えます。
+    caption: 道具を使い顔を覚える
+  - panel: nf
+    text: 仲間と情報を共有することも、確認されています。
+    caption: 仲間と情報共有
+  - panel: p5
+    text: 日本の大学の認知ラボでも、その賢さは証明されました。
+    caption: 大学のラボで実証
+  - panel: ng
+    text: 紐を引いて餌台を持ち上げる課題を、初見で解いたんです。
+    caption: 初見で紐を解く
+  - panel: nh
+    text: 街での観察と、実験室の数字が、見事に一致しました。
+    caption: 街と実験室が一致
+  - panel: ni
+    text: 「ただのカラス」と呼ぶ鳥は、信号を読み、車を計算します。
+    caption: 信号を読み車を計算
+  - panel: nj
+    text: そして、こちらの顔まで、覚えています。
+    caption: あなたの顔も覚える
+  - panel: p6
+    text: 次に、じっと見つめてくる一羽がいたら。向こうも、こちらを観察しています。
+    caption: 向こうも観察している
+en:
+  title: 'These Birds Have the IQ of a 7-Year-Old #Shorts'
+  description: 'Crows in Tokyo have been observed using cars at intersections to crack open walnuts. Their intelligence is shockingly high, comparable to a young child.
+
+    #Shorts #Crows #AnimalIntelligence #Japan #Trivia'
+  hook_caption: This Bird Has the IQ of a Child
+  series_brand: The Genius of Crows
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: This bird is smarter than you think. A lot smarter.
+    caption: Smarter than you think
+  - panel: p2
+    text: In the busy streets of Tokyo, some crows have learned to use traffic lights.
+    caption: Tokyo's clever crows
+  - panel: p3
+    text: They wait for the light to turn red, place a walnut in the road... and let a car do all the hard work for them.
+    caption: Cars are their nutcrackers
+  - panel: p4
+    text: It's no surprise. Research shows a crow's intelligence is on par with a 7-year-old human.
+    caption: IQ of a 7-year-old
+  - panel: p5
+    text: They use tools, solve complex puzzles on their first try, and can remember a human face for years.
+    caption: They never forget a face
+  - panel: p6
+    text: So the next time a crow is watching you... remember it's observing you right back.
+    caption: Who's watching who?

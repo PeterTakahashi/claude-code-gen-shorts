@@ -1,0 +1,64 @@
+# Crypto scandals cast — fill description_en with specific facial features.
+characters:
+  - id: sbf
+    name_ja: サム・バンクマン・フリード (FTX創業者)
+    description_en: >-
+      a 30-year-old American man with a wild unkempt mop of frizzy
+      medium-brown curly hair, sleepy half-lidded heavy eyes with a
+      perpetually distracted gaze, soft round pale unshaven face, slightly
+      chubby cheeks, a permanently fidgety nervous posture, the visual of
+      a chaotic crypto wunderkind who looks like he never sleeps
+    outfit_en: >-
+      a wrinkled plain white short-sleeve t-shirt, baggy faded khaki cargo
+      shorts, white tube socks with cheap slide sandals, the deliberately
+      sloppy uniform of a billionaire founder who refuses to dress up
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: wada_koichiro
+    name_ja: 和田晃一良 (Coincheck CEO)
+    description_en: >-
+      a 27-year-old Japanese male startup founder with a thin youthful face,
+      pale clear skin, short neatly-cut jet-black hair parted on one side,
+      light stubble shadow, narrow expressive eyes hidden behind subtle worry,
+      a slim build, the visual of a young Tokyo engineer-CEO who built a
+      crypto exchange in his 20s and watched 580 億円 vanish overnight,
+      visibly shaken and apologetic
+    outfit_en: >-
+      a dark grey simple business suit jacket worn loosely over a plain
+      black t-shirt, no necktie, dark trousers, no jewelry, the casual
+      startup founder silhouette of a young Shibuya tech CEO suddenly
+      forced into a formal apology press conference
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: asayama_takao
+    name_ja: 朝山貴生 (Tech Bureau / Zaif CEO)
+    description_en: >-
+      a 40-something Japanese male crypto-exchange CEO in September 2018,
+      slim build, neatly cut short black hair parted on one side, a pale
+      slightly tense angular face with high cheekbones, thin metal-rim
+      glasses, narrow troubled brown eyes, a small worried mouth, a quiet
+      conscientious engineer's expression that hardens into apology, the
+      visual of an Osaka-based blockchain-startup founder forced into the
+      spotlight by a 67億円 hack
+    outfit_en: >-
+      a dark navy-blue plain business suit, a crisp white dress shirt, a
+      dark grey simple necktie, no jewelry, polished black leather shoes,
+      the deliberately conservative silhouette of a Japanese tech CEO
+      attending an apology press conference
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: karpeles
+    name_ja: マルク・カルプレス (Mt.Gox CEO)
+    description_en: >-
+      a late-20s to early-30s French man living in Tokyo, soft round face,
+      thick reddish-brown beard trimmed close, short messy brown hair,
+      thin rectangular glasses, pale slightly heavyset build, an
+      introverted programmer's quiet uneasy expression, the look of a
+      bedroom-coder who suddenly found himself running the world's
+      biggest Bitcoin exchange
+    outfit_en: >-
+      a plain dark grey hoodie over a black t-shirt, simple jeans, no
+      jewelry, the deliberately casual silhouette of a self-taught
+      engineer running a billion-dollar exchange from a Shibuya office
+    voice_style_id: 1310138977
+    voice_speed: 1.4

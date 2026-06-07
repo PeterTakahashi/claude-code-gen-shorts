@@ -1,0 +1,60 @@
+id: jp-konbini-food-level
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a Western tourist stepping into a brightly lit Japanese
+      convenience store at night, shelves glowing with food, surprised expression. Conveys
+      "what kind of restaurant is this?". Clean, vivid konbini atmosphere.
+  - id: p2
+    prompt: |
+      An anime close-up of the tourist holding a perfectly wrapped onigiri, beside neat rows
+      of bento boxes, sandwiches and pastries. Conveys "every item looks freshly made and
+      beautifully packaged". Crisp, appetizing detail.
+  - id: p3
+    prompt: |
+      An anime scene of the tourist biting into the onigiri, eyes widening with delight, soft
+      sparkle effect, conveying "it tastes far better than expected". Warm, joyful tone.
+  - id: p4
+    prompt: |
+      An anime scene of the same convenience store at 3am, a tired salaryman buying hot fried
+      chicken at the counter, freshly brewed coffee on the side. Conveys "open 24 hours, with
+      hot meals at any time". Calm late-night neon glow.
+  - id: p5
+    prompt: |
+      An anime scene contrasting a generic American gas-station convenience store with limp
+      hot dogs and dusty snacks, versus the spotless Japanese konbini with hot meals and fresh
+      desserts. Conveys "abroad, this level just doesn't exist". Lighthearted contrast.
+  - id: p6
+    prompt: |
+      A closing anime scene of the tourist walking out of the konbini with a paper bag of
+      treats, the bright store glowing behind them, smiling, conveying "everyday food the world
+      cannot believe". Warm hopeful night light.
+ja:
+  title: 'コンビニのご飯がレストラン並み、外国人が衝撃を受ける日本 #Shorts'
+  description: |
+    日本のコンビニに入った外国人は、おにぎりやお弁当、スイーツの質の高さに驚く。海外のコンビニは保存食レベルなのに、日本では深夜でも温かい揚げ物や本格的なデザートが並ぶ。30秒で解説します。
+
+    #Shorts #日本 #コンビニ #海外の反応 #日本の食
+  hook_caption: コンビニのご飯がレストラン並み
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 日本のコンビニに初めて入った外国人は、立ち止まります。明るい棚に、まるでレストランのような食べ物が並んでいたからです。
+      caption: コンビニの棚に驚き立ち止まる
+    - panel: p2
+      text: 美しく包まれたおにぎり、彩り豊かなお弁当、ふわふわのサンドイッチ。どれもプロの料理人が作ったような仕上がりです。
+      caption: おにぎりも弁当もプロ仕上げの完成度
+    - panel: p3
+      text: 試しに一つ食べてみた外国人は、思わず目を見開きます。安いはずなのに、想像をはるかに超える、本物の味だったんです。
+      caption: 安いのに想像を超える本物の味
+    - panel: p4
+      text: しかも、24時間営業。深夜3時でも、揚げたてのチキンや、淹れたてのコーヒーが手に入ります。日本のコンビニは、眠らないんです。
+      caption: 24時間、深夜でも温かい食事が並ぶ
+    - panel: p5
+      text: 海外のコンビニといえば、しなびたホットドッグや、ほこりをかぶったお菓子。同じ「コンビニ」という言葉でも、中身がまったく違います。
+      caption: 海外のコンビニとは中身が別物
+    - panel: p6
+      text: 安くて、早くて、しかもおいしい。日本人にとって当たり前のコンビニご飯は、世界の人にとっては「ありえない贅沢」なのです。
+      caption: 当たり前のコンビニが世界にはありえない贅沢

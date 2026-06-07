@@ -1,0 +1,168 @@
+id: sbf-effective-altruism
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern open-plan FTX office in the Bahamas around 2022, dim late-night
+
+    lighting. Sam Bankman-Fried, 29 years old, slumped asleep on a battered
+
+    grey beanbag chair on the floor between two desks, his explosion of frizzy
+
+    brown curly hair pressed sideways, still wearing his wrinkled white
+
+    t-shirt and khaki cargo shorts, a closed laptop next to him on the floor.
+
+    A net worth of 26 billion dollars, asleep on a beanbag. Wide mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An Oxford-style university lecture room around 2012, warm wood paneling,
+
+    tall windows. A young 20-year-old Sam Bankman-Fried sits forward in a
+
+    seat near the front, intent sleepy eyes locked on a philosopher figure
+
+    lecturing about ethics in front of a slide titled "Earning to Give",
+
+    other students in academic sweaters around him. The intellectual seed
+
+    that would shape his whole career.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A quiet 2013 dorm room at MIT, late at night, a single desk lamp on. A
+
+    20-year-old Sam Bankman-Fried sits cross-legged on the floor in his
+
+    wrinkled t-shirt and shorts, scribbling calculations on a notebook with
+
+    the words "max donation lifetime" visible at the top of the page, his
+
+    sleepy heavy-lidded eyes calmly focused. The decision to make as much
+
+    money as possible only in order to give it away.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern luxury Bahamas penthouse interior around 2022, sliding glass
+
+    doors out to a balcony with ocean view, but the inside is messy and
+
+    casual: a basic IKEA-style sofa, takeout boxes on the kitchen counter,
+
+    a Nintendo Switch and laptops scattered around, no luxury items, no
+
+    art. Sam Bankman-Fried walks barefoot through it in his wrinkled
+
+    t-shirt and shorts, eating cereal from a bowl. Billionaire austerity.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 2022 podcast interview setup, two soft chairs in a modern studio with
+
+    a microphone arm between them. Sam Bankman-Fried, 30 years old, hunched
+
+    forward in a wrinkled white t-shirt and khaki shorts, talking earnestly
+
+    to an unseen interviewer, behind him a faint floating caption-style
+
+    graphic implying the words "give away 99%" without any actual readable
+
+    text. His sleepy eyes oddly intense. The public pledge moment.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2022 in the same dim FTX office, slightly tighter framing on the
+
+    beanbag. Sam Bankman-Fried, 30 years old, still slumped asleep, mop of
+
+    curly hair, wrinkled white t-shirt and khaki shorts. A floor-to-ceiling
+
+    window behind him shows the Bahamas night sky and a sliver of ocean.
+
+    The serene austere image of the world''s most public Effective Altruist.
+
+    Loop-back framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '全財産を寄付すると宣言した億万長者 #Shorts'
+  description: 'サム・バンクマン・フリードは、Effective Altruismの思想に基づき、全財産の寄付を宣言した。
+
+    Bahamasのオフィスで床で寝る、その質素な生活の裏側とは。
+
+
+    #Shorts #SBF #FTX #EffectiveAltruism #人物伝
+
+    '
+  hook_caption: 億万長者が床で寝た理由
+  series_brand: サム・バンクマン・フリード伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 資産2兆円超えの億万長者が、オフィスの床で、寝ていました。
+    caption: 2兆円超えの男が床で寝る
+  - panel: p2
+    text: サム・バンクマン・フリードは、MIT時代、ある哲学に出会います。Effective Altruism、効果的利他主義です。
+    caption: MITでEffective Altruismと出会う
+  - panel: p3
+    text: 「最大限稼いで、最大限寄付する」。これが、彼の人生の、目標になりました。
+    caption: 稼いで、寄付する、が人生目標
+  - panel: p4
+    text: 2022年、彼は、全財産の99パーセントを、寄付すると、公言します。
+    caption: 2022年、99%の寄付を公言
+  - panel: p5
+    text: Bahamasの本社では、専用車も、高級時計もなし。同僚たちと、ルームシェアし、ビーンバッグで、寝る生活でした。
+    caption: 車なし、時計なし、ビーンバッグ生活
+  - panel: p6
+    text: 億万長者なのに、なぜ床で寝るのか。それは、寄付の額を、最大化するため、だったんです。
+    caption: 寄付額の最大化のため
+en:
+  title: 'Why This Billionaire Slept on a Beanbag #Shorts'
+  description: 'Sam Bankman-Fried pledged to donate 99% of his multi-billion dollar fortune, guided by the philosophy of Effective Altruism. His simple lifestyle was legendary, but what was the real story?
+
+
+    #Shorts #SBF #FTX #EffectiveAltruism #Biography'
+  hook_caption: Why a Billionaire Slept on a Beanbag
+  series_brand: The SBF Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: At his peak, this crypto founder was worth over $20 billion... yet he was famous for sleeping on a beanbag in his office.
+    caption: Billionaire on a beanbag
+  - panel: p2
+    text: 'His name was Sam Bankman-Fried, and his life''s mission began with a philosophy he discovered at MIT: Effective Altruism.'
+    caption: A mission from MIT
+  - panel: p3
+    text: 'The core idea was simple: earn as much money as possible, so you can give as much as possible away to do the most good.'
+    caption: Earn to give
+  - panel: p4
+    text: True to his word, he publicly pledged to donate 99% of his fortune, living with roommates and owning no luxury cars or watches.
+    caption: Pledged 99% of his wealth
+  - panel: p6
+    text: Every dollar he didn't spend on himself was another dollar he could donate. That was the real reason a billionaire slept on the floor.
+    caption: Maximizing his impact

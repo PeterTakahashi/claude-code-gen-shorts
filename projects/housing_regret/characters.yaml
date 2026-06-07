@@ -1,0 +1,32 @@
+# Reusable everyman archetypes for the housing-regret channel.
+# These are INVENTED COMPOSITES (not real people) — the protagonist is a
+# stand-in for the viewer. Keep faces specific so they stay consistent across
+# panels within a short; reuse archetypes across shorts for channel identity.
+characters:
+  - id: tanaka_husband
+    name_ja: 田中さん（夫・35歳・会社員）
+    description_en: >-
+      an ordinary 35-year-old Japanese male company employee, average build,
+      short neatly combed black hair, mild tired but kind face, light stubble,
+      thin modern glasses sometimes, the everyman look of a typical Japanese
+      salaryman husband — relatable, not handsome or ugly, the kind of face a
+      viewer recognizes as "could be me"
+    outfit_en: >-
+      a plain light-grey business suit with no tie and open collar at home, or
+      a simple casual sweater and chinos when relaxed at home, ordinary modern
+      Japanese middle-class clothing
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: tanaka_wife
+    name_ja: 田中さん（妻・33歳・会社員）
+    description_en: >-
+      an ordinary 33-year-old Japanese woman, average height, shoulder-length
+      dark brown hair often tied back, gentle ordinary face with a tired but
+      warm expression, the everyman look of a typical working Japanese wife and
+      young mother — relatable and natural, not a glamorous model
+    outfit_en: >-
+      a simple beige cardigan over a plain blouse and slim trousers, or casual
+      home wear, ordinary modern Japanese middle-class clothing; later visibly
+      pregnant in some shorts
+    voice_style_id: 1310138977
+    voice_speed: 1.4

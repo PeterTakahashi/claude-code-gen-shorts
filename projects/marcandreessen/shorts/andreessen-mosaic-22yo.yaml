@@ -1,0 +1,184 @@
+id: andreessen-mosaic-22yo
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    January 1993, 3am at the NCSA basement computer lab at the University of
+
+    Illinois Urbana-Champaign. A 22-year-old Marc Andreessen sitting hunched
+
+    in front of a beige Sun workstation CRT monitor, the screen displaying
+
+    the very first version of the Mosaic Web browser successfully rendering a
+
+    web page with an inline image — a small grainy photo next to text — for
+
+    the first time in computing history. His face dimly lit by the monitor,
+
+    mouth slightly open in absorbed disbelief, the wider lab dark and empty
+
+    behind him, fluorescent lights flickering. The exact moment the modern
+
+    Web was born.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 1990s NCSA (National Center for Supercomputing Applications)
+
+    basement office at the University of Illinois Urbana-Champaign. A
+
+    cramped windowless room with cinder-block walls, cheap fluorescent
+
+    ceiling lights, three beige Sun and SGI workstations on plain metal
+
+    desks, scattered pizza boxes and empty Mountain Dew cans, stacks of
+
+    computer-science printouts, a single whiteboard covered in handwritten
+
+    protocol diagrams. No figures. Wide establishing shot. Conveys: this is
+
+    where the Web was born — a cheap government-funded basement.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1992, the NCSA basement lab. A 22-year-old Marc Andreessen sitting
+
+    at a workstation, leaning forward typing intently, while Eric Bina — a
+
+    slim white American programmer in his late 20s with short brown hair,
+
+    wire-rimmed glasses, a plain t-shirt — sits beside him on a rolling
+
+    chair pointing at the screen, both of them deep in pair-programming
+
+    collaboration. Empty soda cans on the desk, monochrome code visible on
+
+    the monitor. The friendly intensity of two engineers building something
+
+    no one has ever built before.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Close-up of an early-1990s University of Illinois student paycheck stub
+
+    lying on a cluttered desk, the hourly wage line clearly readable as
+
+    "$6.85/HR", surrounded by a half-eaten pizza slice and a Mountain Dew
+
+    can, a few floppy disks beside it. The grim reality: the person who
+
+    built the world''s first popular Web browser was earning minimum-wage
+
+    lab-assistant pay. Top-down close framing, no figures.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-1993, an artistic webtoon-style visualization of Mosaic''s viral
+
+    spread: a dark world globe with bright golden dots blooming outward
+
+    from a single point in Illinois USA — first North America, then Europe,
+
+    then Asia — connected by glowing fiber-optic lines, the silhouette of a
+
+    hand on a mouse in the foreground clicking "Download Mosaic", soft
+
+    cinematic glow. Implies the millions of users gained in months. No
+
+    readable text on the globe.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1993, the same NCSA basement lab. A 22-year-old Marc Andreessen
+
+    sitting back in his desk chair, hands behind his head, looking calmly
+
+    at the CRT monitor showing the Mosaic browser with a colorful Web page,
+
+    a faint thoughtful half-smile on his face. The lab around him quiet and
+
+    empty. Over-shoulder framing, the screen as hero element. Conveys: he
+
+    knows the world has just changed, and he is about to leave Illinois for
+
+    Silicon Valley.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '22歳の院生が世界初のWebブラウザを作った話 #Shorts'
+  description: '1993年、イリノイ大学の22歳の院生マーク・アンドリーセンが、世界初の画像対応Webブラウザ「Mosaic」を作った。
+
+    時給6.85ドルのアルバイトとして。
+
+
+    #Shorts #マークアンドリーセン #Mosaic #Netscape #人物伝
+
+    '
+  hook_caption: 時給6.85ドルでWebを発明した22歳
+  series_brand: マーク・アンドリーセン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1993年、世界初の、画像対応Webブラウザを作った男がいます。
+    caption: 1993年、世界初の画像対応ブラウザ
+  - panel: p2
+    text: イリノイ大学の、22歳の院生、マーク・アンドリーセン。
+    caption: イリノイ大学の22歳の院生
+  - panel: p3
+    text: 彼は、大学の研究所NCSAで、時給わずか6.85ドルの、アルバイトでした。
+    caption: 時給6.85ドルのアルバイト
+  - panel: p4
+    text: 同僚のエリック・ビナと、2人だけで、3か月でMosaicを書き上げたんです。
+    caption: 同僚と2人、3か月で完成
+  - panel: p5
+    text: そして1年で、Mosaicは、世界中で数百万人にダウンロードされ、Webを、爆発的に広めました。
+    caption: 1年で数百万DL、Webが爆発
+  - panel: p6
+    text: その翌年、彼は大学を出て、Netscapeを創業し、22歳で、伝説になるんです。
+    caption: 翌年、Netscape創業へ
+en:
+  title: 'How a 22-Year-Old Built The First Web Browser for $6.85/hr #Shorts'
+  description: 'In 1993, Marc Andreessen, a 22-year-old student, created Mosaic, the first graphical web browser, while earning just $6.85/hr. This is the story of how he changed the world from a university
+    basement.
+
+
+    #Shorts #MarcAndreessen #Netscape #TechHistory #Internet'
+  hook_caption: He Invented The Modern Web For $6.85/hr
+  series_brand: The Marc Andreessen Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p4
+    text: His pay? Just $6.85 an hour.
+    caption: $6.85 Per Hour
+  - panel: p2
+    text: He was working out of a cramped, windowless university basement.
+    caption: A University Basement
+  - panel: p1
+    text: This was 22-year-old grad student Marc Andreessen, pulling all-nighters in 1993.
+    caption: Marc Andreessen, 22
+  - panel: p3
+    text: He and his colleague Eric Bina spent three months creating Mosaic—the world's first popular web browser.
+    caption: Created Mosaic
+  - panel: p5
+    text: Within a year, it spread across the globe, bringing images and graphics to the internet for the very first time.
+    caption: The Web Explodes
+  - panel: p6
+    text: He'd soon drop out to start Netscape, becoming a tech legend before he was even 23.
+    caption: Founded Netscape

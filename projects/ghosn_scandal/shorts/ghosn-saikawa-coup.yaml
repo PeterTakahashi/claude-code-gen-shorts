@@ -1,0 +1,65 @@
+id: ghosn-saikawa-coup
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A tense corporate scene of a chairman (Carlos Ghosn) and his Japanese protege standing
+      side by side on a Nissan stage, both smiling for photographers, conveying "mentor and
+      protege, the public face of Nissan". Bright corporate event tone.
+      Character: {ghosn}.
+  - id: p2
+    prompt: |
+      A 2017 Nissan corporate scene of a 60-something Japanese executive (Hiroto Saikawa,
+      glasses, dark suit) being formally introduced as the new CEO with the chairman Ghosn
+      smiling beside him, conveying "the trusted successor handed the top operational job".
+      Japanese corporate setting. Character: {ghosn}.
+  - id: p3
+    prompt: |
+      A tense, dim Nissan internal investigation scene: Japanese executives huddled over thick
+      legal binders in a quiet meeting room, late at night, decorative English document tabs
+      reading "INTERNAL INVESTIGATION", conveying "while he was abroad, an internal team began
+      digging". Cold corporate tone.
+  - id: p4
+    prompt: |
+      A 2018 Tokyo Haneda airport scene at dusk, a private jet on the tarmac, Japanese
+      prosecutors in dark suits stepping forward to board, the chairman (Ghosn) inside unaware,
+      conveying "the arrest had been quietly coordinated in advance". Tense, dramatic.
+      Character: {ghosn}.
+  - id: p5
+    prompt: |
+      A tense post-arrest press conference scene: the protege CEO (Saikawa) at a podium with
+      grave expression, decorative Japanese caption banner readable behind him, conveying
+      "the same protege publicly denounced his mentor the very next day". Cold corporate tone.
+  - id: p6
+    prompt: |
+      A symbolic closing image of a fallen crown beside an empty chairman's chair, a second
+      figure in a Japanese suit stepping toward it, the chairman's silhouette walking away,
+      conveying "the man he trained inherited the chair he lost". Quiet, cautionary tone.
+ja:
+  title: '弟子に裏切られた日、ゴーン逮捕の裏側 #Shorts'
+  description: |
+    2018年のゴーン逮捕は、突然のように見えて、実は日産社内で数ヶ月前から準備されていた。仕掛けたのは、ゴーンが信頼し、自ら社長に据えた西川廣人だったとされる。栄光の崩壊の裏側を30秒で解説します。
+
+    #Shorts #ゴーン #西川廣人 #日産 #事件
+  hook_caption: 弟子に裏切られた日、ゴーン逮捕の裏側
+  series_brand: ゴーン事件
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 日産のカリスマ会長カルロス・ゴーン。その隣にはいつも、彼が信頼した、一人の日本人幹部が、立っていました。
+      caption: ゴーンの隣にいた信頼の幹部
+    - panel: p2
+      text: 西川廣人。ゴーンが社長として育てた、いわば、直系の弟子です。2017年、ゴーンは、その椅子を、彼に譲りました。
+      caption: 2017年、ゴーンは社長の椅子を西川に譲った
+    - panel: p3
+      text: ところがその裏で、日産社内では、ゴーンの報酬や私的支出をめぐる、内部調査が、密かに進められていました。情報は、検察にも、共有されます。
+      caption: 裏で社内調査が静かに進んでいた
+    - panel: p4
+      text: 2018年11月19日、東京の羽田空港。プライベートジェットで降り立ったゴーンを、検察が、待ち構えていました。準備された、待ち伏せです。
+      caption: 2018年11月、羽田で待ち伏せ逮捕
+    - panel: p5
+      text: 翌日、社長として記者会見に立ったのは、西川廣人でした。彼は、自らの恩人を「強い憤り」と語る言葉で、公に断罪します。
+      caption: 翌日、弟子は恩人を公に断罪した
+    - panel: p6
+      text: 彼が育てた弟子に、その椅子を奪われた形。栄光の頂点は、いつも、最も近い人間からこそ、崩されていくのかもしれません。
+      caption: 栄光は最も近い人間から崩されていく

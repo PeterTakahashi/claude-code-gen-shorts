@@ -1,0 +1,143 @@
+id: horie-prison-1000-books
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2012, inside a small Japanese prison cell at Nagano Prison, a leaner 39-year-old
+
+    Takafumi Horie in grey-blue prison clothes sitting cross-legged on the tatami floor of
+
+    his cell, an open paperback in his hands, dozens of paperback books stacked in towers
+
+    around him, soft natural light from a small barred window. Quiet absorbed focus. The
+
+    image of a forced library.
+
+    Character: {subject_prison}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 2011 exterior wide shot of Nagano Prison''s concrete walls and main gate in mountainous
+
+    central Japan, a transport vehicle arriving, Horie still in a plain dark suit being escorted
+
+    inside by officers in uniform, his face composed. Grey early-morning light.
+
+    Character: {subject_prison}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside a Japanese prison workshop room around 2012, rows of identically dressed inmates
+
+    in grey prison uniforms doing light manual labor at long tables (folding paper, assembling
+
+    simple goods), Horie among them, leaner now, expression calm and focused, fluorescent
+
+    overhead lighting.
+
+    Character: {subject_prison}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A Japanese prison mailroom officer handing Horie a cardboard box of new paperback books
+
+    through a small visiting window in 2012, Horie in prison uniform receiving them with a
+
+    small quiet smile, the books visible — a mix of business, philosophy, science, history.
+
+    Conveys "his library kept growing".
+
+    Character: {subject_prison}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Horie in his cell at night around 2012, sitting at a tiny prison desk under a single
+
+    lamp, writing on lined paper with a pencil, pages of handwritten Japanese manuscript
+
+    stacked beside him, the prison rules requiring he write by hand, his expression intent
+
+    and slightly amused. He is composing his famous prison-era mail magazine for the outside.
+
+    Character: {subject_prison}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The same prison cell, the same lean 40-year-old Horie cross-legged on the tatami, the
+
+    stack of paperbacks even taller now, soft window light. He turns a page. The image of
+
+    a man who turned a prison sentence into a graduate school.
+
+    Character: {subject_prison}.
+
+    '
+ja:
+  title: '刑務所で1000冊読んだ男 #Shorts'
+  description: '2011年、長野刑務所に収監された堀江貴文。2年6ヶ月の刑期中に約1000冊の本を読み、メールマガジンを書き続けた。出所した時、彼の体型も思考も別人だった。
+
+
+    #Shorts #堀江貴文 #ホリエモン #人物伝
+
+    '
+  hook_caption: 刑務所で読んだ1000冊
+  series_brand: 堀江貴文伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 刑務所で、1000冊の本を、読んだ男がいます。
+    caption: 刑務所で1000冊読んだ男
+  - panel: p2
+    text: 2011年、堀江貴文、38歳。長野刑務所に、収監されました。
+    caption: 2011年、38歳、長野刑務所に収監
+  - panel: p3
+    text: 刑期は、2年6ヶ月。普通の人なら、絶望する時間です。
+    caption: 刑期2年6ヶ月
+  - panel: p4
+    text: 彼は、片っ端から、本を、取り寄せました。ビジネス、哲学、科学、歴史、全ジャンル。
+    caption: 全ジャンルの本を取り寄せ
+  - panel: p5
+    text: そして、毎週、手書きで、メールマガジンを、書き続けたんです。
+    caption: 毎週、手書きでメルマガを執筆
+  - panel: p6
+    text: 出所した時、彼の、体型も、思考も、別人でした。刑務所を、人生最大の、図書館に、変えた話です。
+    caption: 出所時には体型も思考も別人だった
+en:
+  title: 'How This CEO Read 1000 Books In Prison #Shorts'
+  description: 'In 2011, tech mogul Takafumi Horie was sentenced to 2.5 years. Instead of despairing, he read nearly 1,000 books and wrote his weekly newsletter by hand, emerging completely transformed.
+
+
+    #Shorts #TakafumiHorie #Horiemon #biography #Japan'
+  hook_caption: He Turned His Prison Cell Into A University
+  series_brand: The Takafumi Horie Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 2011, tech millionaire Takafumi Horie was sent to Nagano Prison.
+    caption: Sent to prison
+  - panel: p3
+    text: 'His sentence: two and a half years. For most, that''s enough time to lose all hope.'
+    caption: A 2.5 year sentence
+  - panel: p1
+    text: But Horie saw it as an opportunity.
+    caption: He saw an opportunity
+  - panel: p4
+    text: He ordered books relentlessly—nearly 1,000 of them, covering every subject imaginable.
+    caption: Read 1,000 books
+  - panel: p5
+    text: And every single week, he hand-wrote his popular email newsletter to the outside world.
+    caption: Wrote every week
+  - panel: p6
+    text: When he walked out, he was a new man, both physically and mentally. He had turned his sentence into a degree.
+    caption: A new man

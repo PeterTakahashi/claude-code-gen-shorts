@@ -1,0 +1,124 @@
+# 堀江貴文 cast — three life-stage variants + supporting figures.
+characters:
+  - id: subject_adult
+    name_ja: 堀江貴文 (現在、50歳前後)
+    description_en: |
+      a Japanese man around 50 years old with the characteristic Takafumi Horie facial features:
+      a distinctly round face with full cheeks, short closely-cropped or buzz-cut black hair,
+      thin angular eyebrows, small intelligent dark eyes often slightly narrowed in a provocative or
+      amused expression, a small straight nose, full lips that often curl into a slight smirk,
+      light beard stubble sometimes visible, slightly tanned skin, medium-stocky build that has
+      become noticeably leaner in recent years, the bearing of a serial entrepreneur and provocateur
+      who is comfortable being disliked. Wears glasses occasionally but more often without.
+    outfit_en: |
+      his signature casual entrepreneur uniform — plain crew-neck t-shirts in white, black, or
+      grey (sometimes with a small logo), well-worn jeans or simple dark trousers, plain sneakers.
+      Even when wearing a jacket or rare suit, his t-shirt-first aesthetic gives a distinctly
+      uniform-like consistency. Often a rocket-company hoodie or polo at his Hokkaido space site.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - provocative smirk addressing a critic
+      - intense focus reading on a couch
+      - calm explanation gesturing with one hand
+      - quiet satisfaction watching a rocket on a launchpad
+      - amused dismissal of conventional opinion
+    poses:
+      - "Front view arms crossed standing confidently"
+      - "Three-quarter sitting on a sofa with an open book"
+      - "Side profile gazing at a rocket on a launchpad"
+      - "Hands-in-pockets stance at a press conference podium"
+
+  - id: subject_young
+    name_ja: 堀江貴文 (20-30代、1996-2006年頃)
+    description_en: |
+      a young Japanese man aged 22-33 in the 1996-2006 era with the characteristic young Horie
+      features: a noticeably rounder, fuller face than his current self, slightly chubby cheeks,
+      messy black hair often longer and somewhat unkempt, small intent dark eyes with the
+      slightly hungry look of an early IT entrepreneur, full lips often pressed into a serious or
+      cocky expression, light stubble or clean-shaven, a heavier medium-stocky build,
+      the bearing of a Tokyo University dropout founder who is breaking every Japanese business
+      rule on purpose.
+    outfit_en: |
+      late-1990s to mid-2000s Japanese IT casual — plain t-shirts, sometimes a fleece pullover
+      or open-collar dress shirt, jeans or chinos, sneakers. For press appearances after going
+      public: a slightly ill-fitting dark suit with no tie or loose collar, deliberately rejecting
+      conservative Japanese business attire. Sometimes the famous Livedoor-era informal jacket
+      over a t-shirt.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - cocky smirk at a press conference
+      - intense laser focus at a 1990s CRT monitor
+      - serious negotiating stance leaning forward
+      - youthful defiance addressing older businessmen
+      - quiet exhaustion late at night in a small office
+
+  - id: subject_prison
+    name_ja: 堀江貴文 (刑務所、2011-2013年、約40歳)
+    description_en: |
+      Takafumi Horie around age 38-40 during his 2011-2013 incarceration at Nagano Prison —
+      a Japanese man whose previously round face has become noticeably thinner and gaunter
+      from prison labor and a controlled diet, sharper cheekbones now visible, hair
+      cut very short to a near-buzz in regulation prison style, slightly hollow but
+      clear focused dark eyes with a newly introspective bearing, clean-shaven, slightly pale
+      skin from indoor labor, lean build that surprised everyone after release. The bearing
+      of a man who is using prison as a forced library.
+    outfit_en: |
+      Japanese prison uniform — plain blue-grey or grey-green cotton work clothes, simple
+      collared work jacket and matching trousers, white or grey t-shirt visible underneath,
+      cheap rubber slippers indoors, sometimes a number badge on the chest. Simple, drab,
+      utilitarian. In reading scenes he sits cross-legged on the cell floor with a stack of
+      paperback books.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - absorbed reading on a cell floor
+      - quiet reflection looking out a barred window
+      - small private smile turning a page
+      - lean focused expression at prison labor
+      - measured calm during a visiting-room talk
+
+  # ===== Supporting cast (description-only, no separate stylesheet) =====
+  - id: livedoor_engineer
+    name_ja: ライブドア初期エンジニア
+    description_en: |
+      a young Japanese male engineer in his 20s during 1996-2000, typical late-90s Tokyo IT
+      startup look — messy black hair, slightly tired focused eyes, jeans and a plain t-shirt
+      or fleece, hunched at a CRT monitor with stacks of technical books and cables nearby
+    outfit_en: "1990s Japanese IT casual — t-shirt, jeans, sometimes a checked shirt unbuttoned"
+    voice_style_id: null
+
+  - id: baseball_executive
+    name_ja: プロ野球機構関係者
+    description_en: |
+      a Japanese baseball executive in his 60s-70s, conservative bearing, neatly cut greying
+      hair, square stern face, the body language of a traditional Japanese business gatekeeper
+      who is offended that an internet upstart wants to buy a baseball team
+    outfit_en: "conservative dark Japanese business suit, white shirt, muted necktie, polished black shoes"
+    voice_style_id: null
+
+  - id: prosecutor
+    name_ja: 東京地検特捜部検事
+    description_en: |
+      a Japanese male prosecutor in his 40s-50s, severe clean-cut appearance, short black hair,
+      sharp focused eyes, the formal bearing of a Tokyo District Public Prosecutors Office
+      Special Investigation Department official
+    outfit_en: "dark formal Japanese business suit, white shirt, dark tie, prosecutor's badge"
+    voice_style_id: null
+
+  - id: ist_engineer
+    name_ja: Interstellar Technologies エンジニア
+    description_en: |
+      a young to middle-aged Japanese aerospace engineer at the Taiki-cho, Hokkaido rocket
+      facility, casual practical bearing, short hair, sometimes a beard, focused intent eyes,
+      the look of a small private space company team member working in a freezing rural
+      northern Japan launch site
+    outfit_en: "company hoodie or fleece, cargo pants, work boots, sometimes a hard hat and high-visibility vest at the launch pad"
+    voice_style_id: null

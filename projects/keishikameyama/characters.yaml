@@ -1,0 +1,61 @@
+# 亀山敬司 (DMM創業者) cast — visual character sheets for anime/webtoon shorts.
+# Two life-stage variants:
+#   - subject_young: 20s-30s, 1970s-80s 露天商/テキ屋稼業 in 加賀温泉郷
+#   - subject_adult: 60s, DMM/FANZA chairman era in 六本木
+characters:
+  - id: subject_adult
+    name_ja: 亀山敬司
+    description_en: |
+      A 60-something Japanese man with the look of an industry outsider turned
+      tech mogul: a round somewhat boyish face with faintly tanned skin, a
+      relaxed slightly amused expression in his eyes, short black hair clearly
+      shot through with grey-white especially at the temples, characteristic
+      uneven scruffy stubble around the jaw and chin, slightly stocky build,
+      medium height, the unhurried calm bearing of a man who built a 4-billion-
+      dollar internet empire from a video rental store but still talks like a
+      street vendor. Almost no eye contact with the camera. Often half-smiling.
+    outfit_en: |
+      a deliberately casual rough uniform — a plain solid-color black or grey
+      t-shirt or simple polo shirt, sometimes a loose unstructured jacket or
+      hoodie thrown over it, well-worn dark jeans, plain sneakers or simple
+      leather shoes. On rare occasions a dark suit but always worn loosely —
+      tie undone, top button open. Never sharp, never polished. The "I do not
+      care how I look" aesthetic of a self-made owner-founder.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - calm half-amused half-smile
+      - quiet thinking with arms crossed
+      - relaxed listening pose
+      - small wry grin while reading a phone
+      - unhurried calm under pressure
+
+  - id: subject_young
+    name_ja: 亀山敬司 (30代)
+    description_en: |
+      A young Japanese man in his late 20s to mid 30s in the 1970s-80s, lean
+      and wiry, with short jet-black hair somewhat unkempt, tanned weathered
+      skin from years working outdoor street stalls, sharp watchful eyes,
+      faint stubble, an alert street-smart bearing of a 露天商 / テキ屋
+      operator at a Hokuriku 温泉 town night festival, the kind of man who
+      reads a customer in two seconds. Slim almost wiry build. Quiet
+      confidence with a hint of mischief.
+    outfit_en: |
+      a 1970s-80s Japanese street-vendor work outfit — a dark work jacket or
+      windbreaker over a plain t-shirt or work shirt, sometimes a 腹巻 belly-
+      band visible under, faded jeans or work trousers, simple worn sneakers
+      or work shoes, occasionally a towel slung around the neck for the hot
+      summer festival nights. Rough, practical, slightly working-class
+      Hokuriku style. Never a suit.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - street-vendor sharp-eyed customer reading
+      - quiet confident half-grin
+      - calm watchful posture behind a yatai stall
+      - hands in pockets observing a busy street
+      - tired but focused late-night work expression

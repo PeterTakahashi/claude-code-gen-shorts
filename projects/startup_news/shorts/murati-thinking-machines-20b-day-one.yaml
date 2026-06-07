@@ -1,0 +1,195 @@
+id: murati-thinking-machines-20b-day-one
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern minimal San Francisco startup office on day one, July
+
+    2025, a 35-year-old Albanian-American woman with long sleek dark
+
+    brown hair, white blouse under cream blazer, standing alone in
+
+    front of a giant decorative English headline floating in mid-air
+
+    reading "$20,000,000,000 VALUATION — DAY ONE", her hands clasped
+
+    calmly in front, composed senior-executive expression, sunlight
+
+    through tall windows. The visual of "the woman whose new company
+
+    was worth $20B before its first product". Mid-shot. No Japanese
+
+    text. Clearly American Silicon Valley setting.
+
+    Character: {murati}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 2022 OpenAI San Francisco office interior, the same Albanian-
+
+    American woman, hair similar but slightly more office-formal, in
+
+    a darker navy blazer, standing in a meeting room with a backdrop
+
+    of the OpenAI logo on a wall, speaking calmly to a group of
+
+    engineers gathered around a long table with laptops, the
+
+    visual of "Chief Technology Officer at the most important AI
+
+    company in the world". Mid-shot. Clearly American tech-company
+
+    meeting setting. No Japanese text.
+
+    Character: {murati}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 2023, the same office at night, the same Albanian-
+
+    American woman in a soft cream blazer, looking exhausted but
+
+    composed, standing at the head of an emergency board meeting
+
+    table with several stressed executives in dark suits, on a wall
+
+    screen a decorative English banner reading "INTERIM CEO — 3 DAYS",
+
+    cold late-night office lighting. The visual of "she was OpenAI''s
+
+    interim CEO for exactly 72 hours during the Altman crisis".
+
+    Mid-shot. No Japanese text.
+
+    Character: {murati}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A bright early-2025 San Francisco co-working space lobby, the
+
+    same Albanian-American woman walking decisively out of a large
+
+    OpenAI-style modern building entrance, soft cream blazer flowing,
+
+    carrying only a small leather bag and a slim laptop, the
+
+    decorative English sign "OpenAI" still visible on the building
+
+    behind her, sunlight cutting across the entrance. The visual
+
+    of "the founder walking out to start her own thing". Mid-wide
+
+    shot. No Japanese text.
+
+    Character: {murati}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern minimal venture-capital boardroom in July 2025, the same
+
+    Albanian-American woman sitting across a long polished table from
+
+    two senior American venture capitalists in casual blazers, large
+
+    stack of decorative English-labeled contract papers with header
+
+    "$2,000,000,000 SEED ROUND" on top, soft daylight from tall
+
+    windows, the visual of "the biggest seed round in history".
+
+    Mid-shot. Clearly American Silicon Valley executive setting.
+
+    No Japanese text.
+
+    Character: {murati}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same minimal San Francisco startup office as panel 1, slightly
+
+    later light, the same Albanian-American woman seated calmly at a
+
+    simple wooden desk in front of a single laptop, behind her the
+
+    same giant decorative English headline "$20,000,000,000 — DAY ONE"
+
+    now glowing more vivid, the loop image of "the woman whose
+
+    reputation alone bought her a $20B company on day one". Wide
+
+    mid-shot. No Japanese text.
+
+    Character: {murati}.
+
+    '
+ja:
+  title: '初日に2兆円評価された会社、Thinking Machines #Shorts'
+  description: '2024年9月、ChatGPTを作ったOpenAIの元CTO、ミラ・ムラティは、新会社 Thinking Machines Lab を立ち上げた。
+
+    そして翌2025年7月、その会社は、製品ゼロのまま、評価額20億ドルで20億ドルを調達した——史上最大のシード調達である。
+
+
+    #Shorts #ThinkingMachines #MiraMurati #OpenAI #AI #スタートアップ
+
+    '
+  hook_caption: 創業初日に2兆円評価された女
+  series_brand: スタートアップNEWS
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 製品が、まだ一つも無いのに、初日に評価額が2兆円——そんなとんでもないスタートアップを、知っていますか?
+    caption: 製品ゼロで初日に評価額2兆円
+  - panel: p2
+    text: 主役は、ミラ・ムラティ。ChatGPTを作ったOpenAIの、元CTOです。
+    caption: 元OpenAI CTOのミラ・ムラティ
+  - panel: p3
+    text: 2023年11月、OpenAIの取締役会がサム・アルトマンを解任した時、彼女は、3日間だけ、暫定CEOを務めました。あの大事件の中心人物でした。
+    caption: アルトマン解任で3日間暫定CEO
+  - panel: p4
+    text: 2024年9月、彼女はOpenAIを退社。そして新会社 Thinking Machines Labを、立ち上げます。
+    caption: 2024年9月、新会社 Thinking Machines Lab
+  - panel: p5
+    text: 翌2025年7月、製品ゼロの状態で、20億ドル——日本円で約3000億円を、評価額120億ドルで、調達しました。シリコンバレー史上、最大のシードラウンドです。
+    caption: 2025年7月、史上最大の3000億円シード
+  - panel: p6
+    text: 過去の信頼と人脈だけで、会社が、初日から数兆円に化ける。これが、AI時代のスタートアップの、本当のスケールです。
+    caption: 信頼と人脈だけで初日から数兆円
+en:
+  title: 'This Woman Got a $13 Billion Valuation With ZERO Products #Shorts'
+  description: 'In 2024, OpenAI''s ex-CTO Mira Murati launched Thinking Machines Lab. By 2025, she raised $2 billion at a $12 billion valuation without a single product, the largest seed round in history.
+
+
+    #Shorts #MiraMurati #OpenAI #AI #Startup'
+  hook_caption: Valued at $13 BILLION... With Zero Products
+  series_brand: Startup NEWS
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Imagine a startup with no product, no customers... but a valuation of 13 billion dollars on day one.
+    caption: No product, $13B valuation
+  - panel: p2
+    text: The founder is Mira Murati, the former Chief Technology Officer of OpenAI.
+    caption: Ex-OpenAI CTO
+  - panel: p3
+    text: You might remember her from the OpenAI boardroom drama—when Sam Altman was fired, she stepped in as interim CEO for three chaotic days.
+    caption: 3 days as CEO
+  - panel: p4
+    text: 'By September 2024, she had left to found her own company: Thinking Machines Lab.'
+    caption: Founded Thinking Machines
+  - panel: p5
+    text: And by July 2025, she raised 2 billion dollars at a 12 billion dollar valuation—the largest seed round in history.
+    caption: Largest seed round ever
+  - panel: p6
+    text: 'This is the new reality in the age of AI: where trust and a track record can be worth billions, right from day one.'
+    caption: The new AI scale

@@ -1,0 +1,80 @@
+# Toshiba 粉飾決算事件 cast — 田中久雄 元社長 (2013-2015 在任) と、不正会計を
+# 暴いた第三者委員会の上田廣一 元東京高検検事長を中心に、関係人物の
+# visual character descriptions。公開写真から作画 reference を抽出した記述のみで構成。
+
+characters:
+  - id: ceo_tanaka
+    name_ja: 田中久雄 (元東芝社長)
+    description_en: |
+      Hisao Tanaka, Toshiba president 2013-2015, a 65-year-old Japanese
+      corporate executive of medium-short stature with a slightly stocky build,
+      a round face with full cheeks, short neatly-cut salt-and-pepper hair
+      receding slightly at the temples, thin grey eyebrows, calm tired dark eyes
+      behind small thin-rimmed metal glasses, clean-shaven, slightly downturned
+      mouth showing the heavy bearing of a salaryman who climbed 40 years to the
+      top only to face disgrace, pale complexion
+    outfit_en: |
+      formal Japanese corporate uniform — a dark charcoal-grey single-breasted
+      suit with a white dress shirt and a muted navy or grey silk tie, polished
+      black leather shoes, a small enamel Toshiba company pin on the lapel; for
+      the July 2015 press conference scenes, the same dark suit with a
+      visible bowed-head posture
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - exhausted resignation behind glasses
+      - deep apologetic 90-degree corporate bow
+      - quiet inner turmoil at a boardroom desk
+      - hollow stare during the resignation press conference
+    poses:
+      - "Front view bowing 90 degrees behind a microphone-covered press table"
+      - "Three-quarter seated at a boardroom table reviewing thick documents"
+      - "Side profile walking down a corporate hallway flanked by aides"
+
+  - id: auditor_ueda
+    name_ja: 上田廣一 (第三者委員会委員長 元東京高検検事長)
+    description_en: |
+      Koichi Ueda, former Tokyo High Public Prosecutors Office chief and
+      chairman of the Toshiba third-party investigation committee, a
+      70-something Japanese man of medium build, a long lean face with
+      pronounced cheekbones, full head of neatly combed silver-white hair
+      parted on the side, sharp piercing intelligent dark eyes under thick
+      grey eyebrows, deeply etched smile-lines and forehead creases from
+      decades of prosecution work, clean-shaven, the stern uncompromising
+      bearing of a veteran prosecutor
+    outfit_en: |
+      authoritative Japanese legal-establishment formalwear — a dark navy or
+      black double-breasted suit with a crisp white dress shirt and a deep
+      burgundy or charcoal tie, a folded white pocket square, polished black
+      leather shoes, sometimes holding a thick bound investigation report
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - stern unflinching prosecutorial gaze
+      - composed presentation at a press lectern
+      - quiet disapproval reading documents
+    poses:
+      - "Front view standing at a lectern holding up a thick bound report"
+      - "Three-quarter seated at a panel of investigators"
+
+  - id: salaryman_employee
+    name_ja: 名もなき東芝社員 (現場社員)
+    description_en: |
+      An anonymous 40-something Japanese male Toshiba salaryman, medium build,
+      a rectangular tired face, short neatly cut black hair just starting to
+      show grey at the temples, weary dark eyes with faint bags underneath,
+      thin black-rimmed rectangular glasses, clean-shaven, the worn bearing
+      of a middle manager pressured by impossible quarterly targets
+    outfit_en: |
+      standard Japanese salaryman uniform — a slightly rumpled dark grey
+      business suit, white dress shirt with a loosened plain navy tie, a
+      Toshiba company ID lanyard around the neck, black leather business
+      shoes, sometimes carrying a thick file folder
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+    voice_instructions: null
+    selected_candidate: null

@@ -1,0 +1,177 @@
+id: bezos-aws-birth
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2006 inside a vast modern Amazon Web Services datacenter, two long parallel
+
+    rows of black server racks with thousands of tiny blue and green status LEDs
+
+    stretching into a deep one-point perspective vanishing point, cold blue
+
+    overhead lighting, a confident Jeff Bezos in his early-40s in a dark
+
+    business-casual blazer and open-collar white shirt walking slowly down the
+
+    center aisle with a faint satisfied half-smile, his bald head visible (he
+
+    is at the very edge of becoming the bald muscular Bezos), wide one-point-
+
+    perspective shot. The cathedral of the cloud.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2002 inside a cluttered Amazon Seattle engineering office, a group
+
+    of casual hoodie-and-jeans-wearing software engineers gathered around a
+
+    whiteboard covered in tangled architecture diagrams, three sleep-deprived
+
+    faces, empty Mountain Dew cans and pizza boxes on a desk, a server rack
+
+    faintly visible through a glass wall behind them, fluorescent overhead
+
+    light, the frustration of internal teams reinventing infrastructure every
+
+    time. Mid-shot.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 2003 Amazon meeting room in Seattle, Jeff Bezos in his late-30s with
+
+    visibly receding hair (mid-balding stage between young and fully bald) in
+
+    a fitted black polo shirt and dark trousers leaning forward across a
+
+    conference table, intently studying a whiteboard covered in block diagrams
+
+    labeled "Storage", "Compute", "API", a younger engineer in a hoodie standing
+
+    by the whiteboard mid-pitch, late afternoon Seattle daylight through tall
+
+    windows. The decisive moment of buy-in. Mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Tight close-up of a 2006 era LCD computer monitor in a small startup
+
+    office, the screen showing a black terminal window with a green-text curl
+
+    command calling "s3.amazonaws.com" with a JSON response of "bucket created",
+
+    a coffee mug labeled with a small startup logo beside the keyboard, soft
+
+    desk-lamp glow, a developer''s hand visible on the chunky keyboard. The
+
+    birth of the cloud API. Macro detail shot.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2000s on a darkened conference stage, a fully bald muscular Jeff
+
+    Bezos in a sharp dark blazer over a fitted black t-shirt standing centered
+
+    on stage, his trademark wide open-mouthed laugh visible, an enormous LED
+
+    screen behind him displaying a steeply rising exponential revenue chart
+
+    labeled "AWS", thousands of audience silhouettes visible in front of the
+
+    stage, dramatic blue stage lighting. The reveal of explosive growth.
+
+    Wide three-quarter shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An aerial cinematic night view of a vast modern AWS datacenter complex
+
+    somewhere in rural Virginia, multiple long low warehouse-style buildings
+
+    with rooftop cooling units glowing softly under cold blue exterior LED
+
+    lighting, the dark countryside around them dotted with distant town
+
+    lights, a faint pre-dawn glow on the horizon, the quiet sense of an
+
+    invisible infrastructure that powers half the internet. Wide
+
+    establishing shot.
+
+    '
+ja:
+  title: '社内インフラを売って世界を変えた話 #Shorts'
+  description: '2006年、Amazon が社内で使っていたサーバーインフラを、外部に貸し出すサービス
+
+    として始めたのが AWS。それが世界中のスタートアップと AI を支える事業になった。
+
+
+    #Shorts #ジェフベゾス #Amazon #AWS #人物伝
+
+    '
+  hook_caption: 社内サーバーを世界に貸した
+  series_brand: ジェフ・ベゾス伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 社内のサーバーを、外部に貸したら、世界を変える事業になった——そんな話があります。
+    caption: 社内サーバーを外に貸す事業
+  - panel: p2
+    text: 2000年代前半、Amazon の社内エンジニアは、新規プロジェクトのたびに、毎回サーバーを、ゼロから組んでいました。
+    caption: 毎回ゼロからインフラ構築
+  - panel: p3
+    text: そこで彼らは、共通のインフラ基盤を作り、API で誰でも呼び出せる形に、整えたんです。
+    caption: 共通インフラを API 化
+  - panel: p4
+    text: ジェフ・ベゾスは、これを、外部のスタートアップにも、売ろうと、決めました。
+    caption: 外部にも売ることを決断
+  - panel: p5
+    text: そして 2006年3月、ストレージサービス、S3 が、公開されました。これが AWS の、誕生です。
+    caption: 2006年3月、S3 公開
+  - panel: p6
+    text: 20年後、AWS は年間1000億ドル規模の、世界の AI とスタートアップを支える基盤に、なったわけです。
+    caption: 今や年間1000億ドル規模
+en:
+  title: 'How Amazon''s Problem Became a $100B Business #Shorts'
+  description: 'Amazon solved an internal problem, then Jeff Bezos decided to sell that solution to the world. That''s how AWS was born, the cloud platform now powering startups and AI everywhere.
+
+
+    #Shorts #AWS #JeffBezos #Amazon #Tech'
+  hook_caption: He Turned a Problem Into a $100B Empire
+  series_brand: The Jeff Bezos Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: In the early 2000s, Amazon's engineers were wasting huge amounts of time building servers from scratch for every new project.
+    caption: A huge problem
+  - panel: p3
+    text: So they built a unified infrastructure platform that any team could tap into with a simple API.
+    caption: An internal solution
+  - panel: p4
+    text: 'But Jeff Bezos saw a bigger opportunity: what if they sold access to this powerful tool to other companies?'
+    caption: The big idea
+  - panel: p5
+    text: In March 2006, Amazon Web Services was born, launching with its first product, the storage service S3.
+    caption: AWS goes live
+  - panel: p1
+    text: This 'side hustle' rapidly exploded into a vast global network of datacenters.
+    caption: Explosive growth
+  - panel: p6
+    text: Today, AWS is a nearly $100 billion a year business, the invisible backbone for startups and the AI revolution.
+    caption: Powering the future

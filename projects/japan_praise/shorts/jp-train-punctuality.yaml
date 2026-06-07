@@ -1,0 +1,61 @@
+id: jp-train-punctuality
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a Western tourist on a Japanese train platform checking
+      his watch in amazement as a train glides in at the exact second on the clock, a Japanese
+      commuter beside him unsurprised. Conveys "trains that arrive to the second." Bright station light.
+  - id: p2
+    prompt: |
+      An infographic-style anime panel of a station clock and a train perfectly aligned, with
+      a tiny "average delay: seconds" note, sleek bullet train in the background. Conveys
+      "the average delay is measured in seconds." Clean bright tone.
+  - id: p3
+    prompt: |
+      A warm anime scene of a station attendant bowing apologetically and handing out small
+      paper slips to passengers because a train was about one minute late. Conveys "they
+      apologize for a one-minute delay." Slightly humorous, warm.
+  - id: p4
+    prompt: |
+      Close-up anime panel of the foreigner holding the small "delay certificate" slip, eyes
+      wide, a thought bubble of disbelief. Conveys "a certificate to prove a tiny delay."
+      Lighthearted amazement.
+  - id: p5
+    prompt: |
+      An anime montage of the precision behind it: crews cleaning and turning around a train
+      in minutes, drivers checking schedules to the second, dedicated staff. Conveys "an army
+      of precision makes it possible." Warm, admiring tone.
+  - id: p6
+    prompt: |
+      A closing anime scene of the impressed tourist boarding the perfectly on-time train,
+      smiling, the bullet train gleaming. Conveys "everyday precision that amazes the world."
+      Bright hopeful light.
+ja:
+  title: '1分の遅れで謝る、日本の電車に外国人が驚いた #Shorts'
+  description: |
+    日本の電車は、平均の遅れが秒単位。1分遅れただけでお詫びの放送が流れ、遅延証明書まで配られる。海外では数十分の遅れが当たり前なため、外国人はその正確さに驚く。日本の鉄道文化を30秒で解説します。
+
+    #Shorts #日本 #電車 #海外の反応 #日本文化
+  hook_caption: 1分の遅れで謝る日本の電車
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 日本の駅で、外国人が時計を二度見しました。電車が、時刻表の秒数ぴったりに、滑り込んできたからです。
+      caption: 電車が秒単位ぴったりに到着して驚く
+    - panel: p2
+      text: 日本の鉄道は、平均の遅れが秒単位とも言われます。世界的に見て、これは異常なほどの正確さなんです。
+      caption: 平均の遅れが秒単位という正確さ
+    - panel: p3
+      text: しかも、たった1分遅れただけで、お詫びの放送が流れ、駅員が小さな紙を配り始めます。
+      caption: 1分の遅れでお詫びと紙の配布が始まる
+    - panel: p4
+      text: その紙は、遅延証明書。電車が遅れた事実を、会社が証明してくれる仕組みです。外国人は、その律儀さに目を丸くします。
+      caption: 遅延を会社が証明する「遅延証明書」だった
+    - panel: p5
+      text: この正確さは、奇跡ではありません。数分で車内を清掃し折り返す乗務員や、秒単位で運行を守る運転士が、支えているんです。
+      caption: 秒単位を守る乗務員たちが支えている
+    - panel: p6
+      text: 当たり前のように守られる、秒単位の正確さ。その裏にある無数の努力こそ、世界が日本に驚く理由なのです。
+      caption: 無数の努力こそ世界が驚く理由

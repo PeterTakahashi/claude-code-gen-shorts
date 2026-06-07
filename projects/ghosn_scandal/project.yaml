@@ -1,0 +1,24 @@
+id: ghosn_scandal
+title_ja: "カルロス・ゴーン事件"
+title_en: "Carlos Ghosn Scandal"
+subject: "日産ゴーン会長の逮捕と国外逃亡"
+language: ja
+era: "2018-2019"
+locale_hint: "Tokyo Japan corporate / Tokyo detention / Osaka airport / Lebanon"
+style:
+  description: "full-color modern anime / webtoon style, soft cel shading, expressive line art, cinematic lighting, tense thriller-drama tone"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face, photorealistic, photograph, 3D render"
+chapters: []
+narrator:
+  voice_style_id: 1310138977
+  voice_speed: 1.0
+  instructions: |
+    Read with tense documentary intensity.
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+bubbles:
+  font_path: /Users/apple/dev/claude-code/webtoon-gen/assets/fonts/NotoSansJP-Regular.otf
+  font_index: 0
+  font_scale: 4.0
+output_targets: []

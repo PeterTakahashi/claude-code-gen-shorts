@@ -1,0 +1,65 @@
+id: war-yamato-last-sortie
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic April 1945 scene of the battleship Yamato leaving port, the largest battleship
+      ever built, towering steel hull and massive triple gun turrets, a decorative Japanese
+      caption "戦艦大和、最後の出撃", the visual of "the largest battleship in history sails on
+      its final mission". Somber, heroic WWII naval tone.
+  - id: p2
+    prompt: |
+      A briefing scene on the Yamato's bridge: a Japanese vice admiral (Seiichi Ito, 50s,
+      dignified naval officer in dark uniform) being informed there was only enough fuel for a
+      one-way trip to Okinawa, no air cover, the visual of "they were sent with fuel for one
+      way only". Tense, fatalistic tone.
+      Character: a Japanese WWII vice admiral, 50s, calm dignified face.
+  - id: p3
+    prompt: |
+      A clean infographic of the Pacific between Kyushu and Okinawa, marking the Yamato's
+      course south, a swarm of small US carrier-aircraft icons closing in from the east, the
+      visual of "300 US aircraft were waiting for them". Clean serious infographic.
+  - id: p4
+    prompt: |
+      A dramatic April 7, 1945 scene of the Yamato under massive air attack at sea, anti-aircraft
+      fire blazing skyward, bomb columns of water rising around the hull (non-graphic), the
+      visual of "they fought back, but bombs and torpedoes kept coming". Intense WWII naval tone.
+  - id: p5
+    prompt: |
+      A solemn scene of the listing Yamato beginning to roll in the East China Sea, the same
+      vice admiral choosing to stay on the bridge as crew is ordered to abandon ship, the visual
+      of "the admiral stayed with his ship". Heavy, mournful tone.
+      Character: same admiral.
+  - id: p6
+    prompt: |
+      A quiet East China Sea at dusk, a calm sea where the Yamato now rests, a decorative
+      Japanese caption "なぜ、戦争を語り継ぐのか", the loop image of "remembering, so it is never
+      repeated". Somber, reflective tone.
+ja:
+  title: '戦艦大和、片道燃料で出撃した最後の航海 #Shorts'
+  description: |
+    1945年4月、史上最大の戦艦・大和は、沖縄を目指して片道分の燃料で出撃した。空からの援護なし、待っていたのは米軍機300機。司令官・伊藤整一は艦と運命を共にした。戦艦大和最後の航海を解説します。
+
+    #Shorts #戦争史 #戦艦大和 #太平洋戦争 #歴史
+  hook_caption: 戦艦大和、片道燃料で出撃した日
+  series_brand: 戦争史
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1945年4月、史上最大の戦艦・大和は、沖縄を目指して出撃しました。これが、彼女にとって最後の航海になります。
+      caption: 1945年4月、戦艦大和最後の航海が始まった
+    - panel: p2
+      text: 与えられた燃料は、片道分のみ。空からの援護は、ありません。司令官の伊藤整一は、これが戻れない作戦だと知っていました。
+      caption: 燃料は片道分、援護なし、戻れない作戦だった
+    - panel: p3
+      text: 一方の米軍は、空母から戦闘機と爆撃機、合わせて300機以上を発進させ、大和を待ち構えていました。
+      caption: 米軍は300機以上で待ち構えていた
+    - panel: p4
+      text: 4月7日、東シナ海で戦いは始まります。乗員は撃ち返し続けますが、爆弾と魚雷は、次々と艦体を捉えていきました。
+      caption: 4月7日、爆弾と魚雷が次々と艦を捉えた
+    - panel: p5
+      text: 大和が傾き始めると、伊藤は退艦命令を出します。しかし、自身は艦長室に残り、艦と運命を共にしました。
+      caption: 退艦命令を出し、司令官は艦と運命を共にした
+    - panel: p6
+      text: あの日、大和とともに、3000人以上の命が海に消えました。私たちが戦争を語り継ぐのは、二度と繰り返さないため、です。
+      caption: 二度と繰り返さないために語り継ぐ

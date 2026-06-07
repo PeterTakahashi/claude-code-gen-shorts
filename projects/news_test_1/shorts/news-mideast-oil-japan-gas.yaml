@@ -1,0 +1,69 @@
+id: news-mideast-oil-japan-gas
+parent_chapter: null
+image_style: photorealistic
+panels:
+  - id: p1
+    prompt: |
+      Cinematic photograph of a Japanese gas station price board at night, the
+      digit "180" prominently displayed in bright illumination, faint glow of
+      tail lights in the distance, the visual of "Japan's pump prices spike on
+      Middle East fears". Documentary night photography.
+  - id: p2
+    prompt: |
+      Photoreal newsroom — a Japanese female TV news anchor in her late 20s in
+      a navy blazer behind a modern Tokyo news desk, behind her a large studio
+      monitor showing a globe centered on the Middle East with a glowing red
+      pulse over the Persian Gulf. Composed broadcast lighting.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      Cinematic aerial photograph of a Middle East oil tanker passing through
+      the Strait of Hormuz at dusk, the silhouette of patrol vessels in the
+      distance, tense geopolitical atmosphere. Documentary realism.
+  - id: p4
+    prompt: |
+      Photoreal infographic composite — a chart of crude oil price (WTI)
+      jumping in the past week, the visual of "futures spike on Iran-related
+      headlines". Modern financial-news look. No people.
+  - id: p5
+    prompt: |
+      Photoreal photo of a Japanese family at a suburban Japanese gas station
+      filling up their car at dusk, the husband checking the price meter with
+      a worried expression, the visual of "the geopolitics hits the household
+      wallet". Documentary photography.
+  - id: p6
+    prompt: |
+      Photoreal newsroom — the same anchor at her desk, behind her a split-
+      screen monitor: left an oil tanker at sea, right a Japanese gas station
+      price board. A calm explanatory closing shot.
+      Character: {anchor}.
+
+ja:
+  title: "中東緊迫で原油急騰、日本のガソリン価格に直撃 #Shorts"
+  description: |
+    中東情勢の緊迫を受け、原油先物が急騰。日本の家計に直結するガソリン価格にも、
+    既に波及が始まっています。背景にあるホルムズ海峡リスクと、日本のエネルギー安全保障の構造を、30秒で解説。
+
+    #Shorts #ニュース #国際 #中東 #原油 #ガソリン
+  hook_caption: "中東緊迫、ガソリン直撃"
+  series_brand: "原油急騰の影響"
+  voice_speed: 1.35
+  narration:
+    - panel: p1
+      text: "中東情勢の緊迫を受けて、原油先物が急騰。日本のガソリン価格も、確実に上がり始めています。"
+      caption: "中東緊迫で、原油先物が急騰"
+    - panel: p2
+      text: "焦点は、ホルムズ海峡。世界の海上原油輸送のおよそ2割が通る、戦略的な要衝です。"
+      caption: "焦点は、ホルムズ海峡"
+    - panel: p3
+      text: "ここで通商に支障が出れば、原油価格は跳ね上がる、というシナリオを、市場は織り込み始めています。投機マネーも、そこに乗っている状態。"
+      caption: "市場は、危機シナリオを織り込む"
+    - panel: p4
+      text: "日本は、原油の中東依存度が9割超え。為替の円安も重なれば、ガソリン店頭価格の200円台も、現実味を帯びてきます。"
+      caption: "日本の中東依存度は、9割超"
+    - panel: p5
+      text: "政府は、トリガー条項や補助金で価格抑制を検討中。ただし、補助金は財政負担、トリガー条項は税収減と、どちらにも痛みがあります。"
+      caption: "政府の打ち手にも、痛みがある"
+    - panel: p6
+      text: "中東のニュースが、家のクルマの満タン代に直結する。エネルギー安全保障は、もう「遠い話」ではなくなりました。"
+      caption: "安保は、ガソリン代に直結する"

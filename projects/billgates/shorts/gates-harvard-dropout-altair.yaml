@@ -1,0 +1,170 @@
+id: gates-harvard-dropout-altair
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A January 1975 Harvard dormitory hallway, a 19-year-old skinny boy in a
+
+    rumpled plaid button-down shirt and flared jeans, oversized brown plastic
+
+    eyeglasses, messy sandy hair, leaning against a beige wall-mounted pay phone
+
+    receiver pressed to his ear, his thin face tense with a forced confident
+
+    half-smile as he bluffs into the phone, a scribbled note in his free hand
+
+    reading "BASIC for Altair", a winter night through a small window behind him,
+
+    a sense of an audacious bluff in progress. Tight mid-shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A close-up tight shot of a January 1975 Popular Electronics magazine cover
+
+    lying on a cluttered Harvard dorm-room desk among textbooks, the cover
+
+    photo showing the boxy beige-and-blue Altair 8800 microcomputer with rows
+
+    of toggle switches and red LEDs, a headline reading roughly "World''s First
+
+    Minicomputer Kit", a young hand picking it up, the angle slightly tilted
+
+    and dramatic — the exact image that changed two boys'' lives.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A Harvard dorm room in early 1975, a slightly older 22-year-old young man
+
+    with shaggy dark-brown hair, faint moustache, red plaid flannel shirt over
+
+    jeans, bursting through the door waving a Popular Electronics magazine
+
+    excitedly, the bespectacled younger boy at the desk turning sharply in his
+
+    chair, both faces lit by a desk lamp, scattered textbooks and a coffee mug
+
+    around them — the moment Paul Allen showed Bill Gates their future.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late winter 1975, a dimly lit Harvard computer lab at 3 a.m., a 19-year-old
+
+    bespectacled boy hunched at a PDP-10 timesharing terminal, paper printouts
+
+    of assembly code piled around him, empty cans of soda and a half-eaten
+
+    pizza slice on a folding chair, dark circles under his eyes, the green
+
+    glow of the CRT on his glasses, snow falling outside the tall lab window,
+
+    a frantic deadline atmosphere. Mid-shot capturing exhaustion and focus.
+
+    Character: {subject_young}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    March 1975 in a small office of MITS in Albuquerque, New Mexico, the boxy
+
+    beige-and-blue Altair 8800 microcomputer on a desk with its toggle switches
+
+    and red LEDs, a 22-year-old young man with shaggy dark hair and plaid
+
+    flannel carefully toggling the front-panel switches, a teletype beside the
+
+    machine slowly clattering out the word "READY", a middle-aged engineer in
+
+    a short-sleeve white shirt looking on in genuine astonishment, southwestern
+
+    desert light through the window. The bluff has just become real.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 1975, a 19-year-old skinny bespectacled boy in a rumpled button-down
+
+    shirt standing at the Harvard registrar''s wood-paneled counter, signing a
+
+    paper leave-of-absence form with a steady hand, a faint resolved half-
+
+    smile, an older clerk watching across the counter, sunlight streaming
+
+    through tall arched windows of the old red-brick building. The quiet
+
+    moment a future billionaire walks out of the world''s most famous
+
+    university. Mid-shot.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: 'ハーバードを中退して創業した話 #Shorts'
+  description: '1975年、19歳のビル・ゲイツは、雑誌の表紙で Altair 8800 を見て電撃を受け、
+
+    まだ書いていない BASIC を「もう持っている」と電話で売り込み、8週間で完成させ、ハーバードを中退して Microsoft を創業した。
+
+
+    #Shorts #ビルゲイツ #Microsoft #人物伝
+
+    '
+  hook_caption: 嘘の電話から始まった会社
+  series_brand: ビル・ゲイツ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: Microsoft の始まりは、19歳の青年が、まだ書いてもいないソフトを「持っている」と、嘘の電話で売り込んだ瞬間でした。
+    caption: 始まりは嘘の電話だった
+  - panel: p2
+    text: 1975年1月、19歳のビル・ゲイツは、雑誌の表紙で、世界初の市販マイコン Altair 8800 を、目にしました。
+    caption: 1975年1月、Altair 8800 と運命の出会い
+  - panel: p3
+    text: 彼はすぐに、メーカーに電話をかけ、「Altair で動く BASIC が、もうある」と、堂々と、宣言したんです。
+    caption: 「BASIC をもう持っている」と宣言
+  - panel: p4
+    text: 実際には、一行も書いていなかった。それから8週間、ハーバードの計算機室に、ほぼ泊まり込みでした。
+    caption: 実際は一行も書いていなかった
+  - panel: p5
+    text: 完成した BASIC を、ポール・アレンが、Albuquerque で実機にロードすると、奇跡的に、一発で動いたんです。
+    caption: 実機で一発動作した奇跡
+  - panel: p6
+    text: ゲイツは、ハーバードを、休学。1975年4月、Microsoft が、こうして、産声を上げました。
+    caption: 1975年4月、Microsoft 誕生
+en:
+  title: 'How a Lie Launched Microsoft #Shorts'
+  description: 'In 1975, a 19-year-old Bill Gates bluffed his way into a deal by promising software he hadn''t written. 8 weeks later, that bluff became the start of Microsoft.
+
+
+    #Shorts #BillGates #Microsoft #History #Tech'
+  hook_caption: This Company Was Founded On a Lie
+  series_brand: The Bill Gates Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1975, Harvard student Bill Gates saw the world's first personal computer on a magazine cover, and it sparked an idea.
+    caption: A Fateful Cover
+  - panel: p3
+    text: He immediately called the manufacturer and promised them a programming language for their new machine.
+    caption: The Bold Promise
+  - panel: p4
+    text: The only problem? He was bluffing. He and his partner Paul Allen hadn't written a single line of code.
+    caption: It Was a Bluff
+  - panel: p5
+    text: After 8 weeks of frantic, round-the-clock coding, they demoed their software... and it worked perfectly.
+    caption: The Miracle Demo
+  - panel: p6
+    text: Gates promptly dropped out of Harvard, and that successful bluff became the start of a company called Microsoft.
+    caption: Microsoft is Born

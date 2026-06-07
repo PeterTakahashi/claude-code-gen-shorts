@@ -1,0 +1,61 @@
+id: corpfall-daiei
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A nostalgic 1970s Japanese scene of a massive, bustling Daiei-style supermarket, crowds
+      of happy shoppers, bright "good things, cheaper" banners, a proud retail empire at its
+      peak. Warm vintage tone, no real logos.
+  - id: p2
+    prompt: |
+      A 1960s illustration of a determined Japanese founder (Isao Nakauchi style, 1960s suit)
+      declaring a "distribution revolution", breaking the old high-price system so ordinary
+      families can afford good products. Inspirational, vintage.
+  - id: p3
+    prompt: |
+      A rapid-expansion infographic: store icons multiplying explosively across a map of Japan
+      through the 1980s bubble era, fueled by mounting debt arrows. Conveys "expand, expand,
+      expand on borrowed money." Clean vintage infographic.
+  - id: p4
+    prompt: |
+      A dramatic early-1990s scene of the economic bubble bursting: stock charts crashing,
+      the once-bright store banners dimming, a looming shadow of debt over the retail empire.
+      Ominous tone.
+  - id: p5
+    prompt: |
+      A somber infographic of a crushing mountain of debt (trillions of yen) burying the
+      retailer, shutters coming down on stores, worried employees. The empire collapsing under
+      its own weight. Cold corporate tone.
+  - id: p6
+    prompt: |
+      A quiet closing scene of a faded Daiei-style storefront sign being taken down, absorbed
+      into another group, a lesson glowing: growth built only on debt is fragile. Melancholic,
+      cautionary.
+ja:
+  title: 'ダイエー、日本一の小売王国が倒れた理由 #Shorts'
+  description: |
+    「よい品をどんどん安く」を掲げ、流通革命で日本一の小売王国を築いたダイエー。しかし借金を原動力にした急拡大は、バブル崩壊とともに重荷へと変わった。巨大企業が倒れた理由を30秒で解説します。
+
+    #Shorts #倒産 #ダイエー #流通 #ビジネス
+  hook_caption: 日本一の小売王国ダイエーが倒れた理由
+  series_brand: 倒産の真相
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: かつて日本に、売上で日本一に輝いた、巨大な小売王国がありました。ダイエーです。多くの家族の、暮らしを支えていました。
+      caption: かつて日本一に輝いた小売王国ダイエー
+    - panel: p2
+      text: 創業者は、「よい品をどんどん安く」を掲げ、流通革命を起こします。高かった商品を、庶民の手に届けたんです。
+      caption: 「よい品を安く」で流通革命を起こした
+    - panel: p3
+      text: 成功したダイエーは、店舗をどんどん増やします。しかしその拡大は、多額の借金を原動力にしたものでした。
+      caption: 急拡大の原動力は多額の借金だった
+    - panel: p4
+      text: そしてバブルが崩壊します。これまで成長を支えてきた借金が、一転して、会社を押しつぶす重荷へと変わりました。
+      caption: バブル崩壊で借金が重荷に変わった
+    - panel: p5
+      text: 膨れ上がった負債は、ついに数兆円規模に。日本一だった小売王国は、自らの重さに耐えきれず、崩れていきました。
+      caption: 数兆円の負債で王国は崩れていった
+    - panel: p6
+      text: 借金だけを燃料にした成長は、もろい。どれだけ大きくなっても、足元が借金なら、一度の嵐で倒れてしまうのです。
+      caption: 借金だけの成長は一度の嵐で倒れる

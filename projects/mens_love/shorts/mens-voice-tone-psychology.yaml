@@ -1,0 +1,205 @@
+id: mens-voice-tone-psychology
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern contemporary Tokyo izakaya interior in soft warm
+
+    lighting, two people sitting at a small counter table, a
+
+    27-year-old Japanese man in charcoal crewneck sweater
+
+    speaking gently to a 26-year-old Japanese woman in beige
+
+    blouse who is leaning slightly toward him with a relaxed
+
+    attentive smile, a small decorative sound-wave graphic
+
+    floating above the man indicating a calm low steady waveform,
+
+    a tiny decorative English caption "VOICE = 38% OF IMPRESSION",
+
+    the visual of "her body language softening because of how he
+
+    sounds". Mid-shot. Clearly Tokyo izakaya setting. No Japanese
+
+    text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean modern infographic panel on soft pastel background,
+
+    decorative English numerals "1. PITCH — LOWER" centered, a
+
+    stylized split graphic with two waveforms, one labeled in
+
+    decorative English "HIGH" depicted as thin jittery, one
+
+    labeled "LOW" depicted as thick steady, a chibi-style anime
+
+    young Japanese man placing a hand on his chest demonstrating
+
+    chest-resonance breathing, the visual of "research links
+
+    lower pitch with perceived calm". Decorative English text
+
+    only. No Japanese text.
+
+    Character: {male_lead}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic panel style, decorative English
+
+    "2. PACE — SLOW DOWN 20%" centered, a chibi-style male
+
+    speaking with a small visible decorative English speed-meter
+
+    graphic, the meter needle resting comfortably in a centre
+
+    green zone labeled "RELAXED", a chibi female listener with
+
+    a calm easy expression, the visual of "slowing down 20
+
+    percent signals you are not anxious". Decorative English
+
+    text only. No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic panel style, decorative English
+
+    "3. PAUSE BEFORE REPLY" centered, the chibi male and chibi
+
+    female in conversation, a small visible decorative English
+
+    caption "...1 SECOND..." between them indicating a deliberate
+
+    one-second pause before the man answers, his expression
+
+    thoughtful and warm, the visual of "the small pause that
+
+    tells her you are actually listening". Decorative English
+
+    text only. No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic panel style, decorative English
+
+    "4. SOFT ENDINGS" centered, a stylized comparison: on the
+
+    left a chibi male finishing a sentence with a sharp loud
+
+    downward arrow labeled "HARD STOP", on the right the chibi
+
+    male finishing a sentence with a gentle gradual downward
+
+    arrow labeled "SOFT END", the chibi female on the right
+
+    side smiling slightly more, the visual of "sentence endings
+
+    change the emotional aftertaste". Decorative English text
+
+    only. No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Back in the same Tokyo izakaya from panel 1, the same
+
+    27-year-old Japanese man in charcoal sweater and the same
+
+    26-year-old Japanese woman in beige blouse, this time
+
+    laughing gently together, the woman leaning closer with a
+
+    genuinely warm smile, a soft floating decorative English
+
+    caption "HOW YOU SOUND > WHAT YOU SAY", warm pendant lamp
+
+    light — visual loop callback to panel 1, now deeper. Mid-shot.
+
+    Clearly Tokyo izakaya setting. No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+ja:
+  title: '女性が無意識に好感を持つ、声の4つの条件 #Shorts'
+  description: '印象の約38%は、声のトーンで決まるとも言われています。
+
+    心理学と音声研究から、好感度を上げやすい声の4つの条件を、解説します。
+
+
+    #Shorts #恋愛心理 #声 #コミュニケーション #心理学
+
+    '
+  hook_caption: 好感を持たれる声の条件
+  series_brand: バルトゥーンメンズ恋愛
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「何を話すか」より、「どう聞こえるか」——印象の約4割は、声で決まるとも言われている、その理由を知っていますか?
+    caption: 印象の4割は声で決まる
+  - panel: p2
+    text: 1つ目の条件は、ピッチ。研究では、やや低めの声が、落ち着きや、安心感と、結びつきやすい傾向があるとされています。胸に手を当てて話すと、自然と下がります。
+    caption: ①ピッチ——やや低めが落ち着く
+  - panel: p3
+    text: 2つ目は、ペース。普段より、2割ゆっくり話すだけで、緊張していない印象になり、相手も、安心して聞ける傾向があります。
+    caption: ②ペース——2割ゆっくり
+  - panel: p4
+    text: 3つ目は、返事の前の、1秒の間。即答ではなく、ひと呼吸置くことで、「ちゃんと聞いてくれた」と、感じてもらいやすくなります。
+    caption: ③返事の前に1秒の間
+  - panel: p5
+    text: 4つ目は、語尾。文の終わりを、少しだけ柔らかく落とすと、威圧感が減って、余韻のある印象に、変わる傾向があります。
+    caption: ④語尾——柔らかく落とす
+  - panel: p6
+    text: 低めの声、ゆっくりのペース、1秒の間、柔らかい語尾——どれも、今日から練習できる、自己メンテナンスです。声は、表情と同じくらい、相手に届きます。
+    caption: 声は表情と同じくらい届く
+en:
+  title: '4 Vocal Hacks to Sound Instantly More Attractive #Shorts'
+  description: 'It''s not just what you say, but how you say it. Studies show your voice makes up 38% of a first impression. Here are 4 science-backed tricks to make your voice more appealing.
+
+
+    #Shorts #Communication #Psychology #DatingAdvice #Attractive'
+  hook_caption: The Voice Women Find More Attractive
+  series_brand: Valtunes Men's Dating
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Did you know that how you sound is often more important than what you say? Your voice can make up nearly 40% of a first impression.
+    caption: Your voice is key
+  - panel: p2
+    text: First, use a slightly lower pitch. Research shows a deeper vocal tone is subconsciously linked with confidence and a sense of calm.
+    caption: 1. Lower Your Pitch
+  - panel: p3
+    text: Second, slow down your pace. Speaking just 20% slower makes you sound more relaxed and thoughtful, and people will listen more closely.
+    caption: 2. Slow Your Pace
+  - panel: p4
+    text: Third, pause for a second before you reply. This small gap shows you’re truly listening, not just waiting for your turn to talk.
+    caption: 3. The Power Pause
+  - panel: p5
+    text: Fourth, soften the end of your sentences. Letting your tone fall gently instead of rising makes you sound less demanding and more approachable.
+    caption: 4. Use Soft Endings
+  - panel: p6
+    text: Lower pitch, slower pace, a deliberate pause, and soft endings. Master these four simple habits, and you’ll change how people hear you.
+    caption: Start practicing today

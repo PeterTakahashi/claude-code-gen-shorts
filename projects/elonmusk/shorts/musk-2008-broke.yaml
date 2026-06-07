@@ -1,0 +1,59 @@
+id: musk-2008-broke
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A stressed late-30s Elon Musk ({elon_adult}) sitting alone in a dim office in 2008, head in
+      hands, two faint logos looming behind him — a rocket and an electric car — both cracking,
+      conveying "in 2008 both his companies were dying at once". Tense, dramatic lighting.
+      Character: {elon_adult}.
+  - id: p2
+    prompt: |
+      A dramatic illustration of a SpaceX rocket exploding/failing over the Pacific, debris
+      falling, conveying "his rockets kept blowing up". Ominous, cinematic, smoke and fire (non-graphic).
+  - id: p3
+    prompt: |
+      A Tesla factory scene grinding to a halt, red financial charts plunging, worried staff,
+      conveying "Tesla was almost out of cash". Cold, anxious corporate tone.
+  - id: p4
+    prompt: |
+      Elon Musk ({elon_adult}) at a desk making an agonizing decision, splitting his last stack
+      of money into two piles toward the rocket and the car, conveying "he poured his last money
+      into both". Intense, do-or-die mood. Character: {elon_adult}.
+  - id: p5
+    prompt: |
+      A triumphant night-launch scene of a SpaceX rocket finally reaching orbit, control-room
+      figures erupting in joy, conveying "the fourth launch finally succeeded". Hopeful, electric.
+  - id: p6
+    prompt: |
+      A relieved Elon Musk ({elon_adult}) at Christmas time receiving the news that Tesla's
+      funding closed at the last minute, faint holiday lights, conveying "saved on Christmas Eve,
+      both companies survived". Warm, redemptive tone. Character: {elon_adult}.
+ja:
+  title: 'イーロン・マスクが全財産を失う寸前だった2008年 #Shorts'
+  description: |
+    今や世界一の富豪イーロン・マスク。だが2008年、彼のスペースXとテスラは同時に倒産寸前に陥り、私財も尽きかけていた。最後の資金を二社に注ぎ込んだ男が、どう崖っぷちから生還したのかを30秒で解説します。
+
+    #Shorts #偉人伝 #イーロンマスク #SpaceX #テスラ
+  hook_caption: マスクが全財産を失う寸前だった2008年
+  series_brand: イーロン・マスク
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 今や世界一の富豪、イーロン・マスク。しかし2008年、彼は人生最大の崖っぷちにいました。二つの会社が、同時に死にかけていたんです。
+      caption: 2008年、二つの会社が同時に死にかけた
+    - panel: p2
+      text: 一つは、ロケットのスペースX。打ち上げは三度連続で失敗し、資金は底をつきかけていました。
+      caption: スペースXは三度連続で打ち上げ失敗した
+    - panel: p3
+      text: もう一つは、電気自動車のテスラ。リーマンショックの直撃を受け、こちらも資金が枯渇寸前でした。
+      caption: テスラもリーマンショックで資金枯渇寸前
+    - panel: p4
+      text: マスクは、残った私財をかき集め、苦渋の決断をします。最後のお金を、両方の会社に分けて注ぎ込んだんです。
+      caption: 最後の私財を両社に分けて注ぎ込んだ
+    - panel: p5
+      text: 運命の四度目の打ち上げ。スペースXのロケットは、ついに軌道に到達します。会社は、ぎりぎりで生き延びました。
+      caption: 四度目でロケットがついに軌道へ到達した
+    - panel: p6
+      text: そしてクリスマス・イブ、テスラの資金調達も土壇場で成立。すべてを賭けて踏みとどまった男だけが、その先の世界を変えられたのです。
+      caption: すべてを賭けて踏みとどまった者が世界を変えた

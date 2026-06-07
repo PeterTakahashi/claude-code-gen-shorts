@@ -1,0 +1,70 @@
+# Japanese artisans & ancient firms cast — one craftsman per video.
+characters:
+  - id: miyadaiku
+    name_ja: 宮大工 (金剛組の棟梁, generic composite)
+    description_en: >-
+      a 60-something Japanese master temple carpenter (miyadaiku) with
+      weathered tanned skin, deep lines around calm narrow eyes, short
+      iron-grey hair tied back with a white hand towel headband
+      (hachimaki), strong calloused hands, a quiet humble dignified
+      expression carved by decades of working with cypress wood
+    outfit_en: >-
+      a traditional Japanese craftsman's indigo-dyed work jacket
+      (samue), loose indigo trousers, white split-toe tabi socks, a
+      simple woven straw rope belt, the timeless uniform of a temple
+      carpenter that has barely changed in 1400 years
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: kurokawa_mitsuhiro
+    name_ja: 黒川光博 (虎屋17代目当主)
+    description_en: >-
+      a 70-something Japanese male wagashi-house owner with a calm refined
+      face, neatly combed short silver-white hair, gentle deep-set eyes
+      surrounded by soft laugh-lines, thin rimless glasses, a quiet humble
+      dignified expression carved by decades of running a 500-year-old
+      sweets house, slightly slight build, the visual of the 17th-generation
+      head of a Kyoto wagashi family that has served the Imperial court
+      since the Muromachi era
+    outfit_en: >-
+      a refined dark indigo Japanese kimono with a subtle small Toraya tiger
+      family crest in muted gold on the chest, a charcoal grey haori jacket
+      over the shoulders, simple grey hakama trousers, white tabi socks,
+      occasionally instead a quiet charcoal modern business suit with a
+      small tiger-crest lapel pin, the timeless silhouette of a Kyoto
+      long-established sweet-house master
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: nakagawa_masashichi_14
+    name_ja: 中川政七 (14代目当主, 中川政七商店)
+    description_en: >-
+      a 40-something Japanese male company president, the 14th-generation
+      head of a 300-year-old Nara hemp-textile house, slim build, neatly
+      cut short black hair lightly greying at the temples, a calm
+      refined face with high cheekbones, gentle thoughtful dark eyes
+      behind thin black rectangular-frame glasses, a quiet confident
+      smile, the visual of the modern heir who transformed an old craft
+      into a national lifestyle brand
+    outfit_en: >-
+      a soft natural-linen unstructured beige jacket over a fine ecru
+      hemp-linen collared shirt, slim dark indigo cotton trousers, brown
+      leather loafers, no necktie, occasionally a small Nakagawa-shop
+      cloth lapel pin, the smart-casual silhouette of a Nara craftsman-
+      entrepreneur in the 2020s
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: katanakaji
+    name_ja: 刀鍛冶 (人間国宝, generic composite)
+    description_en: >-
+      a 70-something Japanese master sword smith (katanakaji) with
+      weathered face deeply lined by furnace heat, soot-smudged cheeks,
+      short iron-grey hair tied under a dark cloth headband, narrow
+      focused eyes reflecting orange forge light, calloused
+      muscle-corded hands, a quiet almost monk-like expression of total
+      concentration, the bearing of a Living National Treasure
+    outfit_en: >-
+      a traditional white sword smith's robe (kariginu-style) belted
+      with a dark sash, loose white trousers, white split-toe tabi
+      socks, a long white apron stained faintly with charcoal, the
+      ceremonial-yet-working uniform of a katanakaji
+    voice_style_id: 1310138977
+    voice_speed: 1.4

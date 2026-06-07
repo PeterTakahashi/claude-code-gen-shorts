@@ -1,0 +1,60 @@
+id: mystery-mary-celeste
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A noir 1872 oil painting style of a two-masted sailing ship drifting alone on a calm
+      Atlantic, sails partly set, no crew on deck, the visual of "a ghost ship found drifting
+      with no one aboard". Eerie, haunting maritime tone.
+  - id: p2
+    prompt: |
+      A 19th-century deck scene: another ship's crew climbing aboard the silent vessel, the
+      table set with food and personal belongings untouched, a captain's logbook open, the
+      visual of "everything intact, but the people gone". Mysterious, restrained noir tone.
+  - id: p3
+    prompt: |
+      A historical illustration of the ship's empty cabins, the captain's wife's sewing
+      machine, a child's toys left behind, but the lifeboat missing from its davits, the visual
+      of "the lifeboat was gone, the people were not". Somber sepia tone.
+  - id: p4
+    prompt: |
+      An infographic map of the Atlantic between the Azores and Gibraltar, marking the ship's
+      last known log entry and the place it was found drifting, the visual of "she sailed on
+      her own for over a week with no crew". Clean serious infographic.
+  - id: p5
+    prompt: |
+      A noir illustration of investigators in a Gibraltar courtroom puzzling over theories:
+      pirates, mutiny, fumes from alcohol cargo, a sea monster sketch, the visual of "every
+      theory was tried, none truly fit". Tense, frustrated tone.
+  - id: p6
+    prompt: |
+      A lonely shot of the silent ship at dusk, sails creaking, the loop image of "150 years
+      later, no one knows what happened to her crew". Haunting, unresolved maritime tone.
+ja:
+  title: 'メアリー・セレスト号、乗組員が消えた幽霊船 #Shorts'
+  description: |
+    1872年、大西洋を漂流していた帆船メアリー・セレスト号には、誰も乗っていなかった。食事は途中、航海日誌は更新されたまま、ただ救命艇だけが消えていた。150年解けない海洋ミステリーを30秒で解説します。
+
+    #Shorts #未解決事件 #メアリーセレスト号 #海洋ミステリー #雑学
+  hook_caption: 乗組員が消えた、150年の幽霊船
+  series_brand: 未解決事件ファイル
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1872年、大西洋を、一隻の帆船が、無人のまま漂流していました。船の名は、メアリー・セレスト号。
+      caption: 1872年、大西洋を無人の帆船が漂流していた
+    - panel: p2
+      text: 別の船が乗り込むと、船内は驚くほど無傷でした。食事は途中、航海日誌は更新されたまま。それなのに、乗組員10人の姿だけが、消えていたんです。
+      caption: 食事も日誌も残ったまま、人だけ消えていた
+    - panel: p3
+      text: 船には、貴重品も、子供のおもちゃも残っていました。ただ一つ、救命艇だけが、なくなっていました。
+      caption: 貴重品は残り、救命艇だけが消えていた
+    - panel: p4
+      text: 最後の日誌から発見地点まで、船は一週間以上、誰の操船もなしに、海を進み続けていた計算になります。
+      caption: 一週間以上、無人で海を進み続けた
+    - panel: p5
+      text: 海賊説、反乱説、積荷のアルコール蒸気で逃げた説。あらゆる仮説が立てられましたが、どれも、決め手を欠きました。
+      caption: あらゆる仮説が立つも決め手を欠いた
+    - panel: p6
+      text: あれから150年以上が経っても、なぜ乗組員が、無事な船を捨てたのか。その答えは、今も海の底にあります。
+      caption: 150年経っても答えは海の底にある

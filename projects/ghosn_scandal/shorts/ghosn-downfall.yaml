@@ -1,0 +1,61 @@
+id: ghosn-downfall
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic corporate portrait of Carlos Ghosn in a sharp suit, standing confidently in
+      front of a Nissan logo, hailed as a hero, flashbulbs around him. Conveys "the man who
+      saved Nissan." Character: {ghosn}.
+  - id: p2
+    prompt: |
+      A late-1990s illustration of a struggling Nissan: factories with red deficit charts,
+      worried Japanese employees, a mountain of debt looming. The company on the brink of
+      collapse. Somber corporate tone.
+  - id: p3
+    prompt: |
+      Ghosn presenting a bold revival plan to Japanese executives, charts turning from red to
+      black, factory lines restarting, determination. Conveys "he dragged Nissan back to
+      profit." Character: {ghosn}.
+  - id: p4
+    prompt: |
+      A tense scene at a Tokyo Haneda airport in November 2018: a private jet on the tarmac,
+      Japanese prosecutors in dark suits boarding to make an arrest, flashing official badges.
+      Sudden downfall. Dramatic, ominous.
+  - id: p5
+    prompt: |
+      Carlos Ghosn in a stark detention setting, the hero now a suspect, accused of financial
+      misconduct, headlines swirling around him in the background. Shock and disgrace.
+      Character: {ghosn}.
+  - id: p6
+    prompt: |
+      A symbolic split image: the Nissan logo on one side, an empty executive chair on the
+      other, a fallen crown motif, conveying "the savior became the accused." Cold, dramatic
+      corporate tone.
+ja:
+  title: '日産を救った男ゴーンは、なぜ逮捕されたのか #Shorts'
+  description: |
+    倒産寸前だった日産を、わずか数年で立て直した経営者カルロス・ゴーン。英雄と称えられた彼が、2018年、東京の空港で突然逮捕された。栄光からの転落を30秒で解説します。
+
+    #Shorts #企業事件 #カルロスゴーン #日産 #事件
+  hook_caption: 日産を救った男はなぜ逮捕されたのか
+  series_brand: 企業事件簿
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: かつて、日産の救世主と呼ばれた経営者がいました。カルロス・ゴーン。彼は、英雄として迎えられた人物でした。
+      caption: 日産の救世主と呼ばれたカルロス・ゴーン
+    - panel: p2
+      text: 1990年代後半、日産は巨額の負債を抱え、倒産寸前でした。誰もが、もう立ち直れないと思っていました。
+      caption: 1990年代後半、日産は倒産寸前だった
+    - panel: p3
+      text: そこへ来たゴーンは、大胆な改革を断行します。そしてわずか数年で、日産を黒字へと劇的に立て直しました。
+      caption: 大胆な改革で数年で黒字に立て直した
+    - panel: p4
+      text: ところが2018年、東京の空港。プライベートジェットで降り立った彼を、検察が待ち構えていました。
+      caption: 2018年、空港で検察が待ち構えていた
+    - panel: p5
+      text: 容疑は、報酬をめぐる金融商品取引法違反など。英雄は一転、被疑者として勾留されることになります。
+      caption: 報酬をめぐる容疑で英雄が勾留された
+    - panel: p6
+      text: 会社を救った男が、その会社をめぐる疑惑で裁かれる。栄光と転落は、いつも紙一重なのかもしれません。
+      caption: 栄光と転落は紙一重なのかもしれない

@@ -1,0 +1,177 @@
+id: geohot-ps3-sony-lawsuit
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 2011, outside the federal courthouse in San Francisco on a grey
+
+    overcast morning. A 21-year-old George Hotz walking calmly down the
+
+    stone courthouse steps, dishevelled curly brown hair sticking out, in a
+
+    simple plain t-shirt and jeans, hands in his pockets, a faint defiant
+
+    half-smirk on his face. Around him a blurred crowd of photographers
+
+    with raised cameras and a handful of supporters holding small
+
+    handwritten "Free geohot" signs. Wide mid-shot, cinematic angle.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A close-up still life on a cluttered desk in late 2010 — a glossy black
+
+    first-generation Sony PlayStation 3 console with its top case open
+
+    exposing the motherboard, a small laptop next to it showing a terminal
+
+    window with green text lines of root keys scrolling down. A coffee mug
+
+    and tangled USB cables around. Cold dramatic side lighting. No people.
+
+    The visual: the supposedly unhackable PS3, cracked wide open.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2010, a dim bedroom-office at 2am. A 21-year-old George Hotz
+
+    sitting in a worn office chair in front of three monitors, his hand on
+
+    a mechanical keyboard, his face lit by the cool blue screen light, an
+
+    intense determined expression. The main monitor shows a blog post
+
+    titled simply "PS3 Root Keys" being published. Curly hair sticking out,
+
+    black t-shirt. Side-three-quarter view. The moment he made the keys
+
+    public to the entire internet.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early January 2011, a sleek Sony Corporation boardroom in Tokyo. Three
+
+    silhouetted Japanese executive figures in dark suits standing around a
+
+    long polished black conference table, one slamming his hand on the
+
+    table, the others rigid with anger, a large flat screen on the wall
+
+    displaying a photo of a smirking young geohot with a red "TARGET"
+
+    overlay implied. Cold corporate office lighting. No faces clearly
+
+    visible — just the silhouette of corporate fury. Conveys: the moment
+
+    Sony decided to sue him.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    April 2011, a dark server room glowing with rack lights, rows of black
+
+    Sony PlayStation Network servers, one main monitor in the foreground
+
+    suddenly displaying a stylized Guy Fawkes mask icon on a black
+
+    background with the text "We are Anonymous" partially visible. Other
+
+    monitors flicker red with warning alerts. No humans. The exact moment
+
+    the legendary PlayStation Network hack began, triggered by sympathy
+
+    for geohot''s lawsuit.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 2011, the same dim bedroom-office, late afternoon. A 21-year-old
+
+    George Hotz leaning back in his chair, arms behind his head, three
+
+    monitors in front of him, a barely-visible news headline on one screen
+
+    reading "Sony settles with Hotz". Soft window light on his messy curly
+
+    hair and faint stubble, a quiet half-smirk on his lips, eyes calm and
+
+    already thinking about the next project. Conveys: he won, but the
+
+    story was only beginning. Front-three-quarter portrait framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'Sonyに訴えられた21歳のハッカー #Shorts'
+  description: '2010年、ジョージ・ホッツが、PlayStation 3のセキュリティを破り、Sonyから訴訟を起こされた。
+
+    しかしその騒動が、ハッカー集団Anonymousを動かすことになる。
+
+
+    #Shorts #ジョージホッツ #PS3 #Sony #人物伝
+
+    '
+  hook_caption: Sonyに訴えられたハッカー
+  series_brand: ジョージ・ホッツ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 21歳のハッカーが、Sonyを激怒させ、世界的なサイバー戦争の、きっかけを作った話があります。
+    caption: 21歳がSonyを激怒させた
+  - panel: p2
+    text: 2010年、ジョージ・ホッツは、絶対に破れないと言われた、PlayStation 3のセキュリティを、解析しました。
+    caption: 2010年、PS3のセキュリティを破る
+  - panel: p3
+    text: 彼は、その「ルートキー」を、自分のブログで、世界中に、公開してしまったんです。
+    caption: ルートキーをブログで公開
+  - panel: p4
+    text: 怒ったSonyは、すぐに、彼を相手取り、連邦裁判所に、訴訟を起こしました。
+    caption: Sonyが連邦裁判所に提訴
+  - panel: p5
+    text: ところが、その訴訟が、ハッカー集団Anonymousの、怒りに火をつけたんです。
+    caption: Anonymousの怒りに火がついた
+  - panel: p6
+    text: 結果、Sonyは7700万件の、PSNアカウント情報を、流出させ、最終的に、彼と和解しました。
+    caption: PSN7700万件流出、和解へ
+en:
+  title: 'How One Hacker Took on Sony and Started a Cyberwar #Shorts'
+  description: 'In 2010, George Hotz cracked the ''unbreakable'' PS3. Sony sued him, but that just angered the hacker group Anonymous, leading to one of the biggest data breaches in history.
+
+
+    #Shorts #GeorgeHotz #PS3 #Sony #Hacker'
+  hook_caption: This 21-Year-Old Took On Sony
+  series_brand: The George Hotz Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: This is how a 21-year-old hacker accidentally started a global cyberwar with one of the biggest companies on Earth.
+    caption: A 21-year-old vs Sony
+  - panel: p2
+    text: 'In 2010, George Hotz did the impossible: he cracked the famously ''unbreakable'' security of the PlayStation 3.'
+    caption: Cracking the PS3
+  - panel: p3
+    text: Then, he published the system's master key on his blog for the entire world to see.
+    caption: The master key goes public
+  - panel: p4
+    text: Sony, absolutely furious, immediately hit him with a federal lawsuit.
+    caption: Sony Sues
+  - panel: p5
+    text: 'But suing one hacker provoked an army: the hacktivist group Anonymous declared war on Sony.'
+    caption: Anonymous retaliates
+  - panel: p6
+    text: They took down the PlayStation Network, leaking 77 million user accounts and ultimately forcing Sony to settle.
+    caption: 77 million accounts leaked

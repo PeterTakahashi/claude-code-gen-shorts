@@ -1,0 +1,62 @@
+id: son-illness-3years
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A somber hospital room in 1980s Japan, a young Masayoshi Son in his late 20s lying in
+      a hospital bed by a window, pale but with determined eyes, a doctor's grim expression in
+      the blurred background. Conveys "told he had only years to live, just as his company
+      began." Character: {subject_young}.
+  - id: p2
+    prompt: |
+      A close-up of the young entrepreneur's face in the hospital bed, fear and frustration
+      fighting in his eyes, a small startup company brochure on the bedside table. The cruel
+      timing of illness at the start of success. Character: {subject_young}.
+  - id: p3
+    prompt: |
+      The hospital bed surrounded by towering stacks of books — business, history, biographies
+      — the young Son reading intensely, a small reading lamp glowing late at night. Conveys
+      "he read thousands of books from his bed." Character: {subject_young}.
+  - id: p4
+    prompt: |
+      An illustration of the young Son running his company by phone and documents FROM the
+      hospital, papers spread on the bed, a phone to his ear, refusing to stop working.
+      Determination. Character: {subject_young}.
+  - id: p5
+    prompt: |
+      A hopeful scene of the young Son leaving the hospital after a new treatment, sunlight on
+      his face, looking healthier, a notebook full of plans clutched in his hand. Recovery
+      against the odds. Character: {subject_young}.
+  - id: p6
+    prompt: |
+      A confident, healthy mature Masayoshi Son in a modern office, looking out over a city
+      skyline, the survivor who turned a death sentence into fuel. Triumphant, visionary.
+      Character: {subject_adult}.
+ja:
+  title: '孫正義、余命宣告から3年で4000冊を読んだ闘病 #Shorts'
+  description: |
+    起業して間もない20代で、重い病により余命わずかと告げられた孫正義。彼は病室のベッドで3000冊を超える本を読み、経営を続けながら、奇跡的に回復した。逆境を力に変えた3年間を30秒で解説します。
+
+    #Shorts #偉人伝 #孫正義 #ソフトバンク #名言
+  hook_caption: 孫正義、余命宣告から復活した3年間
+  series_brand: 孫正義
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 会社を立ち上げたばかりの20代。孫正義は、重い病で、余命はわずかかもしれないと、医師から告げられます。
+      caption: 起業直後の20代で重い病に倒れた
+    - panel: p2
+      text: ようやく事業が動き出した、その矢先のことでした。普通なら、心が折れてもおかしくありません。
+      caption: 事業が動き出した矢先の余命宣告だった
+    - panel: p3
+      text: しかし彼は、病室のベッドを書斎に変えます。経営、歴史、偉人の伝記。3000冊を超える本を、むさぼるように読みました。
+      caption: 病室で3000冊を超える本を読みあさった
+    - panel: p4
+      text: さらに、電話と書類で、入院しながら会社の指揮を執り続けます。病に、人生の主導権を渡さなかったんです。
+      caption: 入院しながら電話と書類で経営を続けた
+    - panel: p5
+      text: そして新しい治療法に出会い、孫正義は奇跡的に回復します。約3年に及んだ闘病の、終わりでした。
+      caption: 新しい治療法に出会い奇跡的に回復した
+    - panel: p6
+      text: 死を覚悟した3年間で蓄えた知識が、後の巨大なビジョンを支えた。逆境こそ、最大の準備期間だったのです。
+      caption: 逆境の3年が後の巨大なビジョンを支えた

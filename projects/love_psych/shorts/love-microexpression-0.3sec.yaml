@@ -1,0 +1,202 @@
+id: love-microexpression-0.3sec
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME close-up dramatic shot of a 25-year-old contemporary Japanese
+
+    woman''s face mid-microexpression — her warm brown eyes caught mid-flicker
+
+    with a tiny involuntary widening of the inner eyebrows revealing fleeting
+
+    surprise, soft natural makeup, lips parted a millimeter, a single
+
+    shoulder-length dark brown hair strand near her cheek, a faint stylized
+
+    decorative English overlay caption "0.3 SEC" small at the corner of the
+
+    frame with a tiny stopwatch icon, soft out-of-focus modern Tokyo cafe
+
+    background with warm pendant lighting in the late afternoon. The visual
+
+    of "the 0.3 second her real feeling slipped through." Subject filling
+
+    square center for vertical short layout with blurred padding above
+
+    and below.
+
+    Character: {female_lead}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Modern bright Tokyo cafe interior late afternoon, mid-shot across a
+
+    small round wooden cafe table — a 26-year-old contemporary Japanese
+
+    office-worker man in a navy crewneck sweater leaning slightly forward
+
+    having just asked a sensitive question, the 25-year-old Japanese woman
+
+    across from him in a cream knit sweater wearing a polite social smile
+
+    but her eyes mid-flicker showing a real fleeting emotion underneath,
+
+    two coffee cups and a small dessert plate between them, soft warm
+
+    window light, a small floating decorative English overlay caption
+
+    "VISIBLE SMILE / HIDDEN FEELING" at the top corner. The visual of
+
+    "the polite mask and the real face underneath."
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic panel filling the frame.
+
+    Clean modern soft cream background, decorative bold English headline
+
+    "7 UNIVERSAL EXPRESSIONS" centered, a 2x4 grid of small chibi-style
+
+    female-lead face icons each labeled in small decorative English:
+
+    "JOY", "SURPRISE", "FEAR", "ANGER", "DISGUST", "SADNESS", "CONTEMPT",
+
+    with the last cell holding a tiny decorative Japanese caption
+
+    「ポール・エクマンの研究より」readable. The visual of "Paul Ekman''s 7
+
+    universal microexpressions." Hedged research framing.
+
+    Character: {female_lead}.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic panel filling the frame.
+
+    Clean modern soft pastel background, decorative bold English headline
+
+    "0.3 SECONDS" centered, a stylized horizontal timeline bar marked at
+
+    "0.0s", "0.3s", and "0.5s" with a tiny chibi female-lead face icon
+
+    slipping a microexpression specifically between 0.0s and 0.3s, a soft
+
+    pink stopwatch icon, a small decorative Japanese caption beneath
+
+    「意識より速く、本音が顔に出る瞬間」readable, hedged framing. The visual of
+
+    "the involuntary 0.3-second leak before conscious control."
+
+    Character: {female_lead}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style infographic panel filling the frame.
+
+    Clean modern soft cream background, decorative bold English headline
+
+    "TRAINABLE" centered, a stylized chibi version of the male lead
+
+    seated in front of a laptop watching slow-motion face footage of the
+
+    female lead, a small soft pink arrow pointing from a "30 DAYS"
+
+    decorative English caption to a small upward-trending graph labeled
+
+    "ACCURACY", a tiny decorative Japanese caption「研究では、訓練で読み取り
+
+    精度が上がる傾向」readable. The visual of "research suggests trained
+
+    observers spot microexpressions more accurately." Hedged framing.
+
+    Character: {male_lead}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame.
+
+    Same EXTREME close-up of the 25-year-old Japanese woman''s face as panel
+
+    1 but slightly later — her warm brown eyes now softening into a small
+
+    genuine warm smile, the involuntary microexpression resolved into real
+
+    relaxed emotion, soft natural makeup, the same shoulder-length dark
+
+    brown hair strand near her cheek, same soft out-of-focus modern Tokyo
+
+    cafe background with warm pendant lighting slightly warmer. The loop
+
+    image of "the moment the real feeling settled into the face." Subject
+
+    filling square frame for vertical short with blurred padding above
+
+    and below.
+
+    Character: {female_lead}.
+
+    '
+ja:
+  title: '相手の本心が出る0.3秒の表情、微表情の科学 #Shorts'
+  description: '心理学者ポール・エクマンの研究では、人は無意識のうちに、0.3秒だけ、本心の表情、いわゆる「微表情」を、顔に出す傾向があると、言われています。
+
+    7つの普遍的な表情があり、訓練すれば、読み取り精度が上がる傾向があるそうです。
+
+
+    #Shorts #微表情 #ポールエクマン #恋愛心理 #心理学
+
+    '
+  hook_caption: 0.3秒で本心が出る顔
+  series_brand: 微表情の科学
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 相手の本心は、たった0.3秒、顔に、漏れている——心理学者ポール・エクマンの研究では、そう言われています。それが「微表情」と呼ばれるものなんです。
+    caption: 本心は0.3秒、顔に漏れている
+  - panel: p2
+    text: 多くの人は、本音を隠そうとして、表面では笑っていても、無意識の0.3秒だけ、本当の感情が、顔に、出てしまう傾向があるんです。
+    caption: 笑顔の下に本音が出る0.3秒
+  - panel: p3
+    text: エクマンの研究では、文化を超えて共通する微表情は、7種類あると、言われています。喜び、驚き、恐怖、怒り、嫌悪、悲しみ、軽蔑、です。
+    caption: 文化を超える7つの微表情
+  - panel: p4
+    text: 0.3秒という時間は、意識が「隠そう」と判断するより、速いので、訓練していない人ほど、本音が、顔に、出やすい傾向があると、されています。
+    caption: 意識より速い0.3秒の本音
+  - panel: p5
+    text: 心理学では、微表情を読み取る能力は、訓練で精度が上がる傾向があると、言われています。会話の動画を、スロー再生で観るだけでも、感度が変わってきます。
+    caption: 訓練で読み取り精度が上がる
+  - panel: p6
+    text: 言葉と表情がズレた瞬間、本心は、後者のほうにある——微表情を意識するだけで、人との会話が、まったく違う深さで、見えてくるはずです。
+    caption: 言葉と表情のズレに本心がある
+en:
+  title: 'The Secret Your Face Reveals in 0.3 Seconds #Shorts'
+  description: 'Psychologist Paul Ekman''s research shows our true feelings can flash across our faces in under 0.3 seconds. These ''microexpressions'' are universal and can be trained!
+
+    #Shorts #Psychology #Microexpressions #BodyLanguage #PaulEkman'
+  hook_caption: What Their Face REALLY Says
+  series_brand: The Science of Microexpressions
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: For just a fraction of a second, a person's true feelings can leak onto their face. Psychologists call these 'microexpressions.'
+    caption: A flash of truth
+  - panel: p4
+    text: They last for less than half a second—way too fast for most people to consciously hide.
+    caption: Faster than you can think
+  - panel: p2
+    text: So even when someone is smiling and saying everything's fine, their real emotion might flash for an instant.
+    caption: Hidden in plain sight
+  - panel: p3
+    text: According to researcher Paul Ekman, there are seven universal expressions that are shared across all human cultures.
+    caption: 7 Universal Expressions
+  - panel: p5
+    text: And the good news is, the ability to spot these hidden feelings is a skill that you can actually train.
+    caption: A trainable skill
+  - panel: p6
+    text: So when someone's words don't match their face, you'll know which one is telling the truth.
+    caption: Face vs. Words

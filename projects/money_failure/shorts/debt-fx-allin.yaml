@@ -1,0 +1,61 @@
+id: debt-fx-allin
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of an ordinary office worker staring at a phone showing a
+      surging FX chart, dollar-sign sparkle in his eyes, the visual of "a salaryman dreams of getting rich on FX". Tense,
+      tempting glow.
+  - id: p2
+    prompt: |
+      A screen scene of beginner's-luck profits, the balance doubling, the man grinning,
+      the visual of "early wins go to his head".
+      Bright but ominous tone.
+  - id: p3
+    prompt: |
+      An infographic of leverage: a small deposit controlling a huge position, an oversized
+      seesaw, the visual of "leverage lets him
+      bet far beyond his money". Clean financial infographic.
+  - id: p4
+    prompt: |
+      A dramatic scene of the chart suddenly crashing, red candles plunging, the man's face
+      draining of color, the visual of "the market
+      turns against him overnight". Tense, alarming tone.
+  - id: p5
+    prompt: |
+      A dark scene of a "ロスカット" / margin-call notice wiping the account to zero, the man
+      slumped, the visual of "his savings are
+      wiped out". Heavy, despairing tone (non-graphic).
+  - id: p6
+    prompt: |
+      A reflective scene of the man alone with an empty wallet, a faint warning glow,
+      the loop image of "the lesson learned
+      too late". Quiet, cautionary tone.
+ja:
+  title: 'FXに全財産、3か月で溶かした会社員の話 #Shorts'
+  description: |
+    一発逆転を夢見て、FXに全財産を投じた会社員。ビギナーズラックで勝ったあと、レバレッジで大勝負に出た結果、相場の急変で資産はゼロに。レバレッジ取引の怖さを、30秒の実話風ストーリーで解説します。
+
+    #Shorts #FX #投資 #借金 #お金の失敗
+  hook_caption: FXに全財産、3か月で溶かした会社員
+  series_brand: お金の落とし穴
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: ある普通の会社員が、一発逆転を夢見ました。スマホの中で激しく動くFXのチャートに、人生を変える希望を見たんです。
+      caption: 会社員がFXで一発逆転を夢見た
+    - panel: p2
+      text: 最初は、面白いように勝てました。ビギナーズラックで資産は倍になり、彼はすっかり、自分には才能があると思い込みます。
+      caption: ビギナーズラックで資産が倍になった
+    - panel: p3
+      text: 調子に乗った彼は、レバレッジを使います。少ない元手で、何倍もの金額を動かせる仕組みで、大勝負に出たんです。
+      caption: レバレッジで元手の何倍もの大勝負に出た
+    - panel: p4
+      text: ところが、相場はある夜、突然逆へ動きます。レバレッジで膨らんだ損失は、彼の想像を、はるかに超える速さで広がりました。
+      caption: 相場が急変し損失が一気に膨らんだ
+    - panel: p5
+      text: 強制決済の通知が届いたとき、口座の残高はゼロ。コツコツ貯めた全財産が、わずか3か月で消えていました。
+      caption: 全財産がわずか3か月で消えた
+    - panel: p6
+      text: レバレッジは、利益も損失も、同じだけ何倍にもする。仕組みを理解せずに大金を賭ければ、退場するのは一瞬なのです。
+      caption: 仕組みを知らず賭ければ退場は一瞬

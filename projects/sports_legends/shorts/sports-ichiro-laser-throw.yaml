@@ -1,0 +1,60 @@
+id: sports-ichiro-laser-throw
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dynamic baseball stadium scene, Ichiro Suzuki in a Seattle Mariners road uniform
+      standing alert in right field, glove ready, intense focus, packed stadium behind him.
+      Conveys "the right fielder runners feared the most." Character: {ichiro}.
+  - id: p2
+    prompt: |
+      An action shot of an opposing baserunner confidently rounding second base toward third,
+      thinking it is an easy advance, the outfield hit dropping in the background. Tense
+      anticipation. Dynamic sports illustration.
+  - id: p3
+    prompt: |
+      Ichiro fielding the ball and unleashing an explosive, perfectly flat throw, his whole
+      body torqued, motion lines tracing a laser-straight trajectory toward third base.
+      Conveys "a throw like a laser beam." Character: {ichiro}.
+  - id: p4
+    prompt: |
+      The baseball arriving at third base on a flat line, barely dipping, the third baseman
+      catching and tagging the sliding runner OUT in a cloud of dirt. Stunning precision.
+      Dynamic sports moment.
+  - id: p5
+    prompt: |
+      The stadium crowd and dugout frozen in disbelief, players' mouths open, an announcer
+      gesturing in awe, a replay graphic of the flat throw. Conveys "no one could believe it."
+      Electric atmosphere.
+  - id: p6
+    prompt: |
+      A composed, iconic Ichiro jogging back to position, calm and unimpressed by his own
+      miracle, the legend of his arm sealed. Cool, masterful. Character: {ichiro}.
+ja:
+  title: 'イチローのレーザービーム、走者を刺した伝説の送球 #Shorts'
+  description: |
+    メジャーリーグの走者が最も恐れた、イチローの右翼からの送球。まるでレーザービームのように一直線で三塁へ届き、楽勝に見えた走者を刺した。世界を驚かせた「神の肩」を30秒で解説します。
+
+    #Shorts #スポーツ #イチロー #野球 #メジャーリーグ
+  hook_caption: イチローのレーザービーム送球
+  series_brand: イチロー
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: メジャーリーグの走者たちが、最も恐れた外野手がいます。イチロー。その理由は、規格外の「肩」でした。
+      caption: メジャーの走者が最も恐れた外野手イチロー
+    - panel: p2
+      text: ある試合、相手の走者は、楽勝だと判断して三塁へ向かいます。普通の外野手なら、間に合わない打球でした。
+      caption: 走者は楽勝とみて三塁へ向かった
+    - panel: p3
+      text: ところがイチローは、ほぼ助走なしで、ありえない送球を放ちます。山なりではなく、地面と平行な、一直線の球を。
+      caption: 山なりでなく一直線の送球を放った
+    - panel: p4
+      text: ボールはほとんど落ちることなく三塁へ届き、走者をアウトに。あまりの軌道に、誰もが目を疑いました。
+      caption: 落ちない軌道で三塁へ届き走者を刺した
+    - panel: p5
+      text: その送球は、まるでレーザービーム。スタジアム全体が、信じられないという表情で、静まり返りました。
+      caption: レーザービームのような送球に球場が沈黙
+    - panel: p6
+      text: そして当の本人は、何事もなかったように定位置へ戻る。常識を超えたプレーを平然とやってのける、それがイチローでした。
+      caption: 規格外を平然とやるのがイチローだった

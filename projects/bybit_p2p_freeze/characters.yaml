@@ -1,0 +1,61 @@
+# Bybit P2P 体験談 cast。第一人称の語り手「私」が中心。本人の実体験のため、
+# 顔の特定を避けつつ「個人投資家の日本人男性」として一貫描写する。
+
+characters:
+  - id: me
+    name_ja: 私 (語り手・個人投資家)
+    description_en: |
+      A Japanese man in his late 20s to early 30s, the first-person narrator, an
+      individual crypto trader, medium build, short neat black hair, clean-shaven,
+      tired intelligent eyes, often in a plain dark hoodie or simple casual wear at
+      his apartment desk lit by multiple monitors; in formal scenes a plain dark
+      jacket. Expression shifts from confident to anxious to exhausted across the story.
+    outfit_en: |
+      casual: plain dark grey hoodie or crewneck, at a home trading desk with two or
+      three monitors showing crypto candlestick charts; formal/outdoor: dark casual
+      jacket over a shirt
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - confident focus watching crypto charts
+      - dawning dread reading a frozen-account notice
+      - exhausted tension across a police interrogation desk
+    poses:
+      - "Three-quarter at a home trading desk facing glowing crypto charts"
+      - "Front view sitting tense across a desk from a detective"
+
+  - id: detective
+    name_ja: 刑事 (千葉県警/警視庁の捜査員)
+    description_en: |
+      A Japanese male detective in his 40s-50s, plain dark suit, short cropped hair,
+      stern but not cruel face, holding documents across a plain interrogation-room
+      table; setting is a modest Japanese police station interview room with bare walls.
+    outfit_en: |
+      plain dark navy or grey suit, white shirt, muted tie, police-station setting
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - stern probing questioning
+      - mild surprise at a sharp blockchain explanation
+    poses:
+      - "Front view seated across an interrogation table holding a document"
+
+  - id: bank_teller
+    name_ja: 銀行員 (三井住友銀行)
+    description_en: |
+      A Japanese bank employee, polite and apologetic, in a bank-branch uniform behind
+      a counter, modern Japanese retail bank interior; gender-neutral professional, neat hair.
+    outfit_en: |
+      bank-branch uniform / business attire, behind a teller counter in a modern Japanese bank
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - apologetic professional explanation
+    poses:
+      - "Front view behind a bank counter explaining to a customer"

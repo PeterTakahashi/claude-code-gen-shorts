@@ -1,0 +1,207 @@
+id: crypto-mtgox-hack
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    February 24, 2014, Tokyo Shibuya district at night, the exterior
+
+    of a modern mid-rise office building, a small darkened lobby
+
+    sign with a decorative English logo silhouette "MT.GOX", the
+
+    front entrance roller shutter half-down, a small crowd of
+
+    worried foreign traders in winter coats standing in the cold
+
+    street staring up at the dark windows, a single Japanese
+
+    security guard turning visitors away, neon Shibuya lights
+
+    reflected on the wet pavement, the visual of the moment the
+
+    world''s biggest Bitcoin exchange went dark. Clearly Tokyo Japan
+
+    urban setting. Wide shot. No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2011-2013, a small cluttered Shibuya Tokyo office at
+
+    night, a late-20s French man with a soft round face, thick
+
+    reddish-brown beard, short messy brown hair, thin rectangular
+
+    glasses, dark grey hoodie over a black t-shirt, sitting alone
+
+    at a cheap desk crammed with three monitors, decorative English
+
+    overlay on the central screen "BTC: 1,200 USD", server towers
+
+    humming in the corner, an empty pizza box and energy drink cans
+
+    on the floor, the visual of a bedroom programmer suddenly
+
+    running the world''s biggest Bitcoin exchange from a tiny Tokyo
+
+    office. Clearly Tokyo Japan office setting. Mid-shot. No
+
+    Japanese text.
+
+    Character: {karpeles}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A dim server room inside the Mt.Gox Tokyo office around 2013,
+
+    tall black server racks blinking with green and orange LEDs, a
+
+    shadowy hooded hacker silhouette overlay implied by glowing
+
+    decorative English code lines "TRANSFER BTC OUT", a stylized
+
+    Bitcoin symbol streaming out of a cracked digital wallet icon,
+
+    cold blue light, the visual of a slow invisible drain of
+
+    850,000 Bitcoin over several years. Clearly Tokyo Japan server
+
+    room setting. No people clearly visible. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    February 28, 2014, a packed press conference room in central
+
+    Tokyo, the same late-20s French man with reddish-brown beard,
+
+    thin glasses, this time wearing a dark business suit and tie
+
+    looking deeply uncomfortable, standing at a podium with a
+
+    decorative English logo "MT.GOX" behind him, bowing his head
+
+    deeply in the traditional Japanese apology pose, dozens of
+
+    Japanese reporters in suits taking notes, camera flashes from
+
+    the foreground, the visual of a foreign CEO performing a
+
+    Japanese-style public apology. Clearly Tokyo Japan press
+
+    conference setting. Mid-shot. No Japanese text.
+
+    Character: {karpeles}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An infographic-style panel on cold dark blue background, a
+
+    stylized vault door cracked open, a cascade of glowing
+
+    decorative English numerals "850,000 BTC" pouring out into
+
+    darkness, a small chart in the corner showing decorative
+
+    English "= 450 MILLION USD (2014)" and below it ghosted
+
+    "= 50+ BILLION USD (TODAY)", cool clinical infographic style,
+
+    the visual of the scale of the theft. Pure infographic. No
+
+    people. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same Tokyo Shibuya street at night as panel 1, the same
+
+    mid-rise office building now completely dark, the Mt.Gox sign
+
+    removed leaving only a faint rectangle of clean paint on the
+
+    wall, no crowd, just a single empty cardboard box left on the
+
+    pavement, neon Shibuya lights still flickering in the
+
+    background on wet asphalt, the quiet visual of a vanished
+
+    exchange and the start of a decade-long bankruptcy case.
+
+    Loop-back framing matching panel 1. Clearly Tokyo Japan urban
+
+    setting. Wide shot. No Japanese text.
+
+    '
+ja:
+  title: 'Mt.Gox、85万BTCが消えた日 #Shorts'
+  description: '※この動画は歴史・事件解説です。投資助言ではありません。仮想通貨投資は元本割れリスクがあります。
+
+
+    12年前の2014年2月、東京渋谷にあった世界最大のビットコイン取引所Mt.Goxが、ある日突然サイトを閉鎖した。
+
+    消えたのは、85万BTC。当時のレートで4.5億ドル、現在価値では数兆円規模の事件を、時系列で振り返ります。
+
+
+    #Shorts #MtGox #ビットコイン #仮想通貨事件 #事件解説
+
+    '
+  hook_caption: 85万BTCが消えた朝
+  series_brand: バルトゥーン仮想通貨事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 12年前の2014年2月、東京・渋谷にあった世界最大のビットコイン取引所が、ある朝突然、サイトを閉じた事件を知っていますか?
+    caption: ある朝、世界最大の取引所が消えた
+  - panel: p2
+    text: 運営はMt.Gox、CEOはフランス人プログラマーのマルク・カルプレスでした。元はカードゲームの交換サイトだったので、本格的な金融セキュリティの経験は、ほぼゼロだったんです。
+    caption: 元はカードゲーム交換サイトだった
+  - panel: p3
+    text: その脆弱性を突かれ、2011年頃から数年かけて、ホットウォレットから少しずつBTCが抜き取られていきました。
+    caption: 数年かけて少しずつ抜かれていた
+  - panel: p4
+    text: 2014年2月28日、カルプレスは東京で記者会見を開き、深々と頭を下げて破綻を発表。日本式の謝罪を、世界中のメディアが報じます。
+    caption: 2月28日、東京で謝罪会見
+  - panel: p5
+    text: 消えたビットコインは、約85万BTC。当時のレートで4.5億ドル、現在価値では数兆円規模の流出となりました。
+    caption: 消えたのは約85万BTC
+  - panel: p6
+    text: そして取引所はそのまま消滅。破産手続きは12年経った今も続き、債権者への返還はようやく始まったばかりです。
+    caption: 破産手続きは今なお続く
+en:
+  title: 'How Mt. Gox Lost 850,000 Bitcoin #Shorts'
+  description: 'In February 2014, the world''s largest Bitcoin exchange, Mt. Gox, suddenly collapsed. 850,000 BTC vanished, worth over $450 million at the time. This is the story of crypto''s first great
+    disaster.
+
+
+    #Shorts #MtGox #Bitcoin #Crypto #CaseFile'
+  hook_caption: The Day 850,000 Bitcoin Disappeared
+  series_brand: Crypto Case Files
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In February 2014, the world's largest Bitcoin exchange, located in Tokyo, simply vanished overnight.
+    caption: The world's largest exchange... gone.
+  - panel: p2
+    text: It was called Mt. Gox. But it didn't start as a financial company... it was originally a website for trading fantasy game cards.
+    caption: From trading cards to Bitcoin.
+  - panel: p3
+    text: Hackers exploited its weak security, slowly draining Bitcoin from its wallets for years, completely undetected.
+    caption: Drained for years.
+  - panel: p4
+    text: Finally, CEO Mark Karpelès held a press conference, announcing the exchange was bankrupt in an apology broadcast worldwide.
+    caption: A public apology.
+  - panel: p5
+    text: The total damage? 850,000 Bitcoin, worth $450 million at the time, and billions today.
+    caption: 850,000 Bitcoin lost.
+  - panel: p6
+    text: The exchange was erased. Even a decade later, victims are only just beginning to get their money back.
+    caption: A decade later...

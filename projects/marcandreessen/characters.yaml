@@ -1,0 +1,72 @@
+# マーク・アンドリーセン cast — visual character sheets for anime/webtoon shorts.
+# Two life-stage variants of Marc Andreessen:
+#   - subject_young: 22 years old, 1993-1995, Mosaic / Netscape founding era
+#   - subject_adult: 40s-50s, a16z / "Software Is Eating the World" era
+characters:
+  - id: subject_young
+    name_ja: マーク・アンドリーセン (22歳)
+    description_en: |
+      A 22-year-old white American man in 1993-1995 with the characteristic
+      young-Marc-Andreessen features: a large somewhat round face, a still-full
+      head of messy curly light-brown to dark-blond hair (he had not yet lost
+      it), a broad forehead, deep-set intent blue eyes, full cheeks, a slightly
+      ruddy midwestern complexion, a wide soft mouth often pressed into a
+      serious thinking line, a tall and noticeably big-framed build (already
+      6'4"+ even at this age), boyish but intensely focused bearing of a
+      graduate-student hacker who is changing the world from a basement
+      computer lab. Slightly hunched shoulders typical of someone who lives in
+      front of a keyboard. A University of Illinois Urbana-Champaign / NCSA
+      late-night hacker vibe.
+    outfit_en: |
+      a casual early-1990s American grad-student outfit — a plain solid-color
+      t-shirt, sometimes a loose unbuttoned plaid flannel shirt over it,
+      sometimes a baggy crewneck sweatshirt, faded blue jeans, white or grey
+      sneakers, no accessories, no logos
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - intense absorbed staring at a CRT computer screen at 3am
+      - quiet thoughtful concentration while typing code
+      - boyish half-smile at a working demo
+      - tired bleary-eyed late-night hacking focus
+      - earnest measured talking to a small group of co-developers
+    poses:
+      - "Front view sitting hunched in front of a beige CRT monitor in a basement lab"
+      - "Three-quarter view typing on a clacky 1990s keyboard"
+      - "Standing tall and slightly slouched, hands in jeans pockets"
+      - "Side profile leaning back in a desk chair thinking"
+
+  - id: subject_adult
+    name_ja: マーク・アンドリーセン (40代-50代)
+    description_en: |
+      The mature Marc Andreessen aged about 45-55 — a tall big-framed white
+      American man with the unmistakable signature look: a completely bald
+      shaved head, a very large somewhat egg-shaped skull, a broad high
+      forehead with prominent brow ridge, pale slightly pink complexion, small
+      deep-set pale blue eyes that often crinkle into the characteristic
+      wide-open intense laugh, a broad straight nose, full lips that frequently
+      split into a huge open-mouthed Bezos-style laugh showing teeth, a heavy
+      somewhat double chin, broad shoulders and a notably large heavy build
+      (6'4"+, over 250 lbs), the unmistakable physical presence of one of
+      Silicon Valley's most recognizable venture capitalists. Often photographed
+      with a strongly expressive almost cartoonish big-smile face.
+    outfit_en: |
+      the signature Marc Andreessen modern VC-casual uniform — a crisp plain
+      white or light-blue dress shirt with the top two buttons undone, worn
+      open-collared without a tie, often under a dark navy or charcoal blazer
+      or a smart casual sport jacket; occasionally a fitted dark crewneck
+      sweater over a collared shirt; well-fitting dark trousers or dark jeans;
+      plain dark leather dress shoes or smart sneakers. Never flashy, never
+      logos. Quiet expensive Sand Hill Road aesthetic.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - huge open-mouthed Bezos-style laugh
+      - calm composed pitching at a Sand Hill Road conference table
+      - intense furrowed-brow reading a long essay on a laptop
+      - thoughtful measured speaking on stage at a tech conference
+      - quiet confident half-smile while listening to a founder pitch

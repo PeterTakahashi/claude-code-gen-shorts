@@ -1,0 +1,70 @@
+# ---- secrets ----
+.env
+.env.local
+*.env.private
+.youtube_token*.json
+client_secret*.json
+*-credentials.json
+*.pem
+*.key
+
+# ---- generated artifacts (LARGE) ----
+projects/*/output/
+projects/*/work/
+projects/*/.youtube_shorts_uploads.json
+projects/*/.youtube_uploads.json
+
+# ---- per-user private projects (not for public repo) ----
+# Comment these out if you want to ship them as examples.
+projects/oshiumi_keiko/
+projects/mizoguchi_yuji/
+projects/kumagai_masatoshi/
+
+# ---- python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- node ----
+node_modules/
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# ---- Claude Code local ----
+.claude/local/
+.claude/settings.local.json
+
+# ---- temp ----
+/tmp/
+*.log
+*.tmp
+
+# ---- DB dumps / large media ----
+db/dumps/
+*.sql.gz
+*.tar.gz
+*.mp4
+*.wav
+
+# ---- redash ----
+db/redash_data/
+
+# ---- yt-pw browser profile (logged-in cookies) ----
+yt-pw-profile/
+news-pw-profile/

@@ -1,0 +1,101 @@
+id: musk-stanford-2-days
+parent_chapter: ch2
+panels:
+- id: p1
+  prompt: 'A 9:16 vertical illustration of a 24-year-old Elon Musk asleep on the carpeted floor of a tiny 1995 Palo Alto Zip2 startup office, dressed in worn jeans and a faded T-shirt, head pillowed on
+    a balled-up jacket, a Sun workstation glowing on the desk above him, papers and pizza boxes scattered nearby, single warm desk lamp lit, conveys raw startup grind.
+
+    Character: {elon_adult}.
+
+    '
+- id: p2
+  prompt: 'Establishing wide vertical shot of the 1995 Stanford University main quad campus, the iconic Hoover Tower visible in the background, palm trees lining the walkway, sun-drenched California afternoon,
+    students walking with backpacks in 1990s casual fashion, academic atmosphere.
+
+    '
+- id: p3
+  prompt: 'A 24-year-old Elon Musk seated at a desk in a Stanford physics graduate seminar room in 1995, ostensibly attending lecture but turned to stare wistfully out the window at the bright California
+    outdoors, a notebook with equations open in front of him untouched, his mind clearly elsewhere — on the burgeoning internet industry. Pale fluorescent classroom light.
+
+    Character: {elon_adult}.
+
+    '
+- id: p4
+  prompt: 'A 24-year-old Elon Musk hunched over a chunky beige CRT computer monitor in a Stanford dorm or library 1995, reading early-internet news articles about Netscape Communications and the early web
+    boom, his face lit by the screen, intense focus, the start of his decision to drop out.
+
+    Character: {elon_adult}.
+
+    '
+- id: p5
+  prompt: 'A determined 24-year-old Elon Musk in 1995 walking away from a Stanford academic building with a single duffel bag slung over his shoulder, sun behind him casting long shadows, his back partially
+    to the camera but his profile resolute. California campus palm trees and academic buildings receding behind him.
+
+    Character: {elon_adult}.
+
+    '
+- id: p6
+  prompt: 'Inside a cramped 1995 Palo Alto Zip2 startup office, a 24-year-old Elon Musk and his brother Kimbal Musk (similar age, brown hair, family resemblance) huddled together at a single workstation
+    late at night, screen glow on their faces, takeout containers nearby, conveying the scrappy two-brothers founding moment.
+
+    Character: {elon_adult}, brother {kimbal}.
+
+    '
+ja:
+  title: 'マスクがStanford大学院を2日で辞めた理由 #Shorts'
+  description: 'Stanford 大学院の物理博士課程に合格した24歳のマスクが、わずか2日で辞めた本当の理由。その2日が、後の PayPal、Tesla、SpaceX を生むことになりました。
+
+
+    #Shorts #イーロンマスク #Stanford #人物伝
+
+    '
+  hook_caption: Stanford院を2日で辞めた男
+  series_brand: イーロン・マスク伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: Stanford 大学院の物理博士課程に合格し、わずか2日で、辞めた、男がいます。
+    caption: Stanford 物理博士、2日で中退
+  - panel: p2
+    text: 1995年、24歳の、イーロン・マスク。
+    caption: 1995年、24歳のマスク
+  - panel: p3
+    text: シリコンバレーが、インターネットで沸騰している姿を見て、彼は、こう言いました。
+    caption: シリコンバレーが沸騰していた
+  - panel: p4
+    text: 「学位を取っている時間は、もう、無い」。
+    caption: 「学位を取っている時間は無い」
+  - panel: p5
+    text: 弟キンバルと2人で、最初の会社 Zip2 を立ち上げ、事務所の床で寝、近所の YMCA で、シャワーを浴びる生活が、始まったんです。
+    caption: 事務所の床で寝、YMCAでシャワー
+  - panel: p6
+    text: この2日間の決断が、後の PayPal、Tesla、SpaceX、全てを、生み出すことに、なりました。
+    caption: PayPal、Tesla、SpaceX の起点
+en:
+  title: 'Why Elon Musk Quit His Stanford PhD in 2 Days #Shorts'
+  description: 'At 24, Elon Musk was accepted into a prestigious physics PhD program at Stanford. He dropped out after only two days. Here''s how that single decision led to PayPal, Tesla, and SpaceX.
+
+
+    #Shorts #ElonMusk #Stanford #Biography #Entrepreneur'
+  hook_caption: He Quit His Stanford PhD in 2 Days
+  series_brand: The Elon Musk Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: In 1995, a 24-year-old Elon Musk was starting a PhD in Physics at Stanford.
+    caption: Stanford, 1995
+  - panel: p4
+    text: But he saw the internet exploding around him, and knew history was being made without him.
+    caption: The dot-com boom
+  - panel: p5
+    text: 'So after just two days, he made a life-changing decision: he walked away.'
+    caption: He dropped out.
+  - panel: p6
+    text: He and his brother Kimbal launched their first company, Zip2, working out of a tiny rented office.
+    caption: His first startup
+  - panel: p1
+    text: They were so all-in, they slept on the office floor and showered at the local YMCA.
+    caption: Living in the office
+  - panel: p5
+    text: That one choice was the first step on the path to creating PayPal, Tesla, and SpaceX.
+    caption: The rest is history.

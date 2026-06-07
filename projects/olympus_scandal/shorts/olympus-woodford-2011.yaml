@@ -1,0 +1,95 @@
+id: olympus-woodford-2011
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+      A tense modern Japanese corporate boardroom, a 51-year-old British businessman
+      (Michael Woodford) standing alone holding up a thick document with an alarmed
+      determined expression, several blurred Japanese executives seated in shadow
+      glaring at him across a long polished table, dramatic side lighting, a small
+      decorative English caption "$1.7 BILLION HIDDEN", the visual of "one outsider
+      finding the secret". Subject filling the square center for vertical short layout
+      with blurred padding above/below. Decorative English text only. No Japanese text.
+      Character: Michael Woodford (a 51-year-old British man, broad clean-shaven face,
+      short receding light-brown hair greying at the sides, rimless rectangular glasses,
+      dark navy suit with a red tie).
+  - id: p2
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A bright modern Tokyo corporate headquarters lobby in 2011, the same British
+      businessman (Michael Woodford) in a sharp navy suit being introduced as company
+      president, shaking hands with Japanese executives in front of a clean glass wall,
+      a small decorative English caption "FIRST FOREIGN PRESIDENT", the visual of "an
+      outsider handed the top job". Mid-shot. Clearly Japanese corporate setting.
+      Decorative English text only. No Japanese text.
+      Character: Michael Woodford (same as panel 1).
+  - id: p3
+    prompt: |
+      Square 1:1 anime/webtoon style infographic-style panel.
+      Clean financial infographic on a dark navy background, a small company-merger
+      icon connected by an arrow to a giant glowing money bag labeled in decorative
+      English "ADVISORY FEE: ¥70 BILLION", a bold red headline "THE BIGGEST FEE EVER"
+      and a small caption "FOR A SINGLE DEAL?", a magnifying glass hovering over the
+      number, the visual of "a fee that made no sense". Infographic composition.
+      Decorative English text only. No Japanese text.
+  - id: p4
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A confrontation scene in a Japanese boardroom, the same British businessman
+      (Michael Woodford) on one side gesturing at documents, and across the table a
+      stern 70-year-old Japanese chairman (Tsuyoshi Kikukawa) with grey-white hair
+      and large square glasses pointing toward the exit door with a cold dismissive
+      expression, a small decorative English caption "FIRED IN DAYS", the visual of
+      "silencing the man who asked questions". Mid-shot. Clearly Japanese corporate
+      setting. Decorative English text only. No Japanese text.
+      Character: Michael Woodford (same as panel 1); Tsuyoshi Kikukawa (a 70-year-old
+      Japanese man, broad square jowly face, grey-white combed hair, large square
+      glasses, dark charcoal double-breasted suit).
+  - id: p5
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      The same British businessman (Michael Woodford) handing a folder of documents to
+      Western journalists with cameras flashing, overlaid with a steeply crashing red
+      stock-price graph plunging downward, a bold decorative English caption "STOCK
+      CRASHES 80%", the visual of "the whistle finally blown to the world". Dynamic
+      mid-shot. Decorative English text only. No Japanese text.
+      Character: Michael Woodford (same as panel 1).
+  - id: p6
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      The same British businessman (Michael Woodford) walking out of the dark glass
+      corporate tower into daylight holding his documents, looking back once with a
+      calm resolute expression, a thin decorative English caption "ONE OUTSIDER VS A
+      GIANT", the loop image of "the man who would not stay quiet". Subject filling
+      the square center for vertical short layout with blurred padding above/below.
+      Decorative English text only. No Japanese text.
+      Character: Michael Woodford (same as panel 1).
+ja:
+  title: '英国人社長が暴いた、オリンパス1000億円事件 #Shorts'
+  description: |
+    1000億円超の損失を20年以上隠し続けたオリンパスを、初の外国人社長マイケル・ウッドフォードがたった一人で暴いた。内部告発の代償とは。
+
+    #Shorts #オリンパス #事件 #内部告発 #企業不正
+  hook_caption: 英国人社長が暴いた粉飾
+  series_brand: オリンパス事件
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1000億円を超える損失を、20年以上も隠し続けた日本企業を、たった一人の英国人社長が暴いた、という話です。
+      caption: 英国人社長が暴いた1000億円の闇
+    - panel: p2
+      text: 2011年、オリンパスは初の外国人社長として、マイケル・ウッドフォードを抜擢します。生え抜きではない、異質な経営者でした。
+      caption: 2011年、初の外国人社長に就任
+    - panel: p3
+      text: 就任直後、彼は不審な数字に気づきます。ある企業買収の助言料が、なんと約700億円。買収額に比べ、あり得ない金額でした。
+      caption: 買収の助言料が約700億円
+    - panel: p4
+      text: ウッドフォードが追及を始めると、会社は彼を、即座に解任します。真実を語る口を、塞ごうとしたんです。
+      caption: 追及した社長を即解任
+    - panel: p5
+      text: しかし彼は屈せず、資料を海外メディアに告発。隠されていた約1100億円の損失隠しが暴かれ、株価は8割も暴落しました。
+      caption: 告発で株価8割暴落
+    - panel: p6
+      text: 巨大企業の闇を破ったのは、内部の論理に染まらない、たった一人の「よそ者」だった。オリンパス事件は、それを教えてくれます。
+      caption: 闇を破ったのは一人の「よそ者」

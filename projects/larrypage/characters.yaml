@@ -1,0 +1,84 @@
+# ラリー・ペイジ cast — visual character sheets for anime/webtoon shorts.
+# Life-stage variants of Larry Page:
+#   - subject_young: early-mid 20s, Stanford grad-school era (1995-1998), pre-Google
+#   - subject_founder: late 20s - early 30s, early Google era (1998-2004)
+#   - subject_adult: late 30s - mid 40s, Google CEO / Alphabet founding era (2011-2015+)
+characters:
+  - id: subject_adult
+    name_ja: ラリー・ペイジ
+    description_en: |
+      The mature Larry Page in his late 30s to mid 40s — a tall slim white American
+      man with a long oval face, slightly hollowed cheeks, prominent cheekbones,
+      thoughtful deep-set hazel-brown eyes that often look slightly tired or
+      perpetually focused inward, dark brown wavy hair greying faintly at the
+      temples, short-cropped on the sides and a touch fuller on top, a small
+      straight nose, thin closed lips that rarely smile broadly, fair skin, a
+      narrow but composed jawline, the unhurried introverted bearing of a quiet
+      engineer-CEO who would rather think than talk. Soft voice, minimal gestures.
+      Almost never makes direct eye contact in casual settings. Often photographed
+      with a faintly amused half-smile that suggests private thoughts.
+    outfit_en: |
+      the casual Google-founder uniform — a plain solid-color crewneck t-shirt in
+      grey, charcoal, or navy worn under an open zip-up fleece vest or a simple
+      cotton sweater; well-fitting dark blue jeans; plain low-top sneakers. No tie,
+      no logo, no jacket. Quiet minimalist Silicon-Valley-engineer aesthetic.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - quiet introspective thinking with a faint half-smile
+      - soft measured speaking in a low voice
+      - intent unblinking focus reading a research paper
+      - slightly tired contemplation late at night
+      - calm composure under media pressure
+
+  - id: subject_young
+    name_ja: ラリー・ペイジ (20代)
+    description_en: |
+      A young white American man around 23-25 in the mid-to-late 1990s — a Stanford
+      computer-science PhD student version of Larry Page. Long narrow oval face,
+      slim build verging on lanky, dark brown wavy hair longer and slightly
+      unkempt as a grad student, no glasses, thoughtful deep-set hazel-brown eyes,
+      small straight nose, thin lips often pressed in quiet concentration, fair
+      skin, very youthful soft features but the same introverted intensely
+      analytical bearing — the kind of grad student who barely speaks in seminars
+      but writes papers that change the world. Shy, watchful, soft-spoken.
+    outfit_en: |
+      a mid-1990s American computer-science grad student outfit — a plain button-up
+      cotton shirt (often light blue or white) worn slightly loose with sleeves
+      pushed up, or a simple soft solid-color t-shirt, faded blue jeans, white
+      sneakers or simple lace-up shoes, occasionally a casual zip-up hoodie. The
+      look of a Stanford lab dweller who lives on cereal and code.
+
+  - id: cofounder_sergey
+    name_ja: セルゲイ・ブリン
+    description_en: |
+      Sergey Brin — a young white Russian-American man in his early-to-mid 20s in
+      the late 1990s (and aging into his 30s-40s for later scenes), of average
+      height, slim athletic build, dark almost-black wavy hair cut short, sharp
+      bright brown eyes with a perpetually mischievous spark, expressive eyebrows,
+      a slightly olive-fair complexion, a small straight nose, a wide mouth that
+      easily breaks into a quick playful grin, a confident outgoing energetic
+      bearing — the perfect extroverted foil to Larry's introvert. Always seems
+      half-amused, talks fast, gestures freely. The kind of guy who argues for
+      sport and means no harm by it.
+    outfit_en: |
+      a casual late-1990s Silicon-Valley-Stanford uniform — a plain t-shirt
+      (often dark) sometimes layered under an unzipped hoodie or fleece vest,
+      slim well-worn jeans, sneakers. In later years, a similar minimal style
+      with crewneck sweaters and dark trainers. Never formal.
+
+  - id: mentor_sundar
+    name_ja: スンダー・ピチャイ
+    description_en: |
+      Sundar Pichai in his early-to-mid 40s — a tall slim Indian-American man with
+      warm brown skin, short neat black hair greying lightly at the temples, a
+      well-trimmed short black beard with small flecks of grey, kind intelligent
+      dark brown eyes, calm measured features, the diplomatic unflappable bearing
+      of a product-engineer-turned-CEO. Soft warm smile, steady gaze, the opposite
+      of brash. The man Larry Page personally chose to succeed him.
+    outfit_en: |
+      a smart-casual modern tech-CEO outfit — a plain dark crewneck sweater or a
+      simple button-down shirt over a t-shirt, slim dark trousers or dark jeans,
+      plain leather low-top shoes. Quiet, polished, never flashy.

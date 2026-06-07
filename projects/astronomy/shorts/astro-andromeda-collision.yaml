@@ -1,0 +1,62 @@
+id: astro-andromeda-collision
+image_style: photorealistic
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A photorealistic night sky looking up from a dark Earth landscape, the Milky Way arching
+      overhead, a faint smudge of the Andromeda galaxy visible to the naked eye, deep starfield,
+      cinematic astrophotography, awe-inspiring.
+  - id: p2
+    prompt: |
+      A photorealistic deep-space view of two spiral galaxies, the Milky Way and Andromeda, both
+      grand and luminous, separated by a vast distance, faintly drifting toward each other across
+      the cosmic void, NASA-style cosmic detail.
+  - id: p3
+    prompt: |
+      A photorealistic depiction of two spiral galaxies approaching each other in deep space,
+      their outer arms beginning to distort under mutual gravity, glowing dust lanes warping,
+      cinematic cosmic detail, ominous beauty.
+  - id: p4
+    prompt: |
+      A spectacular photorealistic view of two spiral galaxies colliding in deep space, swirling
+      streams of stars and gas tangled together, brilliant new star-forming regions glowing
+      blue-pink, cinematic cosmic violence and beauty.
+  - id: p5
+    prompt: |
+      A photorealistic depiction of a night sky on a distant Earth-like planet, the merging
+      galaxies filling the entire sky in spectacular swirling detail, conveying "the sky would
+      not look anything like ours", awe-inspiring cosmic light.
+  - id: p6
+    prompt: |
+      A serene photorealistic view of a single massive merged elliptical galaxy floating alone in
+      deep space, the new "Milkomeda" galaxy, quietly glowing, conveying "two became one",
+      cinematic astrophotography.
+ja:
+  title: '銀河系は、アンドロメダ銀河と衝突する運命にある #Shorts'
+  description: |
+    私たちの天の川銀河は、隣のアンドロメダ銀河と猛スピードで近づき続けている。約45億年後、二つの銀河は衝突し、一つの巨大な銀河に生まれ変わる。星々の運命を30秒で解説します。
+
+    #Shorts #宇宙 #銀河系 #アンドロメダ #宇宙の雑学
+  hook_caption: 銀河系はアンドロメダと衝突する運命
+  series_brand: 宇宙の今
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 夜空に見える、ぼんやりとした光のしみ。それが、アンドロメダ銀河です。実はこの銀河、今この瞬間も、私たちへ向かって、突進してきています。
+      caption: アンドロメダ銀河は私たちへ突進中
+    - panel: p2
+      text: アンドロメダ銀河は、天の川銀河から、約250万光年。秒速110キロメートルもの猛スピードで、近づき続けているんです。
+      caption: 秒速110kmで近づき続けている
+    - panel: p3
+      text: そして、約45億年後。両者の重力は、お互いの渦巻きを、ぐにゃりと歪ませ始めます。星と星の距離は離れていても、銀河そのものが、絡み合っていくんです。
+      caption: 約45億年後、銀河同士が絡み合い始める
+    - panel: p4
+      text: やがて、二つの銀河は、本格的に衝突。星同士は、ほとんどぶつかりませんが、ガスが激しく圧縮され、新しい星が、爆発的に生まれます。
+      caption: 衝突でガスが圧縮され新たな星が生まれる
+    - panel: p5
+      text: その時、もし地球が残っていたなら、夜空には、今とはまったく違う、巨大な渦が広がっているはずです。空が、書き換わるんです。
+      caption: 夜空が書き換わるほどの大変動になる
+    - panel: p6
+      text: 最終的に二つの銀河は、一つの巨大な楕円銀河へと合体します。私たちの銀河は、永遠ではない。宇宙のスケールでは、すべてが、移ろっていくのです。
+      caption: 銀河は永遠ではなく宇宙では全てが移ろう

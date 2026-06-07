@@ -1,0 +1,172 @@
+id: fujita-m-league
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    October 2018, the M-League inaugural opening ceremony in a Tokyo event
+
+    hall. A 44-year-old Susumu Fujita in a sharp tailored navy suit standing
+
+    front and center on a brightly lit stage, holding a microphone, smiling
+
+    with quiet pride, the large M-League logo backdrop in deep purple behind
+
+    him, several rows of professional mahjong players in matching team
+
+    jackets standing on stage behind him, dramatic stage lighting. The
+
+    birth of Japan''s first true mahjong professional league. Wide-mid shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1990s Tokyo, a small smoke-hazed casual mahjong parlor. A 25-year-old
+
+    Susumu Fujita in a loosened white shirt with tie undone, seated at a
+
+    green-felt mahjong table with three other young Japanese men in casual
+
+    shirts, his hand reaching for a tile, an intense focused expression of
+
+    a serious amateur, warm dim parlor lighting, late-night ashtrays and
+
+    drinks on the side table. The lifelong love of the game.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A dim seedy late-1990s Japanese mahjong parlor exterior at night, a
+
+    flickering neon sign in Japanese, cigarette smoke curling from the
+
+    doorway, two indistinct older silhouettes entering, the rain-wet
+
+    Shinjuku-style back-alley atmosphere conveying mahjong''s old stigma
+
+    of gambling and back-room culture. No specific faces — the mood is
+
+    the subject.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2018, a bright modern Tokyo meeting room. A 44-year-old Susumu Fujita
+
+    in a tailored navy jacket standing and presenting in front of a large
+
+    slide showing simple team logos and a clean tournament bracket, several
+
+    older Japanese male executives in dark suits seated and listening with
+
+    interest, daylight through floor-to-ceiling windows. The pitch that
+
+    turned mahjong into a corporate-backed pro sport.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern brightly-lit professional mahjong studio set, four Japanese
+
+    professional mahjong players in their late 20s to 40s (generic, not
+
+    real players) wearing colorful matching team jackets seated around a
+
+    clean automatic mahjong table, multiple broadcast cameras and ring
+
+    lights surrounding the table, a large overhead camera capturing the
+
+    hands, atmosphere of an esports-style tournament broadcast. The
+
+    professional pivot complete.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late evening in a quiet Tokyo CyberAgent office. A 45-year-old Susumu
+
+    Fujita seated at his desk with a tablet in his hands, watching a faint
+
+    M-League match broadcast on the screen, a faint satisfied half-smile
+
+    on his face, the rest of the office dim behind him, single warm desk
+
+    lamp. The lifelong amateur who finally gave his game a stage.
+
+    Side framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '麻雀好きが昂じてプロリーグを作った男 #Shorts'
+  description: '2018年、フジタ ススムは麻雀プロリーグ「Mリーグ」を設立した。
+
+    自身もチームを所有し、麻雀の社会的地位を変えようとした男の話。
+
+
+    #Shorts #藤田晋 #Mリーグ #麻雀 #人物伝
+
+    '
+  hook_caption: 麻雀リーグを作ったCEO
+  series_brand: フジタ ススム伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 自分の、趣味のために、プロリーグを、作ってしまった経営者がいます。
+    caption: 趣味のためにプロリーグを作った
+  - panel: p2
+    text: 2018年、CyberAgent のフジタ ススムは、麻雀のプロリーグ、Mリーグを、設立しました。
+    caption: 2018年、Mリーグを設立
+  - panel: p3
+    text: 麻雀は、長年、賭博と、結びついた、いわば、グレーな娯楽でした。
+    caption: 長年、麻雀はグレーな娯楽だった
+  - panel: p4
+    text: そこで、フジタは、金銭の、賭けを完全に禁止し、企業スポンサー制の、健全なプロリーグを、構想したんです。
+    caption: 賭けを禁止、企業スポンサー制に
+  - panel: p5
+    text: そして、彼自身も、CyberAgent として、チームを保有し、選手の年俸も、保証しました。
+    caption: 自身もチームを保有
+  - panel: p6
+    text: Mリーグは、麻雀を、堂々と、テレビで観るスポーツに、変えたんです。
+    caption: 麻雀を堂々と観るスポーツに変えた
+en:
+  title: 'This CEO Made His Hobby a National Sport #Shorts'
+  description: 'In 2018, tech CEO Susumu Fujita launched the M-League, a professional mahjong league.
+
+    This is how he took a game with a gambling problem and turned it into a legitimate spectator sport.
+
+    #Shorts #Mahjong #MLeague #SusumuFujita #Business'
+  hook_caption: He Turned a Gambling Game into a Pro Sport
+  series_brand: The Susumu Fujita Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p3
+    text: For decades, Japanese mahjong was stuck in smoky backrooms, tied to a reputation for illegal gambling.
+    caption: A gambling problem
+  - panel: p2
+    text: But tech CEO Susumu Fujita was a passionate player who saw the game's true potential.
+    caption: A CEO's passion
+  - panel: p4
+    text: 'He pitched a radical idea: a professional league with corporate sponsors and a strict no-gambling rule.'
+    caption: A radical idea
+  - panel: p1
+    text: In 2018, his vision became reality with the spectacular launch of the M-League.
+    caption: The M-League is born
+  - panel: p5
+    text: Fujita even founded his own team, guaranteeing player salaries to establish it as a real career.
+    caption: He owned a team
+  - panel: p6
+    text: And just like that, he legitimized his favorite hobby and turned it into a prime-time sport.
+    caption: Mahjong, a new sport

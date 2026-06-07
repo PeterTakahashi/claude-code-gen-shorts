@@ -1,0 +1,61 @@
+id: housing-new-build-value-drop
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a proud man in front of a shiny brand-new condominium,
+      "NEW" sparkle, the visual of "a man buys a
+      brand-new home on the spot". Bright, hopeful tone.
+  - id: p2
+    prompt: |
+      An infographic of a price tag dropping sharply the instant the key is handed over,
+      "新築" turning to "中古", the visual of
+      "the moment you buy, it becomes 'used'". Clean infographic, ominous shift.
+  - id: p3
+    prompt: |
+      A value-curve infographic showing the home's resale value falling 20-30% right after
+      purchase, the visual of "value drops
+      over 20% immediately". Clean financial chart.
+  - id: p4
+    prompt: |
+      A life-event scene: a sudden job transfer notice forcing the man to sell early, a moving
+      box, the visual of "a transfer forces an
+      early sale". Tense, surprised tone.
+  - id: p5
+    prompt: |
+      A tense bank-desk scene: the sale price is far below the remaining loan, a red gap chart,
+      the visual of "the sale can't cover the
+      loan". Heavy, anxious tone.
+  - id: p6
+    prompt: |
+      A reflective scene of the man looking back at the building, a faint warning glow,
+      the loop image of "the hidden cost of
+      that 'new' sparkle". Quiet, cautionary tone.
+ja:
+  title: '新築を買った瞬間、2割値下がりした男の話 #Shorts'
+  description: |
+    あこがれの新築マンションを即決で購入した男性。しかし新築の価値は、買って住んだ瞬間に「中古」となり、2割以上下落する。転勤で早期売却を迫られ、ローンだけが残った実話風ストーリーを30秒で解説します。
+
+    #Shorts #住宅購入 #新築 #マンション #後悔
+  hook_caption: 新築を買った瞬間、2割値下がりした男
+  series_brand: 住宅購入の落とし穴
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: ある男性が、あこがれの新築マンションを、即決で購入しました。ピカピカの我が家に、胸を躍らせていました。
+      caption: ある男性が新築マンションを即決した
+    - panel: p2
+      text: しかし、見落としていた事実があります。新築は、あなたが鍵を受け取り、住んだ瞬間に「中古」へと変わるんです。
+      caption: 住んだ瞬間に新築は中古に変わる
+    - panel: p3
+      text: そして中古になった途端、その価値は2割以上も下落します。「新築」という響きには、それだけのプレミアムが乗っていたんです。
+      caption: 中古になると価値が2割以上下落する
+    - panel: p4
+      text: 数年後、男性に突然の転勤が決まります。やむなく、この家を売ることになりました。
+      caption: 数年後、転勤で売ることになった
+    - panel: p5
+      text: ところが、売れる値段は、まだ残っているローンより、ずっと低い金額。家を手放しても、借金だけが残ってしまったんです。
+      caption: 売値はローンを下回り借金だけが残った
+    - panel: p6
+      text: 新築の輝きには、見えない値札がついている。すぐ売るかもしれないなら、その輝きが正解とは限らないのです。
+      caption: 新築の輝きが正解とは限らない

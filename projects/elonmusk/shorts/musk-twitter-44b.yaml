@@ -1,0 +1,97 @@
+id: musk-twitter-44b
+parent_chapter: ch10
+panels:
+- id: p1
+  prompt: 'A 9:16 vertical dramatic illustration of a 51-year-old Elon Musk in October 2022 grinning while carrying a literal white porcelain bathroom sink in both arms, walking through the modern glass-and-steel
+    lobby of the Twitter Inc. San Francisco headquarters, "Let that sink in" meme moment. Wearing dark casual jacket and jeans, security guards visible in background, daylight through the lobby windows.
+
+    Character: {elon_adult}.
+
+    '
+- id: p2
+  prompt: 'Inside a 2022 Twitter Inc. corporate boardroom in San Francisco, a Twitter board of mostly American executives in business attire seated around a modern glass conference table, the chairman extending
+    a formal offer letter across the table, Twitter blue bird logo subtly visible on a wall. Daylight through glass walls onto Bay Area cityscape.
+
+    '
+- id: p3
+  prompt: 'A 51-year-old Elon Musk seated alone in a 2022 modern executive office, leaning back in his chair, brow furrowed in deep thought, one hand on his chin, considering the Twitter director role versus
+    a bigger play. Soft natural lighting through floor-to-ceiling windows showing a Texas or Bay Area skyline. Subdued contemplation.
+
+    Character: {elon_adult}.
+
+    '
+- id: p4
+  prompt: 'Close-up vertical composition: a printed business document on a wooden desk, showing in clear large text the buyout proposal "$44 billion" near the top, formal corporate letterhead with the Twitter
+    bird logo (subtle, not too prominent), a pen resting beside it, the photographer''s intent capturing the audacious sum.
+
+    '
+- id: p5
+  prompt: 'A formal 2022 Delaware Chancery Court courtroom interior with dark wood paneling and the American flag, lawyers in dark suits standing at podiums arguing the Twitter v. Musk case, a stern judge
+    presiding from the bench, "Court of Chancery" subtly visible on the wall. Tense legal atmosphere.
+
+    '
+- id: p6
+  prompt: 'A 51-year-old Elon Musk in October 2022 standing triumphant in a Twitter San Francisco office hallway, smiling broadly, surrounded by laptops on adjacent desks showing Twitter dashboards, having
+    just completed the acquisition. Wearing dark casual jacket, soft cool office lighting.
+
+    Character: {elon_adult}.
+
+    '
+ja:
+  title: 'マスクが Twitter を 440億ドルで買った日 #Shorts'
+  description: '2022年、イーロン・マスクが Twitter を 440億ドルで買い取った日。本社に洗面台を抱えて入った冗談と共に、青い鳥は X に姿を変えていきます。
+
+
+    #Shorts #イーロンマスク #X #Twitter #人物伝
+
+    '
+  hook_caption: Twitter を 440億ドルで買った男
+  series_brand: イーロン・マスク伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 本社に、洗面台を抱えて、堂々と入ってきた男がいます。
+    caption: 本社に洗面台を抱えて入る
+  - panel: p2
+    text: イーロン・マスク、Twitter を 440億ドルで買った日です。
+    caption: Twitter を 440億ドルで買収
+  - panel: p3
+    text: 2022年、4月、当時51歳のマスクは、Twitter 社の取締役会から、取締役のオファーを受けました。
+    caption: 2022年4月、取締役オファー
+  - panel: p4
+    text: しかし数週間後、彼はその席を辞退。代わりに、Twitter 全体の、440億ドル買収を、提案したんです。
+    caption: 代わりに 440億ドル買収提案
+  - panel: p5
+    text: 訴訟を経て、10月、買収完了。
+    caption: 10月、買収完了
+  - panel: p6
+    text: 「Let that sink in」、これで分かったろ——青い鳥は、X へと、姿を変えていったのでした。
+    caption: 「Let that sink in」、青い鳥は X へ
+en:
+  title: 'How Elon Musk Bought Twitter for $44 Billion #Shorts'
+  description: 'In 2022, Elon Musk completed his dramatic takeover of Twitter, starting with a sink and ending with a rebrand. This is the story of the wildest $44 billion purchase in tech.
+
+
+    #ElonMusk #Twitter #X #Business #Shorts'
+  hook_caption: The wildest $44 billion purchase ever
+  series_brand: The Elon Musk Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In October 2022, Elon Musk walked into Twitter headquarters carrying a bathroom sink.
+    caption: Let that sink in.
+  - panel: p3
+    text: 'His journey to buy the company didn''t start with a bang, but with a simple offer: a seat on the board.'
+    caption: A seat on the board
+  - panel: p4
+    text: But Musk didn't want a seat. He wanted the whole company, making a stunning $44 billion offer to buy it outright.
+    caption: $44 Billion Offer
+  - panel: p2
+    text: After intense pressure and negotiation, the board of directors finally accepted his massive proposal.
+    caption: Deal Agreed
+  - panel: p5
+    text: But the drama wasn't over. Musk tried to back out, leading to a high-stakes legal battle to force the sale.
+    caption: Court Battle
+  - panel: p6
+    text: Ultimately, the deal was done. The new owner was in, and the iconic blue bird's fate was sealed.
+    caption: New Ownership

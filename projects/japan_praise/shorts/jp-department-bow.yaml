@@ -1,0 +1,61 @@
+id: jp-department-bow
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a Western tourist arriving at a Japanese department store
+      just before opening, surprised to see a long row of staff in neat uniforms lined up at the
+      entrance. Conveys "what are all these staff doing?". Bright morning light, polished lobby.
+  - id: p2
+    prompt: |
+      A warm anime scene of the department-store staff bowing deeply in unison toward the first
+      customers as the doors open, the tourist wide-eyed. Conveys "they bow to greet every
+      customer at opening". Elegant, respectful tone.
+  - id: p3
+    prompt: |
+      An anime close-up of an elevator attendant in white gloves bowing and gesturing politely,
+      and a gift being wrapped with meticulous care, conveying "the politeness is everywhere".
+      Refined, gentle tone.
+  - id: p4
+    prompt: |
+      A reflective anime scene of the tourist receiving a beautifully wrapped purchase with a
+      two-handed bow from the clerk, the tourist touched, conveying "served like an honored
+      guest". Warm, emotional tone.
+  - id: p5
+    prompt: |
+      An anime scene contrasting the idea of "the customer is treated with genuine respect, not
+      just transaction", soft glow around the bowing staff, conveying "hospitality from the heart,
+      omotenashi". Warm, admiring illustration.
+  - id: p6
+    prompt: |
+      A closing anime scene of the impressed tourist leaving with shopping bags, glancing back at
+      the bowing staff with a smile, conveying "a level of service that amazes the world". Bright,
+      hopeful department-store light.
+ja:
+  title: '開店前に整列して客にお辞儀する、日本の百貨店 #Shorts'
+  description: |
+    日本の百貨店では、開店の瞬間、ずらりと並んだ従業員が最初の客に深々とお辞儀をする。エレベーターの案内も、商品の包装も、すべてが丁寧。海外では珍しいこの「おもてなし」に、外国人は驚きと感動を覚える。30秒で解説します。
+
+    #Shorts #日本 #百貨店 #海外の反応 #おもてなし
+  hook_caption: 開店時に整列してお辞儀する百貨店
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 日本の百貨店を開店前に訪れた外国人が、不思議な光景に出会います。入り口に、制服の従業員がずらりと整列していたんです。
+      caption: 開店前、入り口に従業員がずらりと整列
+    - panel: p2
+      text: 開店の瞬間、彼らは最初のお客さんに向かって、一斉に深々とお辞儀をします。一日の始まりを、礼で迎えるんです。
+      caption: 開店の瞬間、一斉に深々とお辞儀をする
+    - panel: p3
+      text: 丁寧さは、入り口だけではありません。手袋をしたエレベーター係の案内も、商品の包装も、どこまでも細やかです。
+      caption: エレベーター案内も包装も細やかで丁寧
+    - panel: p4
+      text: 両手で差し出される、美しく包まれた品物。外国人は、まるで特別な客のように扱われ、思わず心を動かされます。
+      caption: 特別な客のように扱われ心を動かされる
+    - panel: p5
+      text: これは、単なる接客マニュアルではありません。お客さんを心から敬う、おもてなしの精神の表れなんです。
+      caption: マニュアルでなく心から敬うおもてなし
+    - panel: p6
+      text: 当たり前のように尽くされる、その丁寧さ。世界が日本のサービスに驚くのは、こうした見えない心遣いがあるからなのです。
+      caption: 見えない心遣いこそ世界が驚く理由

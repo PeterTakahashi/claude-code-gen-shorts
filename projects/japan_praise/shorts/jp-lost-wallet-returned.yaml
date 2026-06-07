@@ -1,0 +1,85 @@
+id: jp-lost-wallet-returned
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+      A worn black leather wallet lying alone on the wet pavement of the busy Shibuya
+      scramble crossing in Tokyo at dusk, blurred crowds and neon signs in the
+      background, a few 10000-yen banknotes peeking out of it, a small decorative
+      English caption "DROPPED IN TOKYO", the visual of "this much cash, just lying
+      there". Subject filling the square center for vertical short layout with
+      blurred padding above/below. Clearly Tokyo Japan setting. Decorative English
+      text only. No Japanese text.
+  - id: p2
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A panicked 35-year-old Western male tourist in a casual jacket and backpack
+      patting his empty back pocket on a crowded Tokyo street, eyes wide with dread,
+      neon Shibuya signage glowing around him at night, the visual of "he just lost
+      everything". Mid-shot. Clearly Tokyo Japan setting. Decorative English text
+      only. No Japanese text.
+  - id: p3
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A Japanese elementary-school child in a yellow cap picking up the same black
+      wallet from the pavement with both hands and carrying it carefully toward a
+      small Japanese police box (koban) with a red lamp glowing on the corner, calm
+      everyday street scene, a small decorative English caption "STRAIGHT TO THE
+      KOBAN", the visual of "even a child does this". Mid-shot. Clearly Japanese
+      street setting. Decorative English text only. No Japanese text.
+  - id: p4
+    prompt: |
+      Square 1:1 anime/webtoon style infographic-style panel.
+      Clean modern infographic on a soft red-and-white Japanese background, a bold
+      decorative English headline "TOKYO LOST & FOUND", a large stack-of-cash icon
+      labeled in decorative English "¥4 BILLION / YEAR HANDED IN" and a circular
+      gauge filled to about 70 percent labeled "70% RETURNED TO OWNER", clean
+      educational infographic style, the visual of "a whole city that returns what
+      it finds". Infographic composition. Decorative English text only.
+      No Japanese text.
+  - id: p5
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      The interior of a small Japanese police box (koban), a kind Japanese police
+      officer in uniform handing the same black wallet back across the counter to
+      the Western male tourist, the tourist holding it with both hands, eyes brimming
+      with grateful tears, the cash still visible inside, warm lighting, the visual
+      of "everything came back". Mid-shot. Clearly Japanese koban setting.
+      Decorative English text only. No Japanese text.
+  - id: p6
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Close-up of the Western tourist's hands holding the recovered open wallet with
+      all the 10000-yen banknotes intact, soft warm light, a thin decorative English
+      caption "WHY JAPAN?", the loop image of "honesty as a culture". Subject filling
+      the square center for vertical short layout with blurred padding above/below.
+      Decorative English text only. No Japanese text.
+ja:
+  title: '日本で財布を落とした外国人が、震えた理由 #Shorts'
+  description: |
+    現金10万円入りの財布を東京で落とした外国人。母国ならまず戻らないその財布が、なぜ日本ではそっくり返ってくるのか。
+
+    #Shorts #日本 #落とし物 #交番 #海外の反応
+  hook_caption: 財布が返ってくる国、日本
+  series_brand: 財布が返る国
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 東京で財布を落とした外国人が、ある体験に、震えたという話です。
+      caption: 東京で財布を落とした外国人
+    - panel: p2
+      text: 観光客のトムは、渋谷の雑踏で、現金10万円が入った財布を落としました。母国なら、まず戻らない金額です。
+      caption: 渋谷で現金10万円入りの財布を紛失
+    - panel: p3
+      text: ところが拾った日本人は、中身に手をつけず、近くの交番に届けます。これは日本では、子供でも当たり前にする行動です。
+      caption: 拾った人はそのまま交番へ
+    - panel: p4
+      text: 東京では毎年、約40億円もの落とし物の現金が、警察に届けられます。そしてその7割が、持ち主の元へ戻るんです。
+      caption: 東京は年40億円の現金が届けられる
+    - panel: p5
+      text: トムが交番に行くと、財布は現金ごと、そっくり返ってきました。彼は思わず、涙ぐんだそうです。
+      caption: 財布は現金ごとそっくり戻った
+    - panel: p6
+      text: なぜ日本では、落とし物が返るのか。それは、見ていなくても正しくあろうとする、文化そのものだからです。
+      caption: 「見られなくても正しくある」文化

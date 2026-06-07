@@ -1,0 +1,62 @@
+id: yanai-uk-failure
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A confident 50s Japanese businessman ({subject_adult}) standing proudly in front of a
+      brand-new UNIQLO store on a busy London street around 2001, Union Jack and red UNIQLO
+      signage, ambitious gleam, conveying "he charged into the world market". Cinematic, bright.
+      Character: {subject_adult}.
+  - id: p2
+    prompt: |
+      A montage of many UNIQLO shopfronts opening rapidly across the UK, a map of Britain with
+      store pins multiplying, optimistic energy, conveying "they opened stores fast". Clean,
+      bright corporate-illustration tone.
+  - id: p3
+    prompt: |
+      A gloomy London UNIQLO store interior, almost no customers, staff standing idle, grey rainy
+      window, conveying "but the shops stayed empty". Somber, deflated mood.
+  - id: p4
+    prompt: |
+      The businessman ({subject_adult}) staring grimly at a closure notice on a shuttered UK
+      store, other shutters coming down behind him, conveying "most of the stores had to close".
+      Heavy, humbling tone. Character: {subject_adult}.
+  - id: p5
+    prompt: |
+      The same man back in Japan studying notes intently at a desk late at night, rethinking the
+      strategy, a determined rebuild, conveying "he learned from the defeat". Warm focused light.
+      Character: {subject_adult}.
+  - id: p6
+    prompt: |
+      A triumphant later scene of a massive flagship UNIQLO store glowing in a global city with
+      crowds streaming in, the confident founder ({subject_adult}) in the foreground, conveying
+      "the failure became the foundation of global success". Cinematic, hopeful.
+      Character: {subject_adult}.
+ja:
+  title: '柳井正、海外1号店で大失敗した話 #Shorts'
+  description: |
+    今や世界的ブランドのユニクロ。だが2001年、満を持して進出した英国では、開いた店の多くを数年で閉めるという大失敗を喫した。世界一を目指した柳井正が、最初の海外進出でつまずき、そこから何を学んだのかを30秒で解説します。
+
+    #Shorts #偉人伝 #柳井正 #ユニクロ #経営
+  hook_caption: 柳井正、海外進出で大量閉店した過去
+  series_brand: 柳井正
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 今や世界的ブランドのユニクロ。その創業者・柳井正は、2001年、まんをじして海外へ打って出ます。狙ったのは、ファッションの本場、ロンドンでした。
+      caption: 2001年、満を持してロンドンへ進出した
+    - panel: p2
+      text: 日本での成功を武器に、柳井さんは英国で次々とみせを出していきます。世界一への、華々しいスタートのはずでした。
+      caption: 日本の成功を武器に英国で店を急拡大
+    - panel: p3
+      text: ところが、現実は甘くありませんでした。文化も売り方も違う異国で、みせにはきゃくが入らず、苦戦が続きます。
+      caption: 文化の違う異国で客が入らず苦戦した
+    - panel: p4
+      text: 結果、開いた店の多くを、わずか数年で閉めることになります。世界一を宣言した男の、手痛い大失敗でした。
+      caption: 開いた店の多くを数年で閉めた
+    - panel: p5
+      text: しかし柳井さんは、ここで終わりませんでした。なぜ負けたのかを徹底的に分析し、戦い方そのものを作り直したんです。
+      caption: なぜ負けたかを分析し戦略を作り直した
+    - panel: p6
+      text: その学びが、のちの世界進出を支えます。一度の大失敗を糧にできるかどうか。そこに、世界で戦える企業になる分かれ道があったのです。
+      caption: 大失敗を糧にできるかが世界で戦う分かれ道

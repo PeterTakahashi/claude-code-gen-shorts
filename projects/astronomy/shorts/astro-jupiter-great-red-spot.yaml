@@ -1,0 +1,59 @@
+id: astro-jupiter-great-red-spot
+image_style: photorealistic
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A photorealistic NASA-style view of Jupiter from deep space, banded gas giant filling the
+      frame, the iconic Great Red Spot dominating the southern hemisphere, cinematic astrophotography.
+  - id: p2
+    prompt: |
+      A photorealistic close-up of the Great Red Spot itself, swirling crimson and orange storm
+      cloud bands, immense scale, cinematic space photography.
+  - id: p3
+    prompt: |
+      A photorealistic scale-comparison illustration in deep space: Earth shown next to the Great
+      Red Spot, the Earth dwarfed by the storm, conveying "larger than our entire planet",
+      educational cosmic detail.
+  - id: p4
+    prompt: |
+      A photorealistic historical illustration of a 17th-century astronomer at a brass telescope
+      observing Jupiter from an European observatory, candle light beside him, conveying
+      "first recorded around 350 years ago", cinematic historical atmosphere.
+  - id: p5
+    prompt: |
+      A photorealistic dramatic view of the Great Red Spot from above, swirling vortex
+      caught in motion, lightning flashing inside the storm clouds, atmospheric space photography.
+  - id: p6
+    prompt: |
+      A photorealistic close-up of the Great Red Spot today appearing slightly smaller and rounder
+      than in older images, conveying "the giant storm is finally shrinking", cinematic cosmic detail.
+
+ja:
+  title: '350年荒れ続ける、木星の大赤斑は地球より大きい #Shorts'
+  description: |
+    木星の表面で渦巻く巨大な嵐、大赤斑。1665年に初めて観測されて以来、約350年以上途切れることなく荒れ続けてきた。サイズは地球の1〜2倍。なぜそんなに長く続くのか、そしてなぜ今、縮み始めているのかを30秒で解説します。
+
+    #Shorts #宇宙 #木星 #大赤斑 #宇宙の雑学
+  hook_caption: 350年も荒れ続ける地球より大きな嵐
+  series_brand: 宇宙の今
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 木星の表面に、赤い目のような巨大な渦が、はっきりと見えます。これが「大赤斑」と呼ばれる、太陽系最大級の嵐です。
+      caption: 木星の赤い目「大赤斑」
+    - panel: p2
+      text: 大赤斑の大きさは、地球の約1〜2倍。一つの「点」に見えますが、そこに地球がすっぽり収まってしまうほどの規模です。
+      caption: 大きさは地球の1〜2倍
+    - panel: p3
+      text: しかも、ただの嵐ではありません。1665年に初めて観測されてから、ずっと荒れ続けています。350年以上、一度も止まらないままです。
+      caption: 350年以上も止まらず荒れ続ける
+    - panel: p4
+      text: なぜそれほど長く続くのか。木星には固体の地面がなく、嵐の運動エネルギーを止めるものが、ないからだと考えられています。
+      caption: 嵐を止める地面が木星にはない
+    - panel: p5
+      text: ところが近年、観測でわかってきたのは、その大赤斑が少しずつ縮み始めているということ。形も、長楕円から丸に近づいています。
+      caption: 近年は徐々に縮み始めている
+    - panel: p6
+      text: 350年続いた巨大な嵐も、永遠ではない。木星の赤い目は、ゆっくりと、瞬きを始めているのかもしれません。
+      caption: 永遠でない巨大な嵐の終わり

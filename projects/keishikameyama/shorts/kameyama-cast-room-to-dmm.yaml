@@ -1,0 +1,176 @@
+id: kameyama-cast-room-to-dmm
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 1999, a modest office room in 加賀 Ishikawa Japan at night. A
+
+    40-year-old Keishi Kameyama leans back in a simple office chair, arms
+
+    folded, looking calmly at a beige CRT monitor that displays a freshly
+
+    designed Japanese website with the prominent English text "DMM.com" on
+
+    the screen, the room dimly lit by the monitor glow, a single desk lamp
+
+    casting a warm pool. His expression is quietly intense — the look of a
+
+    man who has just lit a fuse. Mid-shot side angle.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    1986 evening, a quiet local shopping street in 加賀 Ishikawa Japan. A
+
+    small single-story Japanese 貸ビデオ rental shop with a modest plastic
+
+    sign reading 「キャストルーム」 in Japanese katakana hand-rendered, glowing
+
+    warm yellow interior visible through the front glass, VHS tape boxes
+
+    lined up on shelves inside, a few parked bicycles outside. Wide
+
+    establishing shot. Slightly worn 1980s Hokuriku neighborhood
+
+    atmosphere. No figures visible.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1980s interior of the same small Japanese 貸ビデオ rental shop in
+
+    Ishikawa. A 27-year-old Keishi Kameyama in a casual work jacket standing
+
+    between two tall metal shelves stacked with VHS video tapes in plain
+
+    colored sleeves, holding one tape in his hand, examining it with a
+
+    quietly thoughtful expression, fluorescent ceiling light overhead. The
+
+    look of an owner-operator who handles every detail himself.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 1990s Saturday night inside the busy 貸ビデオ rental shop in 加賀.
+
+    A dozen Japanese 客 of varied ages browsing the wall-to-wall shelves of
+
+    VHS tapes, picking up boxes, reading the backs, a queue forming at the
+
+    front counter where a young staff member checks tapes out. Bright
+
+    fluorescent lighting, the buzz of a small-town success. The store is
+
+    clearly thriving.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    1998 late evening, a small back-office room behind the rental shop. The
+
+    now 39-year-old Keishi Kameyama sits at a wooden desk in front of a
+
+    beige boxy late-1990s desktop PC, a slow dial-up modem blinking, the CRT
+
+    screen displaying a primitive early Japanese website. His face is lit
+
+    by the monitor, expression of dawning realization — the exact moment he
+
+    sees that the future is online, not in physical tape rental. A single
+
+    VHS tape sits forgotten on the desk beside the keyboard.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 1999, the same Ishikawa office at night. A 40-year-old Keishi
+
+    Kameyama sits at the center of a small wooden conference table with
+
+    three young Japanese staff members in casual clothes around him, all
+
+    four staring at one shared CRT monitor showing the "DMM.com" launch
+
+    page, one staff member''s hand still on the mouse having just pressed
+
+    the public-release button. Quiet shared determination on every face.
+
+    The fuse is lit.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '石川の貸ビデオ店がDMMになるまで #Shorts'
+  description: '1986年、亀山敬司は石川県加賀市に小さなアダルトビデオレンタル店「キャストルーム」を開業した。
+
+    13年後、彼はその店をDMM.comに変え、日本最大級のインターネット企業へと押し上げる。
+
+
+    #Shorts #亀山敬司 #DMM #FANZA #人物伝
+
+    '
+  hook_caption: 貸ビデオ店がDMMになるまで
+  series_brand: 亀山敬司伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1999年、ある男が、田舎の貸ビデオ店を、インターネット企業に作り変えました。
+    caption: 貸ビデオ店をネット企業へ転換
+  - panel: p2
+    text: 亀山敬司、当時40歳。13年前の、1986年、石川県加賀市に、小さな貸ビデオ店「キャストルーム」を、開いていました。
+    caption: 1986年、キャストルーム開業
+  - panel: p3
+    text: 扱っていたのは、当時は珍しかった、アダルトVHSビデオ。地元では、たちまち繁盛しました。
+    caption: アダルトVHSで地元繁盛
+  - panel: p4
+    text: しかし1998年、彼はインターネットを触って、すぐに気づいたんです。「これは、ビデオ屋を、消す」、と。
+    caption: 1998年、ネットの破壊力に気づく
+  - panel: p5
+    text: 翌1999年、彼は店をたたまず、サイト「DMM.com」を、立ち上げました。
+    caption: 1999年、DMM.comを起動
+  - panel: p6
+    text: 貸ビデオ店から始まったDMMは、20年で、年商4000億円のグループになるんです。
+    caption: 20年後、年商4000億円グループへ
+en:
+  title: 'How a Tiny Video Store Became a $2.6 Billion Giant #Shorts'
+  description: 'In the late 90s, a small-town video store owner realized the internet would destroy his business. Instead of fighting it, he launched a website that became DMM.com, a multi-billion dollar
+    Japanese tech conglomerate.
+
+
+    #Shorts #BusinessStory #Entrepreneurship #DMM #KeishiKameyama'
+  hook_caption: This Man Saw the Future... And Killed His Own Business
+  series_brand: The Keishi Kameyama Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1986, Keishi Kameyama opened a tiny video rental shop in the small town of Kaga, Japan.
+    caption: Humble Beginnings
+  - panel: p4
+    text: Specializing in a niche market, his store quickly became a huge local success, always packed with customers.
+    caption: A Local Success
+  - panel: p5
+    text: 'But in 1998, he used the internet for the first time and had a terrifying realization: this new tech would eventually make his business obsolete.'
+    caption: A Terrifying Realization
+  - panel: p1
+    text: So, instead of waiting to be disrupted, he made a bold decision to disrupt himself.
+    caption: Disrupt Himself
+  - panel: p6
+    text: 'The very next year, he gathered a small team and launched a new website from his back office: DMM.com.'
+    caption: The Pivot Online
+  - panel: p3
+    text: That single move turned his small-town shop into a tech empire that now generates over $2.6 billion a year.
+    caption: $2.6 Billion Empire

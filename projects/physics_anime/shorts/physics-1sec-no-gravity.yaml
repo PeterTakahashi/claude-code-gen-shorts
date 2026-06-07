@@ -1,0 +1,184 @@
+id: physics-1sec-no-gravity
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME dramatic shot of modern Tokyo Shibuya crossing in mid-chaos — dozens
+
+    of Japanese pedestrians, salarymen in suits, a young woman with a coffee
+
+    cup, a delivery cyclist, all FLOATING half a meter above the asphalt with
+
+    shocked wide eyes and hair drifting upward, several cars LIFTING off the
+
+    road with sparks of dust beneath them, neon Shibuya signs flickering, a
+
+    decorative Japanese billboard「渋谷スクランブル」glowing in the background.
+
+    Tokyo Japan 2026 modern urban setting. The visual of "what if Earth''s
+
+    gravity vanished for one second." Subject filling square center for vertical
+
+    short layout with blurred padding above/below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A warm cozy modern anime physics classroom with bright afternoon window
+
+    light, the friendly middle-aged Japanese physicist Prof. Kawai with
+
+    silver-grey hair and round wire-frame glasses, white lab coat over beige
+
+    sweater, smiling and pointing at a giant glowing decorative English
+
+    headline floating beside him "1 SECOND" with a smaller decorative
+
+    Japanese label「重力ゼロ」, the visual of "let''s think about exactly
+
+    one second of zero G." Mid-shot. Clearly Japanese classroom setting.
+
+    Character: {prof_kawai}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern physics visualization on deep navy background, a glowing
+
+    stylized Earth at center with a small decorative English label "EARTH SPIN"
+
+    and a tangential red arrow showing rotational velocity, a tiny stylized
+
+    human silhouette near the equator labeled in decorative English "465 m/s",
+
+    a smaller decorative Japanese caption「赤道の自転速度」readable. The visual
+
+    of "the equator is moving at 465 meters per second — and inertia keeps
+
+    going when gravity stops." Decorative text only. No major characters.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A dramatic mid-shot of a modern Tokyo coastal scene with Tokyo Tower in
+
+    the background, the ocean water LIFTING in giant rounded columns into the
+
+    sky like floating crystal pillars, fish suspended mid-air, several boats
+
+    and ferries rising 5 meters above the waves, the atmospheric clouds also
+
+    bulging upward in distorted shapes, the visual of "even the oceans and the
+
+    atmosphere drift up for that one second." Tokyo Japan 2026 modern coastal
+
+    setting. A small decorative Japanese harbor sign「東京湾」readable.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same warm cozy modern anime physics classroom as panel 2, Prof. Kawai in
+
+    his white lab coat now standing in front of a chalkboard, a slightly
+
+    concerned but still gentle teaching expression, the chalkboard behind him
+
+    reading in decorative English "GRAVITY RETURNS: IMPACT 4.9 m" with a small
+
+    arrow labeled in decorative English "FREE FALL 1 sec", warm afternoon
+
+    light through windows. Mid close-up. Clearly Japanese classroom setting.
+
+    The visual of "when gravity comes back, everything falls 4.9 meters."
+
+    Character: {prof_kawai}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame.
+
+    Same EXTREME dramatic shot of Tokyo Shibuya crossing as panel 1 but
+
+    exactly one second later — the same dozens of floating Japanese
+
+    pedestrians and lifting cars now CRASHING back down onto the asphalt
+
+    with dust clouds, cracked pavement, shattered glass, the young woman''s
+
+    coffee cup smashed mid-fall, neon Shibuya signs sparking, the same
+
+    decorative Japanese billboard「渋谷スクランブル」still glowing.
+
+    Tokyo Japan 2026 modern urban setting. The loop image of "the second
+
+    gravity returned — and everything paid the price." Subject filling
+
+    square center for vertical short layout with blurred padding above/below.
+
+    '
+ja:
+  title: 'もし地球の重力が1秒だけ消えたら何が起きるか #Shorts'
+  description: 'もし、地球の重力が、たった1秒だけ消えたら、世界はどうなるのか。
+
+    自転速度・慣性・自由落下から、たった30秒で、その悲惨な答えを、
+
+    河合博士が解説します。
+
+
+    #Shorts #物理 #重力 #思考実験 #ifの世界
+
+    '
+  hook_caption: 重力が1秒消えたら世界は?
+  series_brand: 無重力の1秒
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: もし、地球の重力が、たった1秒だけ、消えたら——人も、車も、海も、空気も、一斉に、空へ浮き上がります。
+    caption: 重力が1秒消えると全部浮く
+  - panel: p2
+    text: では、なぜ浮くのか。地球は、自転していて、私たちは、その回転に、引きずられて動いているからです。
+    caption: 地球は自転しているから
+  - panel: p3
+    text: 赤道上の自転速度は、秒速約465メートル。重力が消えた瞬間、慣性で、その速度のまま、空に放り出されます。
+    caption: 赤道は秒速465mで放出
+  - panel: p4
+    text: しかも、海水と大気にも、重力が効かなくなるため、海は柱のように立ち上がり、空気は宇宙へ、漏れ出していきます。
+    caption: 海は柱になり、大気は漏れる
+  - panel: p5
+    text: 1秒後、重力が戻ると、すべての物体は、自由落下を始めます。1秒間の落下距離は、4.9メートル。建物の2階から、無防備に落とされるのと、同じです。
+    caption: 重力復帰、4.9m自由落下
+  - panel: p6
+    text: 結果、世界中で同時に、車も人もガラスも、地面に叩きつけられる、大惨事になります。たった1秒でも、重力を、舐めてはいけません。
+    caption: 1秒でも重力を舐めるな
+en:
+  title: 'What If Gravity Disappeared for 1 Second? #Shorts'
+  description: 'What would happen if gravity vanished for just one second? The answer is more catastrophic than you can imagine. We break down the physics of this terrifying thought experiment.
+
+    #Shorts #Physics #WhatIf #Science #ThoughtExperiment'
+  hook_caption: What If Gravity Vanished for 1 Second?
+  series_brand: 1 Second of Zero G
+  voice_speaker: Ryan
+  narration:
+  - panel: p3
+    text: What if Earth's gravity vanished for just one second?
+    caption: 1 Second, 0 Gravity
+  - panel: p2
+    text: You might think we'd just float gently... but the reality is much more violent.
+    caption: It's not gentle...
+  - panel: p1
+    text: The Earth's surface is spinning at over 1,000 miles per hour. Gravity is the only thing pinning us down.
+    caption: Spinning at 1000 mph
+  - panel: p6
+    text: Without it, inertia would fling us sideways into the sky at bullet-train speeds.
+    caption: Launched sideways
+  - panel: p4
+    text: Our oceans and atmosphere would be torn from the surface, erupting into space.
+    caption: Oceans torn away
+  - panel: p5
+    text: Then, gravity returns. Everything that was launched now freefalls, causing a worldwide impact event.
+    caption: A global impact

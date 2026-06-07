@@ -1,0 +1,116 @@
+id: son-alibaba-2000
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An intense moment inside a small modest Beijing office meeting room in 2000, late afternoon, Masayoshi Son in his early 40s sitting across a plain wooden table from Jack Ma, both leaning forward, Son
+    reaching across the table to shake Jack Ma''s hand firmly, intense decisive expression on Son''s face, surprised gratitude on Jack Ma''s face, a single laptop and a stack of paper between them, the
+    room plain and unglamorous, the moment frozen at the instant the deal closes. Wide-mid shot capturing both founders.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A cramped apartment-office in Hangzhou, China, 1999, the original Alibaba headquarters, around 18 young Chinese employees crammed onto folding chairs at long folding tables, simple desktop computers,
+    the walls bare with hand-written goals on paper taped up, the whole scene modest and underfunded but intense with founder energy, Jack Ma standing at the front gesturing energetically at a whiteboard.
+    No Masayoshi Son in this panel.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A small simple meeting room in Beijing, year 2000, Jack Ma standing animated and gesturing wildly with both hands, talking with intense passion to a seated Masayoshi Son across a plain table, no slides
+    no projector just words, a wall clock on the wall showing only minutes have passed, Son watching intently with sharp focus, completely absorbed. Side-angle shot showing both figures.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Close-up three-quarter view of Masayoshi Son in his early 40s, year 2000, eyes sharp behind rimless glasses, leaning slightly forward at a meeting table, the exact instant of decision visible on his
+    face, his lips parted slightly as he says one short sentence, the surrounding small Beijing meeting room slightly blurred in background, conveying the moment a 20-million-dollar decision is made in
+    under 5 minutes.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The historic Alibaba IPO bell-ringing moment on the New York Stock Exchange floor in September 2014, a crowd of suited executives cheering and applauding, a huge electronic ticker overhead displaying
+    the BABA stock symbol soaring upward, confetti in the air, Jack Ma centered in the crowd raising both arms, the scene jubilant and historic. No Masayoshi Son in this panel.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Masayoshi Son in his 60s standing alone at a floor-to-ceiling window of a high-floor Tokyo office at dusk, the Tokyo skyline glowing far below, a faint slight smile of quiet satisfaction on his face,
+    holding a single sheet of paper in one hand, the reflection in the glass faintly showing a stock chart soaring upward, conveying the long arc of a single 5-minute decision.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'アリババに2000万ドル投資した結果 #Shorts'
+  description: '2000年、ソンはジャック・マーとの5分の面談で2000万ドルの投資を即断した。20年後、その株は2000億ドルになった。
+
+    史上最高のリターンと言われる、その5分間の話。
+
+
+    #Shorts #孫正義 #Softbank #人物伝
+
+    '
+  hook_caption: 5分の面談で2000万ドル即決
+  series_brand: 孫正義伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 5分の面談で、2000万ドルを即決した男がいます。その株は、20年後、2000億ドルになりました。
+    caption: 5分で2000万ドル、20年後に2000億ドル
+  - panel: p2
+    text: 1999年、中国ハンチョウのアパートで、ジャック・マーは、たった18人の仲間と、アリババを始めたばかりでした。
+    caption: 1999年、ハンチョウの18人
+  - panel: p3
+    text: そして2000年、ソフトバンクのソンは、ジャック・マーに会いました。スライドも、事業計画書も、ありません。
+    caption: 2000年、スライドなしの面談
+  - panel: p4
+    text: ところがソンは、たった5分で、決めたんです。2000万ドル、出します、と。
+    caption: たった5分、即決
+  - panel: p5
+    text: それから14年後、アリババはニューヨークで上場し、ソフトバンクの保有株は2000億ドルを突破しました。
+    caption: 14年後、2000億ドル
+  - panel: p6
+    text: 史上最高のリターンと言われる、5分間の判断。ソンが見ていたのは、数字ではなく、目の輝きでした。
+    caption: 彼が見ていたのは、目の輝き
+en:
+  title: 'This 5-Minute Bet Made $200 Billion #Shorts'
+  description: 'In 2000, Masayoshi Son met Jack Ma and made a snap decision. His $20 million investment in Alibaba became one of the greatest returns in venture capital history.
+
+
+    #Shorts #MasayoshiSon #JackMa #Alibaba #Investing'
+  hook_caption: This 5-Minute Bet Made $200 Billion
+  series_brand: The Masayoshi Son Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p3
+    text: In 2000, Jack Ma met the legendary investor Masayoshi Son. Ma had no business plan, not even one slide.
+    caption: No business plan
+  - panel: p2
+    text: His company, Alibaba, was just 18 people working out of a cramped apartment.
+    caption: 18 guys in an apartment
+  - panel: p4
+    text: But Son wasn't looking at numbers. After just 5 minutes, he saw the fire in Ma's eyes.
+    caption: The 5-minute pitch
+  - panel: p1
+    text: He made an instant decision, offering $20 million right on the spot.
+    caption: $20 million on the spot
+  - panel: p5
+    text: At its peak, that 5-minute bet was worth an unbelievable $200 BILLION.
+    caption: $200 BILLION return
+  - panel: p6
+    text: It's called the greatest investment in history—a bet not on a plan, but on a person.
+    caption: Bet on the person

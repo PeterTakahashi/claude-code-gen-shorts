@@ -1,0 +1,181 @@
+id: vitalik-the-merge-proof-of-stake
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    September 15, 2022, an Ethereum Foundation virtual watch-party scene.
+
+    A 28-year-old Vitalik Buterin sitting at a simple desk in front of a
+
+    laptop, his pale face softly lit by a glowing screen that shows a
+
+    livestream UI titled "Ethereum Merge LIVE" and a large green checkmark
+
+    labeled "MERGE COMPLETE". His expression: a quiet rare wide smile of
+
+    relief — almost teary. A colorful pink-unicorn T-shirt visible.
+
+    Around him on screen, tiny video tiles of celebrating developers.
+
+    Early morning blue daylight. Side-front framing.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A vast industrial server warehouse interior, endless rows of racks of
+
+    glowing GPU mining rigs stretching to the horizon, intense heat haze,
+
+    cooling fans spinning, the cold blue light of countless LEDs against
+
+    dark metal walls. The visual scale of Proof-of-Work energy consumption.
+
+    Faint smokestack silhouettes visible through a far window. No people.
+
+    Wide establishing shot.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2015, a small startup office in Zug Switzerland. A 21-year-old
+
+    Vitalik Buterin standing in front of a whiteboard covered in dense
+
+    mathematical equations and the visible heading "Proof of Stake — a
+
+    proposal", explaining intensely to two other young Ethereum
+
+    Foundation developers seated on a couch. His pale focused face, marker
+
+    in hand, soft daylight. The idea is born, eight years before it ships.
+
+    Mid-shot.
+
+    Character: {subject_teen}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A symbolic conceptual visual: a long mountain-climbing path winding
+
+    upward through clouds, several flag markers along the path labeled
+
+    with the visible words "Beacon Chain", "Altair", "Bellatrix", a tiny
+
+    slim silhouette of Vitalik with a backpack climbing patiently toward
+
+    the summit. Soft pastel blue-pink sky, slightly fantasy-illustration
+
+    style. Conveys the long incremental years of preparation.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    September 14, 2022, late night. A 28-year-old Vitalik Buterin in a
+
+    dimly-lit hotel room, sitting at a small desk in front of his laptop,
+
+    the screen showing a terminal full of Ethereum client logs scrolling
+
+    past, his pale tired face calm and focused. A half-empty cup of tea,
+
+    a colorful cartoon-cat T-shirt visible. The last quiet hours before
+
+    the biggest software migration in crypto history. Side-front framing.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    September 15, 2022 afternoon. A 28-year-old Vitalik Buterin standing
+
+    in front of a large monitor displaying a clean line graph of
+
+    Ethereum''s energy consumption, the line plunging dramatically off a
+
+    cliff and flattening near zero, the visible label "−99.95%". His thin
+
+    figure in profile, looking up at the graph with a soft contemplative
+
+    half-smile, hands in his hoodie pocket. Cool office daylight. The
+
+    quiet realization that he just changed an industry. Side framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '電力を99.95%削減した瞬間 #Shorts'
+  description: '2022年9月15日、Ethereumは、Proof of WorkからProof of Stakeへの大移行「The Merge」を完了した。
+
+    電力消費は、わずか1日で、99.95%削減。
+
+    ヴィタリック・ブテリンが、8年かけて準備した、人類史上最大規模のソフトウェア移行だった。
+
+
+    #Shorts #ヴィタリックブテリン #Ethereum #ProofOfStake #人物伝
+
+    '
+  hook_caption: 1日で電力を99.95%削減した男
+  series_brand: ヴィタリック・ブテリン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: たった1日で、ある巨大ネットワークの、電力消費を、99.95%削減した男がいます。
+    caption: 1日で電力を99.95%削減
+  - panel: p2
+    text: ヴィタリック・ブテリン。Ethereumの、創業者です。
+    caption: Ethereum創業者
+  - panel: p3
+    text: もともとEthereumは、Bitcoinと同じく、Proof of Workという、電力を大量消費する方式で、動いていました。
+    caption: 元はProof of Workで電力を大量消費
+  - panel: p4
+    text: 彼は、2015年から、Proof of Stakeへの、移行を、構想し始めたんです。
+    caption: 2015年からProof of Stakeを構想
+  - panel: p5
+    text: そして、8年後の、2022年9月15日、ついに、その大移行「The Merge」が、実行されました。
+    caption: 8年後、2022年9月15日にThe Merge実行
+  - panel: p6
+    text: 電力消費は、一晩で、99.95%、消えた——人類史上、最大規模の、ソフトウェア移行でした。
+    caption: 一晩で電力消費が消滅
+en:
+  title: 'He Erased 99.95% of Its Power Use in One Night #Shorts'
+  description: 'On September 15, 2022, Ethereum completed ''The Merge,'' switching from Proof of Work to Proof of Stake. In a single day, its energy consumption dropped by 99.95%.
+
+    This was the culmination of an 8-year plan by founder Vitalik Buterin and the largest software migration in history.
+
+
+    #Shorts #VitalikButerin #Ethereum #TheMerge #Crypto'
+  hook_caption: He Made 99.95% of Its Power Vanish
+  series_brand: The Story of Vitalik Buterin
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: For years, the Ethereum network was powered by massive server farms, consuming as much electricity as a small country.
+    caption: Country-sized power use
+  - panel: p3
+    text: But its founder, Vitalik Buterin, had a plan to change that, even back in 2015.
+    caption: A plan from 2015
+  - panel: p4
+    text: He kicked off a risky, 8-year journey to migrate the entire system to a hyper-efficient model.
+    caption: An 8-year journey
+  - panel: p5
+    text: Finally, on the night of September 14th, 2022, the moment of the great switch—known as 'The Merge'—arrived.
+    caption: The Merge
+  - panel: p1
+    text: The world watched as the final blocks were processed and the migration was complete.
+    caption: The world watched
+  - panel: p6
+    text: The result? A 99.95% reduction in energy use overnight, the single largest decarbonization event in tech history.
+    caption: History made overnight

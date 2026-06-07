@@ -1,0 +1,110 @@
+id: jensen-cuda-bet
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 43-year-old Jensen Huang on a 2006 technology keynote stage, holding a wireless microphone, gesturing toward a large dark presentation screen behind him that reads "CUDA" in glowing green text with
+    abstract parallel-computing graphics, a tense expectant atmosphere, stage spotlights illuminating him against a dark auditorium, mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A detailed close-up of a 2006-era green Nvidia GeForce 8800 graphics card lying on an engineer''s desk, exposed printed circuit board, large central GPU chip, dual fans, gold-plated PCIe edge connectors,
+    a developer''s hand resting near it, a CRT or early flat-panel monitor visible in the soft background showing a 3D game scene.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 2007 Wall Street investor meeting room, several stern men in dark suits seated around a long polished table, frowning faces, arms crossed, a downward-trending stock chart projected on the back wall
+    labeled NVDA, conveying anger and skepticism toward an unseen CEO at the head of the table, fluorescent corporate lighting.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 44-year-old Jensen Huang alone in his Nvidia Santa Clara office late at night, 2007, single warm desk lamp lit, the rest of the office dark, an open laptop showing CUDA code, his face conveying quiet
+    determination beneath the weight of public criticism, the iconic black leather jacket draped over the back of his chair.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A late-2000s university computer-science lab interior, a young graduate student of mixed ethnicity in a hoodie typing on a multi-monitor workstation, multiple Nvidia GPU cards visible inside an open
+    PC case beside the desk, screens showing neural network diagrams and training loss curves, conveying the quiet beginning of the deep learning revolution.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 54-year-old Jensen Huang on a packed 2017 GTC keynote stage, arms open in confident triumph, the large screen behind him glowing with neural network architecture diagrams and the words "AI" and "CUDA",
+    a roaring audience silhouetted in the dark auditorium, brilliant stage lights — the bet has been vindicated.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '誰も理解しなかった、CUDA という賭け #Shorts'
+  description: '2006年、ジェンスン・ファンはゲーム用 GPU を、汎用計算に開放する CUDA を発表した。当時、株主は「無駄な投資」と怒り、株価は暴落。だが、その10年後に AI 革命が、彼を正解者にした。
+
+
+    #Shorts #ジェンスンファン #Nvidia #CUDA #人物伝
+
+    '
+  hook_caption: 誰も理解しなかった大博打
+  series_brand: ジェンスン・ファン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: ゲーム用の半導体を、汎用計算に開放する——2006年、ある CEO が、世界を変える賭けに、出ました。
+    caption: ゲーム用GPUを汎用計算に開放
+  - panel: p2
+    text: ジェンスン・ファン、43歳。発表した技術の名は、CUDA。
+    caption: 2006年、CUDA を発表
+  - panel: p3
+    text: ところが、当時、それを理解した人は、ほぼ、ゼロでした。
+    caption: 誰も理解しなかった
+  - panel: p4
+    text: 株主は「ゲーム会社が、なぜ、計算機の研究をするのか」と、激怒し、株価は、暴落します。
+    caption: 株主激怒、株価暴落
+  - panel: p5
+    text: それでも彼は、毎年、売上の3割を、CUDA に投じ続けた。
+    caption: 売上の3割をCUDAに投資
+  - panel: p6
+    text: 10年後、ディープラーニングが爆発し、Nvidia は AI 革命の中心になった——孤独な賭けの、答えだったんですね。
+    caption: 10年後、答え合わせの時
+en:
+  title: 'The Billion-Dollar Bet Everyone Laughed At #Shorts'
+  description: 'In 2006, Jensen Huang unveiled CUDA to turn gaming GPUs into supercomputers. Wall Street hated it, the stock crashed, and everyone called it a mistake. A decade later, that same bet ignited
+    the AI revolution.
+
+
+    #Shorts #JensenHuang #Nvidia #CUDA #AI'
+  hook_caption: His Billion-Dollar Bet Nearly Failed
+  series_brand: The Jensen Huang Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In 2006, Nvidia's CEO Jensen Huang made a bet so huge, it nearly destroyed his company.
+    caption: A risky bet
+  - panel: p2
+    text: He unveiled CUDA, a technology designed to turn everyday gaming chips into powerful supercomputers.
+    caption: 'The tech: CUDA'
+  - panel: p3
+    text: But Wall Street hated it. Investors panicked, screamed 'Stick to gaming!', and tanked the stock.
+    caption: Investors panicked
+  - panel: p5
+    text: Quietly, however, researchers in university labs started using CUDA to solve impossible problems.
+    caption: A quiet revolution
+  - panel: p4
+    text: For years, Jensen ignored the critics, betting the company's future on his lonely vision.
+    caption: A lonely vision
+  - panel: p6
+    text: A decade later, that bet ignited the AI revolution, proving all the doubters wrong.
+    caption: Vindication

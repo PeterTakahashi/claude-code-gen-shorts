@@ -1,0 +1,187 @@
+id: pg-viaweb-yahoo-acquisition
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    June 1998, a modern Yahoo corporate office in Santa Clara California. A
+
+    slightly tired but quietly triumphant Paul Graham in his early 30s stands
+
+    shaking hands with a Yahoo executive in a soft button-down shirt, a stack
+
+    of acquisition papers visible on a polished wooden conference table
+
+    between them, the purple Yahoo logo subtly displayed on the wall behind.
+
+    Warm afternoon California sunlight through wide windows, a quietly
+
+    historic moment — the first ever web application acquired for 49 million
+
+    dollars. Wide mid-shot framing both figures.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Summer 1995, a small cramped Cambridge Massachusetts apartment converted
+
+    into a startup workspace. Paul Graham in his late 20s sits hunched over a
+
+    beige CRT monitor at a cluttered desk, fingers flying across a clicky
+
+    mechanical keyboard, lines of Lisp code visible on the green-tinted
+
+    screen, a second hacker figure with curly dark hair (Robert Morris)
+
+    visible in profile working at another desk in the background, empty pizza
+
+    boxes and Coke cans scattered, late-night warm desk-lamp lighting against
+
+    a dark window. Conveys: the birth of the first web application ever.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1996, a small American storefront — a mom-and-pop gift shop —
+
+    where the owner, a friendly middle-aged woman in a soft cardigan, sits
+
+    at a beige desktop computer in the back office, browsing her own online
+
+    Viaweb shop on a Netscape-style browser, an early product catalog page
+
+    visible on screen with simple product photos and prices, soft warm shop
+
+    lighting around shelves of merchandise. The mood: a regular shopkeeper
+
+    now has a global storefront. No specific recognizable faces.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A small whiteboard in the Viaweb office, 1997. Paul Graham in his
+
+    early 30s standing in front of it, holding a black marker, gesturing
+
+    calmly at a half-erased Lisp expression written on the board — visible
+
+    parentheses and a "(defun" fragment — explaining to two unseen
+
+    colleagues. A look of quiet confidence on his face, glasses reflecting
+
+    the marker. The atmosphere of a hacker revealing his secret weapon.
+
+    Three-quarter side framing.
+
+    Character: {subject_young}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 1998, a Yahoo conference room in Silicon Valley. Three Yahoo
+
+    executives in casual late-90s business attire stand around a large CRT
+
+    monitor showing a steeply rising line graph of Viaweb online store
+
+    activity, their faces lit by the screen with expressions of
+
+    growing-realization and quiet astonishment. Window blinds half-open
+
+    showing California morning light. No specific recognizable faces — just
+
+    generic late-90s tech executives. The exact moment Yahoo decided to
+
+    acquire Viaweb.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Evening of June 1998. Paul Graham, early 30s, walks alone down a
+
+    polished hallway of the Yahoo headquarters carrying a simple slim
+
+    briefcase, a faint contemplative half-smile on his face, the warm
+
+    orange-pink sunset light streaming through tall hallway windows. Beyond
+
+    the glass, the Santa Clara office park is bathed in golden hour. The
+
+    quiet moment after selling his company for 49 million dollars —
+
+    contemplative, almost lonely. Over-shoulder framing, the hallway
+
+    stretching ahead.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: 'Webで店を作る発明をした男、Yahooに49億円で売却 #Shorts'
+  description: '1995年、ポール・グレアムは世界初のブラウザ上で動くアプリ「Viaweb」を作った。
+
+    3年後、Yahooが4900万ドルで買収し、Yahoo Storesとして生まれ変わる。
+
+
+    #Shorts #ポールグレアム #Viaweb #YCombinator #人物伝
+
+    '
+  hook_caption: Webで店を作る発明をした男
+  series_brand: ポール・グレアム伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: Webブラウザの上で動く、世界初のアプリケーションを作った男がいます。
+    caption: Web上で動く世界初のアプリ
+  - panel: p2
+    text: 1995年、ポール・グレアムは、Robert Morrisと一緒に、Viawebを立ち上げました。
+    caption: 1995年、Viaweb創業
+  - panel: p3
+    text: それは、誰でもブラウザだけで、自分のオンラインストアを作れる、画期的なサービスだったんです。
+    caption: ブラウザだけでネットショップ
+  - panel: p4
+    text: 秘密兵器は、Lispという、当時は誰も使っていなかった、変わったプログラミング言語でした。
+    caption: 秘密兵器はLisp
+  - panel: p5
+    text: そして、3年後の1998年、Yahooが、4900万ドルで、Viawebを買収します。
+    caption: 3年後、Yahoo買収
+  - panel: p6
+    text: Viawebは、Yahoo Storesと改名され、e-コマースの原点となったんです。
+    caption: Yahoo Storesの前身に
+en:
+  title: 'How a Forgotten Language Built a $49M Web App #Shorts'
+  description: 'Before Shopify, there was Viaweb. In 1995, Paul Graham used an obscure language called Lisp to build the world''s first SaaS for online stores. 3 years later, Yahoo bought it for $49 million.
+
+
+    #Shorts #PaulGraham #YCombinator #TechHistory #Programming'
+  hook_caption: This Language Built A $49M Company
+  series_brand: The Paul Graham Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1995, Paul Graham started building the world's first true web application out of his apartment.
+    caption: '1995: A new idea'
+  - panel: p3
+    text: His startup, Viaweb, let anyone create an online store using nothing but their web browser.
+    caption: Online stores for anyone
+  - panel: p4
+    text: His secret weapon was Lisp—an old, obscure programming language that gave him an unfair advantage.
+    caption: The Lisp Advantage
+  - panel: p5
+    text: The software was so good that just three years later, it caught the attention of internet giant Yahoo.
+    caption: Yahoo takes notice
+  - panel: p1
+    text: Yahoo acquired Viaweb for $49 million, turning Graham into a multi-millionaire overnight.
+    caption: $49 Million Deal
+  - panel: p6
+    text: Renamed 'Yahoo Stores', it became the foundation for the first wave of e-commerce.
+    caption: The birth of e-commerce

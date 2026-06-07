@@ -1,0 +1,61 @@
+id: sports-hanyu-2peat
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A cinematic ice rink scene, the figure skater Yuzuru Hanyu in a sparkling costume mid-spin
+      under a spotlight, the crowd a blur of flags, conveying "the skater who carried a nation's
+      hopes". Dramatic arena lighting, elegant. Recognizable likeness of Yuzuru Hanyu.
+  - id: p2
+    prompt: |
+      A tense scene of Yuzuru Hanyu grimacing in pain, clutching his ankle on the ice during
+      practice, a recent injury, conveying "weeks before the Olympics, he was badly injured".
+      Anxious, somber tone. Likeness of Yuzuru Hanyu.
+  - id: p3
+    prompt: |
+      Yuzuru Hanyu seated quietly visualizing his program with eyes closed, unable to train fully,
+      determination on his face, conveying "he couldn't even practice the jumps". Focused, intense mood.
+      Likeness of Yuzuru Hanyu.
+  - id: p4
+    prompt: |
+      A breathtaking competition moment of Yuzuru Hanyu landing a clean jump flawlessly on the
+      Olympic ice, perfect form, crowd rising, conveying "yet he skated a near-perfect program".
+      Triumphant, electric. Likeness of Yuzuru Hanyu.
+  - id: p5
+    prompt: |
+      Yuzuru Hanyu standing atop the Olympic podium receiving gold, emotional, conveying "back-to-
+      back Olympic gold — the first man in 66 years to repeat". Glorious, moving tone.
+      Likeness of Yuzuru Hanyu.
+  - id: p6
+    prompt: |
+      A quiet dignified portrait of Yuzuru Hanyu bowing to the ice with respect after his skate,
+      conveying "greatness built on resilience and respect". Reverent, beautiful arena light.
+      Likeness of Yuzuru Hanyu.
+ja:
+  title: '羽生結弦、ケガを越えて五輪連覇した男 #Shorts'
+  description: |
+    フィギュアスケートの羽生結弦は、オリンピック直前の大ケガを乗り越え、66年ぶりとなる五輪連覇を成し遂げた。満足に練習もできない中で、なぜ最高の演技ができたのか。不屈の王者の物語を30秒で解説します。
+
+    #Shorts #スポーツ #羽生結弦 #フィギュアスケート #オリンピック
+  hook_caption: 羽生結弦、ケガを越えて五輪連覇
+  series_brand: 羽生結弦
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: フィギュアスケートで、国中の期待を背負った男がいます。羽生結弦。氷上の王者と呼ばれた選手です。
+      caption: 国中の期待を背負った氷上の王者
+    - panel: p2
+      text: しかしオリンピックの数週間前、彼は右足を大きく痛めてしまいます。最高の舞台を前に、絶望的なケガでした。
+      caption: 五輪数週間前に右足を大きく痛めた
+    - panel: p3
+      text: ジャンプの練習もろくにできない日々。それでもはにゅうさんは、頭の中で何度も演技を組み立て、本番に備えます。
+      caption: 練習できぬ中、頭の中で演技を磨いた
+    - panel: p4
+      text: 迎えた本番。彼は、まるでケガなどなかったかのように、ほぼ完璧な演技を氷上に描き切ります。
+      caption: 本番でほぼ完璧な演技を描き切った
+    - panel: p5
+      text: 結果は、金メダル。しかも、66年ぶりとなる五輪連覇という、歴史的な偉業でした。
+      caption: 66年ぶりの五輪連覇という歴史的偉業
+    - panel: p6
+      text: 演技の後、彼は氷に深く一礼します。逆境でも折れず、舞台への敬意を忘れない。本物の強さとは、こういうものなのです。
+      caption: 逆境で折れず舞台に敬意を払う本物の強さ

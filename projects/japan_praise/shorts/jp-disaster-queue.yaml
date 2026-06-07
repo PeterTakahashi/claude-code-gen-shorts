@@ -1,0 +1,65 @@
+id: jp-disaster-queue
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A calm orderly line of Japanese people queueing quietly outside a convenience
+      store right after a major earthquake, cracked walls and tilted signs around them,
+      no pushing, a Western journalist watching stunned, a decorative Japanese caption
+      "災害でも、列を作る", the visual of "disaster struck, yet they form a perfect line".
+      Clearly Japan, overcast tense mood.
+  - id: p2
+    prompt: |
+      A wide shot of a Japanese city just after a disaster — shaken buildings, but people
+      calmly waiting in neat lines for water and supplies, helping the elderly, no looting,
+      the visual of "order in the middle of chaos". Clearly Japan. Decorative Japanese
+      signage.
+  - id: p3
+    prompt: |
+      A foreign news reporter on the street holding a microphone, wide-eyed, a decorative
+      Japanese caption on a news chyron "略奪ゼロ", the visual of "the world's media can't
+      believe there is no looting". Clearly Japan disaster scene.
+  - id: p4
+    prompt: |
+      A clean infographic on a soft background, icons of neighbors sharing supplies and a
+      decorative Japanese caption "他人を思いやる教育", showing the cultural roots — disaster
+      drills, community ties, the visual of "trained from childhood to think of others".
+      Infographic, decorative Japanese text.
+  - id: p5
+    prompt: |
+      A quiet emotional scene of Japanese disaster survivors sharing rice balls and bowing
+      in thanks at an evacuation shelter, a foreign volunteer wiping away tears, the visual
+      of "dignity and kindness even in loss". Clearly Japanese shelter, warm light.
+  - id: p6
+    prompt: |
+      Close-up of the orderly queue from panel 1 stretching into the distance, calm faces,
+      a decorative Japanese caption "秩序という強さ", the loop image of "order is its own kind
+      of strength". Clearly Japan.
+ja:
+  title: '災害でも列を作る日本人に外国人が涙した理由 #Shorts'
+  description: |
+    大災害の直後でさえ、日本人は列を作り、略奪も起きない。世界の報道陣が衝撃を受けたその姿の、文化的な理由を解説します。
+
+    #Shorts #日本 #海外の反応 #災害 #秩序
+  hook_caption: 災害でも列を作る国、日本
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 大きな災害の直後でさえ、日本人は、整然と列を作る。この姿に、世界の報道陣が、息をのみました。
+      caption: 災害直後でも整然と列を作る
+    - panel: p2
+      text: 建物が傷つき、混乱の中にあっても、人々は静かに水や物資を待ち、お年寄りを助ける。奪い合いは、起きません。
+      caption: 混乱の中でも奪い合いが起きない
+    - panel: p3
+      text: 海外メディアが、最も信じられなかったのが、これです。略奪が、ほぼゼロ。多くの国では、ありえないことでした。
+      caption: 略奪ゼロに世界が驚いた
+    - panel: p4
+      text: 理由は、幼い頃からの「他人を思いやる教育」と、地域のつながり。自分さえ良ければ、とは考えない文化があるからです。
+      caption: 「他人を思いやる」文化の力
+    - panel: p5
+      text: 避難所では、わずかなおにぎりを分け合い、互いに頭を下げる。失っても、なお保たれる、その品位に、外国人は涙したんです。
+      caption: 失っても保たれる品位に涙
+    - panel: p6
+      text: パニックを起こさず、列を作る。それは弱さではなく、秩序という、もう一つの強さ。世界が日本に憧れる理由です。
+      caption: 秩序という、日本の強さ

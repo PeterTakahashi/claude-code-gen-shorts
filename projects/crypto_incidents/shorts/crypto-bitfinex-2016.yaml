@@ -1,0 +1,63 @@
+id: crypto-bitfinex-2016
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dark, tense illustration of a Hong Kong-based cryptocurrency exchange office at night,
+      glowing monitors flashing red alerts, a Bitcoin balance plummeting on screen, alarmed staff
+      silhouettes. Conveys "120,000 Bitcoin vanished in a single attack." Ominous cyber tone.
+  - id: p2
+    prompt: |
+      A clean cyber-infographic showing a hot wallet system with a multi-signature lock being
+      cracked open, glowing streams of Bitcoin coins pouring out through a broken vault into
+      shadow, a decorative "₿" motif. Conveys "the multisig wallet system was breached." Clean
+      dramatic infographic.
+  - id: p3
+    prompt: |
+      A scale infographic showing a stack of money labeled with about 72 million dollars,
+      compared against a tiny exchange building icon, conveying "$72 million stolen at 2016
+      prices, billions at later prices". Clean financial infographic, intense.
+  - id: p4
+    prompt: |
+      An illustration of worried global crypto traders staring at their phones, then a corporate
+      announcement that losses will be shared across all customer accounts as a forced haircut,
+      and customers issued a recovery token. Tense cyber tone.
+  - id: p5
+    prompt: |
+      A long cyber-investigation scene: glowing transaction lines crawling across a world map
+      for years, eventually leading to a New York couple's apartment being raided by federal
+      agents in 2022, conveying "six years later the stolen coins were finally traced". Tech-noir
+      infographic.
+  - id: p6
+    prompt: |
+      A symbolic closing scene of a Bitcoin coin slowly drifting on a blockchain ledger that
+      never forgets, a lesson glowing above: nothing on the chain is ever truly hidden. Cold,
+      cautionary cyber tone.
+ja:
+  title: '6年後に犯人が捕まったBitfinex 12万BTC流出事件 #Shorts'
+  description: |
+    2016年、香港拠点のBitfinexから約12万BTCが流出。当時の価格で約72億円、後の価格では数千億円規模に膨らんだ大事件。6年後、ニューヨークの夫婦が逮捕された顛末を30秒で解説します。
+
+    #Shorts #仮想通貨 #Bitfinex #ハッキング #事件
+  hook_caption: 12万BTC流出、犯人は6年後に捕まった
+  series_brand: 仮想通貨事件簿
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 2016年8月、香港を拠点とする暗号資産取引所Bitfinex。ある瞬間、保有していた約12万ビットコインが、いきなり、流出しました。
+      caption: 2016年、Bitfinexから約12万BTC流出
+    - panel: p2
+      text: 攻撃を受けたのは、複数の鍵で守る「マルチシグ」型の財布でした。本来は安全とされた仕組みが、運用の隙を突かれ、突破されたんです。
+      caption: 安全とされたマルチシグの隙を突かれた
+    - panel: p3
+      text: 流出額は、当時の価格で約72億円。しかしビットコインは、その後、何十倍にも値上がりし、被害は数千億円規模にまで、膨らんでいきます。
+      caption: 当時72億円、後に数千億円規模に膨らんだ
+    - panel: p4
+      text: Bitfinexは、損失を全顧客の口座に分担させ、回収を約束する独自トークンを、配布しました。利用者は事実上、強制的に、損失を負わされたんです。
+      caption: 損失は全顧客で分担、利用者が負わされた
+    - panel: p5
+      text: そして約6年後の2022年。アメリカの司法当局は、ニューヨークに住む若い夫婦を、資金洗浄の容疑で逮捕。ブロックチェーン解析で、足取りが暴かれました。
+      caption: 6年後、米国でNYの夫婦が逮捕された
+    - panel: p6
+      text: ブロックチェーンは、すべての取引を永遠に記録します。盗んだ瞬間に消えたように見えても、足跡は、ずっと残り続けるのです。
+      caption: ブロックチェーンに残る足跡は消えない

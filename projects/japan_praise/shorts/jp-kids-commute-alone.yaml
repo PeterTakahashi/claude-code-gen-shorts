@@ -1,0 +1,65 @@
+id: jp-kids-commute-alone
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A small Japanese elementary-school child in a yellow cap with a leather randoseru
+      backpack standing alone and calm on a busy Tokyo train platform, a Western tourist
+      nearby staring in open-mouthed amazement, a decorative Japanese caption "ひとりで通学"
+      floating, the visual of "a 6-year-old commuting alone — the foreigner can't believe
+      it". Clearly Tokyo station, morning.
+  - id: p2
+    prompt: |
+      The same small Japanese child boarding a commuter train by himself, confidently
+      gripping the strap among adult commuters who pay him no special attention, soft
+      morning light through the windows, the visual of "totally normal here". Tokyo train
+      interior. Decorative Japanese signage on the train.
+  - id: p3
+    prompt: |
+      A Western tourist on the platform holding up a phone, wide-eyed, a thought bubble
+      with a decorative Japanese caption "自分の国ではありえない", the visual of "in my
+      country this would be unthinkable". Tokyo station.
+  - id: p4
+    prompt: |
+      A clean infographic on a soft Japanese background, a map of a neighborhood with
+      small shield icons and a decorative Japanese caption "子ども110番の家", shop-keepers
+      and neighbors drawn as watchful eyes, the visual of "the whole town quietly watches
+      over the kids". Infographic, decorative Japanese text.
+  - id: p5
+    prompt: |
+      The same Japanese child arriving safely at a school gate, a crossing-guard volunteer
+      and a shop-keeper smiling and greeting him, warm morning light, the visual of "he
+      arrives safe, watched by an entire community". Clearly Japanese school street.
+  - id: p6
+    prompt: |
+      Close-up of the small child turning back to wave with a bright smile, the warm
+      Japanese street behind, a decorative Japanese caption "見守る社会", the loop image of
+      "a society that watches over its children". Clearly Japan.
+ja:
+  title: '外国人が驚いた、子供だけで電車通学する国 #Shorts'
+  description: |
+    6歳の子供が、たった一人で電車に乗って学校へ行く。世界の多くの国ではありえないこの光景に、外国人が衝撃を受ける理由を解説します。
+
+    #Shorts #日本 #海外の反応 #治安 #子育て
+  hook_caption: 子供だけで電車通学する国、日本
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 小学生が、たった一人で電車に乗って、学校へ行く。この光景に、世界中の外国人が、衝撃を受けるんです。
+      caption: 6歳が一人で電車通学する国
+    - panel: p2
+      text: 日本では、子供が一人で通学するのは、ごく当たり前。周りの大人も、特別なことだとは思っていません。
+      caption: 日本では当たり前の通学風景
+    - panel: p3
+      text: でも多くの国では、子供を一人歩きさせるのは、危険すぎて考えられない。だから彼らは、目を疑うんです。
+      caption: 多くの国ではありえない光景
+    - panel: p4
+      text: 理由は、治安の良さだけではありません。「子ども110番の家」や、見守る商店街など、町ぐるみで子供を守る仕組みがあるからです。
+      caption: 町ぐるみで子供を見守る仕組み
+    - panel: p5
+      text: 子供は、横断歩道の旗振りや、顔見知りの店主に見守られながら、無事に学校へ着く。これが日本の日常です。
+      caption: 地域に見守られ無事に登校
+    - panel: p6
+      text: 誰かが見ていなくても、町全体が子供を守っている。外国人が憧れるのは、この「見守る社会」そのものなんです。
+      caption: 外国人が憧れる「見守る社会」

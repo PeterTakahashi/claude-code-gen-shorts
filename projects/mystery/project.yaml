@@ -1,0 +1,32 @@
+# Unsolved crime mysteries shorts-only project. No long-form chapters yet.
+id: mystery
+title_ja: "バルトゥーン未解決事件"
+title_en: "バルトゥーン未解決事件"
+subject: "Unsolved crime mysteries"
+language: ja
+
+era: "20th-21st century"
+locale_hint: "Japan and global crime scenes"
+
+style:
+  description: "full-color modern anime / webtoon style, soft cel shading, expressive line art, cinematic lighting, biographical drama tone"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face, photorealistic, photograph, 3D render"
+
+chapters: []
+
+narrator:
+  voice_style_id: 1310138977
+  voice_speed: 1.0
+  instructions: |
+    Read with calm reflective intensity, first-person memoir tone.
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+
+bubbles:
+  font_path: /Users/apple/dev/claude-code/webtoon-gen/assets/fonts/NotoSansJP-Regular.otf
+  font_index: 0
+  font_scale: 4.0
+
+output_targets: []

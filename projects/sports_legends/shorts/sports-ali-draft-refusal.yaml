@@ -1,0 +1,211 @@
+id: sports-ali-draft-refusal
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    April 1967 Houston Texas United States, interior of the US
+
+    Armed Forces Examining Station, a 25-year-old African-American
+
+    heavyweight boxer in a sharp dark business suit white shirt
+
+    narrow black tie standing tall and dignified, a white US
+
+    military officer in olive uniform calling out a name from a
+
+    clipboard, the boxer not stepping forward — his hands clasped
+
+    calmly in front of him, his expression resolute and unafraid,
+
+    other young drafted men watching stunned, the visual of "the
+
+    single step he refused to take". Mid-shot. Clearly American
+
+    1967 military induction setting. No Japanese text.
+
+    Character: {ali}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same April 1967 Houston induction room moments later, close-up
+
+    on the same 25-year-old African-American boxer in dark suit
+
+    facing several stern white military officers and reporters,
+
+    microphones thrust toward his face, a decorative English
+
+    caption floating beside him reading "NO QUARREL WITH THE
+
+    VIETCONG", his expression calm defiant and almost gentle
+
+    despite the pressure — the visual of "a heavyweight champion
+
+    choosing 3 years of his prime over a war he did not believe
+
+    in". Mid close-up. Clearly American 1960s setting. No Japanese
+
+    text.
+
+    Character: {ali}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A dramatic American newspaper front page composition spread
+
+    across the frame, decorative English headlines reading
+
+    "ALI STRIPPED OF HEAVYWEIGHT TITLE", "BOXING LICENSE
+
+    REVOKED IN ALL 50 STATES", "5 YEARS PRISON SENTENCE",
+
+    a black-and-white press photograph of the same young
+
+    African-American boxer in a suit being escorted by men in
+
+    uniform, the visual of "the world champion losing everything
+
+    overnight at age 25". Newspaper-layout composition. No people
+
+    in foreground. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1960s a small American university auditorium lecture hall,
+
+    the same young African-American man now in a dark suit at a
+
+    podium speaking passionately to a crowd of college students,
+
+    hands raised in mid-gesture, posters on the walls behind him
+
+    in decorative English only "PEACE" and "CIVIL RIGHTS",
+
+    students of multiple ethnicities listening intently, the
+
+    visual of "the boxer who became a moral voice during his ban
+
+    from the ring". Wide shot. Clearly American 1960s university
+
+    setting. No Japanese text.
+
+    Character: {ali}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    June 1971 the steps of the US Supreme Court building in
+
+    Washington DC, the same African-American boxer now 29 years
+
+    old in dark suit walking down the marble steps with a small
+
+    satisfied smile, a decorative English newspaper headline
+
+    visible in a passerby''s hand reading "SUPREME COURT 8-0:
+
+    ALI ACQUITTED", warm afternoon sunlight on the white marble
+
+    columns, the visual of "the legal vindication that came 4
+
+    years too late for his boxing prime". Wide shot. Clearly
+
+    Washington DC setting. No Japanese text.
+
+    Character: {ali}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 1974 Kinshasa Zaire, the famous Rumble in the Jungle
+
+    outdoor boxing arena at night under bright stadium lights,
+
+    the same now-32-year-old African-American boxer in white
+
+    satin trunks and black boxing shoes celebrating victory with
+
+    both arms raised in the ring, a knocked-down opponent on the
+
+    canvas behind him, a roaring African crowd in the background,
+
+    a decorative English overlay caption "HEAVYWEIGHT CHAMPION
+
+    AGAIN" — visual loop callback to the dignified posture of
+
+    panel 1. Wide shot. Clearly 1974 African boxing event
+
+    setting. No Japanese text.
+
+    Character: {ali}.
+
+    '
+ja:
+  title: 'アリが王座と3年を捨てた、たった一歩 #Shorts'
+  description: '1967年、世界ヘビー級王者モハメド・アリは、ベトナム徴兵への「一歩」を、踏まなかった。
+
+    その代償は、王座剥奪、ライセンス停止、そして選手生命の絶頂期3年半。
+
+
+    #Shorts #モハメドアリ #MuhammadAli #ボクシング #ベトナム戦争
+
+    '
+  hook_caption: 王座より重い「一歩」
+  series_brand: バルトゥーンスポーツ選手伝説
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「ヘビー級世界王者が、たった一歩を、踏まなかった」——59年前の1967年、25歳のモハメド・アリが選んだ代償の話を知っていますか?
+    caption: 王者が踏まなかった、たった一歩
+  - panel: p2
+    text: ベトナム戦争のさなか、徴兵召集に応じなかった彼は、有名な一言を残しました。「俺は、ベトコンと、何の喧嘩もない」——信仰と良心からの拒否でした。
+    caption: 「ベトコンと喧嘩はない」
+  - panel: p3
+    text: 翌日には、世界王座を剥奪され、全米50州でライセンスを停止され、懲役5年の判決まで下された。25歳のボクサーが、リングを、丸ごと、失った瞬間です。
+    caption: 翌日、王座とリングを丸ごと失う
+  - panel: p4
+    text: それから3年半、彼はリングに上がれないかわりに、全米の大学を回り、若者に、戦争と差別について語り続けました。拳の代わりに、言葉で戦ったんです。
+    caption: 3年半、拳の代わりに言葉で戦う
+  - panel: p5
+    text: 1971年、最高裁が、8対0の全員一致で無罪判決。法的には勝ちましたが、ボクサーとして最も身体が動く、25から28歳の3年半は、戻ってきませんでした。
+    caption: 1971年、最高裁8対0で無罪
+  - panel: p6
+    text: それでも1974年、32歳の彼は、無敵と言われたフォアマンを倒し、王座に戻った——「失ったもの」より、「曲げなかったもの」が、伝説を作りました。
+    caption: 曲げなかったものが、伝説を作る
+en:
+  title: 'Why Muhammad Ali Sacrificed His Title #Shorts'
+  description: 'In 1967, heavyweight champion Muhammad Ali refused to be drafted for the Vietnam War. This single act of conscience cost him his title and three and a half years of his prime.
+
+
+    #Shorts #MuhammadAli #Boxing #History #TheGreatest'
+  hook_caption: He gave up his crown for one reason.
+  series_brand: Valhtoon Sports Legends
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In 1967, at the height of his fame, heavyweight champion Muhammad Ali was drafted to fight in the Vietnam War.
+    caption: The Champ gets drafted
+  - panel: p2
+    text: But when they called his name, he refused to step forward, famously declaring, "I ain't got no quarrel with them Viet Cong."
+    caption: A matter of principle
+  - panel: p3
+    text: 'The price was immediate and severe: he was stripped of his championship title, his boxing license, and faced five years in prison.'
+    caption: Stripped of everything
+  - panel: p4
+    text: For the next three and a half years, banned from the ring, Ali fought with words instead of fists, speaking out on college campuses across America.
+    caption: A different kind of fight
+  - panel: p5
+    text: In 1971, the Supreme Court overturned his conviction. He was vindicated, but had lost the prime years of his career.
+    caption: Vindicated, but at a cost
+  - panel: p6
+    text: Yet in 1974, he returned to defeat George Foreman and reclaim his title, proving that what he stood for made him a legend.
+    caption: The ultimate comeback

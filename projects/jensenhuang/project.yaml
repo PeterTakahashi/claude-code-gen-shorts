@@ -1,0 +1,32 @@
+# ジェンスン・ファン shorts-only project. No long-form chapters yet.
+id: jensenhuang
+title_ja: "ジェンスン・ファン伝"
+title_en: "ジェンスン・ファン伝"
+subject: "ジェンスン・ファン"
+language: ja
+
+era: "late 20th and 21st century"
+locale_hint: "Taiwan and Silicon Valley California, USA"
+
+style:
+  description: "full-color modern anime / webtoon style, soft cel shading, expressive line art, cinematic lighting, biographical drama tone"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face, photorealistic, photograph, 3D render"
+
+chapters: []
+
+narrator:
+  voice_style_id: 1310138977
+  voice_speed: 1.0
+  instructions: |
+    Read with calm reflective intensity, first-person memoir tone.
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+
+bubbles:
+  font_path: /Users/apple/dev/claude-code/webtoon-gen/assets/fonts/NotoSansJP-Regular.otf
+  font_index: 0
+  font_scale: 4.0
+
+output_targets: []

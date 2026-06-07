@@ -1,0 +1,93 @@
+x-redash-environment: &redash-env
+  PYTHONUNBUFFERED: 0
+  REDASH_LOG_LEVEL: INFO
+  REDASH_REDIS_URL: redis://redash_redis:6379/0
+  REDASH_DATABASE_URL: postgresql://redash:redash@redash_postgres/postgres
+  REDASH_COOKIE_SECRET: webtoon-redash-cookie-secret-change-me
+  REDASH_SECRET_KEY: webtoon-redash-secret-key-change-me
+  REDASH_RATELIMIT_ENABLED: "false"
+  REDASH_MAIL_DEFAULT_SENDER: redash@localhost
+
+services:
+  postgres:
+    image: postgres:17-alpine
+    container_name: webtoon_postgres
+    restart: unless-stopped
+    ports:
+      - "${POSTGRES_PORT:-5433}:5432"
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-webtoon}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-webtoon}
+      POSTGRES_DB: ${POSTGRES_DB:-webtoon}
+      TZ: Asia/Tokyo
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./db/init:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-webtoon} -d ${POSTGRES_DB:-webtoon}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  # Redash uses its own internal Postgres for app state (queries, dashboards,
+  # users). It connects to our `postgres` service above as a "data source".
+  redash_postgres:
+    image: postgres:15-alpine
+    container_name: webtoon_redash_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: redash
+      POSTGRES_PASSWORD: redash
+      POSTGRES_DB: postgres
+    volumes:
+      - redash_postgres_data:/var/lib/postgresql/data
+
+  redash_redis:
+    image: redis:7-alpine
+    container_name: webtoon_redash_redis
+    restart: unless-stopped
+
+  redash:
+    image: redash/redash:25.1.0
+    container_name: webtoon_redash
+    restart: unless-stopped
+    depends_on:
+      - redash_postgres
+      - redash_redis
+    ports:
+      - "5001:5000"
+    environment:
+      <<: *redash-env
+    command: server
+
+  redash_scheduler:
+    image: redash/redash:25.1.0
+    container_name: webtoon_redash_scheduler
+    restart: unless-stopped
+    depends_on:
+      - redash_postgres
+      - redash_redis
+    environment:
+      <<: *redash-env
+      QUEUES: "celery"
+      WORKERS_COUNT: 1
+    command: scheduler
+
+  redash_worker:
+    image: redash/redash:25.1.0
+    container_name: webtoon_redash_worker
+    restart: unless-stopped
+    depends_on:
+      - redash_postgres
+      - redash_redis
+    environment:
+      <<: *redash-env
+      QUEUES: "queries,scheduled_queries,schemas,periodic,emails,default"
+      WORKERS_COUNT: 2
+    command: worker
+
+volumes:
+  postgres_data:
+    name: webtoon_postgres_data
+  redash_postgres_data:
+    name: webtoon_redash_postgres_data

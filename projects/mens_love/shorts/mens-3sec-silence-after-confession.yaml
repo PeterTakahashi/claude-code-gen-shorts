@@ -1,0 +1,203 @@
+id: mens-3sec-silence-after-confession
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME close-up dramatic shot of a 25-year-old contemporary Japanese
+
+    woman''s face mid-thought just after hearing a confession — her warm
+
+    brown eyes slightly widened but not in shock, soft natural makeup,
+
+    a single dark brown hair strand falling near her cheek, lips parted
+
+    a millimeter, the complex emotion of "wait... he isn''t filling the
+
+    silence... he means it" passing across her face, a soft out-of-focus
+
+    modern Tokyo cafe background with warm pendant lighting and a
+
+    blurred coffee cup, the visual of "the 3 seconds her brain is
+
+    processing his feelings." Modern contemporary Tokyo cafe 2026
+
+    setting. Subject filling the square center for vertical short layout
+
+    with blurred padding above/below.
+
+    Character: {female_lead}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Modern bright Tokyo cafe interior afternoon, mid-shot across a small
+
+    round wooden cafe table — a 26-year-old contemporary Japanese
+
+    office-worker man Haruto in a fitted navy crewneck sweater leaning
+
+    slightly forward having just finished speaking, his soft kind eyes
+
+    meeting hers calmly without panic, the 25-year-old Japanese woman
+
+    Yui in a cream knit sweater sitting opposite holding a coffee cup
+
+    mid-air with a frozen surprised expression, two coffee cups and a
+
+    small dessert plate on the table between them, soft afternoon
+
+    window light, decorative Japanese cafe menu blurred in the
+
+    background. The visual of "the moment right after the confession."
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic panel filling the frame.
+
+    Clean modern soft pastel background, decorative bold English headline
+
+    "3 SECONDS" centered at top, a stylized small chibi version of the
+
+    male lead with hands resting calmly on the table mouth gently closed,
+
+    three small decorative Japanese kanji floating above his head
+
+    「1」「2」「3」 in soft pink, a small clock icon, a decorative
+
+    Japanese caption beneath「告白後、3秒の沈黙」readable. The visual
+
+    of "the rule: stay silent for 3 seconds." Proper nouns English
+
+    where used.
+
+    Character: {male_lead}.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel filling the frame.
+
+    Split panel comparison — left side labeled in small decorative English
+
+    "TYPE A" showing a chibi version of a panicked Japanese man waving
+
+    his hands and visibly sweating saying "あ、いや、別に、無理しなくていいから!" in
+
+    a tiny speech bubble; right side labeled "TYPE B" showing the chibi
+
+    male lead sitting calmly silent, soft eye contact, hands relaxed
+
+    on the table. A small heart icon floating above the right-side woman''s
+
+    head only. The visual of "panicking kills it, silence shows
+
+    confidence." Decorative Japanese text small, proper nouns English.
+
+    Character: {male_lead}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style infographic panel filling the frame.
+
+    Clean modern soft cream background, decorative bold English headline
+
+    "WHY IT WORKS" centered at top, a stylized cross-section anime
+
+    illustration of a brain with three soft pink arrows pointing to
+
+    "PROCESSING", "EMOTION", "DECISION", a small decorative Japanese
+
+    label beneath「心理学的に、感情の整理に約3秒かかる傾向」readable,
+
+    a tiny chibi female lead with a gentle softening expression on
+
+    the right. The visual of "psychology says her brain needs the
+
+    3 seconds." Hedged framing. Proper nouns English.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Same EXTREME close-up of the 25-year-old Japanese woman''s face as panel 1
+
+    but slightly later — her widened eyes now softening, the tiny beginnings
+
+    of a real warm smile at the corners of her lips, the dark brown hair
+
+    strand still near her cheek, same soft out-of-focus modern Tokyo cafe
+
+    background with warm pendant lighting, the loop image of "the silence
+
+    that let her feel it." Subject filling square frame for vertical
+
+    short with blurred padding above/below.
+
+    Character: {female_lead}.
+
+    '
+ja:
+  title: '告白の後の3秒の沈黙が、成功率を上げる心理学 #Shorts'
+  description: '心理学的に、告白の後に「3秒間黙る」男性の方が、成功する傾向があると言われています。
+
+    焦って言葉を埋めず、相手の脳が感情を整理する時間を、あえて作ることが鍵です。
+
+
+    #Shorts #恋愛心理 #告白 #モテ #メンズ恋愛
+
+    '
+  hook_caption: 告白後の3秒の沈黙
+  series_brand: 告白の3秒
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 告白した後の3秒間、黙れる男性の方が、成功率が高い傾向にあるって、ご存じですか。
+    caption: 告白後3秒黙ると成功率UP
+  - panel: p2
+    text: 多くの男性は、緊張から、告白直後に「いや、別に無理しなくて」と、自分で言葉を埋めてしまいがちです。
+    caption: 自分で言葉を埋めると失敗
+  - panel: p3
+    text: 心理学の研究では、相手の脳が、聞いた言葉を感情として処理するまでに、約3秒かかると、言われています。
+    caption: 脳の感情処理は約3秒かかる
+  - panel: p4
+    text: ここで沈黙できる男性は、自信があるように見えるので、相手の女性も、安心して、自分の気持ちと、向き合えるんです。
+    caption: 沈黙は自信のサイン
+  - panel: p5
+    text: 慌てて補足すると、せっかくの言葉が、軽くなってしまうから、心理学的には、3秒だけ、目を逸らさず、待つのが効果的とされています。
+    caption: 補足は言葉を軽くする
+  - panel: p6
+    text: 言葉より、沈黙が、本気を伝えることもある——告白の後の3秒は、相手のためにあける、優しさの時間なんです。
+    caption: 沈黙で本気が伝わる時もある
+en:
+  title: 'The 3-Second Psychology Trick for a Successful Confession #Shorts'
+  description: 'Psychology says that if you stay silent for 3 seconds after a confession, you''re more likely to succeed.
+
+    Don''t rush to fill the silence; give their brain the time it needs to process their true feelings.
+
+
+    #Shorts #DatingAdvice #Psychology #RelationshipTips #Dating'
+  hook_caption: The Secret to Getting a 'YES'
+  series_brand: The 3-Second Rule
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Did you know there’s a trick to make your love confession more successful? Just stay silent for 3 seconds.
+    caption: The 3-Second Trick
+  - panel: p2
+    text: Most guys get nervous and immediately backtrack, saying things like, 'Uh, but no pressure!'
+    caption: A common mistake
+  - panel: p5
+    text: But psychologically, it takes the brain about 3 seconds to process words and turn them into an emotional response.
+    caption: Why it works
+  - panel: p4
+    text: Staying silent shows confidence, which helps them feel secure enough to consider their real feelings.
+    caption: Confidence is key
+  - panel: p3
+    text: If you rush to add more words, your confession loses its impact. The key is to just... wait.
+    caption: Don't rush
+  - panel: p6
+    text: Those 3 seconds aren't for you. They're a gift of time for them to listen to their heart.
+    caption: A gift of time

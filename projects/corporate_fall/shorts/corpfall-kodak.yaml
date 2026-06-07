@@ -1,0 +1,60 @@
+id: corpfall-kodak
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A nostalgic illustration of a mid-20th-century world where everyone uses Kodak film
+      cameras, yellow film boxes everywhere, a thriving photo empire, conveying "Kodak once ruled
+      photography". Warm vintage Americana tone, no real logos.
+  - id: p2
+    prompt: |
+      A 1975 corporate lab scene: a young engineer proudly showing executives the world's first
+      digital camera prototype, a clunky boxy device, conveying "Kodak itself invented the digital
+      camera". Retro lab, hopeful-then-tense mood.
+  - id: p3
+    prompt: |
+      A tense boardroom where stern executives wave away the digital camera, pointing instead at
+      stacks of profitable film, conveying "they buried it to protect the film business". Cold,
+      short-sighted corporate tone.
+  - id: p4
+    prompt: |
+      A montage of the world rapidly switching to digital cameras and smartphones, while Kodak's
+      yellow film boxes pile up unsold, conveying "the digital wave they ignored swept the world".
+      Dramatic shift illustration.
+  - id: p5
+    prompt: |
+      A somber scene of a shuttered Kodak factory, a fading yellow sign, a bankruptcy notice,
+      conveying "in 2012 the film giant went bankrupt". Cold, melancholic.
+  - id: p6
+    prompt: |
+      A symbolic closing image of the first digital camera glowing in a dusty drawer, the empty
+      factory behind, conveying "they invented the future, then refused to live in it". Haunting,
+      cautionary tone.
+ja:
+  title: 'デジカメを発明したのに倒産した、コダックの皮肉 #Shorts'
+  description: |
+    かつて写真の世界を支配したコダック。実は世界初のデジタルカメラを発明したのは、ほかならぬコダック自身だった。しかしフィルム事業を守るためにそれを封印し、2012年に倒産する。未来を発明しながら捨てた企業の教訓を30秒で解説します。
+
+    #Shorts #倒産 #コダック #イノベーション #ビジネス
+  hook_caption: デジカメを発明したのに倒産したコダック
+  series_brand: 倒産の真相
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: かつて、写真といえばコダックでした。黄色いフィルムの箱は世界中にあふれ、誰もが使う、写真の王様だったんです。
+      caption: かつて写真の世界を支配したコダック
+    - panel: p2
+      text: 実は、世界で初めてデジタルカメラを発明したのは、コダック自身でした。1975年、社内の技術者が作り上げたんです。
+      caption: 世界初のデジカメを発明したのはコダック自身
+    - panel: p3
+      text: ところが経営陣は、その発明を歓迎しませんでした。儲かっているフィルム事業を守るため、デジカメを封印してしまったんです。
+      caption: フィルム事業を守るためデジカメを封印した
+    - panel: p4
+      text: しかし時代は、容赦なくデジタルへ進みます。世界がデジカメやスマホに移る中、コダックのフィルムは売れなくなっていきました。
+      caption: 世界はデジタルへ、フィルムは売れなくなった
+    - panel: p5
+      text: そして2012年、写真の巨人コダックは、ついに倒産します。自ら生んだ未来に、自ら飲み込まれた形でした。
+      caption: 2012年、写真の巨人はついに倒産した
+    - panel: p6
+      text: 未来を発明しながら、その未来を拒んだ会社。今の成功を守ろうとして変化を恐れることが、いかに危ういか。この皮肉が、すべてを語っています。
+      caption: 変化を恐れることがいかに危ういかを物語る

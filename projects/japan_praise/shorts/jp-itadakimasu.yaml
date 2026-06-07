@@ -1,0 +1,59 @@
+id: jp-itadakimasu
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon scene of a Western tourist at a Japanese dining table, pausing
+      as the Japanese family presses their hands together before eating, a decorative Japanese
+      caption "食べる前に手を合わせる", the visual of "foreigners puzzled by the pre-meal ritual".
+      Warm home-dinner light.
+  - id: p2
+    prompt: |
+      A warm scene of a Japanese family saying "いただきます" together with hands joined, the
+      tourist watching, the visual of "the word
+      said before every meal". Warm, gentle tone.
+  - id: p3
+    prompt: |
+      An infographic-style illustration showing the meaning radiating from the meal: thanks to
+      the animals and plants, the farmers, and the cook, the visual of "gratitude for the life on your plate". Clean warm illustration.
+  - id: p4
+    prompt: |
+      A reflective webtoon scene of the Western tourist realizing the depth, eyes welling up,
+      the visual of "it isn't just a phrase".
+      Emotional, tender tone.
+  - id: p5
+    prompt: |
+      A warm scene of the tourist now joining, hands together, quietly saying it with the
+      family, the visual of "the foreigner
+      joins in". Heartwarming home light.
+  - id: p6
+    prompt: |
+      A gentle closing scene of the shared meal, everyone smiling, the loop image of "a meal that begins with gratitude". Warm, hopeful tone.
+ja:
+  title: '外国人が涙した「いただきます」の本当の意味 #Shorts'
+  description: |
+    日本人が食事の前に必ず口にする「いただきます」。ただの挨拶に見えて、そこには命と作り手への深い感謝が込められている。その意味を知った外国人が、思わず涙した理由を30秒で解説します。
+
+    #Shorts #日本 #いただきます #海外の反応 #日本文化
+  hook_caption: 外国人が涙した「いただきます」の意味
+  series_brand: 外国人が見た日本
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 日本の家庭に招かれた外国人が、戸惑いました。食事の前に、家族全員が手を合わせ、何かを唱えたからです。
+      caption: 食事前に手を合わせる日本人に戸惑う
+    - panel: p2
+      text: その言葉は「いただきます」。日本人が、毎食、当たり前のように口にする、短いひとことです。
+      caption: 毎食必ず口にする「いただきます」
+    - panel: p3
+      text: しかし、この言葉の意味を聞いて、彼は驚きます。それは、食材となった命、育てた農家、作ってくれた人への、感謝の言葉だったからです。
+      caption: 命と作り手すべてへの感謝の言葉だった
+    - panel: p4
+      text: 食べる前に、目の前の一皿に関わったすべてに感謝する。それは、ただの挨拶ではなく、文化に根づいた祈りだったんです。
+      caption: ただの挨拶ではなく根づいた祈りだった
+    - panel: p5
+      text: 意味を知った彼は、次の食事から、自然と手を合わせるようになりました。誰に言われたわけでもありません。
+      caption: 意味を知り自然と手を合わせるようになった
+    - panel: p6
+      text: 当たり前すぎて、私たちが忘れかけている感謝。たった五文字の言葉に、外国人が涙したのには、理由があったのです。
+      caption: 五文字の言葉に外国人が涙した理由

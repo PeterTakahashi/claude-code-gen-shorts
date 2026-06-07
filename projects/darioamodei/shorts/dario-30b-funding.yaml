@@ -1,0 +1,157 @@
+id: dario-30b-funding
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A stylized 2024 newspaper-style splash composition filling the 9:16 frame: a
+
+    large bold serif headline reads "ANTHROPIC: $30B+ RAISED", subhead "Amazon
+
+    and Google back AI safety lab", and beneath it a clean editorial portrait
+
+    illustration of Dario Amodei in a navy crew-neck sweater, calm composed
+
+    expression, looking slightly off-camera. Cinematic editorial illustration
+
+    style, muted modern palette.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 2021, a modest small San Francisco office, almost empty. Dario Amodei
+
+    and his sister Daniella Amodei standing in the middle of a nearly bare open
+
+    space with only a few folding tables, a couple of laptops, and unopened
+
+    cardboard moving boxes around them. Both wearing casual clothing, looking
+
+    around the empty space with quiet determination. Daytime light through bare
+
+    windows. The visual feeling of "day one".
+
+    Character: {subject_adult}, {sister_daniella}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2023, a tight shot of a laptop screen showing the Claude chat interface
+
+    mid-response with a long thoughtful answer, the elegant Anthropic typography
+
+    visible, the soft glow on the partially visible face of an impressed user
+
+    on the right edge of the frame. Modern minimalist UI design clearly visible.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2023, a polished corporate boardroom with a large window overlooking
+
+    Seattle skyline visible at sunset. Dario Amodei standing at the head of a
+
+    long conference table, calm and confident, presenting a slide that reads
+
+    "AI Safety + Frontier Scale" with capability curves. Four Amazon executives
+
+    in business-casual blazers seated and listening with serious attentive
+
+    expressions. Cinematic warm interior lighting.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A stylized infographic composition: in the upper half, the Amazon logo with
+
+    large clean typography "$8B"; in the lower half, the Google logo with "$2B+";
+
+    between them a stylized arrow flowing into a central white shield bearing
+
+    the Anthropic wordmark. Clean editorial illustration style, deep blues and
+
+    whites, no clutter.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A tight editorial portrait of Dario Amodei in a navy crew-neck sweater,
+
+    mid-close shot, calm composed expression looking just off-camera, behind him
+
+    a softly blurred field of stylized server racks and the faint Anthropic
+
+    logo. The visual feeling of a quietly powerful figure at the center of the
+
+    AI economy.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '創業3年で300億ドル調達した男 #Shorts'
+  description: 'Anthropicは創業からわずか数年で、Amazonから80億ドル、Googleから20億ドル超を含む、巨額の資金調達に成功した。
+
+    なぜ世界中の巨大企業が、ダリオ・アモデイに賭けたのか。
+
+    #Shorts #ダリオアモデイ #Anthropic #Claude #人物伝
+
+    '
+  hook_caption: 3年で300億ドル調達した男
+  series_brand: ダリオ・アモデイ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 創業から、わずか数年で、300億ドル以上の、資金調達に成功した男がいます。
+    caption: 創業数年で300億ドル超
+  - panel: p2
+    text: ダリオ・アモデイ。Anthropicの、CEOです。
+    caption: Anthropic CEO ダリオ・アモデイ
+  - panel: p3
+    text: 2021年、Anthropicは、ほとんど無名で、社員数人の、小さなスタートアップでした。
+    caption: 2021年、無名の小さなスタートアップ
+  - panel: p4
+    text: ところが、2023年に公開したAI、Claudeが、業界を、震撼させたんです。
+    caption: 2023年、Claude が業界を震撼
+  - panel: p5
+    text: 結果、Amazonが80億ドル、Googleが20億ドル超を、立て続けに、出資しました。
+    caption: Amazon 80億ドル、Google 20億ドル超
+  - panel: p6
+    text: AI安全性を掲げる小さな研究所が、わずか3年で、世界で最も価値の高いスタートアップの一つに、なってしまった——AIバブル時代の、象徴的な物語です。
+    caption: AIバブル時代の象徴
+en:
+  title: 'How He Raised $30 Billion in 3 Years #Shorts'
+  description: 'In just a few years, Dario Amodei''s startup Anthropic raised billions from giants like Amazon and Google. This is the story of how their AI, Claude, took on the world.
+
+    #Shorts #Anthropic #DarioAmodei #Claude #AI'
+  hook_caption: He Raised $30 Billion In 3 Years
+  series_brand: The Dario Amodei Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p6
+    text: This is Dario Amodei.
+    caption: Dario Amodei
+  - panel: p2
+    text: In 2021, he and his sister started their AI company, Anthropic, in a nearly empty office.
+    caption: A humble start
+  - panel: p1
+    text: Fast forward just three years, and they've raised over 30 billion dollars.
+    caption: $30 Billion Raised
+  - panel: p5
+    text: That includes a staggering $8 billion from Amazon and over $2 billion from Google.
+    caption: Backed by giants
+  - panel: p3
+    text: Their secret? An AI named Claude, so powerful it sent shockwaves through the industry.
+    caption: 'The breakthrough: Claude'
+  - panel: p4
+    text: From an unknown research lab to one of the most valuable startups on Earth, all in just 3 years.
+    caption: A new AI titan

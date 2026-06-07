@@ -1,0 +1,180 @@
+id: kameyama-tekiya-origin
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2020 evening scene in 六本木 Tokyo. A 60-something Keishi Kameyama
+
+    stands on the wide plaza below the towering glass facade of 六本木ヒルズ
+
+    where DMM headquarters occupies several floors, hands casually in his
+
+    jeans pockets, looking calmly up at the building with a small unreadable
+
+    half-smile, the warm orange sunset reflected on the glass towers. Wide
+
+    mid-shot framing him centered, the building dominating the upper frame.
+
+    Conveys: this empire was built by a former street vendor.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A summer night in 1975, 加賀温泉郷 in Ishikawa prefecture Japan. A narrow
+
+    festival street lined with traditional Japanese 屋台 food and trinket
+
+    stalls under glowing red 提灯 paper lanterns, drifting smoke from grilled
+
+    食べ物 stalls, 浴衣 wearing 観光客 strolling past. In the foreground, a
+
+    young 25-year-old Keishi Kameyama in a dark work jacket and faded jeans
+
+    stands behind a small modest 露天 stall selling cheap accessories and
+
+    trinkets, calmly observing the crowd with sharp street-smart eyes.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Close mid-shot of the same 加賀温泉郷 night stall. The young Kameyama
+
+    leans casually against his stall counter, a calm slight half-grin on his
+
+    face, talking to a 浴衣 wearing 温泉 tourist who is laughing as he
+
+    considers buying a cheap accessory. The lantern light warms one side of
+
+    Kameyama''s face, the other half in shadow. Conveys the moment of a born
+
+    salesman closing a sale — the same instinct that will one day build DMM.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1980s evening, a small Hokuriku town shopping street in Ishikawa.
+
+    A modest two-story Japanese 個人 video rental shop with hand-painted
+
+    Japanese signage reading 貸ビデオ above the entrance and a glowing yellow
+
+    interior visible through the glass door, parked bicycles outside, an
+
+    老人 walking past with a plastic bag. Wide establishing shot showing the
+
+    humble origin of what will become DMM. Soft 1980s Hokuriku neighborhood
+
+    atmosphere.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    1999, a cramped small office in 加賀 Ishikawa. A 40-year-old Keishi
+
+    Kameyama sits at a simple desk staring at a beige CRT monitor displaying
+
+    a freshly built website with the text "DMM.com" on the screen, his face
+
+    lit by the screen glow, expression of calm focused intensity. A few thick
+
+    English internet manuals stacked nearby, a single CRT tower humming. The
+
+    exact moment a small-town Hokuriku businessman pivots to the internet age.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2020, late afternoon in the 六本木ヒルズ DMM corporate floor.
+
+    Over-the-shoulder view of the 60-something Keishi Kameyama standing
+
+    alone by a floor-to-ceiling window, looking out over the vast Tokyo
+
+    skyline stretching to the horizon under a soft pink-orange sky, hands in
+
+    his jeans pockets, his reflection faintly visible in the glass. A small
+
+    private smile. Conveys the quiet 50-year arc from a 加賀温泉 street stall
+
+    to the top of Tokyo.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '露天商から4000億円企業を作った男 #Shorts'
+  description: '1970年代、石川県加賀温泉郷で、若き亀山敬司は露天商として人生をスタートさせた。
+
+    そして30年後、彼はDMM.comを、年商4000億円規模の企業へと育て上げる。
+
+
+    #Shorts #亀山敬司 #DMM #人物伝
+
+    '
+  hook_caption: 露天商から4000億円企業へ
+  series_brand: 亀山敬司伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 石川県の温泉街で、露天商をやっていた男が、30年後、年商4000億円の企業を作りました。
+    caption: 露天商から4000億円企業へ
+  - panel: p2
+    text: 亀山敬司。1970年代、加賀温泉郷の夜の屋台で、安いアクセサリーを売って、生計を立てていました。
+    caption: 1970年代、加賀温泉郷の屋台
+  - panel: p3
+    text: テキ屋稼業で身についたのは、客を一瞬で読む力、そして、売れるものを嗅ぎ分ける本能でした。
+    caption: 客を読む力、売れるものを嗅ぐ本能
+  - panel: p4
+    text: 1980年代、彼は地元で、小さな貸ビデオ店「キャストルーム」を、開きます。
+    caption: 1980年代、貸ビデオ店を開業
+  - panel: p5
+    text: そして1999年、40歳のとき、彼はインターネットに賭けて、DMM.comを、立ち上げたんです。
+    caption: 1999年、DMM.comを立ち上げ
+  - panel: p6
+    text: 屋台で培った嗅覚は、ネットの世界でも、まったく同じように、通用したんです。
+    caption: 屋台の嗅覚は、ネットでも通じた
+en:
+  title: 'How a Street Vendor Built a $3B Empire #Shorts'
+  description: 'In the 1970s, Keishi Kameyama sold cheap trinkets at a festival stall. Decades later, his company DMM.com would be a multi-billion dollar giant.
+
+
+    This is the story of how street smarts built an online empire.
+
+
+    #Shorts #KeishiKameyama #DMM #Entrepreneurship #Japan'
+  hook_caption: From Street Stall to $3B Empire
+  series_brand: The Keishi Kameyama Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In the 1970s, Keishi Kameyama was just a kid working a festival stall in a small Japanese spa town.
+    caption: A festival stall
+  - panel: p3
+    text: But on the streets, he learned to read people in a heartbeat and developed a killer instinct for what sells.
+    caption: A killer instinct
+  - panel: p4
+    text: In the 80s, he used that instinct to level up, opening a small video rental shop.
+    caption: Video rental shop
+  - panel: p5
+    text: Then in 1999, at age 40, he took his biggest gamble yet, launching an internet company called DMM.com.
+    caption: Betting on the internet
+  - panel: p1
+    text: That street stall kid had built a company that would one day pull in over 3 billion dollars a year.
+    caption: A $3 billion empire
+  - panel: p6
+    text: Proving that the same street smarts that sell trinkets can build an online empire.
+    caption: Street smarts to dot-com

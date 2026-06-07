@@ -1,0 +1,59 @@
+id: artisan-houshi-oldest-hotel
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A serene traditional Japanese hot-spring inn (ryokan) at dusk, snow on the wooden roofs,
+      warm lantern light, the visual of "the
+      oldest hotel in the world, still open". Quiet, timeless tone.
+  - id: p2
+    prompt: |
+      A historical illustration of an 8th-century monk founding a hot-spring inn beside a
+      steaming spring in the mountains, the visual of
+      "founded over thirteen centuries ago". Warm, reverent historical tone.
+  - id: p3
+    prompt: |
+      A clean infographic timeline of Japanese eras flowing past the same inn — samurai era,
+      Edo period, modern day — the inn unchanged, the visual of "passed down through dozens of generations". Clean timeline illustration.
+  - id: p4
+    prompt: |
+      An interior of the ryokan: a traditional tatami room, steaming open-air bath, attentive
+      kimono-clad host pouring tea (generic faces), the visual of "protecting tradition unchanged". Warm, refined tone.
+  - id: p5
+    prompt: |
+      A reflective scene of the current innkeeper looking at an old family register of
+      generations, the visual of "the weight of
+      inheriting 1300 years". Quiet, emotional tone.
+  - id: p6
+    prompt: |
+      A wide tranquil shot of the snow-covered ryokan glowing warmly at night, steam rising,
+      the loop image of "an inn that outlived
+      empires". Serene, timeless light.
+ja:
+  title: '1300年続く世界最古の宿、石川県の法師 #Shorts'
+  description: |
+    石川県にある温泉旅館「法師」は、今から約1300年前に創業し、46代にわたって受け継がれてきた。かつてギネスに世界最古の宿として認定された老舗が、なぜ千年以上続けられたのかを30秒で解説します。
+
+    #Shorts #老舗 #法師旅館 #日本の職人 #雑学
+  hook_caption: 1300年続く世界最古の宿
+  series_brand: 老舗の流儀
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 石川県に、世界でいちばん古いと言われる宿があります。その名は法師。創業から、なんと約1300年が経っています。
+      caption: 石川県にある世界最古とされる宿「法師」
+    - panel: p2
+      text: 始まりは、今から約1300年前の718年。一人の僧侶が、山あいに湧く温泉のそばに、宿を開いたのが起源だと伝わります。
+      caption: 約1300年前の718年に僧侶が開いた
+    - panel: p3
+      text: それから、武士の時代も、江戸の時代も、戦争の時代も越えて、宿は46代にわたり、途切れることなく受け継がれてきました。
+      caption: 戦乱の時代を越え46代受け継がれた
+    - panel: p4
+      text: 続けられた理由は、派手な改革ではありません。温泉と、もてなしの心という芯を、頑なに変えずに守り続けたことにあります。
+      caption: もてなしの芯を変えずに守り続けた
+    - panel: p5
+      text: しかし、千年以上の歴史は、当主にとって誇りであると同時に、決して途絶えさせられないという、重い覚悟でもあります。
+      caption: 千年の歴史は誇りであり重い覚悟でもある
+    - panel: p6
+      text: 帝国がいくつも滅んだ時間を、宿は静かに生き延びてきた。あなたの仕事は、千年後に残っているでしょうか。
+      caption: あなたの仕事は千年後に残っているだろうか

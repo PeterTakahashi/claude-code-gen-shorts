@@ -1,0 +1,83 @@
+id: sports-murofushi-athens-gold
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of the 2004 Athens
+      Olympic hammer-throw arena at dusk, a Japanese Olympic male athlete in
+      his late 20s with a muscular hammer-throw build, intense focused gaze,
+      standing inside the throwing circle wearing the red-and-white Japan team
+      singlet, packed Greek stadium crowd visible in the background. Dramatic
+      cel shading, expressive line art, the visual of "the Japanese favorite
+      carrying his father's dream". Clearly Greek Olympic stadium setting.
+      No japanese text in the image.
+  - id: p2
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of the hammer-throw
+      final, the same Japanese athlete mid-spin, the steel hammer streaking
+      through floodlit night air with a sharp motion blur arc, a tall European
+      rival thrower visible in the background pumping his fists in celebration.
+      Tense competitive cel shading, the visual of "Hungary's Annus threw
+      farther and took gold". No japanese text in the image.
+  - id: p3
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of the medal podium,
+      the same Japanese athlete standing quietly on the silver step with his
+      head slightly bowed and gold medal around the European winner on the
+      top step in the foreground, packed stadium lights behind. Solemn,
+      bittersweet cel shading, the visual of "he stood on the silver step,
+      swallowing the result". No japanese text in the image.
+  - id: p4
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of a stark official
+      doping-control room, a closed steel door, an empty plastic chair, a
+      clipboard and unsealed sample bottle on a sterile table, fluorescent
+      light, the visual of "the Hungarian gold medalist refused the doping
+      retest". Cold investigative cel shading, no people in this panel.
+      Decorative English signage only — no japanese text in the image.
+  - id: p5
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of the Athens Olympic
+      stadium after the closing ceremony — almost empty rows of seats, dim
+      stadium floodlights, a small medal podium at the center of the field,
+      the same Japanese athlete standing alone on the top gold-medal step at
+      night. Lonely, reverent cel shading, the visual of "the gold-medal
+      ceremony came after the Olympics had ended, in an empty stadium".
+      No japanese text in the image.
+  - id: p6
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of the same Japanese
+      athlete looking up to the empty stands, holding the gold medal in his
+      open palm, a faint translucent image of his father — an older Japanese
+      hammer thrower in a 1970s Japan team uniform — superimposed gently in
+      the stadium light behind him. Reverent, moving cel shading, soft warm
+      glow, the visual of "the dream his father Shigenobu could not finish".
+      No japanese text in the image.
+ja:
+  title: '室伏広治、空っぽのスタジアムで受け取った金メダル #Shorts'
+  description: |
+    2004年アテネ五輪のハンマー投げ、室伏広治は銀メダル。しかし優勝したハンガリーのアドリアン・アヌシュがドーピング検査を拒否して失格、繰り上げで金メダルに。授賞式は閉会式後、ほぼ空のスタジアムで行われた。父・重信から託された夢の物語を30秒で解説します。
+
+    #Shorts #スポーツ #室伏広治 #アテネ五輪 #名場面
+  hook_caption: 空のスタジアムで受け取った室伏の金
+  series_brand: 室伏広治
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 2004年のアテネ五輪、ハンマー投げの決勝に挑んでいたのが、室伏広治です。彼は、ハンマー投げ選手だった父・重信から託された、五輪の金メダルという夢を背負っていました。
+      caption: 2004年アテネ、父の夢を背負った室伏
+    - panel: p2
+      text: 決勝の場で、彼はアジア記録に迫る投擲を見せます。しかし優勝したのは、ハンガリーのアドリアン・アヌシュ。室伏は、悔しい銀メダルに終わりました。
+      caption: 金はハンガリーのアヌシュ、室伏は銀
+    - panel: p3
+      text: 表彰式で、彼は黙って銀の段に立ちます。父の夢には、あと一歩、届かなかった。誰もが、そう思った瞬間でした。
+      caption: 父の夢にあと一歩届かず銀の段に
+    - panel: p4
+      text: ところが大会後、金メダルのアヌシュにドーピングの再検査が命じられます。彼はこれを拒否し、結果として金メダルを剥奪されてしまうのです。
+      caption: アヌシュが再検査を拒否し金を剥奪された
+    - panel: p5
+      text: そして繰り上げで、金メダルは室伏に。授賞式が行われたのは、閉会式も終わったあとの、ほとんど人のいないスタジアムでした。
+      caption: 閉会式後、空のスタジアムで授賞式
+    - panel: p6
+      text: 静かな夜風の中、彼は金メダルを手に空を見上げます。父・重信から託された夢は、こうして、誰も見ていない場所で、ようやく結実したのです。
+      caption: 父から託された夢が静かに結実した

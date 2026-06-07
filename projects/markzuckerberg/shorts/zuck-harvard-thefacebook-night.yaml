@@ -1,0 +1,158 @@
+id: zuck-harvard-thefacebook-night
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 19-year-old Mark Zuckerberg alone at his dorm desk inside Kirkland House
+
+    at Harvard University, late at night February 2004, his face lit only by
+
+    the pale blue glow of a silver laptop screen, the rest of the small dorm
+
+    room in deep shadow, posters and crumpled paper barely visible on the
+
+    walls, his pale eyes wide and fixed on the screen at the moment of
+
+    pressing Enter to launch the site, quiet electric tension. Close-mid shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A wide establishing exterior shot of Kirkland House, a red-brick Georgian
+
+    Harvard undergraduate dorm in Cambridge Massachusetts, February 2004,
+
+    midnight, light dusting of snow on the courtyard, only a single window
+
+    lit warm yellow on an upper floor, bare winter trees, cold blue moonlight.
+
+    Conveys one student awake while the campus sleeps.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Interior of a cramped Harvard dorm room in February 2004, a single desk
+
+    against the wall covered in empty Red Bull cans, scattered printer paper,
+
+    a half-eaten pizza slice, a silver Dell or Apple clamshell laptop open
+
+    on the desk showing lines of PHP code, the bed unmade in the corner, a
+
+    Beastie Boys poster on the wall, late-night warm desk lamp glow, the
+
+    messy ecosystem of an undergraduate coder.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 19-year-old Mark Zuckerberg leaning over his laptop keyboard at his
+
+    Harvard dorm desk, fingers a blur on the keys, brow furrowed in deep
+
+    focus, lines of code reflected faintly in his pale eyes, mid-shot from
+
+    the side, warm desk lamp on his face from one direction and cool laptop
+
+    glow from the other, conveying frantic creative momentum through the
+
+    night. February 2004.
+
+    Character: {subject_young}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Extreme close-up of an early-2000s laptop screen displaying a primitive
+
+    blue-and-white social network homepage with the lowercase wordmark
+
+    "thefacebook" at the top, a simple text login form below, plain Times-
+
+    New-Roman style serif text, no images, the unmistakable minimalist
+
+    aesthetic of a 2004 web app written in PHP. The screen glows in the
+
+    dark room.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 19-year-old Mark Zuckerberg leaning back slightly in his dorm chair
+
+    at deep night, hands resting on the laptop, faint trace of a smirk on
+
+    his otherwise expressionless face, the blue glow of the launched
+
+    thefacebook page reflected in his pale eyes, the dark Harvard dorm
+
+    room around him, conveying the quiet moment a 20-billion-user empire
+
+    began. February 2004, Kirkland House.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '19歳がハーバードの寮で一晩で書いたサイト #Shorts'
+  description: '2004年2月、ハーバード大学カークランド・ハウスの寮で、19歳のマーク・ザッカーバーグが、わずか数時間で書き上げた小さなサイト。それが、現在20億人が使う Facebook の始まりだった。
+
+
+    #Shorts #マークザッカーバーグ #Meta #Facebook #人物伝
+
+    '
+  hook_caption: 19歳が寮で一晩で書いたサイト
+  series_brand: マーク・ザッカーバーグ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 現在、20億人以上が使うサイトを、たった一晩で書き上げた、19歳の大学生が、います。
+    caption: 20億人のサイトを一晩で書いた19歳
+  - panel: p2
+    text: 2004年2月、ハーバード大学、カークランド・ハウスの寮。
+    caption: 2004年2月、ハーバードの寮
+  - panel: p3
+    text: 当時、コンピュータサイエンス専攻の2年生だった、マーク・ザッカーバーグが、机に向かいました。
+    caption: コンピュータサイエンスの2年生
+  - panel: p4
+    text: 彼は、わずか数時間で、PHP を書き、データベースを設計し、シンプルなサイトを立ち上げました。
+    caption: 数時間で PHP とDBを書き上げた
+  - panel: p5
+    text: サイトの名前は、thefacebook。最初は、ハーバードの学生だけが使える、小さなサイトでした。
+    caption: thefacebook、ハーバード限定の小さなサイト
+  - panel: p6
+    text: そして、その夜の数時間が、20年後、世界中の人々の人生を、繋ぐことになる——19歳の一晩の作業が、すべての始まりでした。
+    caption: 19歳の一晩が、世界を繋いだ
+en:
+  title: 'How a 19-Year-Old Built an Empire From His Dorm #Shorts'
+  description: 'In a Harvard dorm room in February 2004, a 19-year-old sophomore launched a simple website in a single night. That site became Facebook, connecting billions of people worldwide.
+
+
+    #Shorts #MarkZuckerberg #Facebook #Meta #College'
+  hook_caption: He Changed The World In ONE NIGHT
+  series_brand: The Mark Zuckerberg Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: February 2004. Inside a Harvard University dorm room...
+    caption: Harvard, 2004
+  - panel: p1
+    text: '...a 19-year-old computer science major named Mark Zuckerberg was about to change the world.'
+    caption: A 19-year-old coder
+  - panel: p4
+    text: In a single, intense coding session, he built a brand new kind of social directory from scratch.
+    caption: An all-night session
+  - panel: p5
+    text: He called it 'thefacebook'—at first, just a small site for his fellow Harvard students.
+    caption: '''thefacebook'' is born'
+  - panel: p6
+    text: But that one night's work would soon connect billions of people across the globe, sparking a revolution.
+    caption: Connecting the world

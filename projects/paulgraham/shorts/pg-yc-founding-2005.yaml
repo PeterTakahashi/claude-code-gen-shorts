@@ -1,0 +1,181 @@
+id: pg-yc-founding-2005
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    August 2005, a casual rented house living room in Cambridge
+
+    Massachusetts. Paul Graham in his early 40s, glasses, calm faint
+
+    smile, stands at the back of the room watching a 20-year-old founder
+
+    pitch a startup idea to a small seated audience of investors and
+
+    fellow founders. A simple paper sign on the wall reads "Y Combinator
+
+    Summer 2005" in plain black marker. Soft afternoon New England light
+
+    through curtained windows. Wide mid-shot. The very first Demo Day in
+
+    history, a humble experiment that worked.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 2005, evening dinner at a casual Boston restaurant. Four people
+
+    sit around a small wooden table with half-eaten plates — Paul Graham
+
+    in his early 40s with glasses and a soft sweater, a thoughtful woman
+
+    in her 30s with shoulder-length brown hair (Jessica Livingston),
+
+    and two other male hacker figures in plain shirts (Robert Morris with
+
+    curly dark hair, Trevor Blackwell with a beard), leaning in over the
+
+    table sketching on a paper napkin. Warm yellow restaurant lighting.
+
+    The exact moment Y Combinator was conceived. Mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    June 2005 — close-up of a beige CRT monitor in a college dorm room
+
+    displaying a plain-text webpage in a Mozilla browser titled "Summer
+
+    Founders Program", simple black text on white background, paulgraham
+
+    dot com style minimalism. The screen reflected faintly on the glasses
+
+    of an unseen young hacker reading it intently. The exact public call
+
+    that launched a movement. Side framing, the screen as hero element.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Summer 2005, a casual rented house in Cambridge Massachusetts
+
+    converted into a startup workspace. About eight young hackers in
+
+    their early 20s, scattered across the living room and dining room,
+
+    hunched over laptops on couches and the floor, empty pizza boxes and
+
+    Red Bull cans, late afternoon sunlight through the windows, a
+
+    whiteboard covered with notes in the corner. No specific recognizable
+
+    faces. Conveys: a controlled chaos of the very first YC batch.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late summer 2005, a small office room. Paul Graham in his early 40s
+
+    and Jessica Livingston, a thoughtful brown-haired woman in her 30s,
+
+    sit on simple wooden chairs across from a young founder in a hoodie,
+
+    both leaning forward listening with calm focus, an open notebook on
+
+    the small table between them. Warm afternoon light through a single
+
+    window. The atmosphere of two mentors who treated 20-year-olds like
+
+    adults.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    End of summer 2005, evening. Paul Graham, early 40s, stands alone
+
+    facing the front window of the Y Combinator house, a small simple
+
+    handmade orange Y Combinator logo taped to the inside of the glass,
+
+    his contemplative reflection faintly visible. Beyond the window, the
+
+    Cambridge street fades into dusk. A quiet thoughtful expression — the
+
+    experiment had just become something bigger. Over-shoulder framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '夏休みに学生に投資する変な実験 #Shorts'
+  description: '2005年夏、ポール・グレアムは「学生に夏休みの間だけ少額投資する」
+
+    実験を始めた。これがY Combinatorとなり、世界最強のスタートアップ・
+
+    アクセラレーターに成長する。
+
+
+    #Shorts #ポールグレアム #YCombinator #人物伝
+
+    '
+  hook_caption: 夏休みに学生に投資する変な実験
+  series_brand: ポール・グレアム伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 夏休みの間だけ、学生に少額のお金を渡して、スタートアップを始めさせる、という変な実験を始めた男がいます。
+    caption: 夏休みに学生へ少額投資
+  - panel: p2
+    text: 2005年、ポール・グレアムは、妻のJessica Livingston、Robert Morris、Trevor Blackwellと、Y Combinatorを設立しました。
+    caption: 2005年、Y Combinator創業
+  - panel: p3
+    text: 最初のプログラムは、Summer Founders Programと呼ばれ、たった8組の若いハッカーから始まりました。
+    caption: 第1期はわずか8組
+  - panel: p4
+    text: 彼らは、それぞれに、6000ドルを渡し、3ヶ月間、Cambridgeのレンタルハウスで、メンタリングをしたんです。
+    caption: 6000ドルと3ヶ月の指導
+  - panel: p5
+    text: そして、20年後、Y Combinatorは、Airbnb、Stripe、Dropboxなど、時価総額1兆ドルを超える企業群を生み出します。
+    caption: 20年後、時価総額1兆ドル超
+  - panel: p6
+    text: あの夏の小さな実験が、シリコンバレーの新しいモデルになったんです。
+    caption: 小さな実験が新モデルに
+en:
+  title: 'His Weird Summer Experiment Created a $1 Trillion Empire #Shorts'
+  description: 'In the summer of 2005, Paul Graham gave a few students a little money to build startups. That experiment became Y Combinator, the world''s most powerful startup accelerator.
+
+
+    #Shorts #YCombinator #PaulGraham #Startups #Entrepreneurship'
+  hook_caption: This Weird Summer Job Built a $1 Trillion Empire
+  series_brand: The Paul Graham Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: 'In 2005, one man had a strange idea: what if you gave college kids a little cash to build a startup instead of getting a summer job?'
+    caption: A weird summer job
+  - panel: p2
+    text: 'That man was Paul Graham. Along with his wife Jessica Livingston and two friends, he launched a new kind of company: Y Combinator.'
+    caption: Y Combinator is born
+  - panel: p3
+    text: Their first experiment, the 'Summer Founders Program,' started with just eight teams of young hackers.
+    caption: Just 8 teams
+  - panel: p4
+    text: Each team got $6,000 and three months of mentorship, all working out of a rented house in Cambridge.
+    caption: $6,000 for 3 months
+  - panel: p5
+    text: Fast forward to today, and Y Combinator has backed giants like Airbnb, Stripe, and Dropbox—creating a portfolio worth over 1 trillion dollars.
+    caption: Worth over $1 Trillion
+  - panel: p6
+    text: That tiny summer experiment completely changed the blueprint for how startups get built.
+    caption: A new blueprint

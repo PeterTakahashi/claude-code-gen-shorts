@@ -1,0 +1,60 @@
+id: artisan-ichimonjiya
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A traditional Kyoto wooden tea-shop with a noren curtain, an artisan grilling small
+      skewered rice cakes over charcoal, a decorative Japanese caption "創業1000年超", the
+      visual of "a sweet shop that has run for over a thousand years". Warm, old Kyoto.
+  - id: p2
+    prompt: |
+      A timeline infographic ribbon with a decorative Japanese caption "西暦1000年 → 現在",
+      showing eras passing (Heian, samurai, modern) while one little shop endures, the visual
+      of "open since before the samurai era". Clean infographic, decorative Japanese text.
+  - id: p3
+    prompt: |
+      Close-up of weathered artisan hands grilling the small aburi-mochi rice cakes,
+      brushing them with miso sauce, charcoal embers glowing, a decorative Japanese caption
+      "あぶり餅", the visual of "the same simple sweet, made by hand for a millennium". Warm.
+  - id: p4
+    prompt: |
+      An old recipe and tools passed down through generations in the shop, a decorative
+      Japanese caption "変えない、という選択", the visual of "they refuse to change the recipe".
+      Warm traditional Kyoto interior.
+  - id: p5
+    prompt: |
+      Customers of all ages enjoying the grilled mochi in the old shop, a decorative
+      Japanese caption "千年、人が並ぶ味", the visual of "people have lined up for this taste
+      for a thousand years". Warm, lively old Kyoto.
+  - id: p6
+    prompt: |
+      Same Kyoto tea-shop from panel 1 at dusk, lanterns lit, a decorative Japanese caption
+      "守ることが、強さ", the loop image of "protecting tradition is its own strength". Warm.
+ja:
+  title: '1000年続く京都の和菓子屋、一文字屋和輔 #Shorts'
+  description: |
+    平安時代から続く、日本最古級の和菓子屋。1000年以上、あぶり餅という一つの味を守り続ける一文字屋和輔の物語を解説します。
+
+    #Shorts #職人 #老舗 #京都 #和菓子
+  hook_caption: 1000年続く京都の和菓子屋
+  series_brand: 千年の老舗
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 創業から、1000年以上。日本最古級と言われる和菓子屋が、京都に、今も残っています。一文字屋和輔です。
+      caption: 創業1000年超の和菓子屋
+    - panel: p2
+      text: 創業は、なんと西暦1000年頃。武士の時代よりも前から、この小さな店は、ずっと営業を続けてきたんです。
+      caption: 武士の時代より前から続く店
+    - panel: p3
+      text: 名物は、あぶり餅。小さな餅を竹串に刺し、炭火で焼いて、白味噌のタレをかける。たったそれだけの、素朴な菓子です。
+      caption: 1000年変わらぬ素朴な「あぶり餅」
+    - panel: p4
+      text: 彼らが守り続けてきたのは、変えない、という選択。レシピも、作り方も、千年前と、ほとんど同じなんです。
+      caption: 「変えない」という選択を守る
+    - panel: p5
+      text: だからこそ、時代が何度変わっても、人々はこの味を求めて、列を作り続けてきました。
+      caption: 千年、人が並び続ける味
+    - panel: p6
+      text: 新しさを追うことだけが、強さではない。変えずに守り抜くこともまた、千年を生き抜く、ひとつの強さなんです。
+      caption: 守り抜くこともまた、強さ

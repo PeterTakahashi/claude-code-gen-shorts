@@ -1,0 +1,195 @@
+id: war-pearl-harbor-yamamoto
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 7 1941 dawn at Pearl Harbor Hawaii Oahu, view from above
+
+    Battleship Row, several US Navy battleships moored in calm
+
+    tropical blue water suddenly erupting in massive orange explosions
+
+    and towering black smoke columns, dozens of Japanese Zero
+
+    fighters with red sun insignia banking sharply in the pale dawn
+
+    sky, palm trees swaying along the harbor, the visual of "the
+
+    moment America entered the war". Wide aerial shot. Clearly
+
+    Hawaii Oahu 1941. No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 1941 inside the captain''s cabin of the Japanese battleship
+
+    Nagato anchored at Hashirajima Hiroshima Japan, Character:
+
+    {yamamoto} standing at a polished wooden chart table, his face
+
+    tense and conflicted, a large naval chart of the central Pacific
+
+    spread out with Hawaii circled in red ink, a brass desk lamp
+
+    casting warm light, a single fountain pen resting on the chart,
+
+    the visual of "the reluctant architect of a war he opposed".
+
+    Mid-shot. Clearly a Japanese warship interior 1941. No Japanese
+
+    text in image.
+
+    Character: {yamamoto}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Autumn 1941 at the Japanese Imperial Naval War College in Tokyo,
+
+    Character: {yamamoto} standing at the head of a long polished
+
+    conference table with seven other senior Imperial Japanese Navy
+
+    admirals in dark navy-blue uniforms seated around it, a large
+
+    tabletop model of Pearl Harbor with tiny model battleships and
+
+    green palm trees in the center, Yamamoto pointing at the model
+
+    with a wooden pointer, tense reluctant expressions on every face,
+
+    warm lamp light. Wide mid-shot. Clearly Tokyo Japan 1941. No
+
+    Japanese text in image.
+
+    Character: {yamamoto}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 7 1941 around 6 am, the flight deck of the Japanese
+
+    aircraft carrier Akagi rolling on dark Pacific waves 230 miles
+
+    north of Hawaii, dozens of Japanese Zero fighters and torpedo
+
+    bombers lined up with engines roaring and propellers spinning,
+
+    ground crew in white headbands holding chocks, the rising sun
+
+    breaking over the horizon, the visual of "the launch order
+
+    Yamamoto signed reluctantly". Wide shot. Clearly North Pacific
+
+    1941. No Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 8 1941 evening inside the same captain''s cabin of the
+
+    Japanese battleship Nagato in Hashirajima, Character: {yamamoto}
+
+    sitting alone at the wooden chart table, a single brass desk
+
+    lamp on, a paper telegram in his hand reporting the attack
+
+    success, his face grim and burdened rather than victorious, the
+
+    bowl of an unlit pipe resting on the chart, the visual of "the
+
+    man who knew he had won a battle and lost a war". Tight mid-
+
+    shot. Clearly a Japanese warship interior 1941. No Japanese
+
+    text.
+
+    Character: {yamamoto}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 7 1941 mid-morning at Pearl Harbor Hawaii Oahu, same
+
+    aerial view of Battleship Row as panel 1, the harbor now choked
+
+    with thick black smoke, the USS Arizona broken in two and
+
+    burning fiercely, oil slicks burning on the water surface, no
+
+    more Japanese aircraft visible, palm trees still swaying along
+
+    the harbor edge, the visual of "the silence after the strike".
+
+    Wide aerial shot. Clearly Hawaii Oahu 1941. No Japanese text.
+
+    '
+ja:
+  title: '真珠湾、その日の山本五十六 #Shorts'
+  description: '1941年12月7日、ハワイ。日本の航空母艦から発進した攻撃が、米太平洋艦隊を直撃した。
+
+    だが攻撃を計画した山本五十六本人は、誰よりも開戦に反対していた——その矛盾をAnimeで。
+
+
+    #Shorts #第二次大戦 #真珠湾 #山本五十六 #1941
+
+    '
+  hook_caption: 真珠湾、山本が反対した日
+  series_brand: バルトゥーン戦争史
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1941年12月7日午前7時55分、ハワイ・オアフ島の米海軍基地が、日本軍機の奇襲で炎上しました。米国を戦争に引きずり込んだ、この攻撃を計画したのは、誰だったのか?
+    caption: 真珠湾、誰が計画したのか
+  - panel: p2
+    text: 計画の中心は、第二次大戦開戦時に57歳だった連合艦隊司令長官、山本五十六でした。ところが彼自身は、米国と戦うことに、最後まで反対していたんです。
+    caption: 計画者は開戦反対派だった
+  - panel: p3
+    text: 米国を肌で知っていた山本は、国力差から長期戦になれば必ず負ける、と判断していました。だから戦うなら初手で叩いて、講和に持ち込むしかないと考えたんです。
+    caption: 米国を知る彼の現実主義
+  - panel: p4
+    text: そして12月7日早朝、彼の作戦書通り、空母6隻から計350機が発進します。世界初の、空母機動部隊による大規模奇襲攻撃でした。
+    caption: 空母6隻、350機の奇襲
+  - panel: p5
+    text: 攻撃成功の電報を受け取った山本は、勝利を喜ぶ部下に向かって、こう漏らしたと伝わります。「眠れる巨人を起こしてしまった」と。
+    caption: 「眠れる巨人を起こしてしまった」
+  - panel: p6
+    text: その予言通り、4年後の1945年、日本は焼け野原になります。真珠湾の炎は、勝利の合図ではなく、敗戦への序曲だったんです。
+    caption: 4年後の1945年、予言は現実に
+en:
+  title: 'Why the Architect of Pearl Harbor Knew Japan Would Lose #Shorts'
+  description: 'On December 7, 1941, Admiral Yamamoto''s master plan devastated Pearl Harbor. But he was also the one man who warned it would lead to Japan''s ruin.
+
+    This is the story of his tragic gamble.
+
+
+    #Shorts #History #WW2 #PearlHarbor #Yamamoto'
+  hook_caption: He Planned The Attack He Never Wanted
+  series_brand: Animated War History
+  voice_speaker: Aiden
+  narration:
+  - panel: p6
+    text: December 7th, 1941. The US Pacific Fleet lies in ruins at Pearl Harbor.
+    caption: Pearl Harbor Burns
+  - panel: p2
+    text: 'The architect of this devastating attack was one man: Admiral Isoroku Yamamoto.'
+    caption: The Architect
+  - panel: p3
+    text: But here's the twist—Yamamoto was the biggest opponent of war with America in Japan's high command.
+    caption: A War He Opposed
+  - panel: p3
+    text: He knew America's industrial power was immense, and that a long war meant certain defeat for Japan.
+    caption: An Unwinnable War
+  - panel: p4
+    text: 'His plan was a desperate gamble: a single, crushing blow to force the U.S. to the peace table before it was too late.'
+    caption: A Desperate Gamble
+  - panel: p5
+    text: 'When he heard the news of his success, he didn''t celebrate. He simply said: ''I fear we have awakened a sleeping giant.'''
+    caption: Awakened a giant

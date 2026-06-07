@@ -1,0 +1,236 @@
+id: artisan-nakagawa-masashichi-300y
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic close-up of a pair of weathered male Japanese hands
+
+    filling the square frame, calloused fingers gently stretching a
+
+    length of pale natural cream-white hand-woven hemp linen fabric
+
+    (奈良晒) between thumb and forefinger, every individual fiber and
+
+    weave thread sharply visible, soft warm afternoon tatami-room light
+
+    catching the texture of the cloth, a faint shadow of a small decora-
+
+    tive kanji shop crest 「中川政七」 visible on a wooden tray edge
+
+    beside the hands, the visual of "310 years of hands stretching one
+
+    thread of Nara hemp linen". Subject filling square center for verti-
+
+    cal short layout with blurred padding above and below. Decorative
+
+    kanji 「中川政七」 readable but small.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Year 1716 Edo-era Nara Japan, an early-summer morning, mid-shot of
+
+    the narrow stone-paved approach street in front of Kofuku-ji temple
+
+    in central Nara, a young Japanese hemp-cloth merchant in flowing
+
+    dark indigo robes and a neat topknot hairstyle bowing respectfully
+
+    outside the entrance of a modest single-story wooden shop with
+
+    hanging noren curtains, a wooden shop sign above the entrance with
+
+    decorative kanji 「中川政七」 readable carved in dark wood, a small
+
+    stack of folded pale-cream hemp linen bundles visible inside the
+
+    shop, the five-story pagoda of Kofuku-ji rising softly in the
+
+    background, the visual of "the day a small Nara hemp-cloth shop
+
+    opened in 1716". Clearly Edo-era Nara Japan setting. Mid-shot.
+
+    Decorative kanji 「中川政七」 readable.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern infographic on warm parchment-cream background, a
+
+    horizontal decorative English timeline reading "1716" on the left
+
+    and "2026" on the right, small stylized icons spaced along the
+
+    line: a samurai topknot, a black-ship steamship, a Meiji-era top
+
+    hat, a vintage Showa transistor radio, a smartphone, a single
+
+    golden thread of hemp linen running through all of them labeled
+
+    decoratively in English "NAKAGAWA MASASHICHI", a small decorative
+
+    English subheadline "14 GENERATIONS — ONE FAMILY — NARA", the
+
+    visual of "310 years of one Nara craft house surviving every
+
+    era of Japan". Pure infographic composition. Decorative English
+
+    and decorative kanji 「中川政七」 readable but small. No people.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Inside a quiet softly lit traditional Nara workshop, a 40-something
+
+    Japanese male company president, the 14th-generation head, slim
+
+    build, neatly cut short black hair lightly greying at the temples,
+
+    thin black rectangular-frame glasses, gentle thoughtful expression,
+
+    wearing a soft natural-linen unstructured beige jacket over an ecru
+
+    hemp-linen collared shirt and dark indigo cotton trousers, gently
+
+    demonstrating to two younger Japanese apprentices in matching
+
+    indigo cotton work jackets the precise way to fold a fine pale-
+
+    cream hemp linen cloth onto a wooden display tray, a row of
+
+    bamboo cloth tools and folded hemp bundles on the workshop bench,
+
+    a small wall plaque with decorative kanji 「中川政七」 readable,
+
+    warm afternoon light through paper shoji windows, the visual of
+
+    "the 14th-generation owner teaching apprentices a 310-year-old
+
+    craft". Clearly traditional Nara Japan workshop setting. Mid-shot.
+
+    Character: {nakagawa_masashichi_14}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    The interior of an elegant modern flagship Nakagawa Masashichi
+
+    Shoten lifestyle store inside a contemporary central Tokyo shopping
+
+    complex, refined minimalist wood-and-paper architecture with
+
+    polished cypress display counters and bright soft natural lighting,
+
+    shelves lined with neatly folded pale-cream hemp linen tea towels,
+
+    modern hemp linen bags, and small ceramic homeware items each
+
+    labeled decoratively in English "NAKAGAWA MASASHICHI", the same 40-
+
+    something Japanese male 14th-generation owner in a soft natural-
+
+    linen beige jacket and ecru collared shirt standing calmly handing
+
+    a small dark-paper-wrapped gift box to an elegantly dressed
+
+    Japanese woman customer, a subtle wall sign behind him with
+
+    decorative kanji 「日本の工芸を元気にする！」 readable, the visual
+
+    of "the family motto — make Japanese craft healthy again". Clearly
+
+    modern central Tokyo Japan retail setting. Mid-shot.
+
+    Character: {nakagawa_masashichi_14}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic close-up framing as panel 1 of the pair of
+
+    weathered Japanese hands filling the square center, this time
+
+    slightly later — the same calloused fingers now gently folding the
+
+    finished length of pale natural cream-white hand-woven hemp linen
+
+    cloth into a neat square onto a small dark lacquered wooden tray,
+
+    a small folded paper card beside the cloth with decorative kanji
+
+    「中川政七 三百十年」 readable, soft warm afternoon tatami-room
+
+    light now slightly warmer golden, the visual of "310 years of
+
+    Nara hemp, folded into one square". Subject filling square center
+
+    for vertical short layout with blurred padding above and below.
+
+    '
+ja:
+  title: '奈良300年の麻職人、中川政七商店 #Shorts'
+  description: '奈良に、310年続いた1716年創業の老舗があるのを、ご存じですか?
+
+    伝統の麻織物から現代のライフスタイルブランドへ、14代続く中川政七商店の物語を、30秒で紹介します。
+
+
+    #Shorts #職人 #老舗 #奈良 #中川政七商店
+
+    '
+  hook_caption: 奈良300年の麻職人
+  series_brand: 中川政七商店
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 奈良に、310年前の1716年から続く、麻織物の老舗があるのを、ご存じですか?その名は、中川政七商店です。
+    caption: 奈良の中川政七商店、創業1716年
+  - panel: p2
+    text: 創業者の中屋喜兵衛は、奈良晒という、奈良の伝統的な手織麻を、商う小さな店を、興福寺の門前で開いたんです。江戸幕府の御用達商人でもありました。
+    caption: 江戸時代、奈良晒の御用達商人として開業
+  - panel: p3
+    text: 中川政七商店は、創業から310年、14代にわたって、奈良晒の家業を、絶やさず受け継いできました。明治・大正・昭和の動乱を、家業として乗り越えたんです。
+    caption: 14代続いた奈良晒の家業
+  - panel: p4
+    text: 13代目から、当主のすべては、政七という襲名を、継いでいます。現当主の14代目政七は、慶應SFCを卒業後の2008年に、家業を継承した、若き経営者です。
+    caption: 14代目政七、慶應SFC卒の若き当主
+  - panel: p5
+    text: 14代目が、日本の工芸を元気にする、という経営理念を掲げたので、中川政七商店は、奈良の老舗から、全国60店舗を展開する、現代ライフスタイル企業へと、変貌しました。
+    caption: 日本の工芸を元気にする経営理念
+  - panel: p6
+    text: 麻織物から始まった奈良の家業が、現代日本のライフスタイル文化を、再定義し続けています。家訓を変えず、しかし時代に、変わり続ける——それが、310年続いた理由です。
+    caption: 310年続いた、変わらず、変わり続ける
+en:
+  title: 'This Family Business is Over 300 Years Old #Shorts'
+  description: 'Founded in 1716, Nakagawa Masashichi Shoten has transformed from a traditional linen weaver in Nara into a modern Japanese lifestyle brand. Here''s the 300-year story of how 14 generations
+    kept their craft alive.
+
+
+    #Shorts #Japan #Craftsmanship #History #Business'
+  hook_caption: They've run the same business since 1716
+  series_brand: Nakagawa Masashichi Shoten
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In Nara, Japan, one family has been passing down the same craft since 1716.
+    caption: Founded in 1716
+  - panel: p2
+    text: It began as a small shop selling traditional hand-woven linen, even becoming an official purveyor to the Shogun's government.
+    caption: Serving the Shogun
+  - panel: p3
+    text: For 14 generations, the family business has survived wars, disasters, and massive social change.
+    caption: 14 Generations
+  - panel: p4
+    text: But in 2008, a young, 14th-generation heir took the reins with a bold new vision.
+    caption: A New Vision
+  - panel: p5
+    text: He set out to 'energize Japanese crafts,' transforming the company into a modern lifestyle brand with stores all across Japan.
+    caption: Modern Lifestyle Brand
+  - panel: p6
+    text: Their secret to lasting over 300 years? Honor tradition, but never stop changing with the times.
+    caption: The Secret to 300 Years

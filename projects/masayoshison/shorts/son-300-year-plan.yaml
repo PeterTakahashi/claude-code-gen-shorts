@@ -1,0 +1,112 @@
+id: son-300-year-plan
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A massive darkened auditorium stage in Tokyo, Masayoshi Son in his 60s standing alone center-stage in a single spotlight, gesturing with one open hand toward a huge wall-projection behind him that reads
+    in bold English "300 YEARS" with a long timeline arrow stretching from "2010" all the way to "2310", thousands of audience silhouettes in dimmed seats, the man and his vision dwarfed and magnified by
+    the scale of the timeline. Wide shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A generic Japanese corporate boardroom, a group of grey-suited middle-aged Japanese male executives seated around a long table, examining a printed 3-year business plan binder, fluorescent overhead
+    lights, conservative dull atmosphere, conveying ordinary corporate short-term thinking. No Masayoshi Son in this panel.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Masayoshi Son in his 60s onstage in a 2010 Tokyo investor presentation, standing in front of a wall-projection showing a complex multi-generational timeline labeled in Japanese "300年ビジョン" but also with
+    English numerals and dates from 2010 to 2310, slides showing waves of technological evolution, Son turning back to the audience with intense gaze, a single ray of stage light on him. Three-quarter view.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An imagined far-future city skyline at sunrise, sleek towers, autonomous flying vehicles in the sky, robotic figures walking among humans, soft optimistic golden lighting, the kind of 22nd-century vision
+    a long-term founder might dream of, no specific person in frame, purely a vision plate.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Masayoshi Son in his 60s alone at his Tokyo office at late night, a single desk lamp on, sitting in a leather chair gazing at a small framed photograph on his desk, an old paperback book of Sakamoto
+    Ryoma history visible beside him, the office dark except for the lamp, conveying private reflection on a 300-year-long arc of history. Side profile.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A very wide shot of the same Tokyo auditorium stage, the "300 YEARS" projection enormous on the back wall, Masayoshi Son a tiny single figure center-stage in the spotlight, the audience silhouettes
+    a vast sea around him, conveying both the loneliness and the scale of a 300-year vision. Pulled-back wide-angle.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '300年続く会社を作る男 #Shorts'
+  description: '普通の経営者は3年先を見る。ソンは300年先を見ている。100年後でも続く企業を作るという、彼の異常な長期ビジョンの話。
+
+
+    #Shorts #孫正義 #Softbank #人物伝
+
+    '
+  hook_caption: 300年続く会社を作る男
+  series_brand: 孫正義伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 普通の経営者が3年先を見る時、彼は、300年先を見ています。
+    caption: 普通は3年、彼は300年
+  - panel: p2
+    text: 日本の上場企業の平均寿命は、たった30年ほど。100年続く企業は、ほぼ存在しません。
+    caption: 日本企業の平均寿命は30年
+  - panel: p3
+    text: ところが2010年、ソンは発表しました。ソフトバンクは、300年続く企業グループを作る、と。
+    caption: 2010年、300年ビジョン発表
+  - panel: p4
+    text: 理由は、技術の進化が、もう、一世代では終わらないからです。
+    caption: 技術は一世代で終わらない
+  - panel: p5
+    text: 10年後、20年後ではなく、彼が想像しているのは、自分の死後、200年経った世界の姿。
+    caption: 彼が見るのは死後200年の世界
+  - panel: p6
+    text: 1人の人間が、300年生きる会社を作ろうとする——それが、孫正義の異常な時間感覚です。
+    caption: 300年生きる会社を作る男
+en:
+  title: 'The CEO Who Thinks 300 Years Ahead #Shorts'
+  description: 'While most CEOs focus on the next quarter, Masayoshi Son plans for the next 300 years. This is the story of his epic, almost unbelievable long-term vision for SoftBank.
+
+
+    #MasayoshiSon #SoftBank #Visionary #Business #Shorts'
+  hook_caption: Most CEOs Plan 3 Years Ahead. He Plans 300.
+  series_brand: The Masayoshi Son Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: Most corporate executives are focused on the next 3-year plan.
+    caption: The 3-Year Plan
+  - panel: p1
+    text: But one man, Masayoshi Son, is planning for the next 300.
+    caption: The 300-Year Plan
+  - panel: p3
+    text: In 2010, he declared that his company, SoftBank, would be built to last for three centuries.
+    caption: A 3-Century Vision
+  - panel: p4
+    text: He believes technological revolutions now span multiple generations, and so must the companies that lead them.
+    caption: Beyond one lifetime
+  - panel: p5
+    text: He isn't just picturing the next decade... he's imagining the world 200 years after he's gone.
+    caption: 200 years post-mortem
+  - panel: p6
+    text: One man's quest to build a company that will live for 300 years—this is his incredible sense of time.
+    caption: Legacy for the Ages

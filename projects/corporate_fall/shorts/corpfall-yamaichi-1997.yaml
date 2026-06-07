@@ -1,0 +1,199 @@
+id: corpfall-yamaichi-1997
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 1997, a packed Japanese corporate press conference room
+
+    in central Tokyo, a 60-something Japanese male securities-firm
+
+    president with balding short grey hair, square wire-frame glasses,
+
+    dark navy double-breasted suit, sitting at a long press table
+
+    with two grim colleagues, both hands pressed onto the table as
+
+    he bows his head with tears openly streaming down his face, dozens
+
+    of camera flashes from journalists in the foreground, a Yamaichi-
+
+    style corporate logo backdrop behind him in muted blue. Mid close-
+
+    up. Clearly Japanese press conference setting in Tokyo Japan. No
+
+    Japanese text in image.
+
+    Character: {nogami_yamaichi}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    1980s late-bubble-era Tokyo central business district, a tall
+
+    proud Japanese securities firm headquarters building with the
+
+    corporate brand carved in decorative English "EST. 1897" on a
+
+    marble facade, busy Japanese salarymen in dark suits hurrying in
+
+    and out, glossy black company cars at the entrance, the visual
+
+    of "a 100-year giant of Japanese finance at its peak", warm
+
+    late-afternoon golden light. Wide shot. Clearly Japanese Tokyo
+
+    financial district setting. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-1990s dimly-lit Japanese executive boardroom in Tokyo, a small
+
+    group of older Japanese male executives in dark suits clustered
+
+    anxiously around a long mahogany table covered in messy paper
+
+    ledgers, a single hidden file folder labeled in decorative
+
+    English "OFF-BOOK LOSSES" being slid under another stack, low
+
+    tense lighting, the visual of "hidden losses kept off the books
+
+    for decades". Mid-shot. Clearly Japanese corporate setting in
+
+    Tokyo Japan. No Japanese text in image.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 24th 1997, the steps of the Japanese Ministry of Finance
+
+    building in central Tokyo on a cold late-autumn night, a
+
+    60-something Japanese securities-firm president with balding grey
+
+    hair and square wire-frame glasses, dark navy suit, emerging
+
+    exhausted from the front doors flanked by aides, his face gaunt
+
+    and stunned, a few late-night journalists with cameras catching
+
+    him at the bottom of the steps, the visual of "the night the
+
+    voluntary closure was announced". Mid-shot. Clearly Tokyo Japan
+
+    setting. No Japanese text.
+
+    Character: {nogami_yamaichi}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same Tokyo press conference room moments later, the same
+
+    60-something Japanese securities-firm president with balding
+
+    grey hair, wire-frame glasses, dark navy suit, this time clearly
+
+    sobbing openly with both hands clenched on the table, head bowed,
+
+    tears falling onto the wood, microphones thrust toward him by
+
+    Japanese reporters in dark suits, the famous moment of a corporate
+
+    president crying for his employees on live national TV, soft sad
+
+    lighting. Mid close-up. Clearly Japanese press conference setting
+
+    in Tokyo Japan. No Japanese text.
+
+    Character: {nogami_yamaichi}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late November 1997, the empty marble entrance hall of the former
+
+    Yamaichi-style securities firm headquarters building in central
+
+    Tokyo, the brass corporate plaque on the wall reading in
+
+    decorative English "EST. 1897", a single janitor in grey
+
+    coveralls quietly pulling down a large decorative English banner
+
+    that says "100 YEARS — CLOSED 1997", cold blue late-evening
+
+    light through tall windows, no other employees visible, the
+
+    empty image of "100 years over in a single night". Wide shot.
+
+    Clearly Tokyo Japan setting. No Japanese text.
+
+    '
+ja:
+  title: '100年続いた山一證券が一晩で消えた日 #Shorts'
+  description: '1997年11月、創業100年の名門証券会社が、たった一晩で自主廃業を発表した。
+
+    社長の涙の謝罪会見が、平成不況の象徴として、今も語り継がれる事件を30秒で解説します。
+
+
+    #Shorts #倒産 #山一證券 #平成不況 #日本企業
+
+    '
+  hook_caption: 山一證券が消えた夜
+  series_brand: バルトゥーン倒産企業
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「社員は悪くありません!」——テレビの記者会見で、社長が泣き崩れた、29年前の1997年の事件を知っていますか?
+    caption: 社長が泣き崩れた1997年の会見
+  - panel: p2
+    text: 当時の山一證券は、1897年創業の100年企業で、日本四大証券の一角。バブル期には、誰もが安泰だと信じる、超優良ブランドでした。
+    caption: 創業100年の四大証券の一角
+  - panel: p3
+    text: ところが内部では、バブル崩壊後の巨額の含み損を、簿外に隠す不正、いわゆる「飛ばし」が、長年続いていたんです。表向きの黒字は、嘘でした。
+    caption: 「飛ばし」で巨額損失を簿外隠し
+  - panel: p4
+    text: 1997年11月、隠しきれない損失が、約2600億円規模で発覚し、大蔵省に呼ばれた経営陣は、その夜、自主廃業を、決断します。
+    caption: 1997年11月、自主廃業を決断
+  - panel: p5
+    text: 翌日の会見で、当時の社長は、責任を問う記者団を前に、社員は悪くありません、悪いのは我々経営陣です、と号泣しながら頭を下げました。
+    caption: 「社員は悪くありません」と号泣
+  - panel: p6
+    text: そして100年続いた名門は、たった一晩で、消滅。約7500人の社員が職を失い、平成不況を象徴する、もっとも痛切な一夜として、今も語り継がれています。
+    caption: 100年企業が一晩で消滅
+en:
+  title: 'How a 100-Year-Old Company Vanished Overnight #Shorts'
+  description: 'In 1997, a 100-year-old financial giant collapsed overnight. This is the story of Yamaichi Securities'' dramatic end, marked by its president''s tearful public apology.
+
+
+    #Shorts #History #Japan #Finance #Business'
+  hook_caption: Why This CEO Cried On National TV
+  series_brand: BarlToon Bankrupt Companies
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: At a packed press conference in 1997, a CEO broke down in tears, shouting "My employees are not to blame!"
+    caption: CEO breaks down
+  - panel: p2
+    text: His company, Yamaichi Securities, was a 100-year-old giant, one of Japan's 'Big Four' financial firms. It was considered untouchable.
+    caption: A financial giant
+  - panel: p3
+    text: But behind the scenes, the firm was hiding enormous losses from the burst of Japan's bubble economy. Their profits were a complete lie.
+    caption: Hiding huge losses
+  - panel: p4
+    text: 'In November 1997, the truth finally came out: over $2.2 billion in secret debt. That night, they made a drastic decision: to shut down for good.'
+    caption: The truth comes out
+  - panel: p5
+    text: In his now-famous speech, he pleaded with the public, "It is we, the management, who are at fault! I am begging you... please help my employees find new jobs."
+    caption: A desperate plea
+  - panel: p6
+    text: Overnight, the century-old firm was gone. 7,500 people lost their jobs, and the event became a painful symbol of Japan's 'Lost Decade.'
+    caption: 7,500 jobs lost

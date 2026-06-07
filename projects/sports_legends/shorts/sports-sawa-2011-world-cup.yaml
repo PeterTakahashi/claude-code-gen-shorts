@@ -1,0 +1,63 @@
+id: sports-sawa-2011-world-cup
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic 2011 women's soccer World Cup final scene in Germany, midfielder Homare Sawa
+      in the blue Nadeshiko Japan uniform leading her teammates onto the pitch, packed stadium
+      crowd, conveying "the captain who carried a wounded nation's hopes". Cinematic stadium
+      lighting. Recognizable likeness of Homare Sawa.
+  - id: p2
+    prompt: |
+      A solemn scene of Sawa and her teammates with arms linked before kickoff, a small flag
+      displaying "がんばろう日本" (Stand Up Japan) in the corner of the frame, conveying "they
+      played just months after the 2011 earthquake and tsunami". Emotional, weighty mood.
+      Likeness of Homare Sawa.
+  - id: p3
+    prompt: |
+      A tense match scene of Japan trailing the USA, the Americans much taller, Sawa
+      directing her teammates with a calm focused gaze in extra time, conveying "twice they
+      fell behind, twice they fought back". Intense competitive tone. Likeness of Homare Sawa.
+  - id: p4
+    prompt: |
+      A breathtaking moment of Sawa flicking a corner-kick ball with her heel into the goal
+      in the 117th minute, the ball curving in, goalkeeper unable to react, conveying "the
+      legendary back-heel equalizer". Dynamic, electric. Likeness of Homare Sawa.
+  - id: p5
+    prompt: |
+      A scene of Sawa lifting the women's World Cup trophy with her teammates on the podium,
+      confetti raining down, tears of joy, conveying "Japan won the world title — a first for
+      Asia". Glorious, triumphant tone. Likeness of Homare Sawa.
+  - id: p6
+    prompt: |
+      A quiet dignified portrait of Sawa with the trophy, looking up to the sky, conveying
+      "a goal that gave a grieving nation hope". Reverent, moving stadium light.
+      Likeness of Homare Sawa.
+ja:
+  title: '澤穂希、震災の年に世界一を呼んだヒール一閃 #Shorts'
+  description: |
+    2011年、東日本大震災から数か月後、女子サッカー日本代表「なでしこジャパン」は世界の頂点に挑む。決勝の延長後半、キャプテン澤穂希のかかとが、伝説の同点ゴールを生む。傷ついた日本に希望を灯した一閃を30秒で解説します。
+
+    #Shorts #スポーツ #澤穂希 #なでしこジャパン #名場面
+  hook_caption: 澤穂希、震災の年に世界一を呼んだ一閃
+  series_brand: 澤穂希
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 2011年、女子サッカー日本代表「なでしこジャパン」を率いていたのが、キャプテン澤穂希です。彼女は、世界一を狙ってドイツへ乗り込みました。
+      caption: 2011年、なでしこを率いた澤穂希
+    - panel: p2
+      text: その年、日本は東日本大震災で深く傷ついていました。なでしこは、傷ついた国の希望そのものを、両肩に背負って戦います。
+      caption: 震災で傷ついた日本の希望を背負った
+    - panel: p3
+      text: 決勝の相手は、強豪アメリカ。体格でも勝てない格上に対し、日本は2度リードを許しながら、そのたびに食らいついていきます。
+      caption: 強豪米国に2度先行を許すも食らいつく
+    - panel: p4
+      text: そして延長後半、コーナーキックの瞬間。澤さんは、ゴール前でかかとに合わせ、絶妙にボールをそらします。これが、伝説の同点ゴールでした。
+      caption: 延長後半、かかとで伝説の同点ゴール
+    - panel: p5
+      text: PK戦の末、なでしこは優勝。アジア勢として初めて、女子サッカーの世界の頂点に立った、歴史的瞬間でした。
+      caption: PK戦を制しアジア初の世界一に輝いた
+    - panel: p6
+      text: 一本のかかとから始まった、奇跡の優勝。澤穂希のあの一閃は、傷ついた人々の心に、消えない光をともしたのです。
+      caption: 一本のかかとが傷ついた人々に光を灯した

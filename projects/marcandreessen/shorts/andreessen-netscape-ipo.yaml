@@ -1,0 +1,186 @@
+id: andreessen-netscape-ipo
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The famous Time magazine cover-style scene from 1996. A young Marc
+
+    Andreessen, age 24, sitting barefoot on a large ornate golden throne in
+
+    the middle of a soft green meadow, wearing a wrinkled plain t-shirt and
+
+    jeans, his big toes prominently visible, a confident slightly amused
+
+    half-smile on his face, his still-full curly light-brown hair messy, soft
+
+    cinematic late-afternoon light. The image conveys: the kid who just made
+
+    a billion dollars overnight. A surreal triumphant tableau.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 1994, a small modest apartment in Mountain View California. Jim
+
+    Clark — a tall white American man in his 50s with silver-grey hair
+
+    swept back, a strong angular face, deep-set blue eyes, the bearing of a
+
+    seasoned tech founder (he had just left Silicon Graphics) — sitting
+
+    across a small kitchen table from a 22-year-old Marc Andreessen, both
+
+    leaning in talking intently, a single laptop open between them, soft
+
+    afternoon California light. The exact moment a legendary partnership
+
+    formed.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1994, the early Netscape office in Mountain View California. A
+
+    crowded open-plan room with about eight young engineers in their 20s
+
+    hunched over beige CRT monitors, soda cans and empty pizza boxes
+
+    everywhere, a hand-drawn whiteboard listing "Mozilla 0.9 ship dates" and
+
+    "BEAT MICROSOFT". Marc Andreessen, age 23, standing in the middle of the
+
+    room with a serious focused expression, hands on his hips, surveying his
+
+    team. Mid-shot. The atmosphere of a 6-month sprint to define the Web.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    August 9, 1995, the New York Stock Exchange trading floor. A chaotic
+
+    sea of mid-1990s traders in striped jackets shouting and waving paper
+
+    orders, a huge ticker display showing "NSCP" stock symbol with green
+
+    arrows shooting upward, a number "$58.25" prominently visible after
+
+    opening at $28. Bright fluorescent lighting, mid-1990s computer
+
+    monitors. The exact moment the dot-com bubble began. No specific
+
+    recognizable faces.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Artistic webtoon-style collage of overlapping mid-1990s American
+
+    newspaper and magazine front pages spread on a wooden table — Wall
+
+    Street Journal, New York Times, Fortune, Business Week — each
+
+    prominently featuring a small grainy photo of a young curly-haired Marc
+
+    Andreessen, big bold English headlines visible as shapes ("KID
+
+    BILLIONAIRE", "NETSCAPE STUNS WALL STREET", "THE WEB ECONOMY BEGINS")
+
+    written in clearly readable English block letters, warm desk lamp
+
+    light from above.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Dawn after the IPO night, August 10, 1995, the empty Netscape office
+
+    with low orange morning light through floor-to-ceiling windows. A
+
+    24-year-old Marc Andreessen sitting alone on a desk in the middle of
+
+    the deserted open-plan room, looking out the window toward the early
+
+    San Francisco Bay sky, a soft tired half-smile, hands resting on his
+
+    knees, the city skyline faint in the distance. Quiet contemplative
+
+    framing. Conveys: the dot-com era has officially begun, and he is now
+
+    the face of it.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '24歳でNetscapeを上場させた男 #Shorts'
+  description: '1995年、24歳のマーク・アンドリーセンと共同創業者のジム・クラークが、Netscapeを上場させた。
+
+    株価は初日に2倍以上に跳ね上がり、dot-comバブルが始まった。
+
+
+    #Shorts #マークアンドリーセン #Netscape #JimClark #人物伝
+
+    '
+  hook_caption: 24歳で時価総額29億ドルになった男
+  series_brand: マーク・アンドリーセン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 24歳で、時価総額29億ドルの会社を、ゼロから作り上げた男がいます。
+    caption: 24歳で時価総額29億ドル
+  - panel: p2
+    text: 1994年、マーク・アンドリーセンは、シリコングラフィックスを離れたばかりの、ジム・クラークと出会いました。
+    caption: 1994年、ジム・クラークと出会う
+  - panel: p3
+    text: 2人は、すぐにNetscapeを創業し、Microsoftより速く、商用Webブラウザを、出荷したんです。
+    caption: Netscape創業、Microsoftより速く
+  - panel: p4
+    text: そして翌年1995年8月、Netscapeは、まだ利益ゼロのまま、ニューヨーク証券取引所に、上場しました。
+    caption: 1995年、利益ゼロで上場
+  - panel: p5
+    text: 株価は、初日で、2倍以上に跳ね上がり、24歳のアンドリーセンは、紙の上で、億万長者になりました。
+    caption: 初日で株価2倍、24歳で億万長者
+  - panel: p6
+    text: そして、dot-comバブルという、長い10年が、ここから始まったんです。
+    caption: dot-comバブルが始まった
+en:
+  title: 'The 24-Year-Old Who Ignited the Dot-Com Bubble #Shorts'
+  description: 'In 1995, Marc Andreessen took his company Netscape public despite having zero profits. The explosive IPO made him a millionaire overnight and kicked off the dot-com bubble that defined a
+    decade.
+
+
+    #Shorts #MarcAndreessen #Netscape #DotComBubble #TechHistory'
+  hook_caption: He Took His Company Public With $0 Profit
+  series_brand: The Marc Andreessen Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p4
+    text: In August 1995, Wall Street went into a frenzy over a company that had never made a single dollar in profit.
+    caption: Wall Street Frenzy
+  - panel: p2
+    text: Just 18 months earlier, its 24-year-old founder, Marc Andreessen, had teamed up with Silicon Valley veteran Jim Clark.
+    caption: 18 Months Earlier
+  - panel: p3
+    text: Their startup, Netscape, raced to ship the world's first major commercial web browser—beating Microsoft to the punch.
+    caption: Beating Microsoft
+  - panel: p1
+    text: The massive IPO instantly crowned Andreessen a king of the new internet age.
+    caption: King of the Internet
+  - panel: p5
+    text: The stock price more than doubled on its first day, making him a millionaire on paper overnight.
+    caption: Overnight Millionaire
+  - panel: p6
+    text: And just like that, the decade-long dot-com bubble had officially begun.
+    caption: The Bubble Begins

@@ -1,0 +1,186 @@
+id: geohot-comma-ai-founding
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2015, daylight on a wide California highway near San Francisco. A
+
+    26-year-old George Hotz sitting in the driver''s seat of a 2016 white
+
+    Honda Acura ILX, his hands raised away from the steering wheel,
+
+    laughing in disbelief, the wheel turning slightly by itself, a custom
+
+    black aftermarket device with a small camera mounted on the windshield
+
+    glass above the rearview mirror. Bright California sun through the
+
+    windshield, palm trees blurring past outside. Mid-shot from the
+
+    passenger seat angle. Conveys: a guy driving hands-free in a car he
+
+    retrofitted himself in his garage.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2015 inside a one-car suburban San Francisco garage at evening. A
+
+    white Honda Acura with its hood up parked inside, surrounded by tangled
+
+    cables, oscilloscopes, three large monitors on a workbench, soldering
+
+    stations, dismantled cameras and a small fridge. No humans yet. Warm
+
+    orange single-bulb lighting. The garage where comma.ai was born. Wide
+
+    establishing shot.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-2015 inside a sleek Tesla Fremont California office. A confident
+
+    Elon Musk — tall white American man in his early 40s, short brown hair,
+
+    simple black t-shirt and dark jeans — leaning forward across a glass
+
+    meeting table, extending one hand in offer toward a 25-year-old George
+
+    Hotz sitting across from him, dishevelled curly hair, plain grey
+
+    t-shirt, expression composed but skeptical, arms loosely on the table.
+
+    Bright daylight through floor-to-ceiling windows showing parked Tesla
+
+    cars outside. Side mid-shot, the moment of an offer made and not yet
+
+    accepted.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 3am scene inside the comma.ai garage in late 2015. A 26-year-old
+
+    George Hotz, dishevelled curly hair sticking up, shirtless in baggy
+
+    black gym shorts, sitting cross-legged on a beat-up office chair in
+
+    front of three monitors, fingers flying across a mechanical keyboard,
+
+    Python code with neural network layer definitions filling the screens,
+
+    his face lit cold blue from the monitors, focused intensity. A live
+
+    Twitch streaming camera mounted on a tripod beside him with a small red
+
+    "LIVE" dot. Three-quarter rear view. Conveys: a one-man car company.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Close-up product shot on a plain wooden table — a small sleek black
+
+    aftermarket device the size of a smartphone, labelled subtly "comma"
+
+    with a single camera lens on the front and a USB-C port on the side,
+
+    packaged in a minimalist white cardboard box partially open. A printed
+
+    card visible reading "$999 - Drive smarter". Soft daylight. No people.
+
+    The first commercial product of a self-driving startup born in a
+
+    garage, sold at a fraction of Tesla''s price.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2015 evening in the comma.ai garage. A 26-year-old George Hotz
+
+    standing in the foreground, arms crossed loosely, a wide proud smirk
+
+    on his face, dishevelled curly hair, faint stubble, black t-shirt and
+
+    shorts. Behind him the modified white Honda Acura with the comma
+
+    device mounted to the windshield, surrounded by monitors and cables.
+
+    Warm garage light. Front mid-portrait framing. Conveys: a man who said
+
+    no to Elon and built his own answer.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'ガレージでTeslaに挑んだ男 #Shorts'
+  description: '2015年、ジョージ・ホッツは、自宅のガレージで、Tesla Autopilotに対抗する自動運転システムを作り上げた。
+
+    Elon Muskが提示したオファーも、彼は断った。
+
+
+    #Shorts #ジョージホッツ #commaai #Tesla #人物伝
+
+    '
+  hook_caption: ガレージでTeslaに挑んだ男
+  series_brand: ジョージ・ホッツ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 自宅のガレージで、たった1人で、Teslaの自動運転に、挑んだ男がいます。
+    caption: 1人でTeslaに挑んだ男
+  - panel: p2
+    text: 2015年、ジョージ・ホッツは、自分のHondaを改造し、5ヶ月で、自動運転システムを、完成させました。
+    caption: Hondaを改造、5ヶ月で完成
+  - panel: p3
+    text: 実は、その少し前、Elon Muskが、彼に、Tesla Autopilotチームの、トップ就任を打診していたんです。
+    caption: MuskがTesla入りを打診
+  - panel: p4
+    text: しかし、彼は、その破格のオファーを、あっさり断り、ガレージに戻りました。
+    caption: 破格オファーを断りガレージへ
+  - panel: p5
+    text: そして、comma.aiを創業し、わずか999ドルの、後付け自動運転デバイスを、発売したんです。
+    caption: comma.ai創業、999ドルで販売
+  - panel: p6
+    text: Teslaに、安価な代替手段で挑む——それが、彼の選んだ道でした。
+    caption: Teslaに安価代替で挑む道
+en:
+  title: 'He Built a Tesla Rival in His Garage #Shorts'
+  description: 'In 2015, legendary hacker George Hotz turned down a huge offer from Elon Musk. Instead, he built a competing self-driving car system in his own garage. This is the story of Comma.ai.
+
+    #Shorts #GeorgeHotz #CommaAI #Tesla #ElonMusk'
+  hook_caption: He Turned Down a Job From Elon Musk
+  series_brand: The George Hotz Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p3
+    text: Elon Musk personally offered him a multi-million dollar deal to lead Tesla's Autopilot team.
+    caption: A deal from Musk
+  - panel: p4
+    text: But legendary hacker George Hotz turned him down flat... to go back to his garage.
+    caption: He said no.
+  - panel: p2
+    text: Working alone, he spent the next five months hacking his own 2016 Acura.
+    caption: 5 months of hacking
+  - panel: p1
+    text: The result? A self-driving system that could go toe-to-toe with the industry giant.
+    caption: Rivaling Tesla
+  - panel: p5
+    text: He founded Comma.ai and packaged the technology into a kit that sold for just $999.
+    caption: Sold for $999
+  - panel: p6
+    text: Instead of taking the easy money, he chose to build his own competition from scratch.
+    caption: Built his own way

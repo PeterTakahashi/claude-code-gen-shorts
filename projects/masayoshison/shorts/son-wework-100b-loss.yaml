@@ -1,0 +1,114 @@
+id: son-wework-100b-loss
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Masayoshi Son in his early 60s standing alone at a press conference podium in November 2019 Tokyo, dim grey lighting, his head slightly lowered in admission, behind him a giant projected slide showing
+    a red-line stock chart cratering downward labeled in English "WeWork", camera flashes from photographers in the foreground, his expression grave, conveying the public moment a legendary investor admits
+    a 10-billion-dollar mistake. Front-three-quarter shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern glass-walled WeWork office, 2017, Masayoshi Son in his late 50s being toured around by a charismatic tall long-haired bearded Adam Neumann who is gesturing with both arms wide, explaining his
+    vision, employees on bean-bag chairs in the background, kombucha taps and neon signs visible, the founder energy infectious. Side-angle of both men walking together.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A formal investment-signing scene in a corporate boardroom in 2017, Masayoshi Son and Adam Neumann seated side-by-side at a long polished table, both signing thick documents with pens, executive aides
+    in dark suits standing behind them, a banner subtly reading WeWork in the background, conveying the moment a multi-billion-dollar bet is formalized.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A dramatic split-screen-style composition: a financial news studio with a red BREAKING NEWS banner saying in English "WeWork IPO POSTPONED", a frantic ticker tape running red numbers along the bottom,
+    a photograph of Adam Neumann projected on screen, anchor figures looking grave, conveying the chaotic September 2019 collapse of the IPO.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late night Tokyo office, Masayoshi Son in his early 60s alone in a leather chair, a single dim desk lamp on, his head resting in his palms, glasses on the desk beside him, a printed quarterly earnings
+    document with red ink showing massive losses on the desk, conveying private exhaustion and self-reckoning after the largest single mistake of his career. Side profile.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same Tokyo press conference setting in November 2019, but now Masayoshi Son lifting his head with quiet defiant eyes, a small wry self-aware smile forming, the cratered WeWork chart still glowing behind
+    him, the moment of acknowledging a 10-billion-dollar mistake while refusing to be broken by it. Front close-up.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'WeWorkで100億ドル失った日 #Shorts'
+  description: '2019年、ソフトバンクが投資したウィワークのIPOは、わずか6週間で崩壊した。アダム・ニューマンに賭けた100億ドルが消えた、孫正義最大の敗北の話。
+
+
+    #Shorts #孫正義 #Softbank #人物伝
+
+    '
+  hook_caption: WeWorkで100億ドル失った日
+  series_brand: 孫正義伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1日で、100億ドルを、失った男がいます。
+    caption: 1日で100億ドル消滅
+  - panel: p2
+    text: 2017年、ソンは、ウィワーク創業者のアダム・ニューマンに惚れ込みました。
+    caption: 2017年、ニューマンに惚れ込んだ
+  - panel: p3
+    text: そして、合計100億ドル以上を、ソフトバンクから注ぎ込んだんです。
+    caption: 合計100億ドル超を投資
+  - panel: p4
+    text: ところが2019年9月、ウィワークの上場申請が、わずか6週間で崩壊しました。
+    caption: 2019年9月、IPO崩壊
+  - panel: p5
+    text: ニューマンは追放され、ウィワークの企業価値は、470億ドルから一気に80億ドルへ。
+    caption: 470億ドルから80億ドルへ
+  - panel: p6
+    text: そして11月、ソンは公の場で認めました——「私の判断ミスでした」。1人の創業者に惚れる、その怖さを、世界が見た瞬間でした。
+    caption: 「私の判断ミスでした」
+en:
+  title: 'The Man Who Lost $10 Billion on WeWork #Shorts'
+  description: 'In 2019, Masayoshi Son and SoftBank''s massive bet on WeWork imploded. In just a few weeks, a $47 billion valuation vanished. This is the story of one of the most famous investment disasters.
+
+
+    #Shorts #MasayoshiSon #Softbank #WeWork #Business'
+  hook_caption: How to Lose $10 Billion
+  series_brand: The Masayoshi Son Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: This is the story of how one man lost ten billion dollars.
+    caption: A $10 Billion Loss
+  - panel: p2
+    text: It started when investor Masayoshi Son was captivated by WeWork's charismatic founder, Adam Neumann.
+    caption: A Charismatic Founder
+  - panel: p3
+    text: Convinced he'd found the next big thing, his company SoftBank invested over 10 billion dollars.
+    caption: The Big Bet
+  - panel: p4
+    text: But when WeWork filed to go public in 2019, the whole thing unraveled in just six weeks.
+    caption: IPO Disaster
+  - panel: p5
+    text: The company's value evaporated—crashing from 47 billion dollars to less than 8.
+    caption: Value Vanishes
+  - panel: p6
+    text: Son later had to admit publicly, 'It was my own poor judgment,' a costly lesson for the world.
+    caption: '"My own poor judgment"'

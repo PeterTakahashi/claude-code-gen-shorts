@@ -1,0 +1,60 @@
+id: corpfall-nokia
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      An early-2000s illustration of people all over the world holding small sturdy mobile phones,
+      a dominant phone brand everywhere, conveying "this company sold more phones than anyone".
+      Bright optimistic global tone, no real logos.
+  - id: p2
+    prompt: |
+      A confident corporate scene of executives celebrating huge market share charts, mountains of
+      classic button phones, conveying "at its peak it owned the mobile world". Triumphant
+      boardroom tone.
+  - id: p3
+    prompt: |
+      A pivotal 2007 scene of a sleek new touchscreen smartphone glowing on a stage, the crowd
+      amazed, while the button-phone executives watch uneasily, conveying "then the touchscreen
+      smartphone arrived". Dramatic turning-point lighting.
+  - id: p4
+    prompt: |
+      A tense scene of the company clinging to its old button phones and outdated software while
+      rivals' touchscreen smartphones surge ahead on sales charts, conveying "they were too slow
+      to change". Cold, anxious corporate mood.
+  - id: p5
+    prompt: |
+      A somber scene of the phone giant's mobile division being sold off, a fading sign, shrinking
+      market-share chart, conveying "the king of phones collapsed and was sold". Melancholic.
+  - id: p6
+    prompt: |
+      A symbolic closing image of an old button phone lying dark beside a glowing modern
+      touchscreen, conveying "being the biggest didn't save them from missing the future". Haunting,
+      cautionary tone.
+ja:
+  title: '携帯の王者ノキアが、スマホ時代に消えた理由 #Shorts'
+  description: |
+    2000年代、世界で最も携帯電話を売っていたのはノキアだった。圧倒的な王者がなぜ、わずか数年でその座を失ったのか。スマートフォンへの転換に乗り遅れた巨人の崩壊を30秒で解説します。
+
+    #Shorts #倒産 #ノキア #スマートフォン #ビジネス
+  hook_caption: 携帯の王者ノキアがスマホ時代に消えた理由
+  series_brand: 倒産の真相
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 2000年代、世界中の人が手にしていた携帯電話。その多くを作っていたのが、ノキアでした。
+      caption: 2000年代、世界中が使った携帯の多くがノキア
+    - panel: p2
+      text: 一時は、世界の携帯市場の約4割を握る、圧倒的な王者。頑丈で使いやすいその端末は、まさに王様でした。
+      caption: 世界シェア約4割の圧倒的な王者だった
+    - panel: p3
+      text: ところが2007年、世界を変える製品が登場します。指で触って操作する、タッチスクリーンのスマートフォンです。
+      caption: 2007年、タッチ操作のスマホが登場した
+    - panel: p4
+      text: ノキアは、使い慣れたボタン式の端末に固執し、転換が遅れました。その間に、ライバルのスマホが市場を奪っていきます。
+      caption: ボタン式に固執し転換が遅れた
+    - panel: p5
+      text: 王者の地位は、わずか数年で崩壊。ノキアの携帯事業は、やがて他社に売却されることになります。
+      caption: 王者の座は数年で崩れ事業は売却された
+    - panel: p6
+      text: 世界一であることは、未来を見誤った時には何の盾にもならない。最大手の崩壊が、その厳しさを教えてくれます。
+      caption: 世界一でも未来を見誤れば盾にならない

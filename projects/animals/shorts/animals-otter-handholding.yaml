@@ -1,0 +1,57 @@
+id: animals-otter-handholding
+image_style: photorealistic
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Two sea otters floating on their backs at the surface of calm ocean water, holding paws
+      together, peaceful sleepy faces, soft morning light on the water, wildlife photography,
+      shallow depth of field.
+  - id: p2
+    prompt: |
+      An extreme close-up of two sea otter paws linked together on the water surface, water
+      droplets and soft reflections, tender detail, nature documentary photography.
+  - id: p3
+    prompt: |
+      A wide serene shot of a raft of several sea otters drifting together on the open sea at
+      dusk, golden light, conveying a floating family group, cinematic wildlife photography.
+  - id: p4
+    prompt: |
+      A sea otter wrapped in strands of kelp while floating on its back asleep, the kelp anchoring
+      it in place, calm kelp-forest water, realistic nature photography.
+  - id: p5
+    prompt: |
+      A mother sea otter floating on her back with a fluffy pup resting on her belly, gentle
+      protective scene, soft ocean light, tender wildlife photography.
+  - id: p6
+    prompt: |
+      A peaceful close-up of two sea otters floating paw in paw drifting on calm glittering water,
+      serene and heartwarming, golden-hour wildlife photography.
+ja:
+  title: '手をつないで眠るラッコの、優しすぎる理由 #Shorts'
+  description: |
+    ラッコは水面で眠るとき、流されて離れ離れにならないよう、仲間と手をつなぐ。さらに海藻を体に巻きつけて錨にすることも。可愛さの裏にある、海で生き抜くための知恵を30秒で解説します。
+
+    #Shorts #動物雑学 #ラッコ #海の生き物 #雑学
+  hook_caption: ラッコが手をつないで眠る理由
+  series_brand: 海に生きる知恵
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: ラッコは、水面に仰向けに浮かんで眠ります。そしてそのとき、隣の仲間と、そっと手をつなぐんです。
+      caption: 水面で眠るとき仲間と手をつなぐ
+    - panel: p2
+      text: 理由は、可愛らしさだけではありません。眠っている間に、波で流されて離れ離れにならないための、大切な工夫なんです。
+      caption: 眠る間に流されて離れないための工夫
+    - panel: p3
+      text: 仲間と手をつないで群れになれば、はぐれる心配がありません。みんなで一つの「いかだ」のように、海を漂います。
+      caption: 群れで一つのいかだのように漂う
+    - panel: p4
+      text: 一匹で眠るときは、体に海藻を巻きつけます。海藻が錨の代わりになって、流されるのを防いでくれるんです。
+      caption: 一匹のときは海藻を巻いて錨にする
+    - panel: p5
+      text: 母ラッコは、お腹の上に子どもを乗せて眠ります。冷たい海の中で、子を流さず温める、母の知恵です。
+      caption: 母はお腹に子を乗せて流さず温める
+    - panel: p6
+      text: 手をつなぐのも、海藻を巻くのも、すべては厳しい海で生き抜くため。あの愛らしい仕草には、ちゃんと意味があったのです。
+      caption: 愛らしい仕草には生き抜く意味があった

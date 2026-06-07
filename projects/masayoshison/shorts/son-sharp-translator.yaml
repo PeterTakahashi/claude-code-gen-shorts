@@ -1,0 +1,68 @@
+id: son-sharp-translator
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of a young Masayoshi Son in his early
+      20s as a Berkeley student in late-1970s California, sitting at a campus desk piled with
+      notebooks, calculator and patent diagrams, eyes burning with intensity, conveying
+      "the broke student who decided to invent his way out". Soft warm campus light.
+      Character: {subject_young}.
+  - id: p2
+    prompt: |
+      A 9:16 vertical anime/webtoon scene of the young Son writing a list on a notepad —
+      "250 business ideas" — pen flying across the page, coffee cups around him, late-night
+      study lamp glowing, conveying "he wrote down 250 ideas before choosing one". Focused,
+      almost obsessive mood. Character: {subject_young}.
+  - id: p3
+    prompt: |
+      A 9:16 vertical anime/webtoon scene of the young Son hiring famous UC Berkeley professors
+      as advisors, handing them a sheet of paper, the older American academics in lab coats
+      surprised but agreeing, conveying "the student hired his own professors as a project
+      team". Bright university lab tone. Character: {subject_young}.
+  - id: p4
+    prompt: |
+      A 9:16 vertical anime/webtoon close-up of a small prototype electronic pocket translator
+      device on a desk, its tiny display showing English and Japanese characters, the young Son's
+      hand proudly holding it up, conveying "they built a pocket electronic translator". Crisp,
+      detailed gadget illustration. Character: {subject_young}.
+  - id: p5
+    prompt: |
+      A 9:16 vertical anime/webtoon scene of the young Son in a Sharp corporation boardroom
+      in Osaka, sliding a contract across the table to grey-suited Japanese executives, a check
+      with many zeros visible, conveying "Sharp bought the patent for about 100 million yen".
+      Tense, triumphant boardroom tone. Character: {subject_young}.
+  - id: p6
+    prompt: |
+      A 9:16 vertical anime/webtoon scene of the young Son walking out of the Sharp headquarters
+      smiling, briefcase in hand, a glowing Tokyo skyline ahead of him, conveying "the seed money
+      that launched his first company". Hopeful, cinematic dusk light.
+      Character: {subject_young}.
+ja:
+  title: '学生時代の孫正義が、シャープから1億円を引き出した方法 #Shorts'
+  description: |
+    アメリカ留学中の孫正義は、毎日1つ新しいビジネスアイデアを書き出し、250個から選び抜いた発明を作り上げた。それは小さな電子翻訳機。彼はバークレーの教授たちを雇い、完成したその特許をシャープへ売り込み、約1億円を手にする。すべての始まりとなった起業資金の物語を30秒で解説します。
+
+    #Shorts #偉人伝 #孫正義 #ソフトバンク #名言
+  hook_caption: 学生の孫正義が1億円を手にした発明
+  series_brand: 孫正義
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1970年代の終わり、カリフォルニアで留学していた20代の孫正義は、貧しい学生でした。彼は決めます。自分の発明で、生活費を稼ぐ、と。
+      caption: 留学中の20代、発明で稼ぐと決めた
+    - panel: p2
+      text: 彼は1日1個、新しいビジネスアイデアをノートに書き出します。たまったアイデアは、250個。そこから本気で取り組む1つを、選び抜きました。
+      caption: 1日1個、250案から1つを選び抜いた
+    - panel: p3
+      text: 選んだのは、電子翻訳機の発明。そして驚くべきことに、彼はバークレーの教授たちを、自分のプロジェクトの顧問として雇い入れます。
+      caption: バークレーの教授を顧問として雇った
+    - panel: p4
+      text: 完成したのは、英語を入力すると別の言語に変換する、手のひらサイズの電子翻訳機。当時としては、最先端の発明でした。
+      caption: 手のひらサイズの電子翻訳機を完成させた
+    - panel: p5
+      text: 彼は日本へ飛び、その特許をシャープに売り込みます。買い取り額は、約1億円。学生が手にする金額では、ありませんでした。
+      caption: シャープが特許を約1億円で買い取った
+    - panel: p6
+      text: この1億円が、後にソフトバンクとなる会社の、最初の元手となる。すべての帝国は、たった1つのノートと、選び抜かれた1個のアイデアから始まったのです。
+      caption: 1億円が後のソフトバンク帝国の元手となった

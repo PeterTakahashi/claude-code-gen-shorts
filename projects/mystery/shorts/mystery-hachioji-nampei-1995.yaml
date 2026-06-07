@@ -1,0 +1,186 @@
+id: mystery-hachioji-nampei-1995
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic night shot of a single small brass shell casing
+
+    lying on a clean Japanese supermarket linoleum floor under flickering
+
+    fluorescent ceiling tubes, a knocked-over price tag reading "￥298" in
+
+    decorative numerals nearby, the visual of "the night that quiet shop
+
+    fell silent." Hachioji Tokyo Japan July 1995 late-night closed-shop
+
+    interior. Decorative Japanese signage 「ナンペイ」 partially readable on
+
+    a fallen retail box in soft focus. Subject filling square center for
+
+    vertical short layout with blurred padding. No people in frame. No blood.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    July 30 1995 a small two-story Super Nampei supermarket on a quiet
+
+    suburban street corner of Ohwada, Hachioji Tokyo Japan at night, exterior
+
+    mid-shot of the closed shop with its lights still on inside through the
+
+    glass front, a yellow Japanese delivery bicycle leaning against the wall,
+
+    a wooden Japanese signboard above the entrance reading 「スーパーナンペイ」
+
+    in faded paint, the suburb of Hachioji''s low concrete houses lining the
+
+    empty street, a single sodium-yellow streetlamp casting a long shadow
+
+    across the asphalt. The visual of "the quiet shop where three people
+
+    were about to die."
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Inside the same Super Nampei supermarket interior 1995 closing time mid-shot,
+
+    a 47-year-old Japanese woman manager in a white apron, her 17-year-old
+
+    daughter in a high-school uniform, and a 16-year-old female part-time
+
+    worker also in uniform, all three looking toward the entrance with
+
+    uncertain anxious expressions, the visual of "the last witnesses of
+
+    a moment never explained." Cardboard boxes of summer drinks stacked
+
+    nearby, decorative Japanese price tags 「特売」 readable, fluorescent
+
+    overhead light, long shadows from the entrance. No weapons in frame.
+
+    No violence depicted.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A modern Tokyo Metropolitan Police Department forensic evidence room 2026,
+
+    mid-shot of a Japanese male detective in his 50s in a dark suit, salt-and-
+
+    pepper hair, holding up a sealed plastic evidence bag containing a single
+
+    black cloth bag, a faint label reading "DNA EVIDENCE — UNMATCHED" in
+
+    decorative English visible on the bag, behind him a wall covered in
+
+    yellowing case-file photos and a large pinned newspaper clipping with
+
+    decorative Japanese headline 「八王子スーパー強盗殺人」 readable. Cold
+
+    fluorescent light. The visual of "31 years of one unmatched DNA sample."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern infographic on dark navy background, decorative bold English
+
+    headline "31 YEARS — 0 SUSPECTS" centered, smaller decorative Japanese
+
+    label beneath 「捜査員のべ15万人 / 情報提供6,000件 / 逮捕者0人」readable,
+
+    a tiny chibi detective figure with a magnifying glass examining a long
+
+    thin file labeled "COLD CASE", a small floating English caption
+
+    "REWARD ￥6,000,000" in the corner. The visual of "the biggest active
+
+    cold case in modern Japan."
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic shot composition as panel 1 — a single
+
+    brass shell casing on the supermarket floor but now in present-day 2026
+
+    Hachioji, the linoleum cracked and dust-covered, the shop long abandoned,
+
+    a thin shaft of pale moonlight through a boarded window catching the
+
+    brass, a faded Japanese reward poster 「八王子スーパーナンペイ事件 情報提供
+
+    者へ」 stuck to the back wall in soft focus. The loop image of "31 years
+
+    and the killer is still walking somewhere." Subject filling the square
+
+    frame for vertical short with blurred padding above/below.
+
+    '
+ja:
+  title: '八王子スーパーナンペイ事件、犯人は今どこに #Shorts'
+  description: '31年前の1995年7月30日、東京・八王子の小さなスーパーで、女性3人が、22口径の銃で処刑のように、撃ち殺されました。
+
+    令和の今も、現場に残された犯人のDNAは、誰とも一致していない——未解決のまま、進む事件の話です。
+
+
+    #Shorts #八王子 #ナンペイ事件 #未解決 #実話
+
+    '
+  hook_caption: 3人射殺、犯人は今どこに
+  series_brand: ナンペイ事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 31年前の1995年に、東京で起きた、一番冷たい未解決事件を、知っていますか? 銃声を、誰も、聞いていません。
+    caption: 31年前の1995年、誰も聞かなかった銃声
+  - panel: p2
+    text: 場所は、八王子市大和田町の小さなスーパー、ナンペイです。閉店間際の午後9時すぎ、店内には、女性3人だけが、残っていました。
+    caption: 八王子のスーパー、女性3人だけ
+  - panel: p3
+    text: 犯人は、3人を2階の事務所に集めると、22口径の拳銃で、後頭部を、処刑のように撃ち抜きました。物音は、外に漏れていません。
+    caption: 後頭部を22口径で処刑
+  - panel: p4
+    text: 警視庁は、現場に残された黒い布袋から、犯人のDNAを採取しています。それでも31年間、日本中の誰のDNAとも、一致していません。
+    caption: DNAは31年、誰とも不一致
+  - panel: p5
+    text: のべ15万人の捜査員を投入し、6,000件以上の情報が寄せられて、それでも逮捕者は、ゼロのまま。懸賞金は、600万円に上がっています。
+    caption: 15万人投入、逮捕者ゼロ
+  - panel: p6
+    text: つまり、犯人は今この瞬間も、私たちの隣で、普通に暮らしている可能性が、高い。それが、八王子ナンペイ事件の、本当の怖さなんです。
+    caption: 犯人は今も普通に暮らしている
+en:
+  title: 'Tokyo''s Unsolved Supermarket Triple Murder #Shorts'
+  description: 'On July 30, 1995, three female employees were shot execution-style in a Tokyo supermarket. The killer left DNA, but has never been identified. This is the story of one of Japan''s coldest
+    cases.
+
+
+    #Shorts #truecrime #unsolvedmysteries #japan #coldcase'
+  hook_caption: The Killer Who Vanished For 31 Years
+  series_brand: The Super Nanpei Murders
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: On a quiet night in 1995, three women were closing up this small Tokyo supermarket.
+    caption: Tokyo, 1995
+  - panel: p3
+    text: The manager, a 47-year-old woman, and two high school students working part-time.
+    caption: The last to leave
+  - panel: p1
+    text: An unknown assailant forced them upstairs... and shot each one in the back of the head, execution-style.
+    caption: Execution-style
+  - panel: p4
+    text: Police found the killer's DNA at the scene. But for over 30 years, it has never matched anyone.
+    caption: DNA found, no match
+  - panel: p5
+    text: Despite 150,000 investigators and thousands of tips, there have been zero arrests.
+    caption: 31 years, 0 suspects
+  - panel: p6
+    text: Which means the killer is still out there... living a normal life, maybe right next to us.
+    caption: He's still out there

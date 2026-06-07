@@ -1,0 +1,62 @@
+id: mystery-akahoutai
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A tense night scene of a 1980s Japanese newspaper branch office, a shattered window and
+      a fleeing shadowy figure with a shotgun silhouette, red warning tone, a decorative
+      Japanese caption "新聞社が襲撃された", the visual of "a newspaper office was attacked".
+      Dark thriller noir.
+  - id: p2
+    prompt: |
+      A somber newsroom-aftermath illustration, an empty desk with a press cap, colleagues in
+      shock (non-graphic), the visual of "a
+      journalist was killed". Heavy, mournful tone.
+  - id: p3
+    prompt: |
+      A noir illustration of a typed crime-claim letter signed by a mysterious group, a bold
+      red seal, the visual of "a group calling
+      itself Sekihotai claimed responsibility". Cold, ominous tone.
+  - id: p4
+    prompt: |
+      An infographic map of Japan with multiple linked attack sites on media companies over
+      several years, the visual of "a string of
+      attacks on the press". Clean serious infographic.
+  - id: p5
+    prompt: |
+      A noir scene of detectives staring at a wall of leads with no suspect, a clock ticking
+      toward a deadline, the visual of
+      "investigators never found the culprits". Tense, frustrated tone.
+  - id: p6
+    prompt: |
+      A cold cityscape with a faded case file marked closed by time limit, a decorative
+      Japanese caption "時効、未解決のまま", the loop image of "the case expired, still unsolved".
+      Haunting, unresolved tone.
+ja:
+  title: '赤報隊事件、新聞社を襲った謎の組織 #Shorts'
+  description: |
+    1987年、朝日新聞の支局が散弾銃で襲撃され、記者が死亡した。「赤報隊」を名乗る組織はメディアを連続で狙ったが、犯人は一人も特定されず、2003年に時効が成立した。言論を狙った未解決事件を30秒で解説します。
+
+    #Shorts #未解決事件 #赤報隊事件 #昭和事件 #雑学
+  hook_caption: 赤報隊、新聞社を襲った謎の組織
+  series_brand: 未解決事件ファイル
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1987年のある夜、新聞社の支局が、散弾銃で襲撃されました。狙われたのは、言論の現場そのものでした。
+      caption: 1987年、新聞社の支局が散弾銃で襲撃された
+    - panel: p2
+      text: この襲撃で、まだ若い記者が一人、命を奪われます。日本の報道史に残る、衝撃的な事件でした。
+      caption: 若い記者が一人命を奪われた
+    - panel: p3
+      text: 後日、犯行声明が届きます。差出人は「赤報隊」。誰も聞いたことのない、謎の組織を名乗っていました。
+      caption: 「赤報隊」を名乗る謎の犯行声明が届いた
+    - panel: p4
+      text: 赤報隊は、その後も複数のメディア企業を、次々と標的にしていきます。明確な意思を持った、連続テロでした。
+      caption: 複数のメディアを次々と狙う連続テロ
+    - panel: p5
+      text: 警察は総力を挙げましたが、犯人グループには、ただの一人もたどり着けませんでした。手がかりは、ことごとく途切れたんです。
+      caption: 総力捜査でも犯人に一人もたどり着けず
+    - panel: p6
+      text: そして2003年、事件は時効を迎えます。言論を銃で襲った者たちは、誰一人裁かれることなく、闇に消えたのです。
+      caption: 2003年に時効、誰も裁かれず闇に消えた

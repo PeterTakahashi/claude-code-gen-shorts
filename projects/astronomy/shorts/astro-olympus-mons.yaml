@@ -1,0 +1,62 @@
+id: astro-olympus-mons
+image_style: photorealistic
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A photorealistic view of the planet Mars from low orbit, the rust-red surface stretching to
+      the horizon, a colossal volcano dome dominating the landscape, awe-inspiring scale, NASA-style
+      space photography.
+  - id: p2
+    prompt: |
+      A photorealistic comparison illustration in deep space: Olympus Mons rising beside Mount Everest
+      and Mount Fuji to scale, the Martian volcano dwarfing both Earth mountains, clean cinematic
+      cosmic detail.
+  - id: p3
+    prompt: |
+      A photorealistic close-up of the gentle sloping flanks of a vast shield volcano on Mars,
+      the slope so shallow it almost looks flat, dust devils crawling along the surface, conveying
+      "wider than the entire country of Poland", cinematic Martian landscape.
+  - id: p4
+    prompt: |
+      A photorealistic dramatic view of the central caldera of the giant Martian volcano, multiple
+      collapsed craters nested inside each other, vertical cliffs plunging into shadow, awe-inspiring
+      scale, cinematic space photography.
+  - id: p5
+    prompt: |
+      A photorealistic depiction of ancient lava flows long since cooled, frozen rivers of basalt
+      stretching across the rust-red plain, distant Martian horizon, conveying "long extinct,
+      sleeping for millions of years", cinematic deep-space landscape.
+  - id: p6
+    prompt: |
+      A serene photorealistic portrait of Olympus Mons silhouetted against a pale pink Martian
+      sunset, two small moons low in the sky, conveying "the largest mountain in the solar system,
+      waiting in silence", cinematic astrophotography.
+ja:
+  title: '太陽系最大の山は富士山の25倍、火星のオリンポス山 #Shorts'
+  description: |
+    火星にそびえるオリンポス山は、太陽系で最も高い山。標高は富士山の約25倍にもおよぶ。地球では絶対に作れない、桁違いの巨大火山がなぜ生まれたのか。30秒で解説します。
+
+    #Shorts #宇宙 #火星 #オリンポス山 #宇宙の雑学
+  hook_caption: 太陽系最大の山は富士山の25倍
+  series_brand: 宇宙の今
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 火星には、太陽系で最も高い山が、そびえています。その名は、オリンポス山。スケールは、地球の山と比べ、桁違いです。
+      caption: 太陽系で最も高い山が火星にある
+    - panel: p2
+      text: 標高は、約25キロメートル。富士山の、およそ25倍に相当します。エベレストでさえ、その足元にも、及びません。
+      caption: 標高約25km、富士山の約25倍にあたる
+    - panel: p3
+      text: 山の裾野の広さは、なんと、ポーランド一国分。あまりに広いため、山の上に立っても、傾斜にすら、気づけないほど、平らに見えるんです。
+      caption: 裾野の広さはポーランド一国分にもなる
+    - panel: p4
+      text: なぜこれほど巨大なのか。火星は、地球と違ってプレートが動かないため、同じ場所に何億年も、溶岩が積み重なり続けたからだ、と考えられています。
+      caption: プレートが動かず溶岩が積み重なり続けた
+    - panel: p5
+      text: 今は活動を止め、何百万年も静まり返ったまま。地球の重力では絶対に作れない山が、隣の惑星に、静かに、立っています。
+      caption: 地球では作れない山が静かに立っている
+    - panel: p6
+      text: 私たちが住む惑星の常識は、宇宙では通用しない。火星の地平線に沈む夕日が、そのことを、静かに告げているのです。
+      caption: 地球の常識は宇宙では通用しない

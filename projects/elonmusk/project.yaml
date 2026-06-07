@@ -1,0 +1,77 @@
+# Elon Musk biography — childhood through Zip2 sale.
+
+id: elonmusk
+title_ja: "イーロン・マスク 第一話 〜本と、コードと、僕の世界〜"
+title_en: "Elon Musk — Episode 1: Books, Code, and My World"
+author: "(imagined first-person memoir)"
+language: ja
+
+# Era / locale strings injected into every panel prompt.
+era: "early to mid 1980s"
+locale_hint: "Pretoria South Africa — suburban gentry household with jacaranda trees"
+
+style:
+  description: "full-color modern anime / webtoon style, soft cel shading, expressive line art, cinematic lighting, biographical drama tone"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face, archaic clothing, samurai, kimono"
+
+# Multi-chapter biography. Each chapter has its own novel.txt under
+# work/chapters/<id>/novel.txt (no need for start_marker/end_marker since
+# each chapter's prose is authored directly into its chapter directory).
+chapters:
+  - id: main
+    title: "第一話 本と、コードと、僕の世界"
+  - id: ch2
+    title: "第二話 外へ ―― 十七歳から、二十七歳まで"
+  - id: ch3
+    title: "第三話 ロケット ―― 二十七歳から、三十一歳まで"
+  - id: ch4
+    title: "第四話 夜の海 ―― 三十一歳から、三十七歳まで"
+  - id: ch5
+    title: "第五話 光 ―― 三十七歳の冬"
+  - id: ch6
+    title: "第六話 星々 ―― 三十九歳から、四十四歳まで"
+  - id: ch7
+    title: "第七話 巨人の帰還 ―― 四十五歳から、四十七歳まで"
+  - id: ch8
+    title: "第八話 生産地獄 ―― 四十七歳から、四十八歳まで"
+  - id: ch9
+    title: "第九話 宇宙のスターマン ―― 四十九歳から、五十歳まで"
+  - id: ch10
+    title: "第十話 鳥かごの主 ―― 五十一歳"
+  - id: ch11
+    title: "第十一話 新しい世代 ―― 五十二歳から、五十三歳"
+  - id: ch12
+    title: "第十二話 父の影 ―― 五十四歳"
+
+narrator:
+  voice_style_id: 1310138977   # Aivis: 阿井田 茂 / Calm
+  voice_speed: 0.95
+  instructions: |
+    Read as if you ARE Elon Musk in his late forties, looking back on his
+    own childhood. First-person memoir tone. Quiet, reflective, measured —
+    the voice of a man revisiting old wounds and old discoveries. Linger
+    on the inner-conflict beats (the alienation, the bullying, the choice
+    to live with the harsh father). Brighten subtly at the discovery of
+    the computer. Closing line carries quiet resolve, not triumph.
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+  verify: false             # skip Whisper verify for the first run; enable later
+  similarity_threshold: 0.88
+  whisper:
+    model: large-v3
+
+bubbles:
+  font_path: /Users/apple/dev/claude-code/webtoon-gen/assets/fonts/NotoSansJP-Regular.otf
+  font_index: 0
+  font_scale: 4.0
+
+webtoon:
+  width_px: 800
+  panel_gap_px:
+    tight: 20
+    breath: 80
+    jump: 200
+
+output_targets: []

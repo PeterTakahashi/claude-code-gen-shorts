@@ -1,0 +1,61 @@
+id: lovepsych-suspension-bridge
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A man and woman crossing a high, swaying suspension bridge over a deep gorge, both
+      looking nervous, hearts pounding, a decorative Japanese caption "このドキドキ、恋?", the
+      visual of "the fear of heights mistaken for love". Cinematic, dramatic height.
+  - id: p2
+    prompt: |
+      An infographic of a heart beating fast with arrows pointing to two causes "恐怖" and
+      "恋", a decorative Japanese caption "脳は理由を取り違える", the visual of "the brain can't
+      tell fear from attraction". Clean infographic, decorative Japanese.
+  - id: p3
+    prompt: |
+      A split scene — the same man meeting the woman on a scary swaying bridge vs on a low
+      safe stone bridge, a decorative Japanese caption "実験: 揺れる橋 vs 安全な橋", the visual
+      of "the famous 1974 experiment with two bridges". Clean illustrative.
+  - id: p4
+    prompt: |
+      An infographic bar chart, the "swaying bridge" group much more likely to call the
+      woman afterward, a decorative Japanese caption "揺れる橋の方が、後で連絡が多い", the visual
+      of "men on the scary bridge fell for her far more". Clean infographic.
+  - id: p5
+    prompt: |
+      A modern couple at a thrilling theme-park ride / horror movie, hearts racing, leaning
+      close, a decorative Japanese caption "デートに使える", the visual of "use a thrilling
+      setting and the excitement feels like romance". Warm, modern Japan.
+  - id: p6
+    prompt: |
+      Same couple on the bridge from panel 1, now smiling at each other, a decorative
+      Japanese caption "ドキドキの正体", the loop image of "knowing the trick of the racing
+      heart". Cinematic, warm.
+ja:
+  title: '吊り橋効果、ドキドキを恋と勘違いする脳 #Shorts'
+  description: |
+    高い吊り橋で感じた恐怖のドキドキを、脳は「恋」と取り違える。有名な吊り橋効果の実験と、デートへの応用を30秒で解説します。
+
+    #Shorts #恋愛心理 #吊り橋効果 #心理学 #恋愛
+  hook_caption: ドキドキを恋と勘違いする脳
+  series_brand: 恋愛の心理学
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 高い吊り橋の上で感じた、心臓のドキドキ。実は脳は、それを「恋」と、勘違いしてしまうんです。
+      caption: 高所のドキドキを恋と勘違いする
+    - panel: p2
+      text: 心臓が速く打つ時、脳はその理由を、いつも正しく見分けられるわけではありません。恐怖と、恋のときめきを、取り違えるんです。
+      caption: 脳は恐怖とときめきを取り違える
+    - panel: p3
+      text: 1974年の有名な実験では、男性が女性に出会う場所を、揺れる怖い吊り橋と、安全な低い橋の、2つに分けました。
+      caption: 1974年、揺れる橋と安全な橋の実験
+    - panel: p4
+      text: すると、怖い吊り橋で出会った男性の方が、後でその女性に連絡する確率が、はるかに高かったんです。
+      caption: 怖い橋の方が、後の連絡が多かった
+    - panel: p5
+      text: つまり、絶叫マシンやホラー映画など、ドキドキする場所でのデートは、その興奮を、恋と錯覚させやすい。応用できる心理学です。
+      caption: スリルのあるデートは恋を錯覚させる
+    - panel: p6
+      text: ときめきの正体は、案外、ただの心拍数かもしれない。でも、そのドキドキを共有することが、恋の始まりなんです。
+      caption: ドキドキの共有が、恋の始まり

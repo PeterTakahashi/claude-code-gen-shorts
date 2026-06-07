@@ -1,0 +1,115 @@
+id: jensen-kentucky-boarding
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A small 9-year-old Taiwanese boy in 1972 inside a tiled American boarding-school dormitory restroom in rural Kentucky, sleeves rolled up, holding a wooden-handled toilet brush in one hand, scrubbing
+    the rim of a porcelain toilet, a yellow mop bucket on the tiled floor beside him, harsh fluorescent overhead light, his small face composed but tired, mid-shot.
+
+    Character: {subject_child}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An early-1970s Taipei Songshan Airport departure scene, a small 9-year-old Taiwanese boy in a button-down shirt and short pants standing beside an older brother, both carrying single small suitcases,
+    their parents waving goodbye from behind a glass partition, warm tropical morning light, the bittersweet emotion of emigration, wide shot.
+
+    Character: {subject_child}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A rural eastern Kentucky landscape in 1972, modest brick boarding-school buildings on a green hillside under a wide pale blue sky, a small 9-year-old Taiwanese boy walking up the path with a single
+    battered suitcase, two American farm-country kids watching curiously from a distance, gentle autumn light, a sense of being utterly far from home.
+
+    Character: {subject_child}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modest 1970s boarding-school dormitory room interior, two rows of metal bunk beds with plain white sheets, a 9-year-old Taiwanese boy sitting on the lower bunk in pajamas, reading a small book under
+    a single bedside lamp, the other beds occupied by sleeping American boys, soft warm lamp light, conveying quiet loneliness.
+
+    Character: {subject_child}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 9-year-old Taiwanese boy in the boarding-school study hall at night, hunched over a worn English-language textbook, ballpoint pen in hand, his expression of quiet focused resolve, other empty wooden
+    desks around him, single overhead lamp, the bearing of a child who decided to outwork everyone.
+
+    Character: {subject_child}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The same Kentucky boarding-school dormitory restroom in early morning, soft pale sunlight through a small window, the 9-year-old Taiwanese boy wringing out a cleaning rag at the sink, a small private
+    smile on his face, the mop bucket put away, conveying quiet dignity in humble work — a future Nvidia CEO''s origin point.
+
+    Character: {subject_child}.
+
+    '
+ja:
+  title: '9歳でケンタッキーの寮、トイレ掃除をした少年 #Shorts'
+  description: '9歳で台湾からアメリカに渡ったジェンスン・ファンは、ケンタッキー州の田舎の寄宿学校で、トイレ掃除のバイトをしていた。後に AI 時代の覇者となる少年の、原点の話。
+
+
+    #Shorts #ジェンスンファン #Nvidia #人物伝
+
+    '
+  hook_caption: 9歳でトイレ掃除した少年
+  series_brand: ジェンスン・ファン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 後に世界の AI を支える男は、9歳の時、アメリカの片田舎で、トイレ掃除を、していました。
+    caption: 9歳でトイレ掃除をしていた
+  - panel: p2
+    text: 1972年、ジェンスン・ファン、9歳。両親は、彼と兄を、台湾から、アメリカへ、移住させたんです。
+    caption: 1972年、台湾から移住
+  - panel: p3
+    text: 送り先は、ケンタッキー州の、田舎の、寄宿学校。英語は、ほぼ、話せません。
+    caption: ケンタッキー州の寄宿学校、英語ゼロ
+  - panel: p4
+    text: 実は、両親が、エリート学校だと、思い込んでいたが——そこは、実態は、問題児を矯正する学校でした。
+    caption: 実は問題児矯正の学校だった
+  - panel: p5
+    text: 学費を補うため、彼は、寮のトイレ掃除を、毎日、引き受けた。
+    caption: 寮のトイレ掃除を毎日担当
+  - panel: p6
+    text: それでも彼は、勉強を、決して、諦めなかった——50年後、彼の会社は、時価総額世界トップクラスに、なるんですね。
+    caption: 50年後、世界トップ企業へ
+en:
+  title: 'This Boy Cleaned Toilets. Now He Runs a $2 Trillion Company. #Shorts'
+  description: 'At age 9, Jensen Huang was sent from Taiwan to a reform school in Kentucky. To get by, he cleaned toilets. This is the origin story of the man who founded Nvidia and powered the AI revolution.
+
+
+    #Shorts #JensenHuang #Nvidia #Biography #Inspiration'
+  hook_caption: This Janitor Became an AI King
+  series_brand: The Jensen Huang Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1972, nine-year-old Jensen Huang was sent from Taiwan to start a new life in America.
+    caption: Sent to America at 9
+  - panel: p3
+    text: He arrived at a boarding school in rural Kentucky, speaking almost zero English.
+    caption: Almost no English
+  - panel: p4
+    text: His parents thought it was an elite academy. In reality, it was a reform school for troubled teens.
+    caption: A school for delinquents
+  - panel: p1
+    text: To help pay his way, his assigned chore was to clean the dorm's bathrooms... every single day.
+    caption: 'His job: clean toilets'
+  - panel: p5
+    text: But despite the hardship, he studied relentlessly, determined to make it.
+    caption: Never stopped studying
+  - panel: p6
+    text: Fifty years later, that boy would be the CEO of Nvidia, one of the most valuable companies on Earth.
+    caption: CEO of Nvidia

@@ -1,0 +1,158 @@
+id: claude-name-origin
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 2023 inside the Anthropic office. Dario Amodei seated at a clean white
+
+    desk, looking thoughtfully at a large monitor that displays in elegant minimal
+
+    typography the single word "Claude" on a soft off-white background, with a
+
+    small chat input box below. His expression is one of quiet satisfaction at the
+
+    naming choice. Mid shot, the camera angled from behind his shoulder.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1940s, inside Bell Labs in Murray Hill New Jersey. Claude Shannon, a slim
+
+    white American man in his early 30s with neatly side-parted dark hair and
+
+    round glasses, wearing a white dress shirt with a dark tie and a tweed jacket,
+
+    sitting at a wooden desk covered with handwritten equations and a paper titled
+
+    "A Mathematical Theory of Communication, 1948", a small mechanical mouse
+
+    labyrinth experiment visible nearby. Warm sepia-tinted lighting.
+
+    Character: {claude_shannon}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A stylized educational diagram across the full 9:16 frame: in the upper third,
+
+    Claude Shannon''s silhouette portrait at a chalkboard; in the middle and lower
+
+    thirds, an elegant flow of binary digits 0 and 1 streaming through abstract
+
+    channels into a stylized representation of a brain and a computer, with the
+
+    word "INFORMATION" rendered in clean serif typography. Cinematic blue-and-gold
+
+    educational illustration style.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2022, inside an Anthropic conference room. Dario Amodei standing at a
+
+    large whiteboard on which several candidate AI assistant names are written
+
+    in marker — "Claude" prominently circled in red, other names like "Helix"
+
+    and "Aurora" crossed out. Three other co-founders seated nearby including
+
+    his sister Daniella, all in active discussion. Daytime office light.
+
+    Character: {subject_adult}, {sister_daniella}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same Anthropic conference room. Dario Amodei seated at the head of a small
+
+    table, leaning forward with both hands open in an explanatory gesture, his
+
+    expression intent and respectful, speaking to four colleagues. Behind him on
+
+    the whiteboard the word "Claude" is now circled and beneath it the small
+
+    handwritten note "for Shannon — 1916-2001". The bearing of someone honoring
+
+    a hero.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A tight close-up shot of the same clean monitor screen displaying the single
+
+    word "Claude" in elegant minimal off-white typography, the soft glow of the
+
+    screen reflected faintly on Dario Amodei''s pensive face on the right edge of
+
+    the frame, the rest of the office out of focus. Calm contemplative lighting.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'Claudeという名前の本当の由来 #Shorts'
+  description: 'Anthropicが開発したAI「Claude」の名前は、情報理論の父クロード・シャノンへの敬意から来ている。
+
+    ダリオ・アモデイがなぜこの名前を選んだのか、その理由とは。
+
+    #Shorts #ダリオアモデイ #Anthropic #Claude #人物伝
+
+    '
+  hook_caption: Claudeの名前の本当の由来
+  series_brand: ダリオ・アモデイ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 世界で最も使われているAIの一つ、Claudeの名前は、ある人物への、敬意から、付けられました。
+    caption: Claudeの名前は敬意から
+  - panel: p2
+    text: その人物の名は、クロード・シャノン。1948年、「情報理論」という、現代コンピュータ科学の基礎を、たった一人で築いた、伝説の数学者です。
+    caption: 情報理論の父、クロード・シャノン
+  - panel: p3
+    text: シャノンが定義した「ビット」が、無ければ、今のインターネットも、AIも、存在しなかった。
+    caption: ビットを定義した男
+  - panel: p4
+    text: 2022年、Anthropic社内では、新しいAIアシスタントの名前を、何にするか、議論が、続いていました。
+    caption: 2022年、AIの名前を議論中
+  - panel: p5
+    text: そこで、ダリオ・アモデイが、提案したんです——「シャノンに敬意を払って、Claudeにしよう」と。
+    caption: シャノンに敬意を払ってClaudeに
+  - panel: p6
+    text: 情報を扱う知性に、情報理論の父の名前を授ける——これ以上、ふさわしい命名は、無かったんです。
+    caption: 情報理論の父の名を授けた
+en:
+  title: 'The Genius Behind AI Claude''s Name #Shorts'
+  description: 'Anthropic''s AI ''Claude'' is named in honor of Claude Shannon, the father of information theory.
+
+    Here''s why CEO Dario Amodei chose the name for his groundbreaking creation.
+
+    #Shorts #DarioAmodei #Anthropic #Claude #History'
+  hook_caption: The Secret Behind AI Claude's Name
+  series_brand: The Dario Amodei Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p4
+    text: In late 2022, Anthropic needed a name for its powerful new AI assistant.
+    caption: Naming a new AI
+  - panel: p5
+    text: CEO Dario Amodei proposed honoring one specific historical figure.
+    caption: A man from the past
+  - panel: p2
+    text: His name was Claude Shannon, a legendary mathematician from the 1940s.
+    caption: Claude Shannon
+  - panel: p3
+    text: Shannon single-handedly invented the 'bit,' creating the foundation for all modern computers and AI.
+    caption: The Father of the 'Bit'
+  - panel: p6
+    text: What better tribute than naming an AI after the man who fathered information theory itself?
+    caption: Named 'Claude'

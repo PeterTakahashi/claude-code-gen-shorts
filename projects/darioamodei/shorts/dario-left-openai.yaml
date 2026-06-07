@@ -1,0 +1,164 @@
+id: dario-left-openai
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2020 San Francisco, early evening. Dario Amodei walking out through the
+
+    glass front entrance of the OpenAI office building in the Mission District,
+
+    his sister Daniella walking beside him, four or five other AI researchers
+
+    (mixed gender, late 20s to 30s, casual tech-worker clothing, some carrying
+
+    cardboard boxes with personal items and a small office plant) following close
+
+    behind, all of them with quiet resolved expressions. Wide-mid shot, cinematic
+
+    side angle, the OpenAI logo just visible behind them on the glass. Warm dusk
+
+    light, a sense of a deliberate collective departure.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 2020, inside an open-plan OpenAI research office in San Francisco. Dario
+
+    Amodei at a large whiteboard covered with dense equations, scaling law curves,
+
+    and the abbreviation "GPT-3", explaining a result to three seated young AI
+
+    researchers who are taking notes on laptops. Bright modern startup lighting,
+
+    exposed-brick wall, the bearing of a respected research VP mid-flow.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Summer 2020, inside a glass-walled conference room at OpenAI. Dario Amodei
+
+    seated on one side of a long table, his expression tight and concerned, leaning
+
+    forward with hands clasped, in mid-argument; across the table, the back of
+
+    another executive figure (Sam Altman silhouette only, no clear face), gesturing
+
+    dismissively. A pile of contracts and a Microsoft Azure logo printed on one
+
+    page visible on the table. The tense lighting of an unresolved disagreement.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Autumn 2020, a small dimly-lit San Francisco apartment kitchen at night. Dario
+
+    Amodei sitting at a wooden kitchen table across from his sister Daniella
+
+    Amodei, two mugs of tea between them, both leaning in with serious intent
+
+    expressions, papers and a laptop nearby. The warm intimate lighting of a
+
+    brother-sister late-night decision about their careers. Mid shot.
+
+    Character: {subject_adult}, {sister_daniella}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 2020, inside a small private office at OpenAI. Dario Amodei standing,
+
+    calmly placing a single white printed resignation letter on a manager''s desk,
+
+    his expression composed and resolute, no anger just clarity. The back of the
+
+    seated executive visible, raising one hand in surprise. Daytime office light.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2020 San Francisco sidewalk at dusk, a tight medium shot of Dario Amodei
+
+    walking forward at the head of a small group of five departing colleagues,
+
+    his sister Daniella at his side, all walking in unison toward the camera with
+
+    quiet determined expressions, the OpenAI building blurred behind them. Cinematic
+
+    golden-hour light. The visual feeling of a deliberate beginning, not an ending.
+
+    Character: {subject_adult}, {sister_daniella}.
+
+    '
+ja:
+  title: 'OpenAIを辞めた本当の理由 #Shorts'
+  description: '2020年末、OpenAIの研究副社長だったダリオ・アモデイが、妹ダニエラと同志数名を引き連れて退社した本当の理由。
+
+    AIの安全性をめぐる方針の違いが、シリコンバレー最大の頭脳流出を生んだ。
+
+    #Shorts #ダリオアモデイ #Anthropic #Claude #人物伝
+
+    '
+  hook_caption: OpenAIを辞めた本当の理由
+  series_brand: ダリオ・アモデイ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 2020年末、OpenAIの研究副社長が、妹と、同志数名を引き連れて、突然、退社しました。
+    caption: OpenAI研究副社長が集団退社
+  - panel: p2
+    text: その男の名は、ダリオ・アモデイ。GPT-3の中核を率いた、当時の主力研究者です。
+    caption: GPT-3を率いた主力研究者
+  - panel: p3
+    text: 彼は、AIの能力を上げる速度に対して、安全対策が、明らかに、追いついていない、と確信していました。
+    caption: 安全性が追いついていない
+  - panel: p4
+    text: しかも、OpenAIは、マイクロソフトとの巨額契約で、商用化に大きく舵を切ろうとしていた。
+    caption: OpenAIは商用化に舵を切った
+  - panel: p5
+    text: だから、ダリオは、妹のダニエラと相談し、信頼する仲間だけを連れて、静かに、出ていったんです。
+    caption: 信頼する仲間だけを連れて退社
+  - panel: p6
+    text: 数か月後、その集団が立ち上げた会社の名は、Anthropic——「AIの安全性」を、最優先に掲げた研究所でした。
+    caption: 数か月後、Anthropic 誕生
+en:
+  title: 'Why OpenAI''s Top Scientist Suddenly Quit #Shorts'
+  description: 'In late 2020, OpenAI''s VP of Research Dario Amodei left with his sister and a core group of researchers. This is the story of the ideological clash over AI safety that led to the creation
+    of their rival, Anthropic.
+
+    #Shorts #DarioAmodei #Anthropic #Claude #AI'
+  hook_caption: Why OpenAI's brightest minds walked out
+  series_brand: The Dario Amodei Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In late 2020, OpenAI's Vice President of Research walked out the door for the last time.
+    caption: A sudden departure
+  - panel: p2
+    text: His name was Dario Amodei, the brilliant mind who led the development of GPT-3.
+    caption: GPT-3's lead researcher
+  - panel: p3
+    text: 'But he saw a terrifying problem: AI capabilities were advancing exponentially, while safety research was falling dangerously behind.'
+    caption: The Safety Problem
+  - panel: p4
+    text: On top of that, a massive deal with Microsoft was pushing OpenAI to commercialize its technology, fast.
+    caption: Pressure to commercialize
+  - panel: p5
+    text: So Dario, along with his sister Daniela, made the difficult choice to resign, taking a handful of trusted colleagues with them.
+    caption: They decided to leave
+  - panel: p6
+    text: 'A few months later, this small team founded Anthropic, a new AI lab built on a single principle: safety first.'
+    caption: Anthropic was born

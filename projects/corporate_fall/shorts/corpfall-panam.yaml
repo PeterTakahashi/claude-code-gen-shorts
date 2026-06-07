@@ -1,0 +1,69 @@
+id: corpfall-panam
+parent_chapter: null
+image_style: photorealistic
+panels:
+  - id: p1
+    prompt: |
+      Photoreal cinematic 9:16 photograph of a 1960s American international airport tarmac
+      at golden hour, a gleaming white four-engine jetliner with a blue globe emblem on its
+      tail standing at the gate, glamorous passengers in suits and pillbox hats boarding,
+      conveying "the airline that was the symbol of the American sky". Warm vintage
+      Americana tone, no real readable logos.
+  - id: p2
+    prompt: |
+      Photoreal cinematic 9:16 photograph of a young Juan Trippe in a 1927 suit standing on
+      a wooden Florida seaplane dock, a small mail seaplane behind him, blueprints and a
+      world map in hand, conveying "in 1927 a young founder set out to connect the world".
+      Vintage entrepreneurial mood. Recognizable likeness of Juan Trippe.
+  - id: p3
+    prompt: |
+      Photoreal cinematic 9:16 photograph of a 1970s airline route-map style infographic of
+      the world, dense flight lines fanning out from New York across every continent, a
+      proud blue globe emblem at the center, conveying "at its peak it was the global flag
+      carrier of America". Clean retro infographic, no real readable logos.
+  - id: p4
+    prompt: |
+      Photoreal cinematic 9:16 photograph of a cold 1970s scene: long gas-station lines
+      during the oil shock and a US deregulation document on an office desk, a worried
+      airline executive looking out at a half-empty terminal, conveying "the oil shock and
+      deregulation crushed the international giant". Anxious, cautionary mood.
+  - id: p5
+    prompt: |
+      Photoreal cinematic 9:16 photograph of a somber December 1988 Scottish night, debris
+      of a downed passenger jet scattered across a small town's snowy field, distant
+      emergency lights, conveying "in 1988 Flight 103 was destroyed by a terror bomb over
+      Lockerbie". Cold, mournful tone, no graphic gore.
+  - id: p6
+    prompt: |
+      Photoreal cinematic 9:16 photograph of a 1991 airport hangar at dusk, a single
+      grounded white jetliner with a blue globe tail emblem, mechanics removing the emblem
+      from the vertical fin, conveying "in 1991 the globe disappeared from the sky".
+      Haunting, cautionary closing tone.
+ja:
+  title: '空の象徴Pan Amは、なぜ消えたのか #Shorts'
+  description: |
+    1927年に創業し、世界初の本格的国際線航空会社として「アメリカの空の象徴」となったパンアメリカン航空。オイルショック、規制緩和、1988年のロッカビー機爆破事件、そして湾岸戦争による国際線需要の急減を経て、1991年に破綻。垂直尾翼の地球マークが消えた理由を30秒で解説します。
+
+    #Shorts #倒産 #PanAm #航空業界 #ビジネス
+  hook_caption: 空の象徴Pan Amが消えた理由
+  series_brand: 倒産の真相
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: かつてアメリカの空に、誰もが憧れた航空会社がありました。パンアメリカン航空、通称Pan Am。垂直尾翼の青い地球マークは、国際線そのものの象徴でした。
+      caption: 空の象徴だったPan Amの青い地球マーク
+    - panel: p2
+      text: 始まりは1927年、創業者のフアン・トリップは、アメリカと外国を結ぶ航空網を、ゼロから築き上げます。世界初の本格的な国際線航空会社の、誕生でした。
+      caption: 1927年、トリップが世界初の国際線を築く
+    - panel: p3
+      text: 最盛期、Pan Amの路線は、五大陸を覆い尽くします。アメリカを代表する旗艦航空会社として、その地位は、揺るぎないものに見えていました。
+      caption: 最盛期は五大陸を覆う旗艦航空会社に
+    - panel: p4
+      text: ところが70年代、オイルショックで燃料費が急騰し、続いてアメリカの航空規制緩和で、国内線中心の他社が国際線に殴り込み。Pan Amの収益基盤は、揺らぎ始めます。
+      caption: オイルショックと規制緩和に挟まれた
+    - panel: p5
+      text: 追い打ちをかけたのが、1988年のロッカビー上空でのテロ。Pan Am103便は爆破され、乗員乗客全員が犠牲に。ブランドは、深い傷を負いました。
+      caption: 1988年、Pan Am 103便が爆破された
+    - panel: p6
+      text: さらに湾岸戦争で国際線需要が急減し、1991年、ついに破綻。空を支配した青い地球マークは、こうして垂直尾翼から、静かに消えていったのです。
+      caption: 1991年に破綻、地球マークは空から消えた

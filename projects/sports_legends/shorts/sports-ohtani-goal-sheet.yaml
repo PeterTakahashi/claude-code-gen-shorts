@@ -1,0 +1,202 @@
+id: sports-ohtani-goal-sheet
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME close-up dramatic shot of 15-year-old Shohei Ohtani''s intensely
+
+    focused dark eyes and the tip of a yellow pencil pressed firmly against
+
+    a printed 9x9 grid mandala chart, sharp pencil lead just finishing
+
+    writing decorative English text in the dead-center cell "DRAFT 1st",
+
+    a single bead of concentration sweat near his temple, soft fluorescent
+
+    classroom light from above, faint blur of a Hanamaki Higashi High
+
+    School navy gakuran jacket collar at frame edge, the visual of
+
+    "a 15-year-old just wrote down something impossible." Iwate Japan
+
+    2010 high-school classroom atmosphere. Subject filling the square
+
+    center for vertical short layout with blurred padding above/below.
+
+    Proper nouns English (DRAFT, MLB).
+
+    Character: {young_ohtani}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Hanamaki Higashi High School classroom in Iwate Japan 2010, mid-shot
+
+    of 15-year-old Shohei Ohtani sitting alone at a wooden school desk
+
+    after class, his navy gakuran jacket on, the late afternoon light
+
+    slanting through the tall classroom windows, a single A4 sheet of
+
+    paper laid flat in front of him showing a 9x9 grid mandala chart
+
+    drawn by hand, an empty classroom in soft focus behind, a small
+
+    decorative Japanese poster on the back wall reads「花巻東高校 野球部」
+
+    readable. The visual of "the future MLB superstar at 15, alone
+
+    with his plan." Calm focused atmosphere.
+
+    Character: {young_ohtani}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic panel filling the frame.
+
+    Top-down view of the famous 9x9 mandala goal sheet on cream paper,
+
+    a thick black grid drawn clearly, the dead-center cell highlighted
+
+    in red containing decorative English text "DRAFT 1st — 8 TEAMS",
+
+    the 8 surrounding cells each containing a different decorative
+
+    English keyword in bold — "BODY", "CONTROL", "VELOCITY 160km/h",
+
+    "BREAKING BALL", "MENTAL", "HUMAN NATURE", "LUCK", "SPIN" —
+
+    around each of those 8 cells smaller 3x3 sub-grids with tiny
+
+    handwriting-style detail words, a small decorative Japanese caption
+
+    at the bottom「目標達成シート / 大谷翔平 15歳」readable. The visual
+
+    of "the 81-cell plan." Proper nouns English.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Close-up of one specific surrounding cell of the mandala chart on
+
+    paper labeled in decorative English "LUCK", surrounded by 8 small
+
+    sub-cells with handwritten decorative phrases — "GREETINGS",
+
+    "PICK UP TRASH", "CLEAN ROOM", "POSITIVE THINKING", "BE LOVED",
+
+    "CHERISH TOOLS", "JUDGE''S CALL", "BOOKS" — the yellow pencil tip
+
+    visible tapping the "PICK UP TRASH" cell, soft natural classroom
+
+    lighting, the visual of "even luck was broken into daily habits."
+
+    Iwate 2010 high-school atmosphere. Proper nouns English.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A modern 2024 Major League Baseball stadium night game scene, mid-shot
+
+    of a 29-year-old adult Shohei Ohtani in a white Los Angeles Dodgers
+
+    home jersey with number 17 visible on the back in royal blue, mid
+
+    pitching motion on the mound, stadium lights blazing, an enormous
+
+    packed crowd in soft focus behind, a small decorative English
+
+    stadium scoreboard partial visible "MLB", the visual of "the cell
+
+    he wrote at 15 became reality 16 years later." American baseball
+
+    stadium setting, no Japanese architectural elements. Proper noun
+
+    "DODGERS" / "MLB" in English.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Same EXTREME close-up of 15-year-old Shohei Ohtani''s focused dark eyes
+
+    and the pencil tip on the center cell of the mandala chart as panel 1,
+
+    but now a faint warm glow has spread across the chart from the center
+
+    cell outward, the same Hanamaki Higashi High School Iwate Japan 2010
+
+    classroom light atmosphere, the loop image of "the moment a future
+
+    MLB legend wrote his fate at 15." Subject filling square frame for
+
+    vertical short with blurred padding above/below.
+
+    Character: {young_ohtani}.
+
+    '
+ja:
+  title: '15歳の大谷翔平が高校で書いた、9マス目標シートが衝撃的だった #Shorts'
+  description: '16年前の2010年、当時15歳の大谷翔平が、花巻東高校1年で書いた「目標達成シート」。
+
+    9x9の81マスに、ドラフト1位を中心に、ゴミ拾いや挨拶まで——15歳が書いたとは思えない設計図でした。
+
+
+    #Shorts #大谷翔平 #目標達成シート #MLB #花巻東
+
+    '
+  hook_caption: 15歳大谷の目標シート
+  series_brand: 大谷の目標シート
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 大谷翔平が15歳の時に書いた「目標達成シート」が、ヤバすぎるって、ご存じですか。
+    caption: 15歳大谷の目標シートが衝撃
+  - panel: p2
+    text: 16年前の2010年、当時15歳の大谷は、岩手県の花巻東高校1年で、A4用紙1枚に、9x9の81マスを描き始めました。
+    caption: 16年前、花巻東1年の大谷
+  - panel: p3
+    text: 中心のマスには、なんと「ドラフト1位 8球団」と書かれていて、その周りに、体作り、制球、メンタルなど、8つのテーマが、並んでいたんです。
+    caption: 中心は「ドラフト1位 8球団」
+  - panel: p4
+    text: 驚くべきは「運」のテーマで、挨拶、ゴミ拾い、部屋の掃除、道具を大切にする——運すら、日々の習慣に、分解されていました。
+    caption: 「運」もゴミ拾いに分解
+  - panel: p5
+    text: 16年後、大谷は MLB Los Angeles Dodgers の17番として、世界中の少年が憧れる選手に、本当になっています。
+    caption: 16年後、MLB17番になった
+  - panel: p6
+    text: 夢ではなく、設計図として書く——15歳の大谷が教えてくれるのは、目標とは具体化した瞬間、現実になり始めるということです。
+    caption: 目標は具体化した瞬間始まる
+en:
+  title: 'The Secret Blueprint 15-Year-Old Ohtani Wrote for Stardom #Shorts'
+  description: 'In 2010, a 15-year-old Shohei Ohtani created a detailed 9x9 grid to plan his path to becoming a #1 draft pick.
+
+    His plan even included how to improve his ''luck'' through daily habits. This is his story.
+
+    #Shorts #ShoheiOhtani #MLB #Baseball #Goals'
+  hook_caption: His Blueprint for Stardom at Age 15
+  series_brand: Ohtani's Goal Sheet
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: This is the incredible goal sheet Shohei Ohtani wrote when he was only 15 years old.
+    caption: Ohtani's Secret Plan
+  - panel: p2
+    text: Back in 2010, as a high school freshman, he mapped out his entire future on a single piece of paper.
+    caption: A High School Freshman
+  - panel: p3
+    text: 'His core goal was audacious: to be the number one draft pick for eight different professional teams.'
+    caption: 'Goal: #1 Draft Pick'
+  - panel: p4
+    text: But the most amazing part? He even planned how to improve his 'LUCK' with simple habits like picking up trash and cleaning his room.
+    caption: Even 'Luck' was a goal
+  - panel: p5
+    text: And today, that 15-year-old's plan has become reality, making him a global superstar for the Los Angeles Dodgers.
+    caption: The Dream Realized
+  - panel: p6
+    text: He didn't just write down a dream; he drew a blueprint, showing that a goal becomes real the moment you make it concrete.
+    caption: A Blueprint, Not a Dream

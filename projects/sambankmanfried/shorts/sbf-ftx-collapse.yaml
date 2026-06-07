@@ -1,0 +1,174 @@
+id: sbf-ftx-collapse
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 11, 2022 in a dim Bahamas FTX office at night. Sam Bankman-Fried,
+
+    30 years old, sits hunched in a chair facing a wall of trading screens
+
+    showing the FTX withdrawal queue freezing, red customer balance numbers
+
+    everywhere, the FTT token price in freefall on one chart. His mop of
+
+    frizzy brown curly hair backlit by the red glow of the screens, his
+
+    sleepy half-lidded eyes hollow and tired, wrinkled white t-shirt and
+
+    khaki shorts. The exact moment a 32 billion dollar exchange becomes zero.
+
+    Mid-shot from behind, screens dominant.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 2, 2022, a close-up of a laptop screen displaying a news article
+
+    headline-style block showing a leaked Alameda Research balance sheet, with
+
+    a giant pie chart implying that most of its assets are the FTX-issued
+
+    "FTT" token rather than real cash. A blurry hand holding coffee in the
+
+    foreground. The article that started the collapse. Side framing, the
+
+    screen as hero element. No real-world logos or readable text beyond
+
+    generic chart labels.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 6, 2022. A smartphone held in a hand close-up, the screen
+
+    showing a generic social-media-style post from a rival crypto exchange
+
+    CEO figure (silhouetted profile picture) announcing they will sell all
+
+    their FTT tokens. Behind the phone, blurry chart screens in a trading
+
+    office showing the FTT token price beginning a sharp red drop. The
+
+    tweet that triggered the bank run.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Split-screen composition showing many anonymous laptop and phone screens
+
+    around the world, each with a "Withdraw" button being pressed, a flood of
+
+    cascading red withdrawal-request notifications, and a central counter-like
+
+    visual implying six billion dollars in three days flowing out of the FTX
+
+    exchange. A faceless global digital bank run. Cool blue and red palette.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 9, 2022 in a Bahamas penthouse living room. Sam Bankman-Fried,
+
+    30 years old, slumped on a beige sofa with a smartphone pressed to his
+
+    ear, his sleepy heavy-lidded eyes wide with calm shock, mop of curly
+
+    hair as wild as ever, wrinkled white t-shirt and khaki shorts. A laptop
+
+    on the coffee table beside him shows a Binance-style logo with a red
+
+    "deal cancelled" overlay implying the rescue acquisition has fallen
+
+    through. The moment bankruptcy became inevitable.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 11, 2022 dawn, the same Bahamas FTX office as panel 1 but now
+
+    lit by cold blue morning light through the windows. Sam Bankman-Fried,
+
+    30 years old, sits motionless facing screens that now show only a
+
+    generic chapter-eleven bankruptcy notice page, his hair backlit, his
+
+    face hollow and exhausted, wrinkled white t-shirt and khaki shorts. An
+
+    empty coffee cup on the desk. The quiet after total collapse.
+
+    Loop-back framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '10日でFTXが崩壊した話 #Shorts'
+  description: '2022年11月、サム・バンクマン・フリードのFTXは、Coinbaseライバルとの紛争をきっかけに、わずか10日で破綻した。
+
+    顧客資金80億ドルが、消えた。
+
+
+    #Shorts #SBF #FTX #人物伝
+
+    '
+  hook_caption: 10日でFTXが消えた日
+  series_brand: サム・バンクマン・フリード伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 時価総額320億ドルの暗号通貨取引所が、たった10日で、消えました。
+    caption: 10日で320億ドルが消えた
+  - panel: p2
+    text: 2022年11月2日、Alameda Researchの内部資料が、メディアにリーク。資産の大半が、自社発行のFTTトークンだと、判明します。
+    caption: 11月2日、Alameda資産が暴露
+  - panel: p3
+    text: 4日後、ライバルのBinance CEOが、FTT全売却を、Twitterで宣言。価格は、暴落しました。
+    caption: Binance CEOがFTT売却を宣言
+  - panel: p4
+    text: 顧客は、一斉に、出金要求。3日間で、60億ドルが、引き出されました。
+    caption: 3日で60億ドルの取り付け騒ぎ
+  - panel: p5
+    text: 11月9日、Binanceによる、救済買収も、土壇場で、白紙撤回。
+    caption: Binanceの救済買収が白紙撤回
+  - panel: p6
+    text: そして11月11日、FTXは、破産申請。顧客資金80億ドルが、行方不明のままでした。
+    caption: 11月11日、破産申請
+en:
+  title: 'How a Crypto King Lost $32 Billion in 10 Days #Shorts'
+  description: 'In November 2022, Sam Bankman-Fried''s crypto exchange FTX imploded after a public feud with a rival. In just 10 days, it went from a $32 billion powerhouse to bankrupt, with $8 billion
+    of customer money vanishing overnight.
+
+
+    #Shorts #SBF #FTX #Crypto #Finance'
+  hook_caption: How a Single Tweet Crashed a $32B Empire
+  series_brand: The Downfall of SBF
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: In November 2022, a $32 billion crypto empire vanished in just 10 days.
+    caption: 10 Days to Zero
+  - panel: p2
+    text: It started on November 2nd, when a leaked report showed its sister firm, Alameda, was built on a house of cards.
+    caption: The Leak
+  - panel: p3
+    text: Four days later, the CEO of rival exchange Binance announced he was selling his entire position in FTX's token, triggering a market panic.
+    caption: The Rival's Tweet
+  - panel: p4
+    text: A massive bank run followed, with customers frantically withdrawing $6 billion in just 72 hours.
+    caption: $6 Billion Bank Run
+  - panel: p5
+    text: A last-ditch rescue deal from Binance was FTX's only hope... until it was abruptly cancelled.
+    caption: The Deal is Off
+  - panel: p6
+    text: On November 11th, FTX filed for bankruptcy. Eight billion dollars in customer funds had simply disappeared.
+    caption: Bankruptcy

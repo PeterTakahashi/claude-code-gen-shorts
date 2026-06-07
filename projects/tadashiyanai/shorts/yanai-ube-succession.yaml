@@ -1,0 +1,120 @@
+id: yanai-ube-succession
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 23-year-old serious young Tadashi Yanai standing alone in front of a tiny old-fashioned 1972 menswear shop in Ube, Yamaguchi Prefecture, Japan. The wooden signboard reads "Ogori Shoji" in Japanese
+    kanji characters. Narrow street of a provincial Showa-era Japanese town, low concrete buildings, a single bicycle leaning against the wall, soft afternoon light. He carries a single thin briefcase,
+    his expression heavy with the weight of inherited responsibility. Wide-mid shot showing the modest scale of the shop.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 22-year-old young Tadashi Yanai in March 1971 at his Waseda University graduation ceremony in Tokyo, wearing a dark formal graduation suit with a white shirt and tie, holding a rolled diploma, classic
+    ivy-covered red-brick Waseda Okuma Auditorium in the background, fellow graduates blurred around him, the bearing of a quietly ambitious young man uncertain of his next step.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Interior of a small 1972 provincial Yamaguchi menswear shop in Ube, low wooden ceiling, narrow aisles crammed with dusty menswear suits on hangers, glass display cases of neckties, a single old cash
+    register on a wooden counter, fluorescent lighting flickering, the cramped Showa-era smallness of a family business. Yanai''s father (Hitoshi Yanai, 50s, dark suit) stands behind the counter, an older
+    Japanese small-business owner with greying hair.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside the same tiny 1972 Ube menswear shop, an awkward morning gathering — 23-year-old Tadashi Yanai standing facing three middle-aged male Japanese shop clerks in white short-sleeved shirts and dark
+    slacks, all three crossing their arms or visibly resistant, the young inheritor trying to assert leadership but plainly outnumbered. Tense Showa-era family business atmosphere.
+
+    Character: {subject_young}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late night inside the back office of the 1972 Ube menswear shop, 23-year-old Tadashi Yanai alone at a cluttered small wooden desk under a single yellow desk lamp, hunched over a thick stack of foreign
+    retail magazines and notebooks, his face intense with focused determination, the tiny lamp the only light in the dark cramped room, the bearing of a young man imagining a future no one else can see
+    yet.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The same 1972 Ube menswear shop "Ogori Shoji" from the cold-open, but now 23-year-old Tadashi Yanai is shown from behind walking decisively into the shop entrance, briefcase in hand, his back straight
+    with a quiet resolve, the wooden signboard above him slightly weathered. The provincial Yamaguchi street setting evokes the modest origin of what will become a global retail empire.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '23歳で父の3人雇用の店を継いだ男 #Shorts'
+  description: 'ヤナイ・タダシは、1972年、ヤマグチ県ウベ市の父の小さな紳士服店「小郡商事」を継いだ。
+
+    従業員はたった3人。そこから世界一のアパレル帝国 UNIQLO へ。
+
+
+    #Shorts #柳井正 #UNIQLO #人物伝
+
+    '
+  hook_caption: ヤマグチの3人雇用の店から世界へ
+  series_brand: 柳井正伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1972年、ヤマグチ県ウベ市の小さな紳士服店を、23歳で継いだ男がいます。
+    caption: 1972年、23歳でウベの紳士服店を継いだ
+  - panel: p2
+    text: ヤナイ・タダシ。ワセダ大学を卒業した翌年、父の店「小郡商事」を引き受けました。
+    caption: ワセダ卒、父の店「小郡商事」へ
+  - panel: p3
+    text: 従業員は、たった、3人。父が一代で築いた、ヤマグチの片隅の家族経営の店でした。
+    caption: 従業員はたった3人
+  - panel: p4
+    text: しかし、若いヤナイの就任に、ベテラン店員たちは反発し、半年で全員が辞めてしまいます。
+    caption: 半年で店員全員が辞めた
+  - panel: p5
+    text: それでも、彼は諦めなかった。夜な夜な、海外の小売業の文献を読み込み、新しい店の形を構想し続けたんです。
+    caption: 夜な夜な海外小売を研究した
+  - panel: p6
+    text: 12年後の1984年、その小さなウベの店から、ヒロシマに UNIQLO 1号店が生まれることになる——全ては、この3人雇用の店から始まりました。
+    caption: 12年後、UNIQLOが誕生する
+en:
+  title: 'His Entire Staff Quit, So He Built UNIQLO #Shorts'
+  description: 'In 1972, Tadashi Yanai took over his father''s tiny clothing store. Within months, his entire staff quit, leaving him alone.
+
+    This is how that failure led to the creation of UNIQLO.
+
+
+    #UNIQLO #TadashiYanai #Business #FounderStory #Shorts'
+  hook_caption: His Entire Staff Quit. He Built An Empire.
+  series_brand: The Tadashi Yanai Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: In 1972, 23-year-old Tadashi Yanai took over his father's tiny menswear shop in Ube, Japan.
+    caption: A tiny menswear shop
+  - panel: p2
+    text: Just one year out of university, he was suddenly put in charge of the family business.
+    caption: 23 and in charge
+  - panel: p3
+    text: The store was a humble operation with a grand total of... three employees.
+    caption: Just 3 employees
+  - panel: p4
+    text: But the veteran staff immediately clashed with their young boss. Within six months, they all walked out.
+    caption: His entire staff quit
+  - panel: p5
+    text: Left to run the store alone, Yanai spent his nights studying the world's biggest retailers, plotting his comeback.
+    caption: Planning a comeback
+  - panel: p6
+    text: '12 years later, that struggling little shop became the launchpad for a global phenomenon: the very first UNIQLO.'
+    caption: The first UNIQLO

@@ -1,0 +1,66 @@
+id: masuoka-nand
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic modern still life: a smartphone, an SSD, and a USB memory stick arranged on a
+      dark reflective surface, a single glowing memory chip floating above them casting blue light,
+      conveying "the invention hidden inside every device". Cinematic, high-contrast, awe + injustice tone.
+  - id: p2
+    prompt: |
+      A 1987 Toshiba research laboratory at night, the engineer ({masuoka}) leaning over a workbench
+      with early semiconductor wafers and an oscilloscope, a breakthrough gleam in his eye as a new
+      memory-cell diagram glows on a CRT screen. The moment of invention. Warm focused lab light.
+      Character: {masuoka}.
+  - id: p3
+    prompt: |
+      A sweeping montage illustration of the same chip technology spreading across the world 40 years
+      later — vast data centers, countless smartphones, a towering corporate skyscraper — conveying
+      "this invention now powers everything, a multi-trillion-yen industry". Epic, cinematic scale.
+  - id: p4
+    prompt: |
+      A lonely corporate scene: the engineer ({masuoka}) sitting alone at a bare desk in a quiet
+      office, an impressive nameplate but no team, no equipment, empty chairs around him, cold
+      fluorescent light, conveying "a grand title but no lab, no staff, no budget". Isolated, somber.
+      Character: {masuoka}.
+  - id: p5
+    prompt: |
+      A symbolic split scene: on one side the engineer ({masuoka}) walking out of the Toshiba building
+      with a small box, on the other a shadowy handshake selling patent documents cheaply to a foreign
+      chip company. Conveys "he left, and his patents were sold off cheap". Cold, melancholic corporate tone.
+      Character: {masuoka}.
+  - id: p6
+    prompt: |
+      A powerful closing composition: a huge glowing "2.3兆円"-scale skyscraper of money on one side,
+      and a tiny faint coin on the other, with the dignified engineer ({masuoka}) standing quietly in
+      the middle looking at the viewer, conveying "a trillion-yen invention, ended for almost nothing —
+      but the value of invention isn't decided by the company". Dramatic, resonant, dignified.
+      Character: {masuoka}.
+ja:
+  title: '2.3兆円企業を生んだ発明者が、東芝から受け取った8700万円 #Shorts'
+  description: |
+    スマホ・SSD・USBメモリに必ず入っている「NAND型フラッシュメモリ」を1987年に発明した舛岡富士雄。その技術は40年後に2.3兆円企業キオクシアの屋台骨となったが、彼が東芝から受け取った対価はわずか8700万円だった。天才を閑職に追いやった代償を30秒で解説します。
+
+    #Shorts #偉人伝 #舛岡富士雄 #NAND #半導体
+  hook_caption: 2.3兆円を生んだ発明者の報酬は8700万円
+  series_brand: 舛岡富士雄
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: キオクシア、旧東芝メモリ。2026年の売上は、2兆3000億円。この巨大企業の屋台骨を作った発明者が、東芝から受け取った対価は、わずか8700万円でした。
+      caption: 2.3兆円企業の発明者の報酬が8700万円
+    - panel: p2
+      text: 舛岡富士雄。スマホ、SSD、USBメモリ、そのすべてに入っている「NAND型フラッシュメモリ」の発明者です。1987年、東芝で、この技術を作り上げました。
+      caption: NAND型フラッシュメモリを1987年に発明
+    - panel: p3
+      text: その発明は、40年後に世界を変えました。今、世界中のあらゆる機器の記憶を支えているのは、彼が生み出した、この技術なんです。
+      caption: 40年後、世界中の機器を支える技術に
+    - panel: p4
+      text: ところが発明の後、社内で歯車が狂い始めます。擁護してくれた上司が1991年に急逝。翌年に与えられたのは、肩書きだけで部下も研究費もない、閑職でした。
+      caption: 擁護者を失い、部下も予算もない閑職へ
+    - panel: p5
+      text: 「研究の場を失うのは、エンジニアにとって死を意味します」。そう語った舛岡さんは、3年間抵抗した末、1994年に東芝を去ります。その間、東芝は彼の特許を、海外企業に二束三文で売り払いました。
+      caption: 研究の場を奪われ、特許も売り払われた
+    - panel: p6
+      text: 後に彼は、せめて40億円をと提訴しますが、2006年の和解で受け取れたのは8700万円。要求の、たった2%でした。2.3兆円を生む発明が、8700万円で終わる。発明の価値は、会社が決めるものではないはずです。
+      caption: 発明の価値は、会社が決めるものじゃない

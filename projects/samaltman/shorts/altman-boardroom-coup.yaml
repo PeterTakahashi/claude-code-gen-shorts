@@ -1,0 +1,170 @@
+id: altman-boardroom-coup
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 2023 night scene at the OpenAI headquarters lobby in San Francisco. A
+
+    calm but slightly tired Sam Altman walks back through the glass front doors of
+
+    a modern minimalist tech office, a faint relieved half-smile on his face,
+
+    employees in casual hoodies and t-shirts visible in the background applauding
+
+    quietly with emotional expressions, soft warm interior lighting against the
+
+    cold blue night outside the windows. The mood: triumphant return after exile.
+
+    Wide-mid shot framing him centered.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Friday afternoon November 17, 2023, in a quiet hotel room in Las Vegas. Sam
+
+    Altman sits on the edge of a neatly made bed, holding a smartphone to his ear,
+
+    his face frozen in calm disbelief, the conference call screen faintly visible
+
+    on a nearby laptop. Cold late-afternoon sunlight cuts through the curtains.
+
+    The exact moment the OpenAI board tells him he is fired. Mid-shot, his
+
+    expression composed but stunned.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A tense OpenAI board meeting room scene in late 2023, four silhouetted board
+
+    member figures seated around a long modern conference table, their faces in
+
+    shadow, only a glowing screen at the front of the room casting cold blue
+
+    light, an empty chair where the CEO should be, the atmosphere claustrophobic
+
+    and ominous, minimalist San Francisco tech office at dusk through tall
+
+    windows. No specific recognizable faces — just shadowed corporate figures
+
+    conveying a behind-closed-doors coup.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 20, 2023, Sam Altman standing in a sleek Microsoft Redmond office
+
+    lobby, a Microsoft logo subtly visible on the wall behind him, looking
+
+    composed and slightly amused, a friendly executive figure in a dark sweater
+
+    beside him gesturing as if welcoming him aboard. Big windows showing the
+
+    Pacific Northwest grey daylight. The framing suggests a stunning Plan B —
+
+    hired by Microsoft within 48 hours of being fired.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A dramatic overhead-tilted angle of the OpenAI San Francisco office floor at
+
+    night, hundreds of young tech employees in casual hoodies and t-shirts
+
+    gathered together, many holding open laptops, signing a digital open letter,
+
+    faces lit by their screens with determined emotional expressions, a sense of
+
+    unanimous rebellion. A visible counter overlay-style number "700+" implied by
+
+    the dense crowd. Loyalty made visible.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early morning after the reinstatement, Sam Altman alone in his minimalist
+
+    OpenAI corner office, standing by a tall window looking out over a foggy San
+
+    Francisco skyline at dawn, a cup of coffee in one hand, his expression
+
+    contemplative and softly tired, the orange-pink light of sunrise hitting his
+
+    face. The quiet moment after the storm. Over-shoulder framing, the city
+
+    visible beyond.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '5日間でCEOが解任→復帰した話 #Shorts'
+  description: '2023年11月、OpenAIのサム・アルトマンが取締役会に突然解任された。
+
+    しかし5日後、社員700人が辞任を表明し、彼はCEOに復帰した。
+
+
+    #Shorts #サムアルトマン #OpenAI #人物伝
+
+    '
+  hook_caption: 5日でCEOに戻った男
+  series_brand: サム・アルトマン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 5日間でCEOを解任され、Microsoftに移籍し、そして元の会社に復帰した男がいます。
+    caption: 5日でクビ→Microsoft→復帰
+  - panel: p2
+    text: 2023年11月、ある金曜日、OpenAIのサム・アルトマンは、取締役会から、突然、解任を通告されました。
+    caption: 2023年11月、突然の解任通告
+  - panel: p3
+    text: 理由は、取締役会との「意思疎通の欠如」。事実上の、内部クーデターでした。
+    caption: 取締役会による内部クーデター
+  - panel: p4
+    text: しかし、その週末のうちに、Microsoftが、彼を新部門のトップとして、即座に迎え入れると発表したんです。
+    caption: 週末にMicrosoftが即採用を発表
+  - panel: p5
+    text: さらに、OpenAIの社員700人以上が、「アルトマンが戻らないなら、自分たちも辞める」、と署名しました。
+    caption: 社員700人が辞任を表明
+  - panel: p6
+    text: 解任からわずか5日後、彼はCEOに復帰し、取締役会の方が、ほとんど入れ替わったんです。
+    caption: 5日後、CEOに復帰
+en:
+  title: 'How OpenAI''s CEO Got Fired and Rehired in 5 Days #Shorts'
+  description: 'In November 2023, Sam Altman was suddenly fired by OpenAI''s board. What followed was 5 days of chaos, a job offer from Microsoft, and a near-revolt from his employees.
+
+    #Shorts #SamAltman #OpenAI #TechDrama'
+  hook_caption: FIRED. HIRED. REINSTATED. IN 5 DAYS.
+  series_brand: The Sam Altman Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: On a Friday in November 2023, OpenAI CEO Sam Altman got a call out of the blue. He was fired.
+    caption: He was fired.
+  - panel: p3
+    text: The company's own board staged a coup, citing a vague 'lack of candid communication'.
+    caption: A boardroom coup
+  - panel: p4
+    text: But before the weekend was over, Microsoft had already hired him to lead a new advanced AI division.
+    caption: Hired by Microsoft
+  - panel: p5
+    text: In response, over 700 OpenAI employees—nearly the entire company—threatened to quit in solidarity.
+    caption: His team revolted
+  - panel: p1
+    text: The massive pressure campaign worked. Just five days after being ousted, Altman walked back into headquarters.
+    caption: The return
+  - panel: p6
+    text: He was reinstated as CEO, and the very board that fired him was almost entirely replaced.
+    caption: Back in charge

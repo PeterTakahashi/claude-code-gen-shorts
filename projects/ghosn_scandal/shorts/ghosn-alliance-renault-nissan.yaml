@@ -1,0 +1,66 @@
+id: ghosn-alliance-renault-nissan
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic 1999 corporate scene of two car-maker flags side by side — a French automaker
+      and a Japanese automaker — joined by a glowing handshake, conveying "the unlikely Franco-
+      Japanese alliance the world said could not work". Tense, hopeful corporate tone.
+  - id: p2
+    prompt: |
+      A 1999 Yokohama scene: a younger Carlos Ghosn arriving at a struggling Nissan headquarters,
+      Japanese executives bowing nervously, a mountain of debt charts on the wall behind them,
+      conveying "the foreign rescuer sent in to save Nissan". Tense corporate atmosphere.
+      Character: {ghosn}.
+  - id: p3
+    prompt: |
+      A boardroom scene of Ghosn announcing a sweeping revival plan to silent Japanese executives,
+      bold red restructuring slides projected on the wall, factory shutdown maps and supplier
+      consolidation diagrams, conveying "the painful but decisive Nissan Revival Plan". Sharp
+      corporate tone. Character: {ghosn}.
+  - id: p4
+    prompt: |
+      An infographic of the three brands of the alliance lining up — Renault, Nissan, and later
+      Mitsubishi joining in 2016 — global sales charts climbing, world-map factory icons
+      lighting up, conveying "it became one of the world's largest car-making groups". Clean
+      corporate infographic.
+  - id: p5
+    prompt: |
+      A tense scene of the same alliance under strain: French and Japanese executives sitting at
+      opposite sides of a long table, glaring across stacked agreements, a faint crack running
+      down the table, conveying "behind the success, deep tensions between the partners".
+      Cold corporate tone.
+  - id: p6
+    prompt: |
+      A symbolic closing image of three car-maker emblems linked by a chain that is starting to
+      strain, a single figure (Ghosn) standing in the middle holding it all together, conveying
+      "the alliance was built by one man — and rested on him". Cautionary corporate tone.
+      Character: {ghosn}.
+ja:
+  title: '一人で支えた日仏連合、ゴーンが作った巨大自動車同盟 #Shorts'
+  description: |
+    倒産寸前の日産を救ったカルロス・ゴーンは、フランスのルノーと日産、後の三菱を束ね、世界最大級の自動車連合を作り上げた。しかしその同盟は、彼一人の存在で成り立っていた。栄光の構造を30秒で解説します。
+
+    #Shorts #ゴーン #日産 #ルノー #事件
+  hook_caption: 一人で支えた巨大自動車同盟
+  series_brand: ゴーン事件
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1999年。フランスのルノーと、瀕死の日産。誰もが「うまくいくはずがない」と言った、日仏連合が始まりました。
+      caption: 1999年、日仏連合は不可能と言われた
+    - panel: p2
+      text: その融合役として、ルノーから送り込まれたのが、カルロス・ゴーンです。彼は、巨額の負債を抱える日産の、再建を任されました。
+      caption: ルノーから送り込まれた再建役ゴーン
+    - panel: p3
+      text: ゴーンは、工場閉鎖や、取引先の見直しを含む「日産リバイバルプラン」を断行。痛みを伴う改革で、わずか1年で、日産を黒字へ戻します。
+      caption: 痛みを伴う改革で1年で黒字化した
+    - panel: p4
+      text: その後、ルノー・日産連合は、2016年に三菱自動車も加え、年間販売台数で世界一を争う、巨大同盟へと、成長していきました。
+      caption: ルノー・日産・三菱で世界一を争う規模に
+    - panel: p5
+      text: しかしその裏で、フランス側と日本側の対立は、深く積み重なっていました。同盟の構造は、最初から、ねじれを抱えていたんです。
+      caption: 仏側と日本側の対立が深く積み重なった
+    - panel: p6
+      text: ねじれを束ねていたのは、結局、ゴーン一人の存在感でした。彼が逮捕された瞬間、世界一の同盟は、軋み始めることになるのです。
+      caption: 同盟を束ねていたのはゴーン一人だった

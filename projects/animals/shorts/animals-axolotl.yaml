@@ -1,0 +1,62 @@
+id: animals-axolotl
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A close-up of a pink smiling axolotl (Mexican salamander) underwater, its feathery
+      external gills glowing, a stylized X-ray overlay on one leg showing it regrowing, a
+      decorative Japanese caption "手足が生えてくる", the visual of "an animal that regrows
+      its own limbs — and keeps smiling". Soft aquarium light, wondrous tone.
+  - id: p2
+    prompt: |
+      A clean biology infographic, a pink axolotl losing a leg and regrowing it perfectly
+      in 4 stages with arrows, a decorative Japanese caption "完全再生", the visual of
+      "it regrows legs with no scar". Clean infographic, decorative Japanese text.
+  - id: p3
+    prompt: |
+      An infographic showing the axolotl regrowing not just limbs but parts of its heart
+      and even brain, small glowing organ icons with a decorative Japanese caption
+      "心臓も脳も再生", the visual of "even organs come back". Clean science illustration.
+  - id: p4
+    prompt: |
+      A science panel showing an axolotl staying in its baby larval form forever, gills
+      kept into adulthood, a decorative Japanese caption "ネオテニー (幼形成熟)", the visual of
+      "it never grows up — it stays a baby its whole life". Soft underwater.
+  - id: p5
+    prompt: |
+      A research-lab panel, scientists studying a glowing axolotl under a microscope with
+      a decorative Japanese caption "人類の再生医療の鍵", the visual of "humans study it to
+      unlock regeneration". Blue lab light.
+  - id: p6
+    prompt: |
+      Same smiling pink axolotl underwater as panel 1 with a soft glow, a decorative
+      Japanese caption "再生する生き物", the loop image of "the animal that just keeps coming
+      back". Wondrous aquarium tone.
+ja:
+  title: '手足も心臓も再生するウーパールーパーの正体 #Shorts'
+  description: |
+    手足を失っても完全に再生し、心臓や脳の一部まで作り直す。さらに一生赤ちゃんの姿のまま。再生医療の鍵とされるウーパールーパーを30秒で解説します。
+
+    #Shorts #動物雑学 #ウーパールーパー #アホロートル #再生
+  hook_caption: 手足も心臓も再生する生き物
+  series_brand: 再生する生き物
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 手足を失っても、また生えてくる。しかも笑っているように見える、不思議な生き物がいます。ウーパールーパーです。
+      caption: 手足が生えてくる生き物
+    - panel: p2
+      text: 足を失っても、数週間で、傷跡ひとつ残さず、完全に元通りに再生します。骨も、神経も、すべてです。
+      caption: 傷跡なしで足を完全再生
+    - panel: p3
+      text: 驚くのは、手足だけではありません。心臓の一部や、脳の一部さえ、作り直してしまうんです。
+      caption: 心臓や脳の一部まで再生する
+    - panel: p4
+      text: さらに彼らは、大人になっても、エラを持つ赤ちゃんの姿のまま。これを「ネオテニー」、幼形成熟と言います。
+      caption: 一生赤ちゃんの姿のまま「ネオテニー」
+    - panel: p5
+      text: だから科学者たちは、ウーパールーパーを研究します。人間の再生医療の鍵が、ここに隠れているからです。
+      caption: 人類の再生医療の鍵として研究される
+    - panel: p6
+      text: 失っても、何度でも作り直す。もし人間がこの力を解き明かせたら、医療の常識が、変わるかもしれません。
+      caption: この力が医療の常識を変えるかも

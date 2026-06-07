@@ -1,0 +1,183 @@
+id: vitalik-19yo-ethereum-whitepaper
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late November 2013, a small cluttered Toronto student apartment at 3am.
+
+    A 19-year-old Vitalik Buterin sitting at a small desk in front of an
+
+    open laptop, the screen displaying a long technical PDF titled
+
+    "Ethereum White Paper", his pale tired face dimly lit by the screen
+
+    glow, a soft introverted half-smile of quiet satisfaction. Stacks of
+
+    printouts and a half-empty mug of tea beside him, snow visible through
+
+    the window. The exact moment of finishing the document that will
+
+    change crypto forever. Side-front framing.
+
+    Character: {subject_teen}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2012, a small home desk somewhere in Toronto. A 17-18 year old Vitalik
+
+    Buterin sitting cross-legged on a swivel chair, typing on a laptop, the
+
+    screen showing a draft article with the visible header "Bitcoin
+
+    Magazine". Stacks of cryptography books and printed papers around him,
+
+    afternoon winter light through the window. The slim teenage figure of
+
+    a self-taught journalist about to leave for something bigger. Mid-shot.
+
+    Character: {subject_teen}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A symbolic conceptual scene: a giant golden Bitcoin coin sitting alone
+
+    on a dark pedestal, a single chain wrapped around it limiting its
+
+    movement, a small lone teenage silhouette of Vitalik standing in front
+
+    of it with arms crossed, looking up at the coin thoughtfully. Cool blue
+
+    conceptual lighting, abstract digital-cosmos background. The visual
+
+    metaphor: Bitcoin was money only, not programmable. No logos beyond
+
+    the simple Bitcoin "B" symbol.
+
+    Character: {subject_teen}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2013, a small cafe table in Toronto. A 19-year-old Vitalik Buterin
+
+    leaning intensely over a notebook, hand-writing equations and small
+
+    diagrams of a programmable blockchain — boxes labeled "smart contract",
+
+    arrows, simple sketches — with a cheap ballpoint pen, a cup of black
+
+    coffee untouched beside him, the gentle absorbed expression of a
+
+    teenage prodigy whose mind has just clicked. Soft warm cafe lighting,
+
+    blurred patrons in the background. Three-quarter framing.
+
+    Character: {subject_teen}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-2014, a quiet hallway of the University of Waterloo in Canada. A
+
+    19-year-old Vitalik Buterin standing with a thin backpack over one
+
+    shoulder, looking calmly at a framed acceptance letter held in his
+
+    hands marked with the words "Thiel Fellowship $100,000", a small soft
+
+    smile of resolve. A poster of math equations on the wall behind him,
+
+    cool fluorescent corridor lighting. The exact moment of choosing
+
+    Ethereum over a degree. Mid-shot.
+
+    Character: {subject_teen}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-2015, the same small Toronto desk, late at night. Over-the-shoulder
+
+    view of a 20-year-old Vitalik Buterin from behind, his thin frame in
+
+    soft focus, the laptop screen sharply visible showing a live Ethereum
+
+    block explorer with the very first blocks scrolling past, faint
+
+    reflections of the glow on the dark window. Quiet historical moment of
+
+    the network going live, conveys the 2-year arc from a teenage idea to
+
+    a global decentralized computer.
+
+    Character: {subject_teen}.
+
+    '
+ja:
+  title: '19歳でEthereumを設計した少年 #Shorts'
+  description: '2013年、19歳のヴィタリック・ブテリンが、たった1人でEthereumのwhite paperを書き上げた。
+
+    Bitcoin Magazineの記者でThiel Fellowship受給者だった彼は、当時の暗号通貨業界を一変させた。
+
+
+    #Shorts #ヴィタリックブテリン #Ethereum #Bitcoin #人物伝
+
+    '
+  hook_caption: 19歳でEthereumを設計した男
+  series_brand: ヴィタリック・ブテリン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: わずか19歳で、Ethereumのwhite paperを、たった1人で書き上げた少年がいます。
+    caption: 19歳で1人でwhite paperを執筆
+  - panel: p2
+    text: ヴィタリック・ブテリン。当時はトロント在住、Bitcoin Magazineの、記者でした。
+    caption: 当時トロント在住、Bitcoin Magazine記者
+  - panel: p3
+    text: 彼はBitcoinに、こう疑問を持ったんです。「なぜ、お金にしか使えないんだろう」。
+    caption: Bitcoinはお金にしか使えない
+  - panel: p4
+    text: 2013年11月、彼は、プログラム可能なブロックチェーンの構想を、ノートに、書き出しました。
+    caption: 2013年11月、構想をノートに書き出す
+  - panel: p5
+    text: 翌2014年、Peter ThielのThiel Fellowshipに、選ばれ、大学を中退して、開発に専念。
+    caption: 翌年、Thiel Fellowshipで大学中退
+  - panel: p6
+    text: そして2015年7月、Ethereumは、稼働を始めた——19歳の構想から、わずか2年後のことです。
+    caption: 構想から2年後、Ethereum稼働
+en:
+  title: 'How a 19-Year-Old Built Ethereum #Shorts'
+  description: 'In 2013, a 19-year-old named Vitalik Buterin saw a limitation in Bitcoin and decided to build something better. This is the story of how his idea became Ethereum.
+
+
+    #Shorts #VitalikButerin #Ethereum #Crypto #Biography'
+  hook_caption: This Teen's Idea Challenged Bitcoin
+  series_brand: The Vitalik Buterin Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In late 2013, a 19-year-old kid wrote the Ethereum white paper entirely by himself.
+    caption: All by himself
+  - panel: p2
+    text: His name was Vitalik Buterin, and at the time, he was just a writer for Bitcoin Magazine.
+    caption: Just a writer
+  - panel: p3
+    text: 'He saw a critical flaw in Bitcoin: why was it *only* good for sending money?'
+    caption: Bitcoin's big flaw
+  - panel: p4
+    text: He envisioned a new blockchain that could be programmed to build... well, anything.
+    caption: A new vision
+  - panel: p5
+    text: After winning the prestigious Thiel Fellowship, he dropped out of university to go all-in on his idea.
+    caption: Dropped out to build
+  - panel: p6
+    text: Just two years later, in July 2015, his vision—Ethereum—came to life.
+    caption: Ethereum was born

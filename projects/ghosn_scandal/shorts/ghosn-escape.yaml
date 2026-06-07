@@ -1,0 +1,67 @@
+id: ghosn-escape
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A tense night scene of a large black audio-equipment case being wheeled through a
+      Japanese regional airport, a faint human silhouette curled inside implied, a decorative
+      Japanese caption "楽器ケースの中に、男", the visual of "a fugitive hiding inside a music
+      case to flee Japan". Thriller tone, Osaka Kansai airport at night.
+  - id: p2
+    prompt: |
+      A 2018 corporate scene of the powerful Nissan chairman (Carlos Ghosn) at a podium
+      with the Nissan logo, confident, a decorative Japanese caption "日産を救った経営者",
+      the visual of "once the celebrated savior of Nissan". Clearly Tokyo corporate.
+      Character: {ghosn}.
+  - id: p3
+    prompt: |
+      A dramatic 2018 arrest scene at a Tokyo airport, the same man (Ghosn) stunned as
+      Japanese prosecutors approach, a decorative Japanese caption "2018年 電撃逮捕", the
+      visual of "arrested for financial misconduct out of nowhere". Tense, Tokyo.
+      Character: {ghosn}.
+  - id: p4
+    prompt: |
+      A bleak Tokyo detention-center scene, the same man in plain clothes behind bars,
+      then released on bail under heavy surveillance, a decorative Japanese caption
+      "保釈、しかし監視下", the visual of "out on bail but watched constantly". Somber.
+      Character: {ghosn}.
+  - id: p5
+    prompt: |
+      The dramatic escape — the large black case loaded onto a private jet at night, a
+      world map overlay with an arrow Japan → Lebanon and a decorative Japanese caption
+      "レバノンへ逃亡", the visual of "smuggled out by private jet to a country with no
+      extradition". Thriller, night.
+  - id: p6
+    prompt: |
+      The same man (Ghosn) at a defiant press conference in Lebanon, a decorative Japanese
+      caption "私は逃げたのではない", the loop image of "the most dramatic corporate escape in
+      history". Tense press setting.
+      Character: {ghosn}.
+ja:
+  title: 'ゴーン会長が楽器ケースで日本を脱出した夜 #Shorts'
+  description: |
+    日産を救った経営者カルロス・ゴーンは、逮捕・保釈の末、楽器ケースに隠れて日本を脱出しレバノンへ逃亡した。世界を驚かせた事件を30秒で解説します。
+
+    #Shorts #ゴーン #日産 #事件 #国外逃亡
+  hook_caption: 楽器ケースで日本を脱出した会長
+  series_brand: ゴーン事件
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 大きな楽器ケースの中に、人が隠れていました。これは、ある経営者が、日本から脱出した夜の話です。
+      caption: 楽器ケースに隠れて脱出した男
+    - panel: p2
+      text: カルロス・ゴーン。倒れかけた日産を立て直し、世界に名を轟かせた、カリスマ経営者でした。
+      caption: 日産を救ったカリスマ経営者
+    - panel: p3
+      text: ところが2018年、彼は突然、金融商品取引法違反などの疑いで、東京で電撃逮捕されます。
+      caption: 2018年、東京で電撃逮捕
+    - panel: p4
+      text: 長い勾留の後、保釈されますが、行動は厳しい監視下に。彼は、日本の司法に勝てないと、考えたのかもしれません。
+      caption: 保釈、しかし厳しい監視下に
+    - panel: p5
+      text: そして年末、彼は大きな楽器ケースに隠れてプライベートジェットに乗り込み、引き渡し条約のない国、レバノンへ逃亡したんです。
+      caption: 楽器ケースでレバノンへ逃亡
+    - panel: p6
+      text: レバノンで彼は、「私は逃げたのではない、不正な司法から逃れたのだ」と主張。世界一劇的な、経営者の逃亡劇でした。
+      caption: 世界一劇的な経営者の逃亡劇

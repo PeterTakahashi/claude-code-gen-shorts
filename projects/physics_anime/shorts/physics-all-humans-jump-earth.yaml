@@ -1,0 +1,169 @@
+id: physics-all-humans-jump-earth
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A dramatic wide aerial view of planet Earth from space, the Earth
+
+    slightly tilted with a faint glowing curved orange motion-arrow
+
+    beside it suggesting a tiny nudge, deep starry black space
+
+    background, the visual of "if everyone on Earth jumped at the
+
+    same time, would the planet move?" — pure cosmic composition.
+
+    Wide cinematic shot. No people. No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A warm cozy modern anime physics classroom, the friendly middle-
+
+    aged Japanese physicist with silver-grey hair and round wire-frame
+
+    glasses, gentle teaching smile, white lab coat over beige sweater,
+
+    pointing at a giant glowing decorative English headline floating
+
+    next to him reading "8,000,000,000 PEOPLE", bright afternoon light
+
+    through windows. Mid-shot. Clearly classroom setting. No Japanese
+
+    text.
+
+    Character: {prof_kawai}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An abstract dramatic worldwide cityscape mosaic, dozens of
+
+    stylized small silhouettes of people in various global cities
+
+    (Tokyo, New York, Mumbai, Lagos, Rio) all mid-jump simultaneously,
+
+    decorative English caption "8 BILLION JUMP" floating above the
+
+    composite, the visual of "everyone on Earth jumps at exactly the
+
+    same moment". Wide composite shot. Decorative English text only.
+
+    No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean physics infographic on a deep navy background, a glowing
+
+    seesaw-style scale, on the left side a tiny stylized human figure
+
+    labeled in decorative English "62 kg AVG", on the right side a
+
+    gigantic blue Earth labeled "5.97 × 10²⁴ kg", the seesaw is
+
+    tipped almost imperceptibly toward the human side, the visual
+
+    of "the mass ratio is one to about 10²³". Decorative English
+
+    text only. No people other than the small figure. No Japanese
+
+    text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same warm anime physics classroom as panel 2, the silver-haired
+
+    physicist in white lab coat now facing camera with a slight smile
+
+    and a small gesture, the chalkboard behind him reading in
+
+    decorative English "EARTH MOVES: 10⁻¹³ meters", with a small
+
+    arrow labeled "ATOMIC SCALE", warm light through windows.
+
+    Mid close-up. Clearly classroom setting. No Japanese text.
+
+    Character: {prof_kawai}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same dramatic wide aerial view of planet Earth from space as
+
+    panel 1, but the glowing motion-arrow is now barely visible — a
+
+    thin faint line, the planet still perfectly in place, deep
+
+    starry black space background, the loop image of "8 billion
+
+    people jumped, and Earth barely noticed". Wide cinematic shot.
+
+    No people. No Japanese text.
+
+    '
+ja:
+  title: '全人類が同時にジャンプしたら地球はどうなる? #Shorts'
+  description: 'もし、地球上の80億人全員が、同時にジャンプしたら、地球は動くのか。
+
+    意外な結論を、運動量保存則から、30秒で証明します。
+
+
+    #Shorts #物理 #運動量保存 #思考実験 #地球
+
+    '
+  hook_caption: 80億人が同時にジャンプしたら地球は?
+  series_brand: 30秒物理
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: もし、地球上の全人類が、同時にジャンプしたら、地球は動くのか?——多くの人が、想像する以上に、答えは、退屈です。
+    caption: 全人類が同時にジャンプしたら?
+  - panel: p2
+    text: 計算してみましょう。2025年時点で、地球には、約80億人がいて、平均体重は約62 kgです。
+    caption: 80億人 × 平均62 kg で計算
+  - panel: p3
+    text: 物理学では、ジャンプは、地面を押す力と、同じ力で、地面に押し返される、作用反作用の関係になります。
+    caption: ジャンプ = 地面への作用反作用
+  - panel: p4
+    text: しかし、人類全員の質量を合計しても、地球の質量の、10の23乗分の1にしか、なりません。あまりに、軽すぎるんです。
+    caption: 人類の合計質量は地球の10⁻²³倍
+  - panel: p5
+    text: 結果、地球が動く距離は、10のマイナス13乗メートル。これは、原子1個の幅よりも、はるかに小さい、ということです。
+    caption: 地球の移動距離は原子1個未満
+  - panel: p6
+    text: しかも、人類が着地した瞬間、地球は、元の位置に戻ります。80億人が、本気で跳ねても、地球はほとんど、気付かないんです。
+    caption: 着地で元に戻る、地球は気付かない
+en:
+  title: 'What If Everyone on Earth Jumped at Once? #Shorts'
+  description: 'If all 8 billion people on Earth jumped at the exact same time, would it actually move our planet?
+
+    The answer from physics is... surprisingly small. Here''s why.
+
+    #Shorts #Physics #WhatIf #Science #ThoughtExperiment'
+  hook_caption: Could 8 Billion People Move The Earth?
+  series_brand: 30-Second Physics
+  voice_speaker: Ryan
+  narration:
+  - panel: p3
+    text: What if all 8 billion people on Earth jumped at the exact same time? Could we actually move the planet?
+    caption: 8 billion people jump
+  - panel: p2
+    text: According to the law of conservation of momentum, when we push off the ground to jump, the Earth technically does push back.
+    caption: The Earth pushes back
+  - panel: p4
+    text: 'But there''s a catch: the combined mass of all humanity is absolutely minuscule compared to the mass of the Earth.'
+    caption: We're just too light
+  - panel: p5
+    text: The resulting movement would be less than the width of a single hydrogen atom. Utterly undetectable.
+    caption: Smaller than an atom
+  - panel: p6
+    text: And the moment everyone lands, the Earth would just move right back to its original position. Sorry everyone.
+    caption: And then... nothing.

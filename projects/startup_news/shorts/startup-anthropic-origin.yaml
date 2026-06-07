@@ -1,0 +1,202 @@
+id: startup-anthropic-origin
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    EXTREME close-up of 28-year-old Dario Amodei''s wide-eyed face frozen in front
+
+    of a glowing monitor in a darkened Stanford computational biology lab at 3 AM,
+
+    his dark intelligent eyes reflecting cascading streams of neural-network code
+
+    and loss curves on the screen, very thick wavy dark brown hair falling
+
+    messily over his forehead with the characteristic Italian curl, pale skin
+
+    lit harsh blue from the monitor, faint stubble, a single bead of sweat at
+
+    his temple, mouth slightly open in dawning realization. American Stanford
+
+    California 2011 university lab setting. A decorative English sticky note
+
+    on the monitor "SCALING LAWS?" partially readable. The visual of "the
+
+    moment a young scientist realized AI would change everything." Subject
+
+    filling square center for vertical short layout with blurred padding above/below.
+
+    Character: {dario_young}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Mid-shot of a sleek modern 2016 San Francisco OpenAI office, a 33-year-old
+
+    Dario Amodei in a navy crew-neck sweater and dark jeans seated at a glass
+
+    conference table covered with stacks of research papers and a giant
+
+    whiteboard behind him filled with decorative English equations
+
+    "L = A * N^-α" and "COMPUTE → CAPABILITY", a thoughtful frown on his face
+
+    while younger American researchers in hoodies lean in around him, a
+
+    decorative English wall sign "OpenAI Research" partially readable. American
+
+    Silicon Valley 2016 office setting. The visual of "the lead scientist who
+
+    first saw the scaling-law tsunami coming."
+
+    Character: {dario_amodei}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on deep navy background, a glowing exponential
+
+    curve climbing sharply from bottom-left to top-right, decorative English axis
+
+    labels "COMPUTE" along the bottom and "CAPABILITY" along the left, a small
+
+    decorative English caption floating top-right "GPT-2 → GPT-3 → ???", a tiny
+
+    stylized warning triangle marker on the steepest part of the curve, the
+
+    visual of "the curve that wouldn''t stop bending up." Decorative English
+
+    text only. No people.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A tense late-2020 private meeting room in San Francisco, the now 37-year-old
+
+    Dario Amodei seated across a small wood table from his younger sister
+
+    Daniella, both leaning in with serious expressions, several thick research
+
+    printouts and a single laptop showing a decorative English document title
+
+    "AI SAFETY MANIFESTO" between them, soft warm afternoon window light, the
+
+    visual of "the sibling decision to walk away from OpenAI and start something
+
+    new." American San Francisco 2020 setting.
+
+    Character: {dario_amodei}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A bright minimalist 2021 San Francisco startup office on its first day,
+
+    Dario Amodei standing front-and-center with a small focused team of 7
+
+    ex-OpenAI researchers in casual hoodies and t-shirts behind him, a giant
+
+    decorative English wall logo "Anthropic" mounted on the back wall, sunlight
+
+    streaming through floor-to-ceiling windows, the visual of "Day One of the
+
+    company built on AI safety." American San Francisco 2021 office setting.
+
+    A small decorative English poster "BUILD SAFER AI" readable on a side wall.
+
+    Character: {dario_amodei}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame.
+
+    Same EXTREME close-up of 28-year-old Dario Amodei''s face as panel 1, but
+
+    a slightly later moment — the same darkened Stanford lab and glowing
+
+    monitor, the same cascading code reflected in his dark eyes, but now a
+
+    subtle determined small smile breaking through his shock, the bead of
+
+    sweat still at his temple, the wavy dark brown hair still falling over
+
+    his forehead. American Stanford California 2011 university lab setting.
+
+    The loop image of "the night the future of AI safety quietly began."
+
+    Subject filling square center for vertical short layout with blurred
+
+    padding above/below.
+
+    Character: {dario_young}.
+
+    '
+ja:
+  title: '28歳でAI安全を始めたAnthropic Dario誕生の瞬間 #Shorts'
+  description: 'Anthropic CEO ダリオ・アモデイは、28歳の Stanford 研究員時代に、
+
+    AIが指数関数的に賢くなる未来を、最初に肌で感じた一人だった。
+
+    そこから10年後の2021年、彼は OpenAI を去り、AI安全に全振りした
+
+    会社 Anthropic を、妹と共に立ち上げます。
+
+
+    #Shorts #Anthropic #DarioAmodei #AI安全 #スタートアップ
+
+    '
+  hook_caption: 28歳のAI安全の原点
+  series_brand: Anthropic誕生
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「これは、世界を、根本から変える」——15年前の2011年、当時28歳だった Stanford のポスドク、ダリオ・アモデイは、深夜のラボで、未来に気付いてしまったんです。
+    caption: 28歳のダリオ、未来に気付く夜
+  - panel: p2
+    text: 2016年、彼は OpenAI に研究副社長として加わり、GPT-2、GPT-3 を率いる中で、計算量を増やすほど AI が賢くなる「Scaling Laws」を、世界で最初に体系化しました。
+    caption: 2016年、OpenAIでScaling Laws発見
+  - panel: p3
+    text: そのカーブは、想定よりも、はるかに急で、止まる気配が、ありませんでした。彼は、AIが数年で人間を超える可能性を、誰よりも早く確信したんです。
+    caption: カーブは想定より急、止まらない
+  - panel: p4
+    text: しかし当時の OpenAI は、商業化を急いでいたため、安全研究との両立は、難しかった。2020年末、ダリオは妹のダニエラと、別の道を、選びます。
+    caption: 2020年末、妹と一緒に決断
+  - panel: p5
+    text: 5年前の2021年、ダリオは OpenAI を去り、AI安全に全振りした会社 Anthropic を、7人の元同僚と共に、創業しました。
+    caption: 2021年、Anthropic創業
+  - panel: p6
+    text: 創業から5年後の現在、Anthropic の評価額は約3,500億ドル。28歳の深夜のラボから始まった気付きが、世界で最も慎重なAI企業を、生み出した瞬間でした。
+    caption: 評価額3,500億ドルの原点
+en:
+  title: 'Why OpenAI''s Top Researcher Quit to Start His Own AI Lab #Shorts'
+  description: 'Dario Amodei was a key researcher at OpenAI behind models like GPT-3. But a chilling realization about AI''s growth led him to quit and found Anthropic, a company dedicated to AI safety.
+    This is his story.
+
+
+    #Shorts #Anthropic #DarioAmodei #AI #Tech'
+  hook_caption: He Saw The AI Future... And Quit.
+  series_brand: Birth of Anthropic
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In 2011, a 28-year-old Stanford researcher named Dario Amodei had a vision of the future that would change his life forever.
+    caption: A vision of the future
+  - panel: p2
+    text: 'By 2016, he was VP of Research at OpenAI, where his team made a critical discovery: the ''Scaling Laws''.'
+    caption: The 'Scaling Laws'
+  - panel: p3
+    text: 'The principle was simple: more compute meant exponentially more power. The growth was so fast, he realized AI could outpace humans in just a few years.'
+    caption: Exponential growth
+  - panel: p4
+    text: But as OpenAI rushed to commercialize its models, Dario grew concerned. He believed they were moving too fast and taking safety for granted.
+    caption: A dangerous path
+  - panel: p5
+    text: 'So in 2021, he and his sister Daniela left with a core team to found Anthropic, an AI company with one primary goal: safety.'
+    caption: Anthropic is born
+  - panel: p6
+    text: Today, that company is valued at over $18 billion—all born from a single moment of clarity in a dark university lab.
+    caption: A mission of safety

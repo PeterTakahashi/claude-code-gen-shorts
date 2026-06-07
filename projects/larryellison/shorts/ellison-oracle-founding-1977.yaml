@@ -1,0 +1,121 @@
+id: ellison-oracle-founding-1977
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of a 1977 Santa Clara
+      sidewalk scene, a confident American male entrepreneur in his early 30s
+      with sharp angular features, dark wavy hair and a thick dark beard,
+      wearing a wide-collar brown shirt and corduroy jacket, holding a worn
+      leather briefcase, an Ampex Corporation sign behind him, vintage 1970s
+      Silicon Valley cars parked along the curb. Late afternoon golden
+      California light, soft cel shading, the visual of "a man about to quit
+      his stable job and bet everything". Clearly American setting.
+      No japanese text in the image.
+  - id: p2
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of a cramped 1977 Santa
+      Clara garage office at night, the same dark-bearded American male
+      entrepreneur in his early 30s hunched over a wooden desk under a single
+      hanging bulb, a small handful of cash labeled "$1,200" on the desk, a
+      green-glowing mainframe terminal beside him, papers and an overflowing
+      ashtray. Warm tungsten lighting, expressive line art, the visual of
+      "founded Software Development Laboratories with about 1,200 dollars".
+      Clearly American garage setting. No japanese text in the image.
+  - id: p3
+    prompt: |
+      A 9:16 vertical anime/webtoon style top-down still-life illustration of
+      a worn 1970s wooden desk: an open IBM research paper with the title
+      "A Relational Model of Data" by E.F. Codd visible in English, a yellow
+      legal pad with handwritten table diagrams and SQL-style notes, a black
+      coffee mug, a metal slide rule, a glass ashtray. Dramatic side lighting,
+      crisp cel shading, the visual of "the academic paper that became
+      Oracle". Decorative English text only — no japanese text in the image.
+      No people in this panel.
+  - id: p4
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of an early-1980s CIA
+      Langley Virginia office corridor in shadow, a navy-suited American
+      government official walking past a frosted-glass office door stenciled
+      with the English code name "PROJECT ORACLE", carrying a manila folder
+      stamped "CLASSIFIED". Cool fluorescent lighting, slight motion in the
+      figure, the visual of "the CIA contract whose codename became the
+      company name". Clearly American government interior. No japanese text
+      in the image.
+  - id: p5
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of the March 12 1986
+      NASDAQ IPO day, the same American entrepreneur now in his early 40s,
+      sharp features and trimmed dark beard slightly graying, in a charcoal
+      three-piece suit with a wide 80s tie, standing on a trading floor as
+      paper ticker tape with "ORCL" prints around him, brokers in shirtsleeves
+      shouting, analog phones, CRT monitors glowing green. Energetic cel
+      shading, the visual of "Oracle goes public, 1986". Clearly American
+      trading floor. No japanese text in the image.
+  - id: p6
+    prompt: |
+      A 9:16 vertical anime/webtoon style illustration of the present-day
+      Oracle world headquarters in Redwood Shores California at golden hour,
+      the iconic cylindrical mirrored-glass towers reflecting an orange sky,
+      a stylized red "ORACLE" sign on the facade, palm trees in the
+      foreground, a slight aerial perspective. Clean modern composition, soft
+      golden cel shading, the visual of "from 1,200 dollars to a 300 billion
+      dollar company". No people. Decorative English text only — no japanese
+      text in the image.
+ja:
+  title: '1200ドルでOracleを始めた男、ラリー・エリソン #Shorts'
+  description: |
+    1977年、32歳のラリー・エリソンは、勤務先のAmpexを辞め、たった1,200ドルの自己資金で、ソフトウェア会社を立ち上げた。
+    その会社は、CIAの極秘プロジェクトの暗号名から、Oracleと名を変え、世界最大級のデータベース企業に育った。30秒で解説します。
+
+    #Shorts #ラリーエリソン #LarryEllison #Oracle #シリコンバレー #人物伝
+  hook_caption: 1200ドルから始まったOracle
+  series_brand: ラリー・エリソン伝
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1977年、32歳のラリー・エリソンは、勤め先のAmpexを辞めて、ポケットには、たった1,200ドルしか、ありませんでした。
+      caption: 1977年、所持金1200ドルで独立
+    - panel: p2
+      text: その1,200ドルを元手に、彼は仲間2人とSoftware Development Laboratoriesを設立し、シリコンバレーの片隅で、会社をスタートさせます。
+      caption: 仲間2人とSDLを設立
+    - panel: p3
+      text: 彼が賭けたのは、IBMの研究者コッド博士が発表した、関係データベースという理論で、当時のIBM自身ですら、商用化していませんでした。
+      caption: コッド博士の関係DB理論に賭ける
+    - panel: p4
+      text: 最初の大口顧客はCIAで、その極秘プロジェクトの暗号名が、Oracle——のちに、会社名そのものに、なっていきました。
+      caption: CIA案件の暗号名Oracleが社名に
+    - panel: p5
+      text: そして1986年、Oracleは、Microsoftより1日早く、NASDAQに上場し、ティッカーORCLとして、世界の表舞台に、躍り出ます。
+      caption: 1986年、ORCLでNASDAQ上場
+    - panel: p6
+      text: 1,200ドルから始まった会社は、いま時価総額3,000億ドル超え。彼の独立を支えたのは、結局、技術への確信と、引き返さない覚悟だったのです。
+      caption: 1200ドルから時価総額3000億ドル超
+en:
+  title: 'How Larry Ellison Started Oracle With $1,200 in His Pocket #Shorts'
+  description: |
+    In 1977, 32-year-old Larry Ellison quit his job at Ampex with about 1,200 dollars to his name and co-founded a tiny database company. It was later renamed Oracle after a CIA project codename, and grew into one of the largest software firms in the world.
+
+    #Shorts #LarryEllison #Oracle #SiliconValley #Startup
+  hook_caption: Oracle Started With Just $1,200
+  series_brand: The Larry Ellison Story
+  voice_speaker: am_michael
+  narration:
+    - panel: p1
+      text: In 1977, a 32-year-old Larry Ellison quit his job at Ampex with only about 1,200 dollars in his pocket.
+      caption: $1,200 to His Name
+    - panel: p2
+      text: With that 1,200 dollars he co-founded a tiny startup called Software Development Laboratories in Silicon Valley.
+      caption: Founded SDL With Two Friends
+    - panel: p3
+      text: He bet everything on a theoretical paper by IBM researcher Edgar Codd about relational databases, which IBM itself had not yet commercialized.
+      caption: Bet on Codd's Relational Model
+    - panel: p4
+      text: His first big customer was the CIA, and the codename of their classified project — Oracle — eventually became the company's name.
+      caption: CIA Codename Became the Name
+    - panel: p5
+      text: In 1986 Oracle went public on NASDAQ as ORCL, one day before Microsoft, stepping onto the world stage.
+      caption: IPO in 1986 as ORCL
+    - panel: p6
+      text: From 1,200 dollars to a company worth over 300 billion. What carried Ellison through was conviction in the technology and a refusal to turn back.
+      caption: From $1,200 to a $300B Company

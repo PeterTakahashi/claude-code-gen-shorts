@@ -1,0 +1,184 @@
+id: pg-hacker-news-2007
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Present-day montage scene — multiple modern smartphones held by
+
+    different young tech workers in cafes, offices, and bedrooms around
+
+    the world, each screen showing the same plain orange-topped Hacker
+
+    News front page with a simple list of links and small grey numbers,
+
+    faces lit by the screens with focused attention. The framing is a
+
+    vertical grid of phones. Conveys: a single text-based site shaping
+
+    Silicon Valley conversation every morning. No specific recognizable
+
+    faces.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    February 2007, a small home office in Cambridge Massachusetts late at
+
+    night. Paul Graham in his mid 40s, glasses, calm absorbed expression,
+
+    hunches over a laptop on a wooden desk, fingers on the keyboard,
+
+    lines of Arc/Lisp code with many parentheses visible on the screen,
+
+    a single warm desk lamp casting yellow light, a mug of tea beside
+
+    him, dark window behind. The exact moment a single hacker is
+
+    designing what becomes the global startup news source.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A small whiteboard in a quiet office. Visible black marker writing
+
+    shows "Arc" written in large letters at the top, and below it a
+
+    simple Lisp-style expression with parentheses — a "(def" fragment.
+
+    Paul Graham''s hand visible in the foreground holding the marker.
+
+    Soft side lighting. The whiteboard close-up frames the moment a
+
+    brand new programming language was being designed just to power one
+
+    website. Three-quarter framing.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 2007 — close-up of a laptop screen displaying the very first
+
+    Hacker News, originally titled "Startup News", a minimalist orange
+
+    header bar above a plain white page with a simple numbered list of
+
+    blue text links, almost no images, a handful of stories visible.
+
+    The screen reflected faintly in the lens of an unseen young hacker''s
+
+    glasses reading it in a dim cafe. Conveys: deliberately ugly,
+
+    deliberately text-only. Side framing.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A montage scene — multiple young programmers in different settings
+
+    (a Bay Area cafe, a Tokyo apartment, a London office at night, a
+
+    college dorm room), all hunched over laptops, all showing the same
+
+    plain orange Hacker News page on their screens, faces lit with
+
+    focused engagement and amusement. The framing is a vertical
+
+    split-grid of 4 simultaneous scenes. No specific recognizable faces.
+
+    Conveys: a global single conversation.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early morning dawn, late 2007. Paul Graham, mid 40s, sits alone at
+
+    his home office desk, his face softly lit by the laptop screen
+
+    showing a rising traffic graph for Hacker News, a faint
+
+    contemplative half-smile on his face. The orange-pink dawn light
+
+    starts to fill the window behind him. The quiet moment of
+
+    realization: this little side project just became infrastructure
+
+    for an entire industry. Over-shoulder framing, the screen visible
+
+    at an angle.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'PGが1人で作ったハッカー版2ちゃんねる #Shorts'
+  description: '2007年、ポール・グレアムはたった1人で、Arcという独自のLisp方言で、
+
+    Hacker Newsを作り上げた。今やシリコンバレーのスタートアップ界を
+
+    動かす情報源になっている。
+
+
+    #Shorts #ポールグレアム #HackerNews #YCombinator #人物伝
+
+    '
+  hook_caption: PGが1人で作ったハッカー版掲示板
+  series_brand: ポール・グレアム伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: シリコンバレーのスタートアップ界を、毎朝動かしている、地味なオレンジ色のサイトがあります。
+    caption: シリコンバレーを動かすサイト
+  - panel: p2
+    text: Hacker News。2007年、ポール・グレアムが、たった1人で作った、ハッカー向けの掲示板です。
+    caption: 2007年、PGが1人で開発
+  - panel: p3
+    text: 彼は、このサイトのためだけに、Arcという、独自のLispの方言を、新しく作りました。
+    caption: 専用言語Arcを自作
+  - panel: p4
+    text: 最初は「Startup News」という名前で、Y Combinatorの起業家たちのための、小さな実験でした。
+    caption: 最初はYC起業家用の実験
+  - panel: p5
+    text: しかし、デザインが、あまりにシンプルで、議論の質が高かったため、世界中のプログラマーが集まり始めたんです。
+    caption: 質の高い議論で世界が集結
+  - panel: p6
+    text: 今では、毎日500万人以上が訪れ、スタートアップ業界の、最重要メディアの1つになっています。
+    caption: 今や毎日500万人が訪問
+en:
+  title: 'How One Man Built Silicon Valley''s Favorite Website #Shorts'
+  description: 'In 2007, Paul Graham built Hacker News by himself, even creating a new programming language, Arc, just for the site. What started as a small experiment is now the daily destination for the
+    tech world.
+
+
+    #Shorts #PaulGraham #HackerNews #YCombinator #Programming'
+  hook_caption: This 'boring' orange website runs Silicon Valley.
+  series_brand: The Paul Graham Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Every morning, this simple orange website sets the agenda for Silicon Valley.
+    caption: The pulse of SV
+  - panel: p2
+    text: 'It''s called Hacker News. And in 2007, it was built by just one person: Paul Graham.'
+    caption: Built by one man
+  - panel: p3
+    text: He even created a brand new programming language, a Lisp dialect called Arc, just to build it.
+    caption: A custom language
+  - panel: p4
+    text: Initially called 'Startup News,' it was a small experiment for Y Combinator's founders.
+    caption: A small experiment
+  - panel: p5
+    text: But its radical simplicity and high-quality discussions attracted programmers from all over the world.
+    caption: Programmers flocked in
+  - panel: p6
+    text: Today, it's one of the most influential sites in tech, shaping the future of the industry.
+    caption: Shaping the future

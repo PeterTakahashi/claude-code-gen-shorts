@@ -1,0 +1,60 @@
+id: crypto-dmm-2024
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dark, tense illustration of a Japanese cryptocurrency exchange office at night, glowing
+      monitors showing a Bitcoin balance suddenly plummeting to near zero, alarmed staff
+      silhouettes. Conveys "billions in Bitcoin vanished overnight." Ominous cyber tone.
+  - id: p2
+    prompt: |
+      A clean cyber-infographic of a digital wallet being drained: a stream of glowing Bitcoin
+      coins flowing out through a cracked padlock into a shadowy hacker's hand, a decorative
+      "₿" motif. Conveys "a huge Bitcoin theft." Clean dramatic infographic.
+  - id: p3
+    prompt: |
+      A scale infographic showing a towering stack of money labeled with a massive yen figure,
+      dwarfing a small bank icon, conveying "one of the largest crypto thefts ever." Clean
+      financial infographic, intense.
+  - id: p4
+    prompt: |
+      An illustration of worried Japanese customers checking their phones anxiously, then a
+      reassuring corporate announcement that the company will fully compensate users from its
+      own funds. Tense relief. Clean corporate tone.
+  - id: p5
+    prompt: |
+      A cyber-investigation scene: analysts tracing glowing transaction lines across a world
+      map trying to follow the stolen Bitcoin, the trail splitting and fading. Conveys
+      "the stolen coins are hard to trace." Clean tech-noir infographic.
+  - id: p6
+    prompt: |
+      A somber shutter-closing scene of the exchange winding down operations, a fading logo,
+      a lesson glowing above: not your keys, not your coins. Cold, cautionary cyber tone.
+ja:
+  title: '2024年、DMM Bitcoinから482億円が消えた事件 #Shorts'
+  description: |
+    2024年、日本の暗号資産取引所DMM Bitcoinから、約482億円相当のビットコインが不正に流出した。史上最大級のこの事件で何が起きたのか、そして会社はどうなったのかを30秒で解説します。
+
+    #Shorts #仮想通貨 #ビットコイン #DMMビットコイン #事件
+  hook_caption: DMM Bitcoinから482億円が消えた
+  series_brand: 仮想通貨事件簿
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 2024年、日本の暗号資産取引所、DMM Bitcoin。ある日、保有するビットコインの残高が、突然、激減しました。
+      caption: 2024年、保有ビットコインが突然激減した
+    - panel: p2
+      text: 何者かが、取引所の管理する財布から、ビットコインを不正に抜き取ったんです。典型的な、ハッキングによる流出でした。
+      caption: 何者かがビットコインを不正に抜き取った
+    - panel: p3
+      text: 流出した額は、なんと約482億円相当。これは、暗号資産の歴史でも、最大級の被害となりました。
+      caption: 流出額は約482億円、史上最大級の被害
+    - panel: p4
+      text: 利用者は青ざめますが、DMMは、流出分を自社の資金で全額補償すると発表します。顧客の資産は、守られました。
+      caption: DMMは自社資金で全額補償すると発表した
+    - panel: p5
+      text: しかし、盗まれたビットコインの追跡は困難を極めます。ブロックチェーン上を移動する資金は、簡単には取り戻せません。
+      caption: 盗まれたビットコインの追跡は困難を極めた
+    - panel: p6
+      text: 取引所に預けた資産は、本当に安全なのか。この事件は、便利さの裏に潜むリスクを、私たちに突きつけたのです。
+      caption: 預けた資産は本当に安全なのかを問うた

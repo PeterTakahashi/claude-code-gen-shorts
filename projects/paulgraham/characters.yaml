@@ -1,0 +1,76 @@
+# ポール・グレアム cast — visual character sheets for anime/webtoon shorts.
+# Two life-stage variants of Paul Graham:
+#   - subject_young: 20s-30s, Viaweb / Lisp hacker era (early-to-mid 1990s)
+#   - subject_adult: 50s-60s, Y Combinator era / essayist
+characters:
+  - id: subject_adult
+    name_ja: ポール・グレアム
+    description_en: |
+      A white American man in his 50s-60s with the characteristic Paul Graham
+      appearance: a long oval face, slightly receding hairline with short
+      light-brown to greying hair cut neatly, distinctive rectangular
+      wire-rimmed glasses with a slightly thick frame, thoughtful deep-set
+      brown eyes with an intelligent searching gaze, prominent straight nose,
+      thin slightly pressed lips usually resting in a faint serious half-smile,
+      clean-shaven, a slim wiry build typical of a lifelong hacker, the calm
+      slightly amused bearing of an essayist and investor who has thought
+      deeply about everything. A quietly mysterious tech-uncle vibe — looks
+      kind, almost monk-like, but his eyes betray sharp observation.
+    outfit_en: |
+      a casual Y Combinator-era uniform — a plain solid pale blue or white
+      button-down shirt with the sleeves slightly rolled up, sometimes a
+      plain soft grey or navy crewneck sweater layered over the shirt or a
+      simple zip-up fleece, well-worn straight-leg blue jeans, plain low-top
+      sneakers or simple lace-up shoes. Never a tie, never a logo. The look
+      of a Silicon Valley essayist-investor.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - calm thoughtful half-smile while listening to a founder
+      - quiet absorbed reading on a laptop
+      - intent serious gaze while writing an essay
+      - softly amused expression at a clever idea
+      - measured composed look during a Y Combinator interview
+    poses:
+      - "Three-quarter view sitting at a wooden desk typing on a laptop"
+      - "Front view standing with arms crossed in a casual office"
+      - "Side profile leaning back in a chair reading"
+      - "Mid-shot speaking gently across a small cafe table"
+
+  - id: subject_young
+    name_ja: ポール・グレアム (20-30代)
+    description_en: |
+      A young white American man in his late 20s to mid 30s in the
+      mid-1990s — early Viaweb era — with the recognizable young-Paul-Graham
+      features: a long narrow face, fuller head of short to medium light-brown
+      hair somewhat tousled, the same intelligent deep-set brown eyes,
+      simple thin wire-rimmed glasses, prominent straight nose, thin lips
+      pressed in a quiet half-smile, clean-shaven, very slim wiry build,
+      pale skin slightly tired from long nights at a CRT monitor. The
+      bearing of a Lisp-obsessed PhD-trained hacker-entrepreneur, intense
+      and contemplative, with a faint Cambridge-Massachusetts intellectual
+      air. Mid-1990s aesthetic.
+    outfit_en: |
+      a 1990s hacker-casual uniform — a plain solid black or charcoal cotton
+      t-shirt, sometimes layered under an open thin grey or olive
+      button-down or a worn flannel shirt, well-fitting straight-leg blue
+      jeans, plain canvas Converse-style low-top sneakers or simple laced
+      hiking shoes. Occasionally a plain dark hoodie. Never a logo, never
+      branded. The unmistakable garage-startup look of a Viaweb-era hacker.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - intent absorbed staring at a CRT monitor late at night
+      - quiet focused typing on a clicky keyboard
+      - thoughtful half-smile at a clever Lisp expression
+      - tired but determined gaze in a cramped office
+      - calm composed pitch to a small group of investors
+    poses:
+      - "Three-quarter view hunched over a beige CRT monitor typing"
+      - "Front view sitting cross-legged on a worn couch with a laptop"
+      - "Side profile reading a thick technical book"
+      - "Standing leaning against a desk in a small startup office"

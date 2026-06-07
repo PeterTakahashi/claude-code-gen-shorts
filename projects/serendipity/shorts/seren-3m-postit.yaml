@@ -1,0 +1,206 @@
+id: seren-3m-postit
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 1974 St Paul Minnesota United States, interior of a
+
+    modest American suburban Lutheran church on a Sunday morning,
+
+    wooden pews and warm stained-glass light, a 43-year-old
+
+    American 3M engineer man in beige short-sleeve shirt and
+
+    thin brown knit tie sitting in a pew holding a thick hymnal
+
+    book wide open, three paper bookmark slips visibly falling
+
+    out of the pages onto the floor, his expression mildly
+
+    frustrated then suddenly struck with an idea, a small
+
+    decorative thought-bubble English text "WHAT IF... STICKY?"
+
+    floating above his head. Mid close-up. Clearly American
+
+    1970s church setting. No Japanese text.
+
+    Character: {art_fry}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 1968 a sterile industrial 3M corporate research
+
+    laboratory in St Paul Minnesota, a different American
+
+    chemist man in his early 40s with thick dark hair and a
+
+    white lab coat standing puzzled in front of a workbench,
+
+    holding up a small glass jar of milky-white adhesive that
+
+    barely sticks — two glass slides slowly separating apart
+
+    in his hands, a decorative English label on the jar reading
+
+    "WEAK ADHESIVE — FAILED", his expression bewildered, the
+
+    visual of "the glue that didn''t glue". Mid-shot. Clearly
+
+    American 1960s corporate lab. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same 1968 3M lab interior, a corporate hallway bulletin board
+
+    with a decorative English internal-memo headline "USELESS
+
+    INVENTION OF THE YEAR", a small yellow sticky-residue jar
+
+    pinned to it as a joke, the chemist from panel 2 walking
+
+    past it dejected with hands in lab-coat pockets, two
+
+    colleagues snickering in the background — the visual of "a
+
+    failed invention nobody knew what to do with, sitting on a
+
+    shelf for 6 years". Mid-shot. Clearly American corporate
+
+    setting. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 1974 the same 3M Minnesota lab, the 43-year-old American
+
+    engineer man in beige shirt and brown tie back from church
+
+    excitedly coating the edge of a small rectangular yellow
+
+    paper slip with the weak adhesive from a glass jar, then
+
+    pressing the slip onto a page of a hymnal — the paper
+
+    sticking lightly then peeling off without tearing the page,
+
+    his face lit up with discovery, the visual of "the failed
+
+    glue meeting the falling bookmark". Mid close-up. Decorative
+
+    English label "EUREKA". Clearly American 1970s lab. No
+
+    Japanese text.
+
+    Character: {art_fry}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 1980 a busy American open-plan office, a wall and
+
+    multiple computer monitors and desks covered in dozens of
+
+    small bright yellow square sticky notes, several office
+
+    workers in 1980s business attire pointing and grinning, one
+
+    Post-it stuck to a colleague''s forehead as a joke, a
+
+    decorative English product box on a desk reading "POST-IT
+
+    NOTES", the visual of "a worldwide office revolution born
+
+    from a Sunday morning annoyance". Wide shot. Clearly American
+
+    1980s office setting. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Present day modern bright global office, a contemporary
+
+    laptop and notebook on a desk completely framed by dozens
+
+    of bright yellow square Post-it notes on a corkboard, soft
+
+    window light, one larger Post-it in the centre with a
+
+    decorative English handwritten phrase "FAILURE + CHURCH =
+
+    $1 BILLION", visual loop callback to the falling bookmark
+
+    from panel 1 — this time the bookmark is a Post-it that
+
+    stays put. Mid-shot. No people. No Japanese text.
+
+    '
+ja:
+  title: '失敗作のノリと、賛美歌の栞が出会った日 #Shorts'
+  description: '1968年、3M社のある化学者が、「全く接着しない接着剤」を作ってしまった。
+
+    6年後、別の社員が、教会で賛美歌の栞を落として閃いた——その2つが出会った瞬間、Post-itが生まれた。
+
+
+    #Shorts #Postit #3M #偶然 #発明史 #serendipity
+
+    '
+  hook_caption: 失敗作が世界を変えた日
+  series_brand: バルトゥーン偶然の大発見
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「教会で、賛美歌の栞が、また落ちた」——52年前のミネソタで、その小さなイラつきが、世界中のオフィスを変える発明に化けた話を知っていますか?
+    caption: 教会で栞が落ちた瞬間、閃いた
+  - panel: p2
+    text: 話は6年さかのぼり、1968年。3M社の化学者スペンサー・シルバーが、強力な接着剤を作ろうとして、なぜか、ほとんど付かない接着剤を、発明してしまいました。
+    caption: 1968年、付かない接着剤が誕生
+  - panel: p3
+    text: 「失敗作」と笑われたこの弱接着剤は、用途が無いまま、6年間、社内の棚で、ほこりをかぶり続けます。
+    caption: 失敗作、棚で6年眠る
+  - panel: p4
+    text: そして1974年、教会で栞を落として困っていた同僚アート・フライが、ふと、その弱接着剤を、思い出した。「弱く貼って、剥がしても破れない紙、これだ」と。
+    caption: 弱いノリと栞が出会った瞬間
+  - panel: p5
+    text: 1980年、Post-itとして全米発売されると、6年棚にあった失敗作は、たった数年で、世界中のオフィスに広がりました。
+    caption: 1980年発売、世界中に拡散
+  - panel: p6
+    text: 失敗した接着剤と、落ちた栞——この2つの「うまくいかなかった」が出会わなければ、Post-itは生まれませんでした。偶然は、いつも、失敗の隣に立っています。
+    caption: 偶然は失敗の隣に立っている
+en:
+  title: 'How a Church Bookmark Accidentally Created Post-it Notes #Shorts'
+  description: 'A 3M scientist created a ''useless'' glue that barely stuck. Years later, a colleague annoyed by a falling bookmark had an idea.
+
+    This is the story of how two failures created one of the world''s most successful office products.
+
+    #Shorts #Invention #3M #Postit #History'
+  hook_caption: This complete failure is on your desk right now.
+  series_brand: 'Valtunes: Serendipitous Discoveries'
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1968, a 3M scientist named Spencer Silver accidentally invented a glue that was terrible at gluing.
+    caption: A 'useless' glue
+  - panel: p3
+    text: It was so weak, it was considered a complete failure inside the company, and the formula was shelved for years.
+    caption: A shelved failure
+  - panel: p1
+    text: Six years later, his colleague, Art Fry, was in church, annoyed that the bookmark kept falling out of his hymnal.
+    caption: A simple problem
+  - panel: p4
+    text: 'Then he had a flash of inspiration: what if he used that ''useless'' glue to create a bookmark that would stick, but not tear the pages?'
+    caption: The 'aha!' moment
+  - panel: p5
+    text: The idea was a smash hit. Launched in 1980 as the 'Post-it Note', it exploded in offices across the globe.
+    caption: An instant icon
+  - panel: p6
+    text: Proof that sometimes, a failed invention is just one brilliant idea away from changing the world.
+    caption: From failure to fame

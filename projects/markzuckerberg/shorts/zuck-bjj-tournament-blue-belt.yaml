@@ -1,0 +1,167 @@
+id: zuck-bjj-tournament-blue-belt
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 39-year-old Mark Zuckerberg standing on a small competition podium
+
+    at a Brazilian jiu-jitsu tournament in northern California in May 2023,
+
+    wearing a clean white BJJ gi with a white belt around his waist, his
+
+    muscular stocky athletic build, holding up a small round gold medal on
+
+    a ribbon with a slightly stiff but genuine smile, sweat on his
+
+    forehead, a school-gym style competition mat visible behind him with
+
+    blurred spectators. Mid-shot. Conveys a billionaire winning a local
+
+    tournament.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Establishing wide interior shot of a small American Brazilian jiu-jitsu
+
+    gym in Silicon Valley, large blue grappling mats covering the floor,
+
+    mirrored walls, BJJ academy banners on one wall, a few practitioners
+
+    in white gi rolling on the mats, overhead fluorescent lighting, the
+
+    humble blue-collar atmosphere of a hobbyist martial arts academy.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 38-year-old Mark Zuckerberg on a blue jiu-jitsu mat in white gi with
+
+    white belt, mid-roll with a training partner, both grappling on the
+
+    ground, Zuckerberg in a controlled side-control top position, focused
+
+    and breathing hard, his stocky muscular frame more pronounced through
+
+    the gi, conveying serious technical training, an ordinary BJJ
+
+    practitioner who happens to be a billionaire.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A wide interior shot of an American jiu-jitsu tournament venue in a
+
+    school gymnasium in May 2023, multiple competition mats laid out in
+
+    parallel, competitors in white and blue gi warming up at the edges,
+
+    brackets printed on a large paper bracket-board on the wall, parents
+
+    and friends in folding chairs, fluorescent overhead lighting, the
+
+    everyday-grassroots vibe of a local BJJ tournament.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 39-year-old Mark Zuckerberg in a competition jiu-jitsu match on a
+
+    tournament mat in May 2023, locking in a triangle choke with his legs
+
+    around an opponent''s shoulder and arm, both in white gi, his face
+
+    flushed and intensely focused, the referee crouched alongside watching,
+
+    a small crowd just visible in the blurred background, conveying real
+
+    athletic competition.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Close mid-shot of a 39-year-old Mark Zuckerberg just after his
+
+    tournament final, breathing hard, his white BJJ gi top loose at the
+
+    collar revealing a sweat-darkened t-shirt underneath, a small round
+
+    gold medal on a ribbon held up close to the camera lens in his hand,
+
+    his pale eyes bright with private satisfaction, the gym blurred behind.
+
+    The image of a CEO who refused to be soft.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'CEO が柔術の大会に出て金メダルを取った話 #Shorts'
+  description: '2023年5月、Meta の CEO マーク・ザッカーバーグが、ブラジリアン柔術の地方大会に、白帯で出場し、金銀メダルを獲得した話。趣味で始めたグラップリングが、本人の生き方を、変え始めた。
+
+
+    #Shorts #マークザッカーバーグ #Meta #Facebook #人物伝
+
+    '
+  hook_caption: CEO が柔術の大会で金メダル
+  series_brand: マーク・ザッカーバーグ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: Meta の CEO が、ブラジリアン柔術の大会に出て、金メダルを、取った話があります。
+    caption: Meta の CEO が柔術で金メダル
+  - panel: p2
+    text: 2023年5月、北カリフォルニア、無名の地方大会。
+    caption: 2023年5月、北カリフォルニアの地方大会
+  - panel: p3
+    text: 当時39歳のマーク・ザッカーバーグは、白帯で出場し、しかも、変装を一切、せずに、です。
+    caption: 39歳、白帯、変装なしで出場
+  - panel: p4
+    text: 結果は、金1個と、銀1個。それから、わずか1年で、青帯まで、昇進しました。
+    caption: 金1、銀1。1年で青帯に昇進
+  - panel: p5
+    text: 趣味のジムで、本物の格闘家たちと、毎日転がされ、絞め落とされて、彼は、強くなった。
+    caption: 毎日絞め落とされ、強くなった
+  - panel: p6
+    text: テック界のソフトな天才は、もう、いない——肉体まで、自分で再設計した男に、なったんです。
+    caption: 肉体まで自分で再設計した男
+en:
+  title: 'Mark Zuckerberg''s Shocking Jiu-Jitsu Win #Shorts'
+  description: 'In May 2023, Meta CEO Mark Zuckerberg entered a local jiu-jitsu tournament and won. This is the story of how the tech billionaire transformed himself into a fighter.
+
+
+    #Shorts #MarkZuckerberg #JiuJitsu #Meta #Motivation'
+  hook_caption: He Built an Empire. Then He Built Himself.
+  series_brand: Mark Zuckerberg Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p3
+    text: This is Meta CEO Mark Zuckerberg, but not in a boardroom.
+    caption: Not a Boardroom
+  - panel: p2
+    text: He took up Brazilian jiu-jitsu, training relentlessly and getting tapped out daily by pros.
+    caption: Trained by Pros
+  - panel: p4
+    text: Then, in May 2023, he quietly entered his first tournament—a small, local event in California.
+    caption: First Tournament
+  - panel: p5
+    text: At 39, with no disguise, he fought his way through the white belt division.
+    caption: White Belt Division
+  - panel: p1
+    text: And shocked everyone by taking home both gold and silver medals.
+    caption: Gold & Silver
+  - panel: p6
+    text: He's no longer just a tech genius; he's a man who physically rebuilt himself from the ground up.
+    caption: Rebuilt

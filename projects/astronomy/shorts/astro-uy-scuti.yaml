@@ -1,0 +1,63 @@
+id: astro-uy-scuti
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A breathtaking cosmic scene showing a colossal red hypergiant star (UY Scuti) so
+      vast it dwarfs everything, with a tiny barely-visible dot labeled by a decorative
+      Japanese caption "ここが太陽", the visual of "a star so big our Sun is an invisible
+      speck". Deep space, awe-inspiring scale.
+  - id: p2
+    prompt: |
+      A clean cosmic infographic comparing sizes side by side — a tiny dot "地球", a small
+      circle "太陽", and an enormous red sphere filling the frame "UY Scuti", with decorative
+      Japanese size labels, the visual of "the jaw-dropping difference in scale". Infographic.
+  - id: p3
+    prompt: |
+      A scene showing if UY Scuti replaced our Sun, its surface would swallow the orbits
+      of Mercury, Venus, Earth, Mars, even Jupiter, glowing orbit rings being engulfed, a
+      decorative Japanese caption "木星の軌道まで飲み込む", the visual of "it would swallow half
+      the solar system". Cosmic, dramatic.
+  - id: p4
+    prompt: |
+      An infographic of a jet plane circling the giant star with a decorative Japanese
+      caption "光速でも一周7時間", the visual of "even light takes hours to circle it once".
+      Clean cosmic infographic, decorative Japanese text.
+  - id: p5
+    prompt: |
+      The red hypergiant shown unstable, shedding glowing layers of gas into space, a
+      decorative Japanese caption "巨大ゆえに、長く生きられない", the visual of "so massive it
+      burns out fast and will explode". Deep space, ominous beauty.
+  - id: p6
+    prompt: |
+      Same colossal red hypergiant with the tiny Sun-speck as panel 1, a decorative Japanese
+      caption "宇宙は想像を超える", the loop image of "the universe is bigger than we can
+      imagine". Awe-inspiring deep space.
+ja:
+  title: '宇宙最大級の星、太陽が点にしか見えない世界 #Shorts'
+  description: |
+    太陽が、ただの点にしか見えない。宇宙最大級の星と言われる赤色超巨星UY Scutiの、想像を絶するスケールを30秒で解説します。
+
+    #Shorts #宇宙 #UYScuti #星 #スケール
+  hook_caption: 太陽が点に見える宇宙最大級の星
+  series_brand: 宇宙のスケール
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: この巨大な星の隣で、私たちの太陽は、ほとんど見えない点でしかありません。宇宙最大級の星、UY Scutiです。
+      caption: 太陽が点にしか見えない巨大な星
+    - panel: p2
+      text: 地球と太陽でさえ、大きさが全く違う。でもその太陽すら、UY Scutiの前では、砂粒のような存在なんです。
+      caption: 太陽すら砂粒のような大きさ
+    - panel: p3
+      text: もしこの星を太陽の位置に置いたら、水星も、金星も、地球も、火星も、そして木星の軌道まで、飲み込んでしまいます。
+      caption: 木星の軌道まで飲み込む大きさ
+    - panel: p4
+      text: あまりに大きすぎて、光の速さで一周しても、7時間以上かかると言われます。秒速30万キロの光が、です。
+      caption: 光でも一周に7時間以上かかる
+    - panel: p5
+      text: ただし、巨大であるほど、星は燃え尽きるのも早い。UY Scutiもいずれ、壮絶な超新星爆発で、その生涯を終えます。
+      caption: 巨大ゆえに、長くは生きられない
+    - panel: p6
+      text: 太陽が点にしか見えない星が、本当に存在する。宇宙は、いつも私たちの想像を、はるかに超えてくるんです。
+      caption: 宇宙は想像をはるかに超える

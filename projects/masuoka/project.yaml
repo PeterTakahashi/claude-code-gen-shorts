@@ -1,0 +1,28 @@
+# Fujio Masuoka — inventor of NAND flash memory; the genius Toshiba sidelined.
+id: masuoka
+title_ja: "舛岡富士雄"
+title_en: "Fujio Masuoka"
+subject: "舛岡富士雄"
+author: "(imagined biographical narration)"
+language: ja
+
+era: "1980s through 2000s"
+locale_hint: "Toshiba research laboratories, Japan; later a university"
+
+style:
+  description: "full-color modern anime / webtoon style, soft cel shading, expressive line art, cinematic lighting, biographical drama tone"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face, samurai, kimono"
+
+chapters:
+  - id: ch1
+    title: "NAND発明と東芝"
+
+narrator:
+  voice_style_id: 1310138977
+  voice_speed: 1.0
+  instructions: |
+    Read with calm reflective intensity, a documentary biographical tone.
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"

@@ -1,0 +1,112 @@
+id: yanai-one-win-nine-losses
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 54-year-old Tadashi Yanai (white-grey hair, thin-rimmed silver eyeglasses, dark navy suit, open collar white shirt) seated at his Fast Retailing office desk in 2003, holding up a hardcover Japanese
+    business book with the bold Japanese title visible on the cover, his expression a calm half-smile of self-deprecating wisdom, late-afternoon office light, book-lined shelves behind him. Mid-shot composition.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The exterior of a struggling 2001 UNIQLO store in London, England, with a "CLOSING DOWN" English sign in the window, almost no customers visible inside through the glass, grey overcast British weather,
+    the deflated reality of UNIQLO''s failed first UK expansion that closed 16 of 21 stores within two years. Wide street shot.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Empty 2002 Japanese grocery store shelves under a sign reading the English brand name "SKIP" in green letters, with a few abandoned packages of organic vegetables, fluorescent lighting, the deserted
+    aesthetic of Fast Retailing''s failed organic-vegetable subsidiary that lost 2.85 billion yen in 18 months. The visible cost of a CEO''s experimental branching out.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 54-year-old Tadashi Yanai alone at his desk in 2003, calmly reading through a thick stack of internal failure-analysis reports labeled in English "POST-MORTEM", his expression serene rather than upset,
+    a cup of green tea beside him, the bearing of a CEO who has truly internalized that failure is just data. Late evening office light.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Extreme close-up of the 2003 hardcover Japanese business book "Ichi-Sho Kyu-Hai" (one win, nine losses), the bold Japanese title characters dominating a minimalist cream-colored book cover with a small
+    portrait of Tadashi Yanai in the corner, professional book-design aesthetic, soft warm lighting on the cover.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 54-year-old Tadashi Yanai again holding the same book, but now shot from a slightly different angle, with a large window behind him showing the Tokyo skyline at sunset and a UNIQLO store visible across
+    the street, conveying the paradox that the man who calls himself a 9-time loser built one of the world''s largest apparel companies. Warm golden hour light.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '「1勝9敗」が信条の世界的経営者 #Shorts'
+  description: 'UNIQLO 創業者ヤナイ・タダシの著書のタイトルは『一勝九敗』。
+
+    なぜ世界一のアパレル経営者は、自分の人生を「9割の失敗」と呼ぶのか。
+
+
+    #Shorts #柳井正 #UNIQLO #人物伝
+
+    '
+  hook_caption: 「9割は失敗だった」と言う経営者
+  series_brand: 柳井正伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 世界一のアパレル帝国を築いた男が、自著のタイトルを「一勝九敗」と付けました。
+    caption: 自著のタイトルは『一勝九敗』
+  - panel: p2
+    text: UNIQLO のヤナイ・タダシ。2003年、彼は、自分の人生を、こう振り返ったんです。
+    caption: 2003年、ヤナイの哲学を本に
+  - panel: p3
+    text: ロンドン進出は、わずか2年で、21店舗中16店舗を閉鎖。野菜事業 SKIP は、18か月で、28.5億円の損失を出しました。
+    caption: ロンドン撤退、野菜事業も大失敗
+  - panel: p4
+    text: それでも、彼は言います——「10回挑戦して、9回失敗するのが、当たり前。大事なのは、1回の成功を、確実に掴むことだ」。
+    caption: 「9割失敗して1割勝てばいい」
+  - panel: p5
+    text: 失敗を、隠さない。記録し、分析し、次の挑戦の燃料にする——それが、ヤナイ流の経営哲学です。
+    caption: 失敗を記録し、燃料にする
+  - panel: p6
+    text: 「失敗は資産」。世界一のアパレル経営者の信条は、9割の失敗を、誇る勇気でした。
+    caption: 失敗は、最大の資産である
+en:
+  title: 'UNIQLO Founder''s 9-Failure Rule for Success #Shorts'
+  description: 'Tadashi Yanai, the founder of UNIQLO, titled his book ''One Win, Nine Losses''.
+
+    Here''s why the billionaire CEO believes embracing failure is the only way to win big.
+
+    #Shorts #UNIQLO #TadashiYanai #Business #Success'
+  hook_caption: He Built a Fashion Empire on 90% Failure
+  series_brand: The Tadashi Yanai Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: This is Tadashi Yanai, the billionaire founder of the global fashion giant UNIQLO.
+    caption: Founder of UNIQLO
+  - panel: p2
+    text: But in the early 2000s, his company was struggling, with a disastrous expansion into London...
+    caption: London disaster
+  - panel: p3
+    text: '...and a failed organic food venture that lost over $20 million in just 18 months.'
+    caption: $20M+ loss
+  - panel: p4
+    text: Instead of hiding these failures, Yanai studied every single report to understand what went wrong.
+    caption: Study every failure
+  - panel: p5
+    text: He even published his philosophy in a book titled 'One Win, Nine Losses'.
+    caption: One Win, Nine Losses
+  - panel: p6
+    text: His core belief? Try ten times, fail nine. Because that one victory is all that matters.
+    caption: Make your one win count

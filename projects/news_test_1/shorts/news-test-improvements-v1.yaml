@@ -1,0 +1,117 @@
+id: news-test-improvements-v1
+parent_chapter: null
+image_style: photorealistic
+date_overlay: auto
+panels:
+  - id: p1
+    prompt: |
+      Photoreal close-up of a Tokyo Stock Exchange digital ticker glowing red,
+      "9684 SQUARE ENIX HD -7.15%" displayed prominently, the bleed-red light
+      reflecting on the polished floor — the visual of "the moment Square Enix
+      stock crashed". Documentary photography, dramatic.
+  - id: p2
+    prompt: |
+      Photoreal newsroom — a Japanese female TV news anchor in her late 20s
+      in a navy blazer behind a modern Tokyo news desk, behind her a large
+      studio monitor showing the new "DRAGON QUEST XII" title logo.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      Cinematic photograph of the brand-new "DRAGON QUEST XII" title logo on
+      a giant convention-stage video screen, dim audience silhouettes in the
+      foreground, dramatic stage lighting. Documentary event photography.
+      No real game assets — generic stylized logo placeholder.
+  - id: p4
+    prompt: |
+      Photoreal Tokyo Stock Exchange digital tote board at midday with a
+      red "-7.15%" prominent, anonymous Japanese traders in suits in soft
+      focus watching the board with grim faces. Modern realistic.
+  - id: p5
+    prompt: |
+      Macro photoreal shot of a stock-trading screen close-up showing a
+      crashing red candle for ticker "9684", price label "2,511円", red
+      glow. No people. Modern documentary financial photography.
+  - id: p6
+    prompt: |
+      Photoreal infographic composite — a calendar marked "シリーズ40周年" on
+      the left, a giant red "-7.15%" with a downward arrow on the right.
+      Clean modern news graphic. No people.
+  - id: p7
+    prompt: |
+      Photoreal photograph of a Japanese male senior market analyst in his
+      50s at a research firm desk, charts on his laptop, gesturing
+      thoughtfully. Soft natural office lighting. Documentary photography.
+  - id: p8
+    prompt: |
+      Photoreal close-up of a smartphone screen showing X (Twitter) Japanese
+      posts about Dragon Quest, faint reflection of a Japanese gamer's face,
+      late evening light. Documentary photography.
+  - id: p9
+    prompt: |
+      Photoreal newsroom — the anchor at her desk, leaning slightly forward,
+      behind her a studio monitor showing a stock chart in red.
+      Character: {anchor}.
+  - id: p10
+    prompt: |
+      Cinematic photo of an empty Tokyo game shop aisle dedicated to Dragon
+      Quest merchandise, no people, harsh fluorescent lighting, the visual of
+      "the long wait before release". Documentary photography.
+  - id: p11
+    prompt: |
+      Photoreal close-up of a Japanese person's hand holding a smartphone
+      showing a stock-trading app, the Square Enix position highlighted in
+      red, soft natural light. Documentary photography.
+  - id: p12
+    prompt: |
+      Photoreal newsroom — the anchor at her desk, behind her a split-screen
+      monitor: left a Dragon Quest logo, right the day's stock-drop chart.
+      A calm "what this means" closing shot.
+      Character: {anchor}.
+
+ja:
+  title: "スクエニ7%超急落、ドラクエ12発表で市場が「材料出尽くし」と判定 #Shorts"
+  description: |
+    2026年5月28日、ドラクエ40周年に合わせて公開された「ドラゴンクエストXII」の最新情報を受け、
+    スクエニHD株が一時7%超急落。市場の「材料出尽くし」判定の構図を、40秒で解説。
+
+    #Shorts #ニュース #株式 #スクエニ #ドラクエ12
+  hook_caption: "スクエニ7%急落の正体"
+  series_brand: "スクエニ急落の理由"
+  voice_speed: 1.5
+  narration:
+    - panel: p1
+      text: "スクエニ株が、一時7%超の急落です。"
+      caption: "スクエニHD -7.15%"
+    - panel: p2
+      text: "きっかけは、待望の続報、ドラクエ12でした。"
+      caption: "きっかけは、ドラクエ12"
+    - panel: p3
+      text: "27日、ドラクエ40周年に合わせて、新タイトルロゴが公開。"
+      caption: "40周年、新ロゴ公開"
+    - panel: p4
+      text: "ただし、発売時期は、依然として明らかにされませんでした。"
+      caption: "発売時期は、明示されず"
+    - panel: p5
+      text: "翌28日の東京市場は、これに反応。前日比193円安の2511円まで売られました。"
+      caption: "2,511円まで売られた"
+    - panel: p6
+      text: "シリーズ40周年でも、株価は支えられず。「材料出尽くし」と見なされたんです。"
+      caption: "40周年でも、材料出尽くし"
+    - panel: p7
+      text: "もっとも、専門家の見方は割れています。"
+      caption: "専門家の見方は、割れた"
+    - panel: p8
+      text: "同時発表のモンスターズ4などで、IP戦略は健在、という声もある。"
+      caption: "IP戦略は、健在との声"
+    - panel: p9
+      text: "つまり今回の急落は、長期の弱さではなく、目先の期待ズレ。"
+      caption: "目先の期待ズレ、と読める"
+    - panel: p10
+      text: "ゲーム会社の株は、発売スケジュール一つで、これだけ動きます。"
+      caption: "発売スケジュールで、株は動く"
+    - panel: p11
+      text: "次の節目は、ドラクエ12の発売日が示される瞬間。"
+      caption: "次の節目は、発売日の発表"
+    - panel: p12
+      text: "投資家にとっては、それまでが正念場です。"
+      caption: "それまでが、正念場"

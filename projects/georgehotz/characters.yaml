@@ -1,0 +1,72 @@
+# ジョージ・ホッツ (geohot) cast — visual character sheets for anime/webtoon shorts.
+# Two life-stage variants:
+#   - subject_teen: 17 years old, 2007, the iPhone jailbreak era
+#   - subject_adult: 20s-30s, comma.ai / tinygrad / Sony lawsuit era
+characters:
+  - id: subject_teen
+    name_ja: ジョージ・ホッツ (17歳)
+    description_en: |
+      A 17-year-old white American teenager in 2007 with the characteristic
+      young-George-Hotz features: a slim oval face, fair skin with faint teenage
+      acne, intelligent restless dark-hazel eyes, a slightly pointed nose, thin
+      lips often pulled into a smirk or grin of mischievous confidence, short
+      messy curly-to-wavy dark brown hair, lean wiry build, the bearing of an
+      obsessive self-taught hacker prodigy from suburban Glen Rock, New Jersey.
+      Slightly awkward but very alert posture, like a kid who already knows he
+      is smarter than every adult in the room.
+    outfit_en: |
+      a casual mid-2000s American teenager outfit — plain solid-color cotton
+      t-shirt (often grey, black, or with a faded computer/science logo),
+      sometimes a loose unzipped grey or navy hoodie over the t-shirt, baggy
+      blue jeans, white or black sneakers. Never anything dressy. A simple
+      digital wristwatch on one wrist.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - intent absorbed staring at an iPhone circuit board through a magnifier
+      - mischievous grin of a teenager who just broke a billion-dollar lock
+      - quiet thoughtful focus while soldering
+      - bright excited fascination at a glowing screen
+    poses:
+      - "Three-quarter view leaning over a desk soldering an iPhone motherboard"
+      - "Front view holding up an unlocked iPhone to a webcam"
+      - "Sitting cross-legged on a bedroom carpet with a laptop"
+      - "Standing in a dorm-style bedroom holding a phone in one hand"
+
+  - id: subject_adult
+    name_ja: ジョージ・ホッツ
+    description_en: |
+      The mature George Hotz aged about 26-36 — a white American man with the
+      unmistakable geohot look: a thin angular face, fair skin, sharp restless
+      hazel-brown eyes with an intense always-thinking gaze, a straight thin
+      nose, thin expressive lips often curled into a half-smirk, a wild
+      voluminous mop of curly-to-frizzy medium-brown hair that sticks up and
+      out in every direction like a hacker's natural afro, almost always with
+      messy stubble or short patchy beard, narrow shoulders, lean wiry build,
+      the bearing of an obsessive caffeinated programmer who livestreams his
+      coding sessions on Twitch. Slightly hunched dishevelled posture, an
+      unfiltered talkative energy in his eyes.
+    outfit_en: |
+      the signature geohot dishevelled hacker uniform — a plain black,
+      dark-grey, or faded-colored t-shirt (sometimes with a small tech logo
+      like a CUDA, AMD, or comma.ai print), occasionally shirtless during
+      late-night live coding streams, baggy black or grey gym shorts or loose
+      jeans, sometimes bare feet indoors. Never formal, never branded fashion,
+      never a jacket beyond a hoodie. Quiet, raw, anti-aesthetic founder look.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - intense focused live-coding stare at multiple monitors
+      - mischievous grin while explaining a hack on camera
+      - calm defiant composure during a legal deposition
+      - exhausted but exhilarated after a 36-hour coding session
+      - rapid-fire talking with hands gesturing
+    poses:
+      - "Three-quarter view sitting in an office chair surrounded by three monitors"
+      - "Front view standing in a comma.ai garage next to a modified car"
+      - "Side profile leaning back with arms crossed in a courtroom hallway"
+      - "Sitting shirtless on a couch with a laptop balanced on his knees"

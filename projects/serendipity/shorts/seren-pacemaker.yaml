@@ -1,0 +1,60 @@
+id: seren-pacemaker
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A 1950s electronics workbench, an engineer building a small circuit to record heartbeats,
+      reaching into a parts box, the visual of
+      "an engineer grabs the wrong part". Warm vintage-lab tone.
+  - id: p2
+    prompt: |
+      A close-up of the finished circuit unexpectedly pulsing in a steady rhythm, a small
+      blinking light like a heartbeat, the visual of "the circuit pulsed like a heart". Curious, glowing tone.
+  - id: p3
+    prompt: |
+      An illustration of the engineer's realization, a thought bubble of a human heart syncing
+      to the pulse, the visual of "this could
+      keep a heart beating". Inspired, warm tone.
+  - id: p4
+    prompt: |
+      A medical infographic of a small implantable device sending rhythmic pulses to a heart,
+      the visual of "the implantable
+      pacemaker". Clean medical illustration.
+  - id: p5
+    prompt: |
+      A warm hospital scene of an elderly patient living healthily, hand on chest, a steady
+      heartbeat line, the visual of "it now saves
+      millions of lives". Hopeful, warm tone.
+  - id: p6
+    prompt: |
+      A reflective scene of the engineer holding the tiny device, soft light, a decorative
+      Japanese caption "間違いが命を救った", the loop image of "a mistake that saved countless
+      hearts". Inspiring, gentle tone.
+ja:
+  title: '間違った部品から生まれた、心臓を救う装置 #Shorts'
+  description: |
+    1950年代、ある技術者が心拍を記録する装置を作る際、間違った部品を取り付けてしまった。すると回路は、心臓のように規則正しく脈打った。世界中の命を救う植込み型ペースメーカー誕生の偶然を30秒で解説します。
+
+    #Shorts #偶然の発見 #ペースメーカー #医療 #雑学
+  hook_caption: 間違った部品から心臓を救う装置が生まれた
+  series_brand: 偶然が変えた世界
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1950年代、ある技術者が、心臓の鼓動を記録する装置を作っていました。ところが彼は、うっかり間違った部品を取り付けてしまいます。
+      caption: 1950年代、技術者が部品を取り違えた
+    - panel: p2
+      text: 完成した回路は、おかしな動きを見せました。記録するどころか、心臓のように、規則正しく電気のパルスを打ち始めたんです。
+      caption: 回路が心臓のように規則正しく脈打った
+    - panel: p3
+      text: その瞬間、彼はひらめきます。この規則正しいリズムがあれば、弱った心臓を、外から動かせるかもしれない、と。
+      caption: このリズムで弱った心臓を動かせるかも
+    - panel: p4
+      text: こうして生まれたのが、体内に埋め込む植込み型ペースメーカーです。失敗から、医療を変える発明が誕生しました。
+      caption: 体内に埋め込むペースメーカーが誕生した
+    - panel: p5
+      text: この小さな装置は、今も世界中で、心臓に不安を抱える数百万人の命を、静かに支え続けています。
+      caption: 今も数百万人の命を支え続けている
+    - panel: p6
+      text: たった一つの部品の取り違えが、無数の命をつないだ。偶然を見逃さなかった目こそが、本当の発明だったのです。
+      caption: 偶然を見逃さなかった目こそが発明だった

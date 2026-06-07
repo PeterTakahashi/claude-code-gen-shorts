@@ -1,0 +1,189 @@
+id: vitalik-magic-the-gathering-warcraft
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2010, a dim Toronto bedroom at night. A 16-year-old Vitalik Buterin
+
+    sitting frozen in front of a glowing CRT monitor, his pale shocked
+
+    face illuminated by the screen, the screen showing a World-of-Warcraft
+
+    style fantasy game interface with a generic warlock character and a
+
+    patch-notes window highlighting nerfed ability lines in red text. His
+
+    hand still resting on the mouse, mouth slightly open in quiet
+
+    heartbreak. Posters of math equations and a chess board behind him.
+
+    Side-front framing.
+
+    Character: {subject_teen}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2005, a quiet elementary school classroom in suburban Toronto
+
+    Canada. A small skinny 11-year-old version of Vitalik Buterin alone at
+
+    his desk, surrounded by empty desks of students who have already
+
+    finished, his pale face leaning intensely over a math textbook full of
+
+    equations, scribbling formulas with a pencil at incredible speed,
+
+    large pale-blue eyes focused, a faint half-smile. The visual of a
+
+    math-prodigy child far ahead of his classmates. Soft morning classroom
+
+    light through windows. Mid-shot.
+
+    Character: {subject_teen}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-2000s, a casual kitchen table at home in Toronto. A 13-14 year
+
+    old Vitalik Buterin sitting across from a friend, both intensely
+
+    focused on a Magic the Gathering style trading card game, generic
+
+    fantasy-art game cards spread across the table, small piles of
+
+    counters and tokens, Vitalik holding a fan of cards with calm
+
+    strategic precision, his pale eyes scanning the board. Warm
+
+    domestic lighting. Three-quarter framing.
+
+    Character: {subject_teen}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A symbolic in-game scene: a generic fantasy warlock character standing
+
+    heroic on a dark cliff under a stormy purple sky, glowing magical aura
+
+    around him, generic massive raid boss silhouetted in the distance,
+
+    epic dramatic lighting, MMORPG-style fantasy world. A faint floating
+
+    HUD overlay shows the character''s stats and his name as a Russian-style
+
+    handle. The character — and the in-game life — Vitalik had built over
+
+    thousands of hours. No real-world figures. No "World of Warcraft" logo.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2010, the same Toronto bedroom in daylight. A 16-year-old
+
+    Vitalik Buterin sitting cross-legged on his bed, a laptop balanced on
+
+    his knees, typing thoughtfully, the screen showing a draft blog post
+
+    with the visible title "Why a centralized company should not control
+
+    what I own". His pale face showing the calm focused conviction of a
+
+    teenager who has just understood something fundamental about power.
+
+    Side-front framing.
+
+    Character: {subject_teen}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early 2011, the same dim Toronto bedroom at night. Over-the-shoulder
+
+    view of a 16-17 year old Vitalik Buterin from behind, his thin frame
+
+    in soft focus, the laptop screen sharply visible showing a PDF of the
+
+    Bitcoin white paper by Satoshi Nakamoto open on the first page. His
+
+    shoulders relaxed, the same desk, the same chair as the cold open —
+
+    but now the look of a boy who has found his real game. Quiet
+
+    historical pivot moment.
+
+    Character: {subject_teen}.
+
+    '
+ja:
+  title: 'World of Warcraftの仕様変更で人生が変わった少年 #Shorts'
+  description: '少年時代のヴィタリック・ブテリンは、Magic the Gatheringと数学に没頭していた。
+
+    しかし、World of Warcraftで愛用キャラクターの能力をBlizzardに一方的にnerfされた経験が、
+
+    彼の「中央集権への不信」を生んだ。
+
+
+    #Shorts #ヴィタリックブテリン #Ethereum #人物伝
+
+    '
+  hook_caption: WoWのnerfがEthereumを生んだ
+  series_brand: ヴィタリック・ブテリン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: World of Warcraftの仕様変更が、Ethereumを生んだ、と言ったら、信じますか。
+    caption: WoWの仕様変更がEthereumを生んだ
+  - panel: p2
+    text: ヴィタリック・ブテリン。少年時代は、数学と、Magic the Gatheringに、没頭していました。
+    caption: 少年時代は数学とMagic the Gathering
+  - panel: p3
+    text: 彼は、World of Warcraftに、何千時間も、費やしていたんです。
+    caption: WoWに何千時間も費やす
+  - panel: p4
+    text: ところが、2010年、運営会社Blizzardが、彼の愛用キャラの能力を、一方的にnerfしたんです。
+    caption: 2010年、Blizzardが一方的にnerf
+  - panel: p5
+    text: 16歳の彼は、こう、悟りました。「中央の誰かが、ボタン1つで、私のものを、変えられる」と。
+    caption: 中央集権への不信が芽生える
+  - panel: p6
+    text: 翌年、彼は、Bitcoinに、出会う——あの怒りが、のちのEthereumの、原点になったんです。
+    caption: 翌年Bitcoinと出会い、Ethereumへ
+en:
+  title: 'How a World of Warcraft Nerf Created Ethereum #Shorts'
+  description: 'At 16, Vitalik Buterin was a die-hard World of Warcraft player. When the developer nerfed his character without warning, he learned a painful lesson about centralized power.
+
+    That anger led him to create Ethereum, a decentralized world where no single entity can just change the rules.
+
+
+    #Shorts #VitalikButerin #Ethereum #WoW #Crypto'
+  hook_caption: HIS RAGE QUIT CHANGED THE WORLD
+  series_brand: 'Biography: Vitalik Buterin'
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: What if I told you the world's second-biggest cryptocurrency exists... because a teenager got mad about a video game?
+    caption: A game nerf changed history
+  - panel: p2
+    text: This is Vitalik Buterin. As a kid, he was a math prodigy who was also completely obsessed with World of Warcraft.
+    caption: Prodigy and Gamer
+  - panel: p4
+    text: He poured thousands of hours into building up his powerful Warlock character.
+    caption: His beloved character
+  - panel: p5
+    text: But in 2010, the game developer, Blizzard, nerfed one of his core spells, crippling the character he'd spent years on.
+    caption: The Nerf
+  - panel: p6
+    text: 'He had a painful realization: a central authority could destroy everything he''d built with the flip of a switch.'
+    caption: The flaw in central control
+  - panel: p3
+    text: That anger became the spark for a new, decentralized world he would create—Ethereum.
+    caption: The birth of Ethereum

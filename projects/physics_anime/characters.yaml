@@ -1,0 +1,14 @@
+characters:
+  - id: prof_kawai
+    name_ja: 河合博士 (チャンネル専属物理博士キャラ)
+    description_en: >-
+      a friendly anime-style middle-aged Japanese physicist man around 50,
+      slightly tousled silver-grey hair, warm intelligent eyes behind
+      round wire-frame glasses, neatly trimmed grey beard, kind but
+      enthusiastic teaching expression
+    outfit_en: >-
+      a relaxed white lab coat thrown over a soft beige sweater and grey
+      slacks, sometimes holding a piece of chalk or pointing at a
+      floating equation
+    voice_style_id: 1310138977
+    voice_speed: 1.4

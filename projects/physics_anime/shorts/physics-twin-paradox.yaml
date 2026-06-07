@@ -1,0 +1,60 @@
+id: physics-twin-paradox
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A dramatic split illustration of identical twin brothers waving goodbye at a futuristic
+      spaceport, one boarding a sleek silver rocket, the other staying on Earth, the visual of
+      "two twins, same age, one goes to the stars". Cinematic sci-fi tone.
+  - id: p2
+    prompt: |
+      A diagram of the rocket racing through space at nearly the speed of light, a clock inside
+      visibly ticking slowly, a clock on Earth ticking normally, the visual of "time slows for the
+      one moving near light speed". Clean physics infographic.
+  - id: p3
+    prompt: |
+      A montage of the Earth twin growing visibly older — graying hair, calendar pages tearing
+      away — while the rocket twin's clock barely advances, the visual of "decades pass on Earth,
+      only a few years on the rocket". Reflective science illustration.
+  - id: p4
+    prompt: |
+      A scene of the rocket returning to a future Earth: the young space twin stepping out, an
+      old grandfatherly Earth twin in a wheelchair waiting to greet him, the visual of "the space
+      twin came back younger than his brother". Emotional, bittersweet tone.
+  - id: p5
+    prompt: |
+      A clean diagram explaining the asymmetry: only the rocket twin felt acceleration and
+      turn-around, so only his clock truly slowed, the visual of "the one who accelerates is the
+      one who ages slower". Clean physics diagram.
+  - id: p6
+    prompt: |
+      A quiet shot of the two brothers, one old and one young, looking up at the stars together,
+      the loop image of "time itself bends, depending on how you move". Serene, philosophical tone.
+ja:
+  title: '双子のパラドックス、宇宙へ行った弟が兄より若い理由 #Shorts'
+  description: |
+    双子の片方を光速に近いロケットで宇宙へ送り、地球に戻すと、宇宙へ行った方が若いまま帰ってくる。アインシュタインの相対性理論が示す「双子のパラドックス」を30秒で解説します。
+
+    #Shorts #物理 #相対性理論 #思考実験 #雑学
+  hook_caption: 宇宙へ行った弟が、兄より若く帰る理由
+  series_brand: 30秒の思考実験
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 同い年の双子の片方を、光の速さに近いロケットに乗せて宇宙へ送り、もう片方を、地球に残します。さて、何が起きるでしょうか。
+      caption: 双子の片方を光速ロケットで宇宙へ送る
+    - panel: p2
+      text: アインシュタインによれば、光に近い速度で動くと、その人の時間はゆっくり進みます。だから、ロケットの中の時計は、ほとんど進みません。
+      caption: 光速に近づくほど時間はゆっくり進む
+    - panel: p3
+      text: その間、地球では何十年もの時間が、普通に流れていきます。残された兄は、老いていきます。
+      caption: 地球では何十年もの時間が流れる
+    - panel: p4
+      text: そしてロケットが地球へ戻ると、宇宙へ行った弟だけが、若いままなのです。これが、双子のパラドックスです。
+      caption: 宇宙へ行った弟だけが若いまま帰る
+    - panel: p5
+      text: なぜ弟だけ若いのか。それは、加速して向きを変えたのが、弟のロケットだけだから。動いた側だけが、本当に時間を縮めるんです。
+      caption: 加速したロケット側だけが時間を縮める
+    - panel: p6
+      text: 時間は、誰にとっても同じ速さで流れているわけではない。あなたが今この瞬間も、地上の誰かより、わずかに若く生きているのです。
+      caption: 時間は誰にとっても同じではない

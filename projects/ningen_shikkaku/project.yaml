@@ -1,0 +1,66 @@
+# Project config for 太宰治『人間失格』(No Longer Human).
+# Drop a new novel by copying projects/_template/project.yaml.example into a new
+# directory under projects/ and editing the values below.
+
+id: ningen_shikkaku
+title_ja: 人間失格
+title_en: No Longer Human
+author: 太宰治
+language: ja
+
+# Era / locale strings injected into every Gemini image prompt.
+era: "early Showa era Japan, 1920s-1930s"
+locale_hint: "rural Tohoku and Tokyo"
+
+style:
+  # Color webtoon by default. Per-panel monochrome (for flashbacks / dramatic beats / symbolic_dark)
+  # is selected by the scenario LLM via the `treatment` field in scenes.json.
+  description: "full-color webtoon manga style, clean inked linework, soft cel shading, muted melancholic palette with desaturated period-appropriate tones, mobile-first vertical scroll composition"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face, modern/post-Showa clothing"
+
+# Chapter splitting. Each chapter is extracted from input/novel.txt by searching
+# for start_marker (inclusive) up to end_marker (exclusive).
+# If chapters is empty, the whole novel.txt is treated as one chapter named "main".
+chapters:
+  - id: chapter_01
+    title: 第一の手記
+    start_marker: 第一の手記
+    end_marker: 第二の手記
+  - id: chapter_02
+    title: 第二の手記
+    start_marker: 第二の手記
+    end_marker: 第三の手記
+
+narrator:
+  voice_style_id: 1310138977   # Aivis: 阿井田 茂 / Calm
+  voice_speed: 0.95
+  instructions: |
+    Read in a quiet, melancholic, slightly detached male voice — as if
+    reading a confessional diary late at night. Slow, contemplative pacing.
+    Dwell on pauses. A weary, defeated undertone, but never theatrical.
+    Japanese, educated 昭和初期 tone.
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+  verify: true                       # M5 layer 3: Whisper-verify each generated wav
+  similarity_threshold: 0.88         # hira-Levenshtein; below this → voice_review.md
+  whisper:
+    model: large-v3                  # large-v3=accurate (slow). Use small for routine runs if needed.
+
+bubbles:
+  font_path: /System/Library/Fonts/ヒラギノ明朝 ProN.ttc
+  font_index: 0
+  font_scale: 4.0       # mobile-first; effective ~48px for 12pt base — readable on phone
+
+webtoon:
+  width_px: 800
+  panel_gap_px:
+    tight: 20
+    breath: 80
+    jump: 200
+
+# Per-target re-encodes from output/<ch>/master.mp4. Master is already 16:9
+# H.264 with subtitles burned in, so most YouTube workflows can use it directly.
+# (9:16 short-form variant uses different image generation — see docs/futures.)
+output_targets: []

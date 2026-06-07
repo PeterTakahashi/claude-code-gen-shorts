@@ -1,0 +1,37 @@
+# Housing cautionary-tale shorts-only project. No long-form chapters.
+# Each short is one self-contained 30-45s failure story (7-beat failure arc):
+#   crater → relatability → fatal decision → spiral → rock bottom → AVOIDANCE/lesson.
+# The avoidance beat is mandatory (payoff + native-ad slot). See skill: cautionary-tale-webtoon.
+id: housing_regret
+title_ja: "住宅の後悔"
+title_en: "住宅の後悔"
+subject: "Japanese homeowner cautionary tales"
+language: ja
+
+era: "modern Japan, 2010s-2020s"
+locale_hint: "suburban and urban Japan"
+
+style:
+  description: "full-color modern anime / webtoon style, soft cel shading, expressive line art, cinematic lighting, relatable everyday-drama tone, ordinary contemporary Japanese people"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, extra limbs, distorted face, photorealistic, photograph, 3D render, real brand logos"
+
+chapters: []
+
+narrator:
+  voice_style_id: 1310138977
+  voice_speed: 1.0
+  instructions: |
+    First-person regretful memoir: an ordinary person looking back on a costly
+    housing mistake. Calm, honest, a little rueful — not melodramatic. In the
+    final lesson beats, turn gently to address the viewer ("もし戻れるなら…").
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+
+bubbles:
+  font_path: /Users/apple/dev/claude-code/webtoon-gen/assets/fonts/NotoSansJP-Regular.otf
+  font_index: 0
+  font_scale: 4.0
+
+output_targets: []

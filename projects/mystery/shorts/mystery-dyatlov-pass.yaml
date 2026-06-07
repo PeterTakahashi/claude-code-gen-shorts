@@ -1,0 +1,62 @@
+id: mystery-dyatlov-pass
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A bleak 1959 Soviet snow-mountain scene at night, a small yellow tent half-buried in deep
+      snow on a wind-swept slope of the Ural mountains, a decorative caption sense of "the Dyatlov
+      Pass incident", the visual of "nine experienced hikers vanished on a frozen ridge". Cold,
+      haunting noir tone.
+  - id: p2
+    prompt: |
+      A noir illustration of searchers approaching the tent later, finding it slashed open from
+      the inside, footprints leading away into the snow barefoot or in socks, the visual of
+      "they had cut the tent open and run". Tense, eerie tone.
+  - id: p3
+    prompt: |
+      A somber 1950s scene of the search teams discovering the lost hikers far down the slope in
+      a forest, some dressed only in underwear, the visual of "found over a kilometer away, half
+      undressed in minus 30 degrees" (non-graphic). Heavy, mournful tone.
+  - id: p4
+    prompt: |
+      A noir scene of Soviet investigators examining strange details: some bodies with broken
+      ribs but no external wounds, clothing with traces of radiation, the visual of "injuries no
+      one could explain". Cold, ominous Soviet-era tone.
+  - id: p5
+    prompt: |
+      A montage of theories: a military test rocket in the sky, a yeti shadow, an avalanche on
+      the slope, an angry indigenous Mansi tribesman, the visual of "every theory was proposed,
+      none truly satisfied". Confused, ominous tone.
+  - id: p6
+    prompt: |
+      A lonely shot of the moonlit Ural pass with a memorial cross in the snow, the loop image
+      of "more than 60 years on, the truth is still buried under that snow". Haunting,
+      unresolved tone.
+ja:
+  title: 'ディアトロフ峠事件、9人がテントを切り裂いて消えた夜 #Shorts'
+  description: |
+    1959年、ソ連ウラル山脈で、経験豊富な登山者9人が、テントを内側から切り裂いて雪山に逃げ、全員が死亡した。原因不明の負傷と微量の放射線。今も多くの謎が残る、ディアトロフ峠事件を30秒で解説します。
+
+    #Shorts #未解決事件 #ディアトロフ峠事件 #海外ミステリー #雑学
+  hook_caption: 9人が雪山に消えた夜
+  series_brand: 未解決事件ファイル
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1959年、ソ連のウラル山脈で、経験豊富な登山者9人が、雪山で全員命を落とす事件が起きました。
+      caption: 1959年、ウラル山脈で登山者9人が全員死亡
+    - panel: p2
+      text: 救助隊が見つけたテントは、なぜか内側から切り裂かれていました。彼らはマイナス30度の雪原に、靴も履かず逃げ出していたんです。
+      caption: テントは内側から切り裂かれていた
+    - panel: p3
+      text: 遺体は、テントから1キロ以上離れた森で見つかりました。中には、下着姿に近い者まで、いました。
+      caption: 遺体は1キロ離れた森で、下着姿の者もいた
+    - panel: p4
+      text: さらに、外傷はないのに、肋骨が砕けた者、衣服から微量の放射線が検出された者まで、いました。説明のつかない傷でした。
+      caption: 外傷なき骨折、衣服から微量の放射線
+    - panel: p5
+      text: 軍の兵器実験、雪崩、未確認生物、先住民族との衝突。あらゆる説が出されましたが、どれも全てを説明しきれませんでした。
+      caption: あらゆる説が出るも全ては説明できず
+    - panel: p6
+      text: 事件から60年以上が経った今も、なぜ彼らが、安全なテントを切り裂いて逃げたのか。本当の答えは、雪の下にあります。
+      caption: 60年経っても答えは雪の下にある

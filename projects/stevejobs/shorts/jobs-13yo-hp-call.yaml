@@ -1,0 +1,101 @@
+id: jobs-13yo-hp-call
+parent_chapter: ch1
+panels:
+- id: p1
+  prompt: 'A delighted 13-year-old Steve Jobs in 1968 standing in his Los Altos family kitchen, holding up a small cardboard box of Hewlett-Packard electronic components (resistors, capacitors, transistors)
+    with bright excitement on his face, the prize from his audacious phone call. American suburban California 1960s home in background.
+
+    Character: {jobs_child}.
+
+    '
+- id: p2
+  prompt: 'A 13-year-old Steve Jobs in his Los Altos bedroom in 1968, leaning over an electronics hobbyist magazine spread open on his desk, fascinated by a frequency counter schematic, brown hair shaggy,
+    intent serious expression, simple American 1960s kid''s bedroom with model rockets and books visible.
+
+    Character: {jobs_child}.
+
+    '
+- id: p3
+  prompt: '13-year-old Steve Jobs frustrated at his bedroom desk, looking at the schematic on the magazine, hands open in mild exasperation, recognizing he cannot source the specialized HP-made parts locally,
+    his bedroom shelves visible behind him with miscellaneous electronics components in mason jars.
+
+    Character: {jobs_child}.
+
+    '
+- id: p4
+  prompt: '13-year-old Steve Jobs standing at his family''s kitchen wall-mounted rotary telephone in 1968, an enormous Palo Alto white pages phone book open on the kitchen counter, his small finger pinned
+    on a single line entry, eyes wide with audacity. American suburban kitchen.
+
+    Character: {jobs_child}.
+
+    '
+- id: p5
+  prompt: '13-year-old Steve Jobs in 1968 confidently speaking into a rotary kitchen telephone receiver, animated and articulate beyond his years, eyes bright with the audacity of cold-calling a CEO, modest
+    American kitchen interior, late afternoon light through window.
+
+    Character: {jobs_child}.
+
+    '
+- id: p6
+  prompt: 'An older Bill Hewlett, late-50s 1968 HP Co-founder, in a comfortable Palo Alto home study, sitting at his desk holding a rotary telephone receiver to his ear, surprised but charmed expression,
+    slight smile breaking through, wearing a casual cardigan sweater. The other side of the call.
+
+    '
+ja:
+  title: '13歳のジョブズがHP社長の自宅に電話した話 #Shorts'
+  description: 'まだ無名だった13歳のスティーブ・ジョブズが、Hewlett-Packardの社長ビル・ヒューレットに、いきなり自宅に電話をかけた話。彼が13歳で学んだ人生哲学とは。
+
+
+    #Shorts #スティーブジョブズ #Apple #人物伝
+
+    '
+  hook_caption: 13歳がHP社長に直電した結果
+  series_brand: スティーブ・ジョブズ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 13歳の少年が、いきなり、HP の社長の自宅に電話をかけ、部品をもらい、夏休みのアルバイトまで、手に入れました。
+    caption: HP社長の自宅に直電、部品+バイトGet
+  - panel: p2
+    text: 1968年、その少年の名は、スティーブ・ジョブズ。
+    caption: 1968年、13歳のジョブズ
+  - panel: p3
+    text: 彼は、ある日、周波数計を作りたくなったんです。でも、部品が、どこにも、手に入らない。
+    caption: 周波数計を作りたかったが部品が無い
+  - panel: p4
+    text: だから、HP 社の社長ビル・ヒューレットの自宅の電話番号を、電話帳で調べ上げました。
+    caption: 電話帳で社長の自宅番号を調べた
+  - panel: p5
+    text: そして、何の躊躇いもなく、直接ダイヤルしたんです。
+    caption: そして直接電話をかけた
+  - panel: p6
+    text: ヒューレットは絶句した後、笑い出し、部品と夏休みのバイトを彼にくれた——「欲しいものは、自分で手を伸ばせば、ほとんど手に入る」、ジョブズが13歳で学んだ哲学です。
+    caption: 「手を伸ばせば、ほとんど手に入る」
+en:
+  title: 'When a 13-Year-Old Steve Jobs Cold-Called a CEO''s House #Shorts'
+  description: 'Before he was a legend, Steve Jobs was a 13-year-old kid who needed parts. So he did the unthinkable: he called the CEO of HP at home. The lesson he learned that day was simple: just ask.
+
+
+    #Shorts #SteveJobs #Apple #Motivation #Biography'
+  hook_caption: He called a CEO's personal number...
+  series_brand: The Steve Jobs Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1968, a 13-year-old kid named Steve Jobs had a problem.
+    caption: 1968. A young Steve Jobs.
+  - panel: p3
+    text: He was trying to build a frequency counter, but couldn't get his hands on the special parts he needed.
+    caption: He needed parts.
+  - panel: p4
+    text: So he did something unbelievable. He looked up Bill Hewlett, the CEO of Hewlett-Packard, in the public phone book.
+    caption: A crazy idea.
+  - panel: p5
+    text: And without a second thought, he dialed the CEO's personal home number.
+    caption: He called the CEO's home.
+  - panel: p6
+    text: Instead of getting angry, Hewlett was so charmed by the boy's audacity...
+    caption: The CEO was impressed.
+  - panel: p1
+    text: '...that he not only gave him the parts, but offered him a summer job at HP on the spot.'
+    caption: He got parts AND a job.

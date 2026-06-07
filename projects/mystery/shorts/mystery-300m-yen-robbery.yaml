@@ -1,0 +1,195 @@
+id: mystery-300m-yen-robbery
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 10 1968 morning on a quiet suburban road beside Tokyo
+
+    Fuchu Prison in Tokyo Japan, a parked grey Toshiba company sedan
+
+    with steam rising from under the hood, four Japanese bank
+
+    employees in dark winter overcoats standing on the cold roadside
+
+    with stunned expressions, a young male police officer in a
+
+    Japanese police uniform with a white helmet riding a white
+
+    motorcycle is pointing urgently at the car saying something, the
+
+    visual of "the fake policeman the moment before he stole 300
+
+    million yen". Mid-shot. Clearly Tokyo Japan 1968 winter setting.
+
+    No Japanese text in image.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same suburban road moments later, Tokyo Japan December 1968, the
+
+    grey Toshiba sedan now empty as the four bank employees stand
+
+    well back behind a low concrete wall, the fake young Japanese
+
+    police officer on the white motorcycle has climbed into the
+
+    driver''s seat and is starting to drive the sedan away, a thin
+
+    wisp of smoke trailing from under the car (a smoke bomb planted
+
+    under the chassis), the white motorcycle abandoned on the
+
+    roadside, the visual of "the heist in motion". Wide shot.
+
+    Clearly Tokyo Japan 1968. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside a busy Tokyo Metropolitan Police Department investigation
+
+    room circa late December 1968, a dozen middle-aged Japanese male
+
+    detectives in dark suits surrounding a large cork board covered
+
+    with grainy black-and-white mugshot-style sketches, a chalkboard
+
+    with decorative English label "SUSPECTS" scrawled across the top,
+
+    thick stacks of paper case files, several glowing desk lamps,
+
+    cigarette smoke hanging in the cold air, the visual of "the
+
+    largest manhunt in postwar Japan begins". Wide shot. Clearly
+
+    Tokyo Japan 1968. No Japanese text in image.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean modern infographic panel on dark navy-blue background, a
+
+    stylized newspaper page in the center with decorative English
+
+    headline "THE 300 MILLION YEN CASE — 110,000 SUSPECTS, 0
+
+    ARRESTS", a tiny chibi detective with a magnifying glass
+
+    examining a long list of stick-figure suspect silhouettes
+
+    stretching off the page, a thin floating English caption
+
+    "INVESTIGATION FILE", the visual of "the biggest case Japanese
+
+    police could not solve". Infographic composition. Decorative
+
+    English text only. No Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A dim Tokyo Japan apartment interior in November 1975, the silent
+
+    figure of an unidentified person seen only from behind, sitting
+
+    hunched at a small wooden table, the warm orange glow of a single
+
+    desk lamp, a small calendar on the wall marked with red circle
+
+    around a specific date, the silhouette of a white motorcycle
+
+    helmet sitting on a shelf in the shadows, the visual of "the
+
+    statute of limitations runs out tonight". Tight mid-shot. Clearly
+
+    Japanese 1970s apartment setting. Person''s face not visible. No
+
+    Japanese text in image.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    December 10 1988 twenty years after the robbery, the same quiet
+
+    suburban road beside Tokyo Fuchu Prison in Tokyo Japan, now empty
+
+    and silent, no Toshiba sedan, no fake policeman, no bank
+
+    employees, just the same low concrete wall, a single faded
+
+    bouquet of yellow chrysanthemums placed on the asphalt where the
+
+    car once stood, soft cold winter sunlight filtering through bare
+
+    trees, the visual of "an unsolved crime still remembered".
+
+    Wide shot. Clearly Tokyo Japan 1988. No Japanese text.
+
+    '
+ja:
+  title: '3億円事件、犯人は誰だったのか #Shorts'
+  description: '1968年12月10日、東京府中。白バイ警官に変装した男が、東芝の現金輸送車から3億円を奪った。
+
+    犯人は今日まで一人も逮捕されていない——戦後最大の未解決事件をAnimeで再構成。
+
+
+    #Shorts #3億円事件 #未解決 #事件 #1968
+
+    '
+  hook_caption: 3億円事件、犯人は誰だったか
+  series_brand: バルトゥーン未解決事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1968年12月10日午前9時20分、東京・府中で、白バイ警官が現金輸送車を、たった3分で奪いました。被害額は当時の3億円、現代の貨幣価値で約20億円です。
+    caption: 1968年、白バイ警官の3分間
+  - panel: p2
+    text: 手口は驚くほどシンプルで、彼は「車に爆弾が仕掛けられている」と告げ、行員を退避させたあと、煙幕を焚いて車ごと、悠々と走り去りました。
+    caption: 「爆弾だ」と言って車ごと奪う
+  - panel: p3
+    text: 警視庁は、戦後最大規模の捜査本部を立ち上げます。延べ17万人の警官を動員し、容疑者は11万人にのぼりました。
+    caption: 警官17万人、容疑者11万人
+  - panel: p4
+    text: ところが、白バイは盗難車、現金は連番ではなかったので、追跡の手がかりは、ほぼゼロでした。最有力容疑者の少年Sは、事件直後に青酸カリで自殺しています。
+    caption: 最有力容疑者は自殺、真相は闇
+  - panel: p5
+    text: 7年後の1975年12月、刑事時効が成立し、25年後の1988年には民事時効も成立。法律上、誰も罪に問えなくなりました。
+    caption: 1975年に時効、犯人は永遠の自由
+  - panel: p6
+    text: それから60年近く経った今も、犯人の正体は分かっていません。日本警察が、組織を挙げて追って、捕まえられなかった、唯一の男なんです。
+    caption: 60年後の今も真相は不明
+en:
+  title: 'Japan''s Unsolved 300 Million Yen Robbery #Shorts'
+  description: 'In 1968, a lone thief disguised as a cop stole 300 million yen in Tokyo. It sparked the biggest manhunt in Japanese history, but he was never caught.
+
+
+    #Shorts #TrueCrime #Japan #Unsolved #History'
+  hook_caption: He Outsmarted 170,000 Cops
+  series_brand: 'Baltun: Unsolved Cases'
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: On a quiet Tokyo morning in 1968, a Toshiba company car carrying 300 million yen was stopped by a motorcycle cop.
+    caption: Tokyo, 1968
+  - panel: p2
+    text: He warned the guards of a bomb threat. As they took cover, he filled the street with smoke... and simply drove the car away.
+    caption: The Perfect Ruse
+  - panel: p4
+    text: It was a flawless heist, worth over $10 million today. The cash was untraceable, and the getaway bike was stolen.
+    caption: A Flawless Heist
+  - panel: p3
+    text: 'Japan launched its largest-ever investigation: 170,000 officers pursued leads on 110,000 suspects.'
+    caption: A Massive Manhunt
+  - panel: p5
+    text: But with no solid evidence, the case went cold. Seven years later, the statute of limitations expired, and the thief was legally free.
+    caption: Legally Free
+  - panel: p6
+    text: To this day, he remains the only person in modern history to outsmart the entire Japanese police force and get away clean.
+    caption: Vanished Forever

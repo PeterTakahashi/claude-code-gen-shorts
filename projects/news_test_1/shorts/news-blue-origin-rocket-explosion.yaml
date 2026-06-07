@@ -1,0 +1,140 @@
+id: news-blue-origin-rocket-explosion
+parent_chapter: null
+image_style: photorealistic
+date_overlay: auto
+panels:
+  - id: p1
+    image_ref: "Blue Origin New Glenn rocket explosion Florida"
+    prompt: |
+      Cinematic photoreal photograph of a massive rocket exploding on a
+      Florida launchpad at night, a column of fire and smoke rising into a
+      dark sky, the visual of "a major US space company's hardest week".
+      Documentary press-still aesthetic. No logos beyond a generic white
+      rocket fuselage.
+  - id: p2
+    image_ref: "Cape Canaveral Florida launch pad night"
+    prompt: |
+      Photoreal cinematic aerial photograph of a Florida coastal launch
+      complex at night, lighting towers around a launchpad, the visual of
+      "Cape Canaveral, just after the anomaly". Documentary photography.
+      No people.
+  - id: p3
+    image_ref: "rocket static fire test burn"
+    prompt: |
+      Cinematic photoreal photograph of a rocket engine static-fire test —
+      a brilliant white flame jet pinned to the ground, dramatic side
+      lighting. Documentary aerospace photography. Generic white rocket
+      hardware, no real logos.
+  - id: p4
+    image_ref: "Jeff Bezos Blue Origin press"
+    prompt: |
+      Photoreal photograph of a bald middle-aged American male tech
+      executive in casual dark attire at a corporate press event with a
+      generic dark background, composed press conference lighting. Generic
+      compositional prompt; no logos.
+  - id: p5
+    image_ref: "Blue Origin employees control room"
+    prompt: |
+      Cinematic photograph of a hushed aerospace mission-control room,
+      multiple engineers in headsets at consoles, blue and amber monitor
+      light, the visual of "team on the ground, immediately after the
+      anomaly". Documentary photography.
+  - id: p6
+    image_ref: "Jeff Bezos rebuild statement"
+    prompt: |
+      Photoreal close-up of a smartphone showing a brief social-media
+      post screen with a short white-text message on a black background,
+      generic UI, the visual of "the rebuild-and-fly-again statement".
+      No identifiable platform logos.
+  - id: p7
+    image_ref: "Elon Musk SpaceX reaction"
+    prompt: |
+      Photoreal photograph of a generic American tech CEO in a dark t-shirt
+      at a SpaceX-style mission control, monitors behind him, the visual of
+      "the competitor's quick public reply". Composed press photography.
+      No logos.
+  - id: p8
+    image_ref: "SpaceX Falcon 9 launch night"
+    prompt: |
+      Cinematic photoreal photograph of a tall slender rocket launching at
+      night with a brilliant orange exhaust column over a coastal
+      launchpad, the visual of "the rival cadence: one hundred plus
+      launches a year". Documentary aerospace photography.
+  - id: p9
+    image_ref: "New Glenn rocket landing reuse"
+    prompt: |
+      Cinematic photoreal photograph of a tall white rocket booster
+      descending with engines firing, retro-thruster glow against a dim
+      sky, the visual of "the reuse milestone Blue Origin hit in April".
+      Documentary aerospace photography. Generic white booster.
+  - id: p10
+    image_ref: "NASA Artemis program moon mission"
+    prompt: |
+      Photoreal cinematic photograph of a NASA-style mission patch on a
+      flight-suit shoulder, a moon graphic in the background, the visual
+      of "Artemis — the program watching all of this". Documentary
+      aerospace photography. Generic patch design.
+  - id: p11
+    image_ref: "NASA administrator press conference"
+    prompt: |
+      Photoreal photograph of a NASA administrator at a press podium with
+      an American flag in the background, the visual of "the regulator
+      committing to a full investigation". Documentary press photography.
+      Generic compositional prompt; no identifiable individuals.
+  - id: p12
+    image_ref: "two rockets space race night sky"
+    prompt: |
+      Cinematic photoreal photograph of two tall rockets side by side on
+      adjacent launchpads at dusk, the visual of "the two-company space
+      race, suddenly more uneven". Documentary aerospace photography.
+      Generic white rocket hardware.
+
+ja:
+  title: "ブルーオリジンのロケットが発射台で爆発、スペースXとの差が広がる懸念 #Shorts"
+  description: |
+    ベゾス氏率いるブルーオリジンが、フロリダ州の発射台での燃焼試験中に異常発生、
+    主力ロケットが爆発したとみられると発表。アルテミス計画にも影響しうる
+    宇宙開発の二強体制の現状を、30秒で解説。
+
+    #Shorts #ニュース #テック #宇宙開発 #ブルーオリジン #スペースX
+  hook_caption: "ブルーオリジン、発射台で爆発"
+  series_brand: "ベゾス対マスク、差広がる"
+  voice_speed: 1.25
+  voice_pitch: -0.10
+  narration:
+    - panel: p1
+      text: "ベゾス氏率いるブルーオリジンのロケットが、発射台で爆発しました。"
+      caption: "発射台で、ロケット爆発"
+    - panel: p2
+      text: "現場は米フロリダ州、現地時間28日午後9時ごろ。"
+      caption: "フロリダ州、28日午後9時頃"
+    - panel: p3
+      text: "燃焼試験中の異常で、点火後に火柱が立ち上がりました。"
+      caption: "燃焼試験中の異常、点火後に爆発"
+    - panel: p4
+      text: "ブルーオリジンは、「今日の燃焼試験で異常が発生」とSNSに投稿。"
+      caption: "「燃焼試験で異常」と公式投稿"
+    - panel: p5
+      text: "職員は全員無事と説明、ただし詳細は調査中。"
+      caption: "職員全員無事、詳細は調査中"
+    - panel: p6
+      text: "ベゾス氏はSNSに、「必要なものは再建し、飛行を再開する」と投稿。"
+      caption: "ベゾス「再建して、また飛ぶ」"
+    - panel: p7
+      text: "競争相手のマスク氏も、「早い回復を祈る」と即座に反応しました。"
+      caption: "マスク「早い回復を祈る」"
+    - panel: p8
+      text: "スペースXは、年間100回以上の打ち上げペースで市場を席巻。"
+      caption: "スペースX、年100回超ペース"
+    - panel: p9
+      text: "ブルーオリジンは4月に、ようやくロケットの一部再使用に成功した段階でした。"
+      caption: "ブルーオリジン、4月に再使用成功"
+    - panel: p10
+      text: "ただし4月の打ち上げでは、地球低軌道への投入そのものは失敗していました。"
+      caption: "ただし、低軌道投入は失敗"
+    - panel: p11
+      text: "NASAのアルテミス計画では、2027年訓練で両社の機体を使う予定。"
+      caption: "アルテミス、2027年に両社使用"
+    - panel: p12
+      text: "アイザックマンNASA長官は、「徹底的な調査を支援する」と表明しました。"
+      caption: "NASA長官、徹底調査を支援"

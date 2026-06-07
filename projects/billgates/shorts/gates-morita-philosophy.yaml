@@ -1,0 +1,104 @@
+id: gates-morita-philosophy
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+      Extreme close-up dramatic over-the-shoulder shot of a 30-year-old skinny
+      bespectacled young Bill Gates bowing his head in a deep 45-degree
+      Japanese respectful bow, his shaggy sandy hair falling forward, his
+      oversized 1980s glasses slightly askew, the dignified figure of a 60-year-
+      old Akio Morita in soft focus across from him returning a small gracious
+      nod beside a gleaming first-generation Sony Walkman TPS-L2 on a black
+      lacquer Sony boardroom table, decorative Japanese signage 「ソニー本社」
+      readable in soft focus behind them. Tokyo Japan 1986 evening setting.
+      The visual of "the day the American kid bowed to the Japanese master."
+      Characters: {subject_young}, {akio_morita}. Subject filling the square
+      center for vertical short layout with blurred padding above/below.
+  - id: p2
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      1986 Sony headquarters boardroom in Shinagawa Tokyo Japan, wide shot of
+      Akio Morita standing beside a long black-lacquer conference table
+      pointing one calm hand toward an exploded engineering diagram on the
+      wall showing the inner gears of a Walkman cassette mechanism, the same
+      24-30 year old Bill Gates seated leaning forward intently with a small
+      open notebook on his lap, three other Japanese Sony engineers in dark
+      suits standing respectfully behind Morita, large Tokyo skyline visible
+      through floor-to-ceiling windows behind, decorative Japanese signage
+      「ソニー」 readable on a small placard. The visual of "hardware and
+      software, two halves of one machine."
+      Characters: {subject_young}, {akio_morita}.
+  - id: p3
+    prompt: |
+      Square 1:1 anime/webtoon style infographic-style panel.
+      Clean modern infographic on cream background, two stylized chibi
+      portraits — a young Bill Gates on the left labeled in decorative English
+      "SOFTWARE" and Akio Morita on the right labeled "HARDWARE", a glowing
+      handshake symbol in the middle labeled "INTEGRATION", smaller decorative
+      Japanese caption 「ハードとソフトの統合」 readable beneath, a tiny floating
+      Sony Walkman drawing in one corner and a Microsoft floppy disk in the
+      other. The visual of "the philosophy of integrated design."
+  - id: p4
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      1990 Microsoft Redmond Washington campus interior office, mid-shot of
+      the same Bill Gates now 35 years old in a Microsoft polo shirt and
+      khakis standing in front of a whiteboard furiously sketching a diagram
+      labeled in decorative English "PC + WINDOWS = ONE EXPERIENCE", three
+      young American Microsoft engineers in casual 90s clothes watching with
+      notebooks in hand, a small framed photo of the Sony Walkman pinned to
+      the corner of the whiteboard, fluorescent Pacific Northwest light through
+      windows. The visual of "applying Morita's lesson to American software."
+      Character: {subject_young}.
+  - id: p5
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      1997 Macworld Expo Boston, wide auditorium shot, a giant projection
+      screen showing the now 42-year-old adult Bill Gates beamed in live on
+      satellite from Microsoft Redmond, decorative English caption "MICROSOFT
+      INVESTS $150M IN APPLE" visible on the screen, the audience of Apple
+      faithful in shock with mouths open, the visual of "the same hardware-
+      software philosophy now saving his rival." Wide cinematic shot.
+      Character: {subject_adult}.
+  - id: p6
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Same extreme close-up dramatic shot composition as panel 1 but now
+      decades later — the 65-year-old adult Bill Gates standing alone in a
+      modern 2020 Tokyo office bowing his head in a deep respectful 45-degree
+      Japanese bow toward a large framed portrait of the late Akio Morita
+      hanging on a wood-paneled wall, decorative Japanese signage 「盛田昭夫」
+      readable beneath the portrait, soft warm golden afternoon light. The
+      loop image of "the bow he never stopped owing."
+      Character: {subject_adult}. Subject filling the square frame for
+      vertical short with blurred padding above/below.
+ja:
+  title: 'ビル・ゲイツが頭を下げた日本人、盛田昭夫 #Shorts'
+  description: |
+    40年前の1986年、若き Bill Gates が、Sony 本社で、盛田昭夫に、深々と頭を下げました。
+    Microsoft の世界戦略を決めた、ハードとソフトの哲学は、その日のお辞儀から、始まったんです。
+
+    #Shorts #ビルゲイツ #盛田昭夫 #Sony #人物伝
+  hook_caption: ゲイツが頭を下げた日本人
+  series_brand: ゲイツと盛田
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: ビル・ゲイツが、人生で一度だけ、深々と頭を下げた、日本人がいたのを、知っていますか? 名前は、盛田昭夫です。
+      caption: ゲイツが頭を下げた唯一の日本人
+    - panel: p2
+      text: 40年前の1986年に、30歳の Gates は、Sony 本社を訪れ、盛田から、Walkman の設計思想を、直接、聞きました。
+      caption: 40年前の1986年、Sony 本社で講義を受ける
+    - panel: p3
+      text: 盛田が、教えたのは、ハードとソフトを、別々に作るな、という考え方。良い製品は、両方が、同じ思想で動いてこそ生まれる、というものでした。
+      caption: ハードとソフトを別々に作るな
+    - panel: p4
+      text: Microsoft に戻ったゲイツは、その教えを、Windows と PC の関係に、応用します。「OS とハードは、一つの体験だ」と、社員に、繰り返し説きました。
+      caption: Windows と PC を一つの体験に
+    - panel: p5
+      text: 11年後の1997年、潰れかけた Apple に、彼は1億5000万ドルを、注ぎ込みます。ライバルを救ったのも、盛田から受け継いだ、統合哲学のためでした。
+      caption: 11年後、Apple を救った同じ哲学
+    - panel: p6
+      text: ゲイツは今も、来日するたびに、亡き盛田の遺影に、頭を下げます——アメリカ最強の頭脳に、ものづくりを、教えた男なんです。
+      caption: 今も遺影に頭を下げ続ける

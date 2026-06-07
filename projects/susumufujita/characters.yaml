@@ -1,0 +1,75 @@
+# 藤田晋 cast — two life-stage variants of Susumu Fujita, CyberAgent founder.
+#   - subject_young: 24-30 歳 (1998-2004年頃, CyberAgent 創業期、最年少上場)
+#   - subject_adult: 40-50 代 (2010年代後半-2020年代、ABEMA / Mリーグ期)
+characters:
+  - id: subject_young
+    name_ja: 藤田晋 (20-30代、1998-2004年頃)
+    description_en: |
+      a young Japanese man aged 24-30 in the late 1990s to early 2000s with the
+      characteristic young Susumu Fujita features: a slim oval face with a slightly
+      pointed chin, fair skin, short neatly parted black hair in a typical late-1990s
+      Japanese young businessman cut, thin straight eyebrows, sharp intelligent dark
+      almond eyes with a slightly hungry ambitious gaze, a thin straight nose, thin
+      lips often pressed into a serious composed line, clean-shaven, narrow shoulders,
+      slim build, the bearing of a 24-year-old Aoyama Gakuin graduate who quit
+      Intelligence after 2 years to start his own internet company and became the
+      youngest CEO on the Tokyo Mothers exchange.
+    outfit_en: |
+      late-1990s to early-2000s young Japanese IT founder business attire — a navy
+      or charcoal slim-cut single-breasted suit, a crisp white dress shirt, a simple
+      dark solid-color tie, plain black leather shoes. Occasionally for casual office
+      shots: a plain solid-color shirt with the top button open and the tie removed,
+      sleeves rolled up. Never flashy, the deliberately conservative look of a young
+      founder trying to be taken seriously by old-school Japanese business.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - composed determination pitching to investors
+      - quiet ambition staring at a stock ticker
+      - serious focus addressing employees
+      - controlled excitement on listing day
+      - tense calm during a press conference
+    poses:
+      - "Front view standing with arms at sides in a navy suit"
+      - "Three-quarter view seated at a desk with a laptop"
+      - "Side profile looking at a stock board"
+      - "Hands clasped at a press conference podium"
+
+  - id: subject_adult
+    name_ja: 藤田晋 (現在、40-50代)
+    description_en: |
+      a Japanese man around 45-50 years old with the characteristic current Susumu
+      Fujita features: a slim oval face that has matured but kept its sharp jawline,
+      fair lightly tanned skin, short neatly cut black hair lightly graying at the
+      temples and slightly swept back, thin well-shaped eyebrows, sharp intelligent
+      dark almond eyes that retain their ambitious focus but have grown calmer and
+      more strategic, a straight medium nose, thin lips that rest in a composed soft
+      line and occasionally curl into a quiet confident smile, clean-shaven or with
+      faint trace of stubble, lean build, the unhurried measured bearing of the CEO
+      of CyberAgent — both a calm Japanese executive and a still-restless gambler
+      who runs a major mahjong league on the side.
+    outfit_en: |
+      a modern Japanese tech-executive business casual uniform — a crisp white or
+      pale blue dress shirt, often without a tie, sometimes paired with a tailored
+      navy or charcoal jacket and dark trousers in the office. For ABEMA or Mリーグ
+      press events: a slightly more relaxed look, a solid-color knit polo or a
+      sweater under a navy blazer. Sometimes a casual jacket over a t-shirt at
+      Mリーグ events. Never loud, quietly tailored upper-end Japanese executive
+      aesthetic.
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - calm strategic thinking during a board meeting
+      - composed confidence on a TV stage
+      - quiet intensity watching a mahjong match
+      - measured pride announcing a new venture
+      - thoughtful concern reading a P&L report
+    poses:
+      - "Front view standing with hands clasped in front in a navy jacket"
+      - "Three-quarter view seated in an executive chair"
+      - "Side profile watching a large monitor"
+      - "Standing at a press conference podium"

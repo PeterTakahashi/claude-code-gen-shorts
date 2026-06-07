@@ -1,0 +1,98 @@
+id: jobs-sony-ibuka-respect
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      Extreme close-up dramatic shot of Steve Jobs as a 30-year-old, intense pale
+      blue eyes filling the frame, holding a small black SONY Walkman cassette
+      player close to his face, the reflection of the Walkman glinting in his
+      glasses, deeply focused obsessive expression, dim warm bedside lamp light
+      cutting across his face from one side, the visual of "his obsession was
+      Japanese". Mid-late 1980s San Francisco apartment setting at night.
+      No Japanese text in the image. Decorative English only.
+      Character: Steve Jobs (a thin pale young American man with short dark hair,
+      round wire-frame eyeglasses, intense pale eyes, gaunt cheeks).
+  - id: p2
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      Mid-1980s Tokyo Japan, an interior shot of the historic Sony headquarters
+      building, a 75-year-old Japanese man (Masaru Ibuka, Sony co-founder) with
+      silver-grey hair, round black eyeglasses, classic dark navy suit and tie,
+      standing in front of a large window with the Tokyo skyline behind him,
+      warm dignified expression of an industrial-era visionary. Mid-shot.
+      Decorative English only. No Japanese text in image. Clearly Japanese
+      corporate setting.
+  - id: p3
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      1985, the interior of the original Apple Cupertino headquarters in
+      California, the same young Steve Jobs in a black turtleneck and round
+      glasses, standing in front of a wall covered with photos of Sony products
+      (Walkman, Trinitron TV, transistor radios) and one large framed portrait
+      of Masaru Ibuka, gesturing at the wall while explaining something to two
+      young American Apple employees in casual shirts who look impressed.
+      Mid-shot. Clearly American Silicon Valley setting. No Japanese text.
+      Character: Steve Jobs (same as panel 1).
+  - id: p4
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      Late 1980s Tokyo Japan, an interior shot of a quiet wood-paneled Sony
+      executive meeting room, the same young Steve Jobs in his iconic black
+      turtleneck and round glasses sitting respectfully on one side of a long
+      polished wooden table, on the other side the same elderly Masaru Ibuka in
+      a dark navy suit smiling warmly, a Sony Walkman placed between them on
+      the table like a sacred object, soft sunlight through a paper-screen-like
+      window in the background. Mid-shot. Clearly Japanese executive setting.
+      No Japanese text in image.
+      Character: Steve Jobs (same as panel 1).
+  - id: p5
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      Late 1990s Cupertino California Apple office, the same Steve Jobs (now
+      slightly older with shorter hair, same black turtleneck) standing in
+      front of a futuristic transparent iMac G3 prototype on a brushed-metal
+      desk, his hand gently touching the curved colored shell, a small framed
+      portrait of Masaru Ibuka visible on a shelf behind him, the visual of
+      "the student becoming the master". Mid-shot. Clearly American Silicon
+      Valley setting. No Japanese text.
+      Character: Steve Jobs (same as panel 1, slightly older).
+  - id: p6
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      Same extreme close-up dramatic shot as panel 1, the same 30-year-old
+      Steve Jobs's intense pale eyes filling the frame, holding the same small
+      black SONY Walkman close to his face, this time a soft smile breaking the
+      obsession — the visual of "the inspiration that became the iPhone".
+      Mid-late 1980s San Francisco apartment night. No Japanese text.
+      Decorative English only. Slight visual variation of panel 1 for the
+      Shorts loop point.
+      Character: Steve Jobs (same as panel 1).
+ja:
+  title: 'ジョブズが密かに憧れていた、日本の老人 #Shorts'
+  description: |
+    Apple の創業者スティーブ・ジョブズは、生涯ある日本人を「世界で最も尊敬する経営者」と公言していた。Sony の創業者、井深大である。
+
+    #Shorts #スティーブジョブズ #Apple #Sony #井深大 #日本
+  hook_caption: ジョブズが憧れた日本の老人
+  series_brand: ジョブズと井深大
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: スティーブ・ジョブズが、若い頃から執着していた1つの製品があります。それは、ある日本人が作った、小さな黒い装置でした。
+      caption: ジョブズが執着した日本製品
+    - panel: p2
+      text: 主役は、井深大。Sony の創業者で、Walkman や Trinitron テレビを世に送り出した男です。
+      caption: 井深大、Sony 創業者
+    - panel: p3
+      text: ジョブズは Apple本社の壁に、Sony 製品の写真と、井深の肖像を、貼っていました。社員に、「我々が目指すのは、これだ」と語ったんです。
+      caption: Apple本社の壁に井深の肖像
+    - panel: p4
+      text: 1980年代、ジョブズはついに東京 Sony 本社で、井深と面会します。そこで彼は、「あなたは、私の人生で最も尊敬する経営者です」と、頭を下げたと言われています。
+      caption: 1980年代、東京で井深と対面
+    - panel: p5
+      text: 後に Apple が iMac、iPod、iPhone を出した時、ジョブズは、自分の理想は最初から、井深と Sony だったと、繰り返し語りました。
+      caption: iMac、iPod、iPhone の原点
+    - panel: p6
+      text: 世界一の起業家が、生涯憧れ続けた一人の日本人。井深大の哲学は、形を変えて、Apple の中で、今も生きています。
+      caption: 井深の哲学、Apple に生きる

@@ -1,0 +1,173 @@
+id: astro-mars-as-moon
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic low-angle night shot of a young Japanese woman''s
+
+    astonished upturned face, mouth slightly open, dark eyes wide and reflecting
+
+    a colossal rust-red Mars hanging in the night sky directly above her — Mars
+
+    visibly the size of a soccer ball at arm''s length, dwarfing where the Moon
+
+    would normally be, the polar ice caps and dark Valles Marineris canyon
+
+    clearly readable on its surface, her black hair lifted by wind, a quiet
+
+    Tokyo rooftop railing visible in soft focus at the bottom. The visual of
+
+    "the moment Earth realizes the sky has been replaced." Subject filling the
+
+    square center for vertical short layout with blurred padding above/below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern cosmic data visualization on dark navy starfield, on the left
+
+    a small pale white circle labeled "MOON 3,474 km" beside Earth, on the right
+
+    a much larger rust-red sphere labeled "MARS 6,779 km" at the same orbital
+
+    distance, decorative English caption "ALMOST 2X DIAMETER" centered, a tiny
+
+    chibi astronaut figure between them for scale, soft yellow arrow showing
+
+    "AS SEEN FROM EARTH". The visual of "Mars would look almost twice as wide
+
+    as the Moon."
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A dramatic cinematic coastline view of Tokyo Bay at dawn, the rust-red
+
+    sphere of Mars hanging huge and low on the horizon, massive tidal waves
+
+    eight to ten times the normal height crashing against a flooded sea wall,
+
+    stranded fishing boats lifted onto a Tokyo promenade, the visual of "the
+
+    tides Mars would drag across Earth." Wide cinematic shot. Decorative
+
+    Japanese signage 「東京湾」 readable but small on a partially submerged sign.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A surreal twilight Japanese countryside scene, rice paddies under a sky
+
+    tinted faintly pink-orange even at midnight from the reflected rusty light
+
+    of the huge Mars overhead, a confused tanuki sitting on a stone lantern
+
+    blinking up at the alien hue, the silhouette of a small countryside shrine,
+
+    the visual of "even our nights would no longer be black." Mid-shot. Quiet
+
+    Japanese rural setting.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Stylized evolutionary timeline diagram on cream background, three chibi
+
+    figures left to right — a hunched early hominid, a robed bronze-age human,
+
+    and a modern Japanese salaryman — all looking upward in awe, decorative
+
+    English caption "RED SKY MYTHS — 200,000 YEARS" arching above, a faint
+
+    rust-red Mars in the corner of each scene, small floating Japanese label
+
+    「赤い空の神話」readable. The visual of "human myths and gods would have
+
+    been born red, not silver."
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic low-angle shot as panel 1 — the same young
+
+    Japanese woman''s upturned face on the same quiet Tokyo rooftop, but now
+
+    her wide eyes brim with a quiet awe instead of shock, a small wondering
+
+    smile breaking through, the colossal rust-red Mars still looming directly
+
+    above with its polar caps and canyon visible, soft pre-dawn blue light
+
+    warming the edge of her cheek. The loop image of "what if the sky had
+
+    always looked like this?" Subject filling the square frame for vertical
+
+    short with blurred padding above/below.
+
+    '
+ja:
+  title: 'もし火星が月の代わりにあったら、地球はどうなる #Shorts'
+  description: 'もし、月の代わりに火星が、夜空にあったら——空の色も、潮の高さも、人類が生み出した神話まで、全部が、別物になっていました。
+
+    赤い空の下で進化した私たちが、見ていた世界を、30秒で想像します。
+
+
+    #Shorts #宇宙 #火星 #月 #もしも
+
+    '
+  hook_caption: 火星が月だったら地球は
+  series_brand: 火星と月の交換
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: もし、月の代わりに火星が、地球の夜空にあったら、何が起きていたか、考えたこと、ありますか?
+    caption: 火星が月の位置にあったら
+  - panel: p2
+    text: 火星の直径は、月の約2倍あるので、空に浮かぶ赤い円は、満月のおよそ4倍の面積で、見えていたはずです。
+    caption: 月の2倍、見た目は4倍
+  - panel: p3
+    text: 質量も月の約9倍あるから、潮の満ち引きは、今の8倍以上に膨れ上がり、東京湾の沿岸は、毎日、水没していました。
+    caption: 潮は8倍、東京湾は毎日水没
+  - panel: p4
+    text: さらに、火星が反射する赤い光が、地球の夜を染めるので、私たちの夜空は、黒ではなく、ずっと淡いピンク色だったとされています。
+    caption: 夜は黒ではなくピンクになる
+  - panel: p5
+    text: そして20万年前から人類が見上げてきたのが、赤い空だったら、月の女神ではなく、戦いと血の神が、神話の中心に、座っていたはずです。
+    caption: 神話は赤、戦いの神が中心に
+  - panel: p6
+    text: つまり、空に何があるかで、潮も、文化も、神様まで、変わるということ。私たちが今夜見上げている月は、地球が選んだ、静かな相棒なんです。
+    caption: 月は地球が選んだ静かな相棒
+en:
+  title: 'What If Mars Replaced Our Moon? #Shorts'
+  description: 'Imagine looking up at night and seeing Mars where the Moon should be. From catastrophic tides to a sky that''s never truly dark, here''s how our world would change forever.
+
+
+    #Shorts #Space #WhatIf #Mars #Astronomy'
+  hook_caption: If Mars Replaced Our Moon...
+  series_brand: Celestial Swap
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Have you ever wondered what would happen if we swapped our Moon... for Mars?
+    caption: A celestial swap
+  - panel: p2
+    text: The Red Planet is twice the Moon's diameter, so it would appear four times larger in our sky.
+    caption: Four times bigger
+  - panel: p3
+    text: With nine times the mass, its gravity would create catastrophic tides, swallowing coastlines daily.
+    caption: Apocalyptic tides
+  - panel: p4
+    text: The light reflected from Mars would stain our atmosphere, turning every night a permanent, dusty pink.
+    caption: A permanent pink sky
+  - panel: p5
+    text: For 200,000 years, humanity would have looked up not to a Moon goddess, but to a blood-red god of war.
+    caption: Our myths would change
+  - panel: p6
+    text: The Moon we have isn't just a rock; it's the quiet partner that shaped our tides, our culture, and our world.
+    caption: Our quiet partner

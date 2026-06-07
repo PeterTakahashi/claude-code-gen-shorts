@@ -1,0 +1,72 @@
+id: news-toyota-hilux-9years
+parent_chapter: null
+image_style: photorealistic
+panels:
+  - id: p1
+    prompt: |
+      Cinematic photograph of the all-new 2026 Toyota Hilux pickup truck on a
+      dramatic Tokyo showroom rotating stage, dynamic side lighting, the
+      visual of "Hilux gets a full redesign for the first time in 9 years".
+      Documentary-style auto photography, no people.
+  - id: p2
+    prompt: |
+      Photoreal newsroom — a Japanese female TV news anchor in her late 20s in
+      a navy blazer behind a modern Tokyo news desk, behind her a large
+      studio monitor showing the new Toyota Hilux exterior and a price
+      caption "498万円から". Composed broadcast lighting.
+      Character: {anchor}.
+  - id: p3
+    prompt: |
+      Realistic photo of a Toyota dealership showroom in Japan — Japanese
+      customers in their 30s and 40s inspecting the new Hilux interior, a
+      salesperson pointing at features, modern showroom lighting. Documentary
+      photography.
+  - id: p4
+    prompt: |
+      Photoreal infographic composite — a side profile photo of the new Hilux
+      with a price tag "¥4.98M〜" floating above, and a small timeline below
+      showing "前モデル 2017年 → 2026年 全面刷新". Modern car-news look. No
+      people.
+  - id: p5
+    prompt: |
+      Cinematic photo of the new Hilux on a rugged off-road test course at
+      sunset, kicking up a slight cloud of dust, dramatic golden hour
+      lighting, the visual of "tougher, smarter, hybrid-ready". Documentary
+      auto photography.
+  - id: p6
+    prompt: |
+      Photoreal newsroom — the same anchor at her desk, behind her a split-
+      screen monitor: left the new Hilux front grille close-up, right a
+      Japan pickup truck market share chart. A calm explanatory closing
+      shot.
+      Character: {anchor}.
+
+ja:
+  title: "トヨタが新型ハイラックス発売、9年ぶり全面刷新で498万円から #Shorts"
+  description: |
+    トヨタが日本で9年ぶりに新型ハイラックスを全面刷新して発売。
+    498万円からというプライシングの戦略的意味と、ピックアップトラック市場の動向を、30秒で解説。
+
+    #Shorts #ニュース #テック #トヨタ #ハイラックス #自動車
+  hook_caption: "ハイラックス、9年ぶり全面刷新"
+  series_brand: "ハイラックス9年ぶり刷新"
+  voice_speed: 1.35
+  narration:
+    - panel: p1
+      text: "トヨタが新型ハイラックスを、日本で発売しました。なんと9年ぶりの、全面刷新です。"
+      caption: "9年ぶり、新型ハイラックス"
+    - panel: p2
+      text: "価格は、498万円から。ピックアップトラックとしてはお手頃でも、街乗りSUVと比べれば「腹を括る金額」のレンジに踏み込んできました。"
+      caption: "498万円からの、価格設定"
+    - panel: p3
+      text: "狙いは、商用利用に加えて、増えているアウトドア層と、レジャー兼業のユーザー。週末はキャンプ、平日は仕事という二刀流に、ど真ん中で刺さるパッケージです。"
+      caption: "商用＋アウトドアを、二刀流で狙う"
+    - panel: p4
+      text: "海外では既に絶大な人気を持つハイラックスを、日本国内でちゃんと売り切るための一台。9年待ったブランドファンの期待値が、いきなり試されます。"
+      caption: "海外人気を、国内で売り切る勝負"
+    - panel: p5
+      text: "EVシフトの逆風が続く中で、トヨタはあえてエンジン車のフラッグシップを刷新。「全方位戦略」の意思表示としても、注目されています。"
+      caption: "EV逆風で、エンジン車を刷新"
+    - panel: p6
+      text: "EVではない選択肢を、ちゃんと用意する。新型ハイラックスは、トヨタの「全方位」を、もう一度世界に見せる1台です。"
+      caption: "全方位戦略の、もう一つの主役"

@@ -1,0 +1,185 @@
+id: cursor-21yo-1b-arr
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A large bold modern startup conference stage scene in San Francisco
+
+    2025, a giant decorative English-text headline floating in mid-air
+
+    reading "$1,000,000,000 ARR", a thin young American man in his
+
+    early 20s with messy dark hair and large round eyeglasses standing
+
+    small in the foreground, hands in grey hoodie pocket, looking up
+
+    at the giant number with quiet awe, deep blue tech-conference
+
+    lighting. Pure curiosity-gap composition. Decorative English text
+
+    only. No Japanese text. Wide shot.
+
+    Character: {cursor_michael}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    An ordinary MIT dormitory bedroom in Cambridge Massachusetts in
+
+    2022, two American 20-year-old men sit side by side at a small
+
+    cluttered desk in front of two laptops, one with the same messy
+
+    dark hair and round glasses, the other with shaggy blond hair and
+
+    a startup-style hoodie, the screen shows an anime-stylized
+
+    representation of a Visual-Studio-Code-like dark code editor
+
+    with AI completion ghost text, late-night atmosphere, lamp light
+
+    only. Mid-shot. Clearly American university dorm setting.
+
+    No Japanese text.
+
+    Character: {cursor_michael}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside a modern San Francisco startup office in 2024, an open
+
+    laptop showing the anime-styled dark Cursor-like AI code editor,
+
+    a young software engineer wearing AirPods typing fast, AI ghost
+
+    text visibly appearing ahead of the cursor as he types, a small
+
+    pop-up notification reading "Accepted" in decorative English.
+
+    The visual of "an AI editor that finishes your code before you
+
+    do". Mid close-up on the screen. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A bright San Francisco rooftop startup office in 2024, a young
+
+    Andreessen-Horowitz-style American venture-capital partner in
+
+    a casual blazer enthusiastically shaking hands with the same
+
+    young man in grey hoodie and round glasses, a giant decorative
+
+    English headline floating above reading "$9 BILLION VALUATION",
+
+    modern glass walls, the bay bridge in the distant background.
+
+    Mid-shot. Clearly American Silicon Valley setting.
+
+    Character: {cursor_michael}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean modern infographic-style growth chart on a dark navy
+
+    background, a bright green exponential growth curve labeled
+
+    decoratively in English "ARR $0 → $1B in 24 months", small
+
+    year-marker tick marks "2023" "2024" "2025", clean tech-startup
+
+    aesthetic. Pure infographic. Decorative English text only. No
+
+    people. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same San Francisco startup conference stage as panel 1, same
+
+    thin young American man with messy dark hair and round glasses
+
+    now standing at the edge of the stage facing the audience with
+
+    microphone in hand, the giant "$1,000,000,000 ARR" decorative
+
+    English headline still floating behind him, audience silhouettes
+
+    cheering in the foreground, the loop image of "the 21-year-old
+
+    who built the fastest-growing developer tool in history".
+
+    Wide mid-shot. No Japanese text.
+
+    Character: {cursor_michael}.
+
+    '
+ja:
+  title: '21歳が作ったAIエディタが2年で1000億円を売り上げた話 #Shorts'
+  description: '2022年、MITの寮で2人の学生が、AIコードエディタ Cursor を作り始めた。
+
+    そして3年後の2025年、Cursorの年間売上は10億ドル——日本円で1500億円を、突破した。
+
+
+    #Shorts #Cursor #スタートアップ #AI #シリコンバレー
+
+    '
+  hook_caption: 21歳のAIエディタが2年で1000億円
+  series_brand: スタートアップNEWS
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: たった3年で、年間売上が10億ドルを突破した、ソフトウェアの話を、知っていますか? 主役は、21歳のMIT中退生たちでした。
+    caption: 3年でARR 10億ドル達成
+  - panel: p2
+    text: 2022年、Michael Truellたちは、MITの寮で、AIコードエディタを作り始めました。名前は、Cursorです。
+    caption: 2022年、MITの寮で開発開始
+  - panel: p3
+    text: Cursorの強みは、コードを打つ前に、AIが続きを書いてくれる、ことでした。あまりに快適すぎて、エンジニアが、戻れなくなったんです。
+    caption: AIが先回りでコードを書く
+  - panel: p4
+    text: 2024年、Andreessen Horowitzなど、トップVCが殺到し、評価額は、わずか1年で90億ドルに、達しました。
+    caption: 2024年、評価額90億ドルへ
+  - panel: p5
+    text: そして2025年、Cursorの年間売上は、ついに10億ドルを、突破します。これは、ソフトウェア史上、最速のARR成長記録です。
+    caption: 2025年、史上最速のARR 10億ドル
+  - panel: p6
+    text: 21歳のMIT中退生が、わずか3年で、AI時代のIDEを、ゼロから1兆円企業に、育てる。これが、2025年のシリコンバレーの、リアルです。
+    caption: 21歳が3年で1兆円企業を作った
+en:
+  title: 'How an AI Code Editor Hit $1 Billion in 3 Years #Shorts'
+  description: 'In 2022, two MIT students started building the AI code editor, Cursor. By 2025, it became the fastest software company in history to hit $1 billion in annual revenue.
+
+
+    #Shorts #Cursor #Startup #AI #SiliconValley'
+  hook_caption: 2 MIT Dropouts → $1B in 3 Years
+  series_brand: Startup NEWS
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: Imagine hitting one billion dollars in annual revenue... in just three years. That's the true story of two 21-year-old MIT dropouts.
+    caption: $0 to $1B in 3 Years
+  - panel: p2
+    text: It all started in 2022, inside an MIT dorm room, where Michael Truell and his co-founder began building an AI-native code editor called Cursor.
+    caption: An MIT dorm room idea
+  - panel: p3
+    text: 'Its magic was simple: AI would predict and write your code for you. Engineers who tried it said they could never go back.'
+    caption: Code that writes itself
+  - panel: p4
+    text: By 2024, top VCs like Andreessen Horowitz were rushing to invest, pushing their valuation to a staggering nine billion dollars.
+    caption: $9 Billion Valuation
+  - panel: p5
+    text: 'And in 2025, they hit the milestone: one billion dollars in annual recurring revenue, the fastest ARR growth in software history.'
+    caption: Fastest in History
+  - panel: p6
+    text: From a dorm room to a multi-billion dollar company in three years... This is the new reality of Silicon Valley.
+    caption: The New Silicon Valley

@@ -1,0 +1,136 @@
+id: horie-livedoor-arrest
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    January 16, 2006, evening — Tokyo Roppongi Hills Livedoor headquarters lobby being entered
+
+    by a column of grim-faced Tokyo District Prosecutors Office Special Investigation Department
+
+    officials in dark suits, each carrying cardboard evidence boxes, Japanese press photographers
+
+    with flashes outside, news camera crews crowded around the entrance. The moment Japan
+
+    watched live on TV.
+
+    Character: {prosecutor}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    32-year-old Horie at the very top of his Livedoor power in late 2005, standing in front of
+
+    a giant Livedoor logo wall at Roppongi Hills, casual t-shirt, slight cocky smirk, dozens
+
+    of young Japanese employees walking past, the picture of a still-untouchable IT mogul.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Tokyo prosecutors in dark suits carrying out cardboard boxes of seized documents from the
+
+    Livedoor headquarters at Roppongi Hills, January 2006, Japanese press photographers in the
+
+    foreground with their cameras raised, news vans with antennas visible. Cold evening light.
+
+    Character: {prosecutor}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    32-year-old Horie surrounded by a chaotic crowd of Japanese reporters and camera flashes
+
+    as he is escorted toward a black sedan by prosecutors in late January 2006, his face
+
+    pale but composed, no smirk now, plain dark jacket over t-shirt. The end of the Livedoor era.
+
+    Character: {subject_young}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A Japanese district courtroom interior, 33-year-old Horie standing in the defendant''s box
+
+    in a plain dark suit and white shirt without tie, a Japanese judge in black robes at the
+
+    bench reading the verdict, court drawing-style composition. His expression unreadable.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The same January 2006 evening Roppongi Hills entrance being entered by prosecutors with
+
+    evidence boxes, this time framed slightly tighter, the Livedoor wall sign visible above.
+
+    The shock-moment image returns. Conveys "this is the night Japan''s IT bubble ended".
+
+    Character: {prosecutor}.
+
+    '
+ja:
+  title: 'ライブドア事件、その日東京地検が動いた #Shorts'
+  description: '2006年1月、Livedoor 本社に東京地検特捜部の強制捜査が入り、堀江貴文は逮捕された。証券取引法違反で、後に実刑2年6ヶ月。日本の IT バブルが終わった日。
+
+
+    #Shorts #堀江貴文 #ホリエモン #人物伝
+
+    '
+  hook_caption: あの日、地検が動いた
+  series_brand: 堀江貴文伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 2006年、1月、東京地検特捜部が、Livedoor 本社に、踏み込みました。
+    caption: 2006年1月、地検特捜部が Livedoor 強制捜査
+  - panel: p2
+    text: 堀江貴文、32歳。前年まで、日本の IT 界の、頂点にいた男です。
+    caption: 32歳、前年まで IT 界の頂点
+  - panel: p3
+    text: 容疑は、証券取引法違反。決算の、粉飾と、風説の流布が、問われました。
+    caption: 証取法違反、粉飾と風説の流布
+  - panel: p4
+    text: 翌日には、本人も、逮捕されました。
+    caption: 翌日、本人も逮捕
+  - panel: p5
+    text: 判決は、2年6ヶ月の、実刑。上場企業の社長の、異例の、刑務所行きが、確定したんです。
+    caption: 実刑2年6ヶ月、社長の刑務所行き確定
+  - panel: p6
+    text: あの日を境に、日本の、ITバブルは、終わりました。でも、堀江の物語は、まだ、ここからでした。
+    caption: IT バブルは終わった、しかし物語は続く
+en:
+  title: 'The Scandal That Ended Japan''s Tech Bubble #Shorts'
+  description: 'In 2006, prosecutors raided Livedoor, one of Japan''s hottest tech companies. Its charismatic CEO, Takafumi Horie, was arrested for securities fraud, marking the dramatic end of an era.
+
+    #Shorts #Horie #Livedoor #TrueStory #Japan'
+  hook_caption: He was Japan's tech wunderkind. Then the police raided his office.
+  series_brand: The Takafumi Horie Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: At just 32, Takafumi Horie was the defiant face of Japan's new tech boom.
+    caption: Japan's Tech King
+  - panel: p1
+    text: But on a cold January night in 2006, prosecutors swarmed the headquarters of his company, Livedoor.
+    caption: The Raid
+  - panel: p4
+    text: The next day, Horie himself was arrested in a chaotic media frenzy.
+    caption: Arrested
+  - panel: p3
+    text: 'The charge: a massive securities fraud scandal that rocked the nation.'
+    caption: Securities Fraud
+  - panel: p5
+    text: He was sentenced to 2.5 years in prison, an unprecedented end for the CEO of a major public company.
+    caption: 2.5 Years in Prison
+  - panel: p6
+    text: That raid burst Japan's IT bubble. But for Horie, the story was just getting started.
+    caption: The story wasn't over.

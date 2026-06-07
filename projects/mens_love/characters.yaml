@@ -1,0 +1,28 @@
+characters:
+  - id: male_lead
+    name_ja: ケンタ (男性主人公)
+    description_en: >-
+      a contemporary 27-year-old Japanese office-worker man with
+      neatly cut short black hair, clean-shaven, calm steady eyes,
+      slightly defined eyebrows, average athletic build, the
+      relatable likeable face of a thoughtful young salaryman who
+      is genuinely working on himself rather than chasing tricks
+    outfit_en: >-
+      a well-fitted charcoal-grey crewneck sweater over a white
+      dress shirt collar, slim dark navy slacks, brown leather
+      casual shoes, simple silver wristwatch
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: female_lead
+    name_ja: アヤカ (女性主人公)
+    description_en: >-
+      a contemporary 26-year-old Japanese woman with shoulder-length
+      straight dark brown hair, pale clear skin, warm intelligent
+      brown eyes, soft natural makeup, gently observant friendly
+      expression, slim graceful frame, the face of a perceptive
+      young professional woman
+    outfit_en: >-
+      a soft beige blouse over a pleated navy skirt, simple small
+      pearl earrings, minimal jewelry
+    voice_style_id: 1310138977
+    voice_speed: 1.4

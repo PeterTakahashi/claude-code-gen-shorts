@@ -1,0 +1,191 @@
+id: corpfall-sharp-foxconn-2016
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic close-up of a 60-something Japanese male electronics-industry
+
+    executive''s face filling the square center, neatly combed short jet-black hair
+
+    greying at the temples, square black-rimmed glasses, a long lined stoic face
+
+    bowed at a perfect 90-degree apology angle, eyes shut tight behind glasses, hands
+
+    pressed flat to the sides of the seam of a charcoal suit, dozens of camera flashes
+
+    burning out of the soft-focus background, a faint Sharp-style corporate backdrop
+
+    in muted blue behind him, decorative English caption silhouette "SHARP — 1912—2016".
+
+    The visual of "the last independent CEO bowing as 104 years end". Subject filling
+
+    square center for vertical short layout with blurred padding above and below.
+
+    Character: {takahashi_kozo}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Year 1912 early Taisho-era Osaka Japan, a small modest wooden workshop along a
+
+    narrow lane, a young Japanese craftsman in a simple cotton work jacket and apron
+
+    bent over a workbench carefully assembling the original mechanical Ever-Ready
+
+    Sharp Pencil, a hand-painted Japanese signboard above the entrance reading
+
+    decorative kanji 「早川金属工業」readable but small, a soft warm late-afternoon
+
+    light spilling through paper shoji windows, the visual of a tiny Osaka workshop
+
+    that would grow into a 104-year electronics giant. Clearly Taisho-era Osaka
+
+    Japan setting. Mid-shot.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A dim 2014 executive boardroom inside Sharp''s Osaka headquarters, a long
+
+    polished mahogany table covered in stacks of red-ink loss ledgers, four
+
+    grim-faced Japanese executives in dark suits with their heads in their hands,
+
+    a single huge wall-mounted decorative English chart behind them showing a
+
+    red downward graph labeled "-545 BILLION YEN — 2 YEAR LOSS", the visual of
+
+    "Japan''s TV giant bleeding to death". Decorative Japanese signage on a small
+
+    desk plaque 「シャープ株式会社」readable. Clearly Osaka Japan corporate setting.
+
+    Mid-shot.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    March 30, 2016, a packed press conference room in central Osaka Japan, the
+
+    same 60-something Japanese male Sharp executive in charcoal suit and black-
+
+    rimmed glasses standing beside a 60-something heavyset Taiwanese industrialist
+
+    with broad square jaw, salt-and-pepper combed-back hair and a confident slight
+
+    smile, the two men shaking hands stiffly under a backdrop showing both
+
+    decorative English logos "SHARP" and "FOXCONN", dozens of Japanese reporters
+
+    in dark suits leaning forward with cameras, the visual of "the day a Taiwanese
+
+    firm bought a Japanese national symbol". Clearly Osaka Japan press conference
+
+    setting. Mid-shot. Character: {takahashi_kozo}, {terry_gou}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on cold cream-blue background, decorative
+
+    English headline centered "3.5 BILLION USD — 66% STAKE", below it a stylized
+
+    Taiwan-shaped silhouette outlined in red gently overlapping a Japan-shaped
+
+    silhouette outlined in grey, a tiny chibi Japanese salaryman silhouette
+
+    bowing on the Japan side, decorative English subheadline "1ST TIME — JAPANESE
+
+    ELECTRONICS GIANT UNDER FOREIGN OWNER", clean educational style. Pure
+
+    infographic composition. No people clearly visible. No Japanese text.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic close-up framing as panel 1 of the same 60-something
+
+    Japanese Sharp executive''s face filling the square center, neatly combed
+
+    jet-black hair greying at the temples, square black-rimmed glasses, the
+
+    bow now slightly straightened, eyes opened with quiet weary acceptance,
+
+    a single small tear track down one cheek, the Sharp corporate backdrop
+
+    in muted blue behind him slightly faded, decorative English caption
+
+    silhouette "104 YEARS — END OF AN ERA". The loop image of "the moment
+
+    a Japanese pride formally ended". Subject filling square center for
+
+    vertical short layout with blurred padding above and below.
+
+    Character: {takahashi_kozo}.
+
+    '
+ja:
+  title: 'シャープが台湾Foxconnに買われた日 #Shorts'
+  description: '10年前の2016年、創業104年の大阪の電機メーカー、シャープが、台湾のFoxconnに3500億円で買収された。
+
+    日本の電機大手が、初めて外資の傘下に入った歴史的事件を、30秒で振り返ります。
+
+
+    #Shorts #倒産 #シャープ #Foxconn #日本企業
+
+    '
+  hook_caption: シャープ104年が外資に
+  series_brand: Sharp買収
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 10年前の2016年、創業104年のシャープが、台湾のFoxconnに買収された、衝撃的な日を覚えていますか?日本の電機大手が、初めて外資の傘下に入った瞬間でした。
+    caption: 2016年、シャープが台湾に買われた
+  - panel: p2
+    text: シャープの始まりは、1912年の大阪。創業者の早川徳次が、シャープペンシルを発明し、後にテレビや太陽電池で、日本を代表するメーカーへと成長したんです。
+    caption: 1912年、大阪のシャープペンから始まる
+  - panel: p3
+    text: ところが2010年代、液晶への巨額投資が裏目に出て、2013年から2年で5450億円の赤字。100年企業の屋台骨が、一気に揺らぎました。
+    caption: 液晶投資失敗で2年で5450億赤字
+  - panel: p4
+    text: 救済に手を挙げたのが、台湾のFoxconnでした。創業者テリー・ゴウは、当時のシャープ社長 高橋興三と握手し、3500億円で経営権を取得します。
+    caption: テリー・ゴウが3500億円で買収
+  - panel: p5
+    text: 出資比率はおよそ66%。日本の電機大手が、外資の支配下に入るのは、これが初めて。日本のものづくりの誇りが、揺らいだ瞬間でした。
+    caption: 66%出資、日本電機大手初の外資傘下
+  - panel: p6
+    text: それから10年。シャープブランドは残ったものの、経営の主導権は今も台湾側。104年続いた、日本の電機の象徴は、別の国の旗の下で、生きています。
+    caption: 104年の象徴、今も台湾旗の下
+en:
+  title: 'How Japan Lost Control of Sharp #Shorts'
+  description: 'In 2016, the iconic 104-year-old Japanese company Sharp was acquired by Taiwan''s Foxconn in a landmark deal. This is the 30-second story of how a national champion fell into foreign hands.
+
+
+    #Shorts #History #Business #Sharp #Foxconn'
+  hook_caption: A 104-Year-Old Giant... SOLD.
+  series_brand: The Sharp Takeover
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: 'In 2016, a shockwave hit Japan’s tech industry: the 104-year-old giant, Sharp, had just been sold to Taiwan''s Foxconn.'
+    caption: A Japanese Giant Falls
+  - panel: p2
+    text: The company started in 1912 with the invention of the 'Ever-Sharp Mechanical Pencil,' growing into a global powerhouse of electronics.
+    caption: From Pencils to Powerhouse
+  - panel: p3
+    text: But a disastrously expensive bet on LCD screens brought the company to its knees, losing over 5 billion dollars in just two years.
+    caption: A $5 Billion Mistake
+  - panel: p4
+    text: Stepping in with a lifeline was Taiwanese manufacturing giant, Foxconn, led by its legendary founder, Terry Gou.
+    caption: The Rescue... or Takeover?
+  - panel: p5
+    text: The price was 3.5 billion dollars for a 66% controlling stake—a first for a major Japanese electronics brand.
+    caption: $3.5 Billion for 66%
+  - panel: p6
+    text: Today, the Sharp brand lives on, but its destiny is controlled from Taiwan, a symbol of Japanese innovation now under a different flag.
+    caption: Under a New Flag

@@ -1,0 +1,21 @@
+# Reading-correction lexicon for 人間失格.
+# Each entry: { surface: <kanji or mixed>, reading: <hiragana>, kind: <name|place|noun|verb> }
+# narrate.py applies this list before sending text to Aivis (layer 1).
+# voice_verify.py suggests new entries when Whisper transcription differs.
+
+words:
+  # ===== 人名 (proper names) =====
+  - { surface: 葉蔵,   reading: ようぞう, kind: name }
+  - { surface: 大庭,   reading: おおば,   kind: name }
+  - { surface: 堀木,   reading: ほりき,   kind: name }
+  - { surface: 竹一,   reading: たけいち, kind: name }
+  - { surface: 常子,   reading: つねこ,   kind: name }
+
+  # ===== 時代固有語 (early Showa vocabulary) =====
+  - { surface: 円タク, reading: えんたく, kind: noun }
+  - { surface: 銘仙,   reading: めいせん, kind: noun }
+  - { surface: 道化,   reading: どうけ,   kind: noun }
+  - { surface: 縁側,   reading: えんがわ, kind: noun }
+  - { surface: 羽織袴, reading: はおりはかま, kind: noun }
+  - { surface: 書生,   reading: しょせい, kind: noun }
+  - { surface: 蝙蝠,   reading: こうもり, kind: noun }

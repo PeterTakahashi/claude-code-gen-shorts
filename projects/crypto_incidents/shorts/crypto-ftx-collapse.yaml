@@ -1,0 +1,201 @@
+id: crypto-ftx-collapse
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 11, 2022, the Bahamas FTX exchange headquarters in Nassau
+
+    at dawn, a 30-year-old American man with a wild mop of frizzy
+
+    brown curly hair, sleepy half-lidded eyes hollow with exhaustion,
+
+    wrinkled white t-shirt and faded khaki cargo shorts, sitting
+
+    hunched in a black office chair before a wall of cold blue
+
+    trading screens, the screens dominated by a single decorative
+
+    English overlay "CHAPTER 11" and a freefall red price chart,
+
+    cold blue-grey early-morning light through the windows behind
+
+    him, the empty quiet moment a 32 billion dollar empire becomes
+
+    zero. Mid-shot from behind. Clearly Bahamas corporate office
+
+    setting. No Japanese text.
+
+    Character: {sbf}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early November 2022, a close-up of a journalist''s laptop screen
+
+    in a dim New York newsroom, the screen showing a stylized leaked
+
+    financial balance sheet with a giant pie chart, most of the
+
+    slices labelled in decorative English only "FTT TOKEN" rather
+
+    than cash, a blurry hand holding a coffee mug in the foreground,
+
+    the visual of the leak that started the collapse. Clearly United
+
+    States newsroom setting. Side framing, screen as hero element.
+
+    No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 6, 2022, a smartphone held in a hand close-up, the
+
+    screen showing a generic social-media-style post from a rival
+
+    crypto exchange CEO silhouette announcing in decorative English
+
+    "WE WILL SELL ALL OUR FTT", behind the phone blurry trading
+
+    screens in a dim office show the FTT token price beginning a
+
+    sharp red drop, the visual of the tweet that triggered a global
+
+    bank run. Clearly international crypto trading-floor setting.
+
+    Close-up composition. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A split-screen composition of many anonymous laptop and phone
+
+    screens around the world, each with a decorative English button
+
+    "WITHDRAW" being pressed repeatedly, cascading red withdrawal
+
+    notifications, a central counter-style visual implying six
+
+    billion US dollars flowing out of the exchange in 72 hours, cool
+
+    blue and red palette, the faceless global digital bank run.
+
+    Clearly global crypto-exchange setting. No Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 9, 2022, a Bahamas penthouse living room, the same
+
+    30-year-old American man with frizzy brown curly hair slumped
+
+    sideways on a beige sofa, smartphone pressed to his ear, sleepy
+
+    heavy-lidded eyes wide with calm shock, wrinkled white t-shirt
+
+    and khaki shorts, on the coffee table beside him a laptop shows
+
+    a decorative English overlay "DEAL CANCELLED" over a rival
+
+    exchange logo silhouette, the moment the rescue acquisition fell
+
+    through. Clearly Bahamas penthouse setting. Mid-shot. No
+
+    Japanese text.
+
+    Character: {sbf}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 11, 2022 mid-morning, the same Bahamas FTX office as
+
+    panel 1 now lit by cold blue daylight through the windows, the
+
+    same 30-year-old American man with frizzy brown curly hair
+
+    motionless before the screens, his face hollow and exhausted in
+
+    wrinkled white t-shirt and khaki shorts, the screens now showing
+
+    only a single decorative English notice "BANKRUPTCY FILED", an
+
+    empty coffee cup on the desk, the quiet after total collapse.
+
+    Loop-back framing matching panel 1. Clearly Bahamas corporate
+
+    office setting. No Japanese text.
+
+    Character: {sbf}.
+
+    '
+ja:
+  title: 'FTXが10日で崩壊した本当の理由 #Shorts'
+  description: '※この動画は歴史・事件解説です。投資助言ではありません。仮想通貨投資は元本割れリスクがあります。
+
+
+    2022年11月、4年前の世界最大級の暗号通貨取引所FTXは、ひとつのリークと、ライバルの一言から、わずか10日で崩壊した。
+
+    顧客資金80億ドルが、行方不明のまま、創業者は法廷へ送られた事件を、時系列で解説します。
+
+
+    #Shorts #FTX #SBF #仮想通貨事件 #事件解説
+
+    '
+  hook_caption: 10日で消えた320億ドル
+  series_brand: バルトゥーン仮想通貨事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 4年前の2022年11月、時価総額320億ドルの暗号通貨取引所が、たった10日で消えた事件を知っていますか?
+    caption: 10日で320億ドルが消えた
+  - panel: p2
+    text: 発端は11月2日、姉妹会社Alameda Researchの内部資料リークでした。資産の大半が、自社発行のFTTトークンだったので、信用は一気に崩れます。
+    caption: 11月2日、Alameda資産が暴露
+  - panel: p3
+    text: 4日後、ライバルのBinance CEOが、保有FTTの全売却をTwitterで宣言。価格は一日で暴落しました。
+    caption: Binance CEOがFTT売却を宣言
+  - panel: p4
+    text: 信用を失った顧客は、一斉に出金を要求。72時間で60億ドルが引き出され、取引所は事実上の取り付け騒ぎに陥ります。
+    caption: 3日で60億ドルの取り付け騒ぎ
+  - panel: p5
+    text: 11月9日、最後の望みだったBinanceの救済買収も、デューデリジェンスの結果、土壇場で白紙撤回されました。
+    caption: 救済買収が白紙撤回
+  - panel: p6
+    text: そして11月11日、FTXは破産申請。顧客資金80億ドルが行方不明のまま、創業者は後に詐欺罪で25年の実刑判決を受けました。
+    caption: 11月11日、破産申請
+en:
+  title: 'How the $32 Billion FTX Empire Collapsed in 10 Days #Shorts'
+  description: 'In November 2022, one of the world''s largest crypto exchanges imploded, wiping out billions. This is the timeline of how a leaked document and a rival''s tweet led to an $8 billion hole
+    and a 25-year prison sentence for its founder.
+
+
+    #Shorts #FTX #SBF #Crypto #Finance'
+  hook_caption: How $32 Billion Vanished In 10 Days
+  series_brand: Crypto Case Files
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In November 2022, a crypto exchange worth $32 billion completely imploded in just 10 days.
+    caption: $32 Billion Vanished
+  - panel: p2
+    text: It all started on November 2nd, when a leaked document showed its sister company's finances were propped up by its own token.
+    caption: The First Domino
+  - panel: p3
+    text: Four days later, the CEO of rival exchange Binance tweeted he was selling all his holdings of that token, sparking a panic.
+    caption: A Rival's Tweet
+  - panel: p4
+    text: Terrified customers rushed to get their money out, withdrawing $6 billion in just 72 hours in a massive digital bank run.
+    caption: $6 Billion Bank Run
+  - panel: p5
+    text: A last-ditch rescue deal from that same rival was their only hope, but after a quick look at the books, the offer was withdrawn.
+    caption: The Deal is Off
+  - panel: p6
+    text: On November 11th, FTX declared bankruptcy. $8 billion in customer funds were gone, and its founder was later sentenced to 25 years for fraud.
+    caption: Game Over

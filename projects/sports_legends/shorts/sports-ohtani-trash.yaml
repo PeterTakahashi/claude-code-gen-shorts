@@ -1,0 +1,88 @@
+id: sports-ohtani-trash
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+      A modern MLB baseball stadium during a game, a tall athletic Japanese baseball
+      player (Shohei Ohtani) in a clean white-and-red home uniform bending down on the
+      field to pick up a tiny piece of litter with his fingers, a packed blurred crowd
+      glowing in the background, a small decorative English caption "PICKING UP...
+      LUCK?", the visual of "the best player in the world picking up trash". Subject
+      filling the square center for vertical short layout with blurred padding
+      above/below. Decorative English text only. No Japanese text.
+      Character: Shohei Ohtani (a tall broad-shouldered young Japanese man, short
+      black hair, clean-shaven boyish handsome face, calm focused expression).
+  - id: p2
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Close-up of the same Japanese baseball player (Shohei Ohtani) calmly slipping a
+      small piece of trash into his uniform pocket while walking, a quiet matter-of-fact
+      expression, soft stadium light, the visual of "he does it without anyone asking".
+      Mid close-up. Decorative English text only. No Japanese text.
+      Character: Shohei Ohtani (same as panel 1).
+  - id: p3
+    prompt: |
+      Square 1:1 anime/webtoon style infographic-style panel.
+      A nostalgic flashback infographic on a warm paper background, a hand-drawn 9x9
+      grid goal-setting chart (a mandala chart) pinned like a high-school worksheet,
+      most cells filled with small handwriting, one single cell glowing bright yellow
+      and circled with a decorative English label "PICK UP TRASH = LUCK", a small
+      caption "WRITTEN AT AGE 15", the visual of "he planned this as a teenager".
+      Infographic composition. Decorative English text only. No Japanese text.
+  - id: p4
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      The same Japanese baseball player (Shohei Ohtani) walking across the field
+      holding a tiny piece of trash in his open palm, a soft golden glowing aura
+      around his hand like luck made visible, a thin decorative English caption
+      "LUCK OTHERS DROPPED", the visual of "picking up the luck others left behind".
+      Mid-shot, cinematic warm light. Decorative English text only. No Japanese text.
+      Character: Shohei Ohtani (same as panel 1).
+  - id: p5
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      A dynamic split montage of the same Japanese baseball player (Shohei Ohtani)
+      powerfully swinging a bat and pitching, stadium lights blazing, small floating
+      decorative English captions "MVP" and "STILL PICKS UP TRASH", the visual of
+      "the habit followed him all the way to the top". Energetic mid-shot.
+      Decorative English text only. No Japanese text.
+      Character: Shohei Ohtani (same as panel 1).
+  - id: p6
+    prompt: |
+      Square 1:1 anime/webtoon style illustration filling the frame.
+      Same stadium scene as panel 1, the same Japanese baseball player (Shohei Ohtani)
+      standing tall holding a small piece of trash with a faint confident smile, the
+      crowd glowing behind him, a thin decorative English caption "YOU CAN PICK UP
+      LUCK", the loop image of "strength is also a choice". Subject filling the square
+      center for vertical short layout with blurred padding above/below.
+      Decorative English text only. No Japanese text.
+      Character: Shohei Ohtani (same as panel 1).
+ja:
+  title: '大谷翔平が試合中にゴミを拾う、本当の理由 #Shorts'
+  description: |
+    世界最高の選手、大谷翔平が試合中にさりげなくゴミを拾う。その行動の原点は、15歳で書いた目標達成シートにあった。
+
+    #Shorts #大谷翔平 #野球 #MLB #メンタル
+  hook_caption: 大谷がゴミを拾う本当の理由
+  series_brand: 大谷とゴミ拾い
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 大谷翔平が試合中にゴミを拾うのは、「運」を拾うためだ——彼は本気で、そう考えています。
+      caption: 大谷がゴミを拾うのは「運」のため
+    - panel: p2
+      text: グラウンドに落ちたゴミを、さりげなく拾ってポケットへ。世界最高の選手が、なぜこんな事を続けるのか。
+      caption: 世界最高の選手が続ける習慣
+    - panel: p3
+      text: 原点は高校時代。15歳の彼が書いた目標達成シートには、81マスの一つに、はっきり「ゴミ拾い」と書かれていました。
+      caption: 15歳の目標シートに「ゴミ拾い」
+    - panel: p4
+      text: 大谷にとってゴミ拾いは、人が落とした運を、拾う行為。徳を積むことが、巡って結果に返ると信じているんです。
+      caption: 「人が落とした運を拾う」
+    - panel: p5
+      text: その習慣は、MLB の舞台でも変わりません。打席に向かう途中でゴミを拾う姿が、何度も世界に報じられました。
+      caption: MLB でも変わらない習慣
+    - panel: p6
+      text: 才能だけではない。運すら自分で拾いにいく——それが、大谷翔平という選手の、強さの正体です。
+      caption: 運も自分で拾いにいく強さ

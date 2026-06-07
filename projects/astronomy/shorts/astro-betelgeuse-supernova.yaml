@@ -1,0 +1,58 @@
+id: astro-betelgeuse-supernova
+image_style: photorealistic
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A photorealistic night sky showing the constellation Orion, with the bright reddish star at
+      the shoulder glowing prominently, deep starfield, astrophotography, awe-inspiring.
+  - id: p2
+    prompt: |
+      A photorealistic close-up of a colossal red supergiant star, its turbulent glowing surface
+      swollen and unstable, dwarfing a tiny dot representing our sun for scale, cosmic detail.
+  - id: p3
+    prompt: |
+      A photorealistic depiction of the red supergiant star's surface churning and dimming
+      ominously, dark dust clouds around it, conveying a dying star nearing its end, dramatic
+      cosmic light.
+  - id: p4
+    prompt: |
+      A spectacular photorealistic supernova explosion in deep space, a brilliant blinding burst
+      of light and expanding shockwave of stellar material, epic and cinematic.
+  - id: p5
+    prompt: |
+      A photorealistic night-time Earth scene where a brilliant new star blazes in the sky, bright
+      enough to cast shadows and be visible even in daytime, people-free landscape silhouette,
+      awe-inspiring.
+  - id: p6
+    prompt: |
+      A photorealistic serene aftermath of a glowing colorful supernova remnant nebula expanding
+      in deep space where the star once was, beautiful and haunting, cinematic astrophotography.
+ja:
+  title: 'いつ爆発してもおかしくない星、ベテルギウス #Shorts'
+  description: |
+    冬の星座オリオンで赤く輝くベテルギウス。寿命の末期にある巨大な星で、いつ超新星爆発を起こしてもおかしくない。爆発すれば昼間でも見えるほど明るく輝く。地球から見える天体ショーの正体を30秒で解説します。
+
+    #Shorts #宇宙 #ベテルギウス #超新星 #宇宙の雑学
+  hook_caption: いつ爆発してもおかしくない星
+  series_brand: 宇宙の今
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 冬の夜空に輝く、オリオン座。その肩で赤く光る星が、ベテルギウスです。実はこの星、いつ爆発してもおかしくありません。
+      caption: オリオン座で赤く光るベテルギウス
+    - panel: p2
+      text: ベテルギウスは、太陽の何百倍も大きい、赤色超巨星。あまりに巨大に膨らみすぎて、星としての寿命が、もう末期なんです。
+      caption: 太陽の数百倍、寿命末期の赤色超巨星
+    - panel: p3
+      text: 近年、この星は不規則に暗くなり、天文学者を騒がせました。最期が近いサインではないか、と注目されたんです。
+      caption: 不規則に暗くなり最期が近いと騒がれた
+    - panel: p4
+      text: 寿命を終えた巨大な星は、超新星爆発という、宇宙最大級の大爆発を起こします。ベテルギウスも、いずれそうなります。
+      caption: 巨大な星の最期は超新星爆発になる
+    - panel: p5
+      text: もし爆発すれば、地球からは昼間でも見えるほど明るく輝くと言われます。数週間、空に二つ目の太陽が現れるんです。
+      caption: 爆発すれば昼でも見えるほど明るく輝く
+    - panel: p6
+      text: それは明日かもしれないし、10万年後かもしれない。あなたが今夜見上げる赤い星は、もう爆発した後の光かもしれないのです。
+      caption: 今見る光は、もう爆発した後かもしれない

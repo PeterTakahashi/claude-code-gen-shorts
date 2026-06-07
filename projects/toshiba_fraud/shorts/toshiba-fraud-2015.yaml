@@ -1,0 +1,202 @@
+id: toshiba-fraud-2015
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up of 65-year-old Toshiba president Hisao Tanaka''s exhausted
+
+    face caught mid-bow at the July 2015 Tokyo press conference, his head
+
+    dropped at a deep 90-degree apologetic angle, dark eyes hollow behind small
+
+    thin-rimmed metal glasses, pale forehead beaded with sweat, dozens of
+
+    blinding flashbulb whites exploding around him from soft-focus press
+
+    cameras, a forest of microphones from NHK and TBS partially visible at
+
+    bottom of frame, a small decorative Japanese banner readable behind him
+
+    「お詫び会見」. Tokyo Japan 2015 corporate setting. The visual of
+
+    "the moment a 140-year-old empire publicly broke." Subject filling square
+
+    center for vertical short layout with blurred padding above/below.
+
+    Character: {ceo_tanaka}.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame.
+
+    Mid-shot of a sleek modern 2008 Tokyo Toshiba headquarters boardroom,
+
+    a long polished mahogany conference table covered with neatly stacked
+
+    thick paper reports labeled with decorative English "Q3 RESULTS" and a
+
+    smaller decorative Japanese label「四半期決算」, several stern Japanese
+
+    executives in dark grey suits seated around the table all turning to
+
+    look at a giant glowing red downward arrow on a wall projector showing
+
+    tumbling profit numbers, the visual of "the order from the top: hit
+
+    the number, no excuses." Tokyo Japan 2008 corporate setting.
+
+    Character: {ceo_tanaka}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A dimly lit late-night Tokyo Toshiba accounting office in 2012, a
+
+    40-something tired Japanese salaryman in a slightly rumpled dark grey
+
+    suit and thin black-rimmed glasses hunched over a glowing desktop
+
+    monitor showing a giant Excel spreadsheet of profit numbers, his
+
+    shaking hand typing in inflated figures while a half-empty coffee
+
+    cup and untouched convenience-store bento sit beside him, the wall
+
+    clock reading 2:47 AM, the visual of "the salaryman pressured into
+
+    cooking the books." A decorative Japanese desk plate「経理部」readable.
+
+    Tokyo Japan 2012 corporate setting.
+
+    Character: {salaryman_employee}.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on deep navy background, a giant
+
+    decorative English headline centered "¥152,000,000,000" with a
+
+    smaller decorative English subtitle "INFLATED PROFITS 2008-2014",
+
+    a small decorative Japanese label below「水増し利益・7年間」, a
+
+    thin stylized red bar chart climbing dishonestly upward across the
+
+    panel, the visual of "1,500 billion yen of fake profit, across seven
+
+    fiscal years." Decorative English and small decorative Japanese only.
+
+    No people.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A stern 2015 Tokyo press conference room, a 70-something Japanese
+
+    veteran prosecutor with neatly combed silver-white hair in a dark
+
+    navy double-breasted suit standing tall at a wooden lectern, holding
+
+    up a thick bound investigation report with both hands toward the
+
+    camera, a giant decorative Japanese banner readable behind him
+
+    「第三者委員会報告書」, a row of seated journalists in soft focus
+
+    taking notes, the visual of "the prosecutor''s report that ended an
+
+    empire." Tokyo Japan 2015 legal setting.
+
+    Character: {auditor_ueda}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame.
+
+    Same extreme close-up of 65-year-old Hisao Tanaka''s face as panel 1
+
+    but a slightly later moment — head still bowed at 90 degrees, dark eyes
+
+    now closed behind small thin-rimmed metal glasses, a single quiet tear
+
+    tracing down his pale cheek, the flashbulb whites slightly dimmer, the
+
+    forest of microphones still visible at bottom, the decorative Japanese
+
+    banner「お詫び会見」still readable behind him. Tokyo Japan 2015
+
+    corporate setting. The loop image of "the day Toshiba''s reputation
+
+    hit zero." Subject filling square center for vertical short layout
+
+    with blurred padding above/below.
+
+    Character: {ceo_tanaka}.
+
+    '
+ja:
+  title: '東芝粉飾1518億円、3年で社運がゼロになった日 #Shorts'
+  description: '2015年、創業140年の名門・東芝が、過去7年で1,518億円の利益を
+
+    水増ししていたことが発覚。たった3年で、社運は事実上ゼロまで落ちた。
+
+    戦後最大級と呼ばれた企業不祥事を、30秒で振り返ります。
+
+
+    #Shorts #東芝 #粉飾決算 #企業不祥事 #日本経済
+
+    '
+  hook_caption: 名門140年が3年で消えた日
+  series_brand: 東芝粉飾事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 創業140年の名門・東芝が、たった3年で、社運をほぼゼロまで失った——その始まりは、2015年7月の、社長の謝罪会見でした。
+    caption: 140年の名門が崩れた日
+  - panel: p2
+    text: 11年前の2008年、リーマン・ショックで業績が悪化したため、当時の経営陣は、現場に対し「Challenge」と呼ばれる、達成不可能な利益目標を、強要し続けました。
+    caption: 2008年、達成不能なChallengeが始まった
+  - panel: p3
+    text: 数字を作れと迫られた現場社員たちは、工事進行基準や、在庫評価を、こっそり操作し、利益を、紙の上だけで膨らませていったんです。
+    caption: 現場社員が紙の上だけで利益を膨らます
+  - panel: p4
+    text: 7年前の2008年から2014年までの累計で、水増しされた利益は、約1,518億円。日本の上場企業として、戦後最大級の規模に、達しました。
+    caption: 7年で1,518億円の水増し
+  - panel: p5
+    text: 2015年7月、上田廣一・元東京高検検事長が率いた第三者委員会が、この不正を、正式に認定。社長・田中久雄氏ら、歴代3代の社長が、即日辞任しました。
+    caption: 2015年7月、第三者委員会が認定
+  - panel: p6
+    text: その後の3年で、東芝は半導体子会社の Toshiba Memory を、約2兆円で売却。看板事業を、自ら手放した瞬間、戦後最大の名門は、事実上ゼロまで、解体されました。
+    caption: 3年で看板事業を売り、社運がゼロに
+en:
+  title: 'How Toshiba Faked $1.2 Billion in Profits #Shorts'
+  description: 'In 2015, electronics giant Toshiba was caught in a massive accounting scandal. They had faked $1.2 billion in profits over seven years, leading to the sale of their most valuable division.
+
+    #Shorts #Toshiba #Business #Scandal #Finance'
+  hook_caption: How a $1.2B lie killed a 140-year-old giant.
+  series_brand: The Toshiba Scandal
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: In July 2015, the President of 140-year-old Toshiba took a deep bow. This was the beginning of the end.
+    caption: A giant collapses
+  - panel: p2
+    text: It all started after the 2008 financial crisis. Top execs forced impossible profit targets, which they called 'Challenges,' on their divisions.
+    caption: Impossible 'Challenges'
+  - panel: p3
+    text: Pressured to 'make the numbers,' accountants began cooking the books, inventing profits that only existed on paper.
+    caption: Cooking the books
+  - panel: p4
+    text: Over seven years, they inflated profits by 152 billion yen—that's over 1.2 billion US dollars.
+    caption: $1.2 Billion Lie
+  - panel: p5
+    text: An independent committee finally exposed the fraud. The CEO and two of his predecessors resigned immediately.
+    caption: The scheme exposed
+  - panel: p6
+    text: To survive, Toshiba was forced to sell its crown jewel—its memory chip business. The 140-year-old giant was brought to its knees.
+    caption: Sold its crown jewel

@@ -1,0 +1,219 @@
+id: artisan-kongo-gumi-1400
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Present-day Osaka Japan at dawn, the towering five-story wooden
+
+    pagoda and main hall of Shitennoji Temple bathed in soft pink
+
+    morning light, ancient cypress timber roofs with curved eaves,
+
+    a single 60-something Japanese master temple carpenter
+
+    (miyadaiku) with weathered tanned face, iron-grey hair tied
+
+    with a white hachimaki headband, indigo samue work jacket,
+
+    kneeling respectfully on the temple stone steps, gently placing
+
+    his calloused hand on a thick cypress pillar, the visual of a
+
+    1448-year unbroken chain meeting the present. Clearly Osaka
+
+    Japan ancient temple setting. Mid-shot. No Japanese text.
+
+    Character: {miyadaiku}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 578 CE in ancient Asuka-period Japan, a sunny clearing in
+
+    a cedar forest, three Korean Baekje-period master carpenters in
+
+    flowing white-and-grey ancient robes and topknot hairstyles
+
+    gathered around the construction of a wooden temple frame, one
+
+    of them adjusting a complex wooden joinery beam without nails,
+
+    Prince Shotoku in flowing aristocratic Asuka-era court robes
+
+    and a tall lacquered black cap watching respectfully nearby, a
+
+    partially built Buddhist temple structure rising in the
+
+    background, the visual of three foreign craftsmen invited to
+
+    found a company that would last 1400 years. Clearly ancient
+
+    Asuka Japan setting. Mid-shot. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean infographic-style timeline panel on warm parchment-cream
+
+    background, a horizontal decorative English timeline reading
+
+    "578 CE" on the left and "TODAY" on the right, small stylized
+
+    icons spaced along the line: a Buddhist temple, a samurai
+
+    helmet, a black-ship steamship, a vintage car, a smartphone, a
+
+    single thin red thread connecting all of them labeled
+
+    decoratively in English "KONGO GUMI", the visual of a single
+
+    family company surviving 40+ generations. Decorative English
+
+    only. No people. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside a modern Kongo Gumi temple-carpentry workshop in present-
+
+    day Osaka Japan, the same 60-something Japanese master miyadaiku
+
+    with weathered face and iron-grey hair tied with white
+
+    hachimaki, indigo samue jacket, demonstrating a complex
+
+    interlocking wooden joinery puzzle to two younger Japanese
+
+    apprentice carpenters in their 20s in matching indigo work
+
+    jackets, freshly planed cypress shavings scattered on the
+
+    wooden workshop floor, warm afternoon light through tall paper
+
+    shoji windows, the visual of techniques passed down without
+
+    blueprints. Clearly traditional Japanese workshop setting.
+
+    Mid-shot. No Japanese text.
+
+    Character: {miyadaiku}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Present-day Osaka Japan, the modern glass-and-steel office of
+
+    Takamatsu Construction Group, where in 2006 Kongo Gumi was
+
+    absorbed as a subsidiary, the small Kongo Gumi sub-logo
+
+    silhouette visible on a wall plaque in decorative English
+
+    "KONGO GUMI EST. 578 CE", a Japanese executive in a dark suit
+
+    shaking hands respectfully with the same elder miyadaiku in
+
+    indigo samue, the visual of a 1400-year-old family company
+
+    finally accepting a corporate parent in order to survive
+
+    modern construction debt. Clearly modern Osaka Japan office
+
+    setting. Mid-shot. No Japanese text.
+
+    Character: {miyadaiku}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same Osaka Shitennoji Temple as panel 1 now at golden sunset,
+
+    the same 60-something Japanese master miyadaiku with weathered
+
+    face, iron-grey hair tied with white hachimaki, indigo samue
+
+    jacket, standing this time on scaffolding mid-restoration on
+
+    the temple''s cypress roof, hammer and traditional Japanese
+
+    chisel in hand, framed against the warm setting sun, the
+
+    visual of an unbroken 1448-year craft still alive in the
+
+    present. Loop-back framing matching panel 1''s temple. Clearly
+
+    Osaka Japan ancient temple setting. Mid-shot. No Japanese
+
+    text.
+
+    Character: {miyadaiku}.
+
+    '
+ja:
+  title: '1400年続いた世界最古企業、金剛組の宮大工 #Shorts'
+  description: '日本の大阪に、聖徳太子の時代から続く、世界最古の現存企業がある。
+
+    578年創業、金剛組。40世代以上にわたり、寺社建築の宮大工技術だけで、1400年以上を生き延びた、ある同族企業の物語を紹介します。
+
+
+    #Shorts #職人 #老舗 #金剛組 #日本文化
+
+    '
+  hook_caption: 1400年続いた世界最古企業
+  series_brand: バルトゥーン職人老舗
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 大阪に、世界で最も古い、現存企業があるのを知っていますか?創業は、なんと1448年前の578年。聖徳太子の時代です。
+    caption: 創業1448年前、578年
+  - panel: p2
+    text: 始まりは、聖徳太子が四天王寺を建立するため、百済から3人の宮大工を招いたこと。その一人、金剛重光が初代となり、金剛組が誕生しました。
+    caption: 始まりは百済から招かれた3人の宮大工
+  - panel: p3
+    text: 以来、応仁の乱、戦国、明治維新、第二次世界大戦と、日本史のすべての激動を、40世代以上にわたって、生き延びてきました。
+    caption: 40世代以上、日本史を生き延びた
+  - panel: p4
+    text: 強みは、釘を一本も使わずに巨大な木組みを組み上げる、宮大工の技。設計図ではなく、棟梁から弟子へ、口伝と手の感覚で、受け継がれてきました。
+    caption: 釘を使わない木組みを口伝で継承
+  - panel: p5
+    text: ただし2006年、現代の建設不況で経営は限界に達し、20年前、ついに高松建設の傘下に入りました。それでも社名と、技術は、残されたんです。
+    caption: 20年前、高松建設の傘下に入る
+  - panel: p6
+    text: そして今も、金剛組の宮大工は、四天王寺の屋根の上で、千年前と同じ道具を握っています。1400年続く技は、今日も生きています。
+    caption: 1400年続く技、今も健在
+en:
+  title: 'This Company Has Been in Business for 1,400 Years #Shorts'
+  description: 'In Osaka, Japan, lies Kongo Gumi, the world''s oldest continuously operating company, founded in 578 AD.
+
+    For over 40 generations, this family of master carpenters has built and maintained Japan''s most sacred temples. This is their story.
+
+
+    #Shorts #History #Craftsmanship #Japan #KongoGumi'
+  hook_caption: This Company Was Founded in 578 AD
+  series_brand: Artisan Legacy
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In Osaka, Japan, you'll find the world's oldest continuously operating company, founded way back in the year 578.
+    caption: Founded in 578 AD
+  - panel: p2
+    text: Its story began when Prince Shotoku invited master builders from Korea to construct the magnificent Shitennoji Temple, establishing the company Kongo Gumi.
+    caption: A Royal Commission
+  - panel: p3
+    text: For over 1,400 years and 40 generations, the family business has survived wars, crises, and the fall of empires.
+    caption: 40 Generations of Survival
+  - panel: p4
+    text: Their secret is the art of miyadaiku—crafting massive temples using complex wooden joints, with no nails at all.
+    caption: No Nails, Only Skill
+  - panel: p5
+    text: But by 2006, the ancient firm faced bankruptcy. It was absorbed by a larger corporation, seemingly ending its family-run history.
+    caption: The End of an Era?
+  - panel: p6
+    text: Yet the craft endured. Today, Kongo Gumi’s masters still maintain Japan’s temples, their 14-century-old skills alive and well.
+    caption: The Craft Survives

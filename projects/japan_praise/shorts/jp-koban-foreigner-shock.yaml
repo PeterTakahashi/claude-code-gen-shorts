@@ -1,0 +1,189 @@
+id: jp-koban-foreigner-shock
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic shot of a 30-something American male tourist''s
+
+    astonished face under Shibuya neon glow at night, short messy dark blond
+
+    hair, fair skin, hazel eyes wide and slightly wet with disbelief, mouth
+
+    open in shock, a small backpack strap visible on his shoulder, a soft
+
+    out-of-focus glowing red-and-white「交番」lantern of a Shibuya neighborhood
+
+    police box visible massively behind him, decorative Japanese signage
+
+    「渋谷交番」barely readable in the bokeh, rain-slick pavement reflecting
+
+    neon. The visual of "this is not how police work back home." Subject
+
+    filling square center for vertical short layout, blurred padding above
+
+    and below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A nighttime Manhattan street 2026, mid-shot of the same 30-something
+
+    American male tourist some weeks earlier walking past two NYPD officers
+
+    in heavy dark blue tactical uniforms with body armor and holstered
+
+    sidearms standing beside a parked patrol car under harsh white streetlight,
+
+    yellow taxis blurring past, decorative English signage "BROADWAY"
+
+    readable on a green street sign, his expression cautious and tense, the
+
+    visual of "what police meant to him before Japan." Clearly NYC setting,
+
+    no Japanese elements anywhere.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of a small bright Shibuya koban at night, mid-shot of a kind
+
+    40-something Japanese male police officer in a crisp light-blue
+
+    short-sleeve uniform shirt and dark navy trousers, no body armor, a
+
+    small radio on his belt, sitting at a wooden counter unfolding a paper
+
+    map of Tokyo for the same American tourist who is leaning over the
+
+    counter pointing at an address, a small「交番」desk-lamp visible, a
+
+    framed Tokyo Metropolitan Police shoulder patch on the wall, decorative
+
+    Japanese notice「落とし物受付」readable on a small sign. Soft warm
+
+    interior light, the sense of a neighborhood help-desk rather than a
+
+    fortress.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on soft cream background, decorative
+
+    bold English headline "6,200 KOBAN" centered, smaller decorative
+
+    Japanese label beneath「全国 / 24時間 / 道案内 約半数」readable, a
+
+    tiny chibi figure of a smiling koban officer with a paper map between
+
+    them, a small Tokyo Tower silhouette in the corner. The visual of
+
+    "6,200 neighborhood police boxes, half the calls are just for
+
+    directions."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Outside the same Shibuya koban late at night, mid-shot of the same
+
+    40-something Japanese officer politely walking the American tourist
+
+    partway down the sidewalk and pointing toward a side street, the
+
+    tourist holding a marked-up paper map in both hands, the officer''s
+
+    hand raised in a small careful gesture, decorative Japanese street
+
+    signage「明治通り」readable on a blue sign, neon reflections on wet
+
+    pavement, the visual of "the officer who walked a stranger to his
+
+    hotel at midnight."
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic shot as panel 1 but slightly later — the
+
+    same 30-something American tourist''s face under the same Shibuya neon
+
+    and glowing「交番」lantern, shock now softened into quiet teary
+
+    gratitude, a small respectful smile breaking through, hazel eyes warm
+
+    and bright, the rain-slick pavement reflecting neon slightly warmer,
+
+    the same koban lantern haloed in soft light behind him. The loop image
+
+    of "the night a foreigner understood Japan''s police." Subject filling
+
+    square frame for vertical short with blurred padding above and below.
+
+    '
+ja:
+  title: '日本の交番に泣いた外国人、アメリカ人が震えた理由 #Shorts'
+  description: '渋谷の交番に駆け込んだ30代のアメリカ人観光客が、警察官に道案内をされた帰り道、ふと涙が止まらなくなったことが、あるんです。
+
+    彼にとって警察は、武装した「壁」だったのに、日本では「相談相手」でした。
+
+
+    #Shorts #交番 #日本の警察 #日本礼賛 #海外の反応
+
+    '
+  hook_caption: 日本の交番に泣いた外国人
+  series_brand: 交番の優しさ
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 渋谷の交番の前で、30代のアメリカ人観光客が、立ち尽くして動けなくなったことが、あるんです。彼が驚いたのは、犯罪でも事件でもなく、交番の「中」にあった、空気そのものでした。
+    caption: 渋谷の交番で立ち尽くした夜
+  - panel: p2
+    text: 彼の出身であるニューヨークでは、警察官は防弾チョッキと拳銃を身につけているので、市民は声をかけることすら、ためらいます。だから彼は、交番の扉を押すまでに、5分も、迷っていたんです。
+    caption: NYでは話しかけられない警官
+  - panel: p3
+    text: 中で迎えてくれたのは、半袖の青い制服に、丸腰に近い40代の巡査でした。彼は紙の地図を広げ、行き先を指でなぞりながら、ホテルまでのルートを、丁寧に書き込んでくれます。
+    caption: 半袖、紙の地図、丁寧な道案内
+  - panel: p4
+    text: 日本全国には、交番が、およそ6,200か所あります。24時間運用されていて、相談の半分近くは、犯罪ではなく、道案内や落とし物です。世界に類を見ない、「地域の相談窓口」型の警察です。
+    caption: 全国6,200、相談の半分は道案内
+  - panel: p5
+    text: 巡査は地図を渡しただけでは終わらず、わざわざ交番の外まで出て、明治通りの角まで、一緒に歩いてくれました。深夜の渋谷で、彼は見知らぬ外国人観光客を、まるで近所の客のように、扱ったんです。
+    caption: 深夜、角まで一緒に歩いた巡査
+  - panel: p6
+    text: アメリカ人観光客が、ホテルへの帰り道で涙を流したのは、丁寧な道案内のためではなく、警察が「市民の壁」ではなく「市民の隣人」である国が、本当に存在していた、その事実に、触れた瞬間でした。
+    caption: 警察が隣人である国、その事実
+en:
+  title: 'Why Japanese Cops Made This American Tourist Cry #Shorts'
+  description: 'An American tourist in Shibuya was shocked by the difference between police in Japan and back home. This is the story of why a simple act of kindness from a Tokyo cop moved him to tears.
+
+
+    #Shorts #Japan #Tokyo #Police #Koban'
+  hook_caption: Why He Cried in Tokyo
+  series_brand: 'Koban: The Friendly Force'
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In front of a police box in Shibuya, an American tourist just... froze. He was completely stunned by the scene inside.
+    caption: Stunned in Shibuya
+  - panel: p2
+    text: Back home in New York, he saw police as an intimidating wall of bulletproof vests and firearms. You just don't approach them.
+    caption: Police back home
+  - panel: p3
+    text: But here, a friendly officer in a simple short-sleeved shirt greeted him, patiently tracing the route to his hotel on a paper map.
+    caption: A paper map and a smile
+  - panel: p5
+    text: And he didn't just point the way—the officer actually walked with him to the corner to make sure he wouldn't get lost.
+    caption: Going the extra mile
+  - panel: p6
+    text: On his way back, the tourist started to cry. It was the shock of discovering a place where police aren't a wall to fear, but a neighbor you can ask for help.
+    caption: Tears of disbelief
+  - panel: p4
+    text: Japan has over 6,200 of these 'koban,' where nearly half the work isn't fighting crime, but simply helping people with directions or lost items.
+    caption: A different kind of police

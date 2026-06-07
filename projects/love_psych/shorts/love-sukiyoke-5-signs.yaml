@@ -1,0 +1,184 @@
+id: love-sukiyoke-5-signs
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern bright contemporary Tokyo office break room, a young
+
+    25-year-old Japanese woman with shoulder-length dark brown hair
+
+    and cream-colored knit sweater holding a coffee cup, looking
+
+    slightly confused and a little sad, while in the corner of the
+
+    frame a young 26-year-old Japanese office-worker man in a navy
+
+    crewneck sweater with neatly cut wavy black hair is visibly
+
+    glancing at her then quickly looking away with a flushed face,
+
+    the visual of "the classic sukiyoke move". Mid-shot. Clearly
+
+    Japanese modern office setting. No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean modern infographic panel on soft pastel background, a
+
+    stylized list of decorative English numerals "1. EYE CONTACT
+
+    AVOIDANCE" centered prominently, a tiny chibi-style anime version
+
+    of a Japanese male office worker looking away with comically
+
+    flushed cheeks, framed minimally, the visual of "Sign 1:
+
+    avoiding your eyes". Infographic composition. Decorative English
+
+    text only. No Japanese text.
+
+    Character: {male_lead}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic panel style, decorative English "2. COLD
+
+    TONE" centered, a chibi-style anime version of a Japanese male
+
+    office worker speaking with a comically stiff posture and a
+
+    small sweat drop, the woman beside him with a confused
+
+    eyebrow-raised expression, framing communicates "he sounds
+
+    colder than he actually feels". Decorative English text only.
+
+    No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic panel style, decorative English "3. ALWAYS
+
+    WITH OTHERS" centered, the chibi-style male office worker
+
+    hiding behind two larger male coworkers in suits, the female
+
+    colleague approaching from the other side, the visual of "he is
+
+    never alone when you are around". Decorative English text only.
+
+    No Japanese text.
+
+    Character: {male_lead}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic panel style, decorative English "4. KNOWS
+
+    EVERYTHING ABOUT YOU" centered, the chibi-style male office
+
+    worker holding a notebook full of small tiny doodles of the
+
+    female colleague''s coffee order, lunch preference, weekend
+
+    hobbies, a slightly embarrassed expression. Decorative English
+
+    text only. No Japanese text.
+
+    Character: {male_lead}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same modern bright Tokyo office break room as panel 1, the same
+
+    26-year-old Japanese male office worker in navy crewneck and
+
+    the 25-year-old Japanese woman in cream knit sweater, this time
+
+    facing each other, the woman with a knowing gentle smile, the
+
+    man flushing red and finally meeting her eyes for the first time,
+
+    a small floating decorative English caption "5. HE LOOKS WHEN
+
+    YOU DON''T", soft afternoon sunlight through the window. Mid-shot.
+
+    No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+ja:
+  title: '好き避け男子の5つのサイン #Shorts'
+  description: '好きな相手にこそ、つい冷たくしてしまう「好き避け」男子。
+
+    心理学が指摘する、ありがちな5つのサインを、anime寸劇で解説します。
+
+
+    #Shorts #恋愛心理 #好き避け #モテ #心理学
+
+    '
+  hook_caption: 好き避け男子の5つのサイン
+  series_brand: 恋愛科学Anime
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「冷たいのに、なぜか視線を感じる」——それ、実は、好き避け男子の、サインかもしれません。
+    caption: 好き避け男子のサイン、見抜けますか?
+  - panel: p2
+    text: サインの1つ目は、目が、合うと逸らす。心の中では好き、なのに、緊張で、顔を見られないんです。
+    caption: ①目が合うと逸らす
+  - panel: p3
+    text: 2つ目は、声のトーンが、他の人より、なぜか冷たい。気持ちを、隠そうとして、必要以上に、距離を取ろうとします。
+    caption: ②声のトーンが冷たい
+  - panel: p4
+    text: 3つ目は、いつも、誰かと一緒。2人きりに、なるのが、怖いから、無意識に、グループの中に、紛れます。
+    caption: ③いつも誰かと一緒
+  - panel: p5
+    text: 4つ目は、なぜか、あなたの好きな飲み物や、休日の予定を、覚えている。観察しているのは、好きの裏返しです。
+    caption: ④細かいことを覚えている
+  - panel: p6
+    text: そして5つ目は、あなたが見ていない時に限って、こっちを、見ている。冷たく見える行動の裏には、たいてい、不器用な好きが、隠れています。
+    caption: ⑤見ていない時にこっちを見る
+en:
+  title: '5 Signs He Acts Cold Because He Likes You #Shorts'
+  description: 'Some guys act distant around the person they like. It''s confusing, but psychology says it''s a real thing! Here are 5 signs he''s secretly crushing on you.
+
+    #Shorts #Psychology #DatingAdvice #Crush #RelationshipTips'
+  hook_caption: Why He Acts Cold When He Secretly Likes You
+  series_brand: Love Science Anime
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: Ever get the feeling a guy is watching you, even though he acts totally cold? That might be a sign he's secretly into you.
+    caption: Is he secretly into you?
+  - panel: p2
+    text: First, he'll look away the second you make eye contact. He wants to look, but he's just too nervous.
+    caption: 1. Avoids Eye Contact
+  - panel: p3
+    text: Second, his tone of voice might seem colder with you than with anyone else. He's overcompensating to hide his real feelings.
+    caption: 2. A Colder Tone
+  - panel: p4
+    text: Third, he's afraid of being one-on-one, so you'll notice he always tries to stick with a group when you're around.
+    caption: 3. Always in a Group
+  - panel: p5
+    text: Fourth, he remembers the little things, like your favorite coffee or what you did last weekend. He's paying close attention.
+    caption: 4. Remembers the Details
+  - panel: p6
+    text: And finally, you'll catch him looking, but only when he thinks you can't see him. Behind that cold act, he's probably just clumsy with his crush.
+    caption: 5. Watches from afar

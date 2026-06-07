@@ -1,0 +1,67 @@
+id: startup-slack-from-glitch
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A 2012 Vancouver startup office, an exhausted small team of game developers staring
+      at a failing browser game on multiple monitors, the game called "Glitch" in
+      decorative English on the screen, a decorative Japanese caption "ゲームは大失敗だった",
+      the visual of "the day their browser game finally died". Dim, late-night tone.
+  - id: p2
+    prompt: |
+      An infographic showing the company spending years building Glitch — a clean timeline
+      "2009 → 2012" with falling user counts, a decorative English caption "GLITCH —
+      SHUT DOWN", the visual of "four years of work officially ended". Clean infographic
+      with a downward curve.
+  - id: p3
+    prompt: |
+      A modern Vancouver office scene, the team realizing the chat tool they had built
+      internally to coordinate the failed game was actually fantastic, glowing chat
+      windows on screens, a decorative English caption "OUR INTERNAL CHAT TOOL", the
+      visual of "the side-tool they used to talk to each other was the real product".
+      Bright, optimistic tone.
+  - id: p4
+    prompt: |
+      An infographic of the pivot — an arrow labeled in decorative English "PIVOT" turning
+      from a small game icon to a stylized Slack-like chat app icon, a decorative Japanese
+      caption "社内ツールが本命だった", the visual of "the internal tool became the new company".
+      Clean infographic.
+  - id: p5
+    prompt: |
+      A scene of explosive growth — a glowing chart climbing fast, decorative English
+      milestones "2013 LAUNCH", "2019 IPO", "2021 ACQUIRED BY SALESFORCE $27.7B",
+      Vancouver and San Francisco offices in the background, the visual of "from dead
+      game to $27 billion acquisition". Bright modern infographic.
+  - id: p6
+    prompt: |
+      A reflective scene of a single laptop in a quiet modern office showing a chat
+      interface, a decorative Japanese caption "失敗の中に本命がいた", the loop image of "the
+      real product was hiding inside the failure". Calm, hopeful tone.
+ja:
+  title: 'Slack、潰れたゲーム会社が社内ツールで4兆円になった話 #Shorts'
+  description: |
+    2012年、Stewart Butterfieldのゲーム会社「Glitch」は4年の開発の末に閉鎖された。しかし社内で使っていたチャットツールが本命だった——そこから生まれたSlackは、2021年にSalesforceに277億ドルで買収されます。失敗から生まれた巨大スタートアップの話を30秒で解説します。
+
+    #Shorts #Slack #スタートアップ #ピボット #シリコンバレー
+  hook_caption: 潰れたゲーム会社が4兆円企業に化けた話
+  series_brand: スタートアップNEWS
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 2012年、カナダのバンクーバーにある小さなゲーム会社が、4年間かけて作ったブラウザゲーム「Glitch」を、ついに閉鎖しました。完全な、失敗でした。
+      caption: 2012年、4年かけたゲームが閉鎖
+    - panel: p2
+      text: 創業者ステュワート・バターフィールドは、開発資金を、ほとんど使い切っていました。普通なら、会社をたたむしか、ない場面でした。
+      caption: 創業者は資金を使い切っていた
+    - panel: p3
+      text: しかし彼は、あることに気付きます。社内でゲーム開発の連絡用に使っていた、自作のチャットツールが、異常に、使いやすかったんです。
+      caption: 社内チャットツールが異常に便利
+    - panel: p4
+      text: 彼は、残った資金で、そのチャットツールを、外向きの製品として作り直すことを、決めました。会社まるごと、ピボットしたんです。
+      caption: 残った資金でチャットへピボット
+    - panel: p5
+      text: その製品は、Slack と名付けられ、2013年に公開されると、企業の社内コミュニケーションを、根本から、変えていきました。
+      caption: 2013年Slackとして公開
+    - panel: p6
+      text: そして2021年、Slack は Salesforce に、277億ドルで、買収されます。日本円で、およそ4兆円。潰れたゲーム会社の、片隅にあった、社内ツールから始まった話です。
+      caption: 2021年Salesforceに約4兆円で買収

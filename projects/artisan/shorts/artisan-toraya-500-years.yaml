@@ -1,0 +1,208 @@
+id: artisan-toraya-500-years
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic close-up of a pair of weathered elderly Japanese male hands
+
+    filling the square frame, calloused fingers gently shaping a glistening pale
+
+    pink translucent nerikiri wagashi sweet on a small dark lacquered tray, every
+
+    sugar crystal and finger ridge sharply visible, a single thin bamboo wagashi
+
+    shaping tool resting beside it, soft warm tatami-room light catching the
+
+    surface of the sweet, a faint shadow of a small Toraya tiger family crest
+
+    visible on the lacquered tray edge, the visual of "500 years of hands shaping
+
+    one tiny sweet". Subject filling square center for vertical short layout with
+
+    blurred padding above and below. Decorative kanji 「虎屋」on the tray edge OK.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Year 1526 Muromachi-era Kyoto Japan, a narrow lantern-lit cobblestone alley
+
+    in central Kyoto at dusk, a young Japanese craftsman in flowing dark indigo
+
+    robes and a topknot hairstyle bowing respectfully outside the entrance of a
+
+    modest wooden wagashi shop, a court messenger in elegant Heian-style robes
+
+    and a tall lacquered black cap handing him a delicate folded letter sealed
+
+    with an Imperial chrysanthemum crest, decorative Japanese signboard above
+
+    the entrance reading kanji 「虎屋」readable but small, the visual of "the
+
+    day a small Kyoto sweet shop became official supplier to the Imperial
+
+    court". Clearly Muromachi-era Kyoto Japan setting. Mid-shot.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern infographic on warm parchment-cream background, a horizontal
+
+    decorative English timeline reading "1526" on the left and "TODAY" on the
+
+    right, small stylized icons spaced along the line: a samurai helmet, a
+
+    black-ship steamship, a Meiji-era top hat, a vintage car, a smartphone, a
+
+    single golden thread connecting all of them labeled decoratively in English
+
+    "TORAYA", small subtle decorative English subheadline "17 GENERATIONS —
+
+    ONE FAMILY", the visual of "a single sweet family company surviving 500
+
+    years of Japanese history". Decorative English only. Decorative kanji
+
+    「虎屋」readable. No people.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Inside the present-day Toraya main workshop in Kyoto Japan, a 70-something
+
+    Japanese male wagashi-house owner with neatly combed silver-white hair,
+
+    thin rimless glasses, dark indigo kimono with a subtle gold Toraya tiger
+
+    family crest on the chest, a charcoal haori jacket over his shoulders,
+
+    gently demonstrating to two younger Japanese apprentices in matching dark
+
+    indigo cotton work jackets the precise placement of a freshly shaped pink
+
+    nerikiri wagashi sweet on a small dark lacquered tray, a row of finely
+
+    lined wooden molds and bamboo tools on the workshop bench, warm afternoon
+
+    light through tall paper shoji windows, the visual of "the 17th-generation
+
+    master passing on a 500-year recipe". Clearly traditional Kyoto Japan
+
+    workshop setting. Decorative kanji 「虎屋」on the wall plaque OK. Mid-shot.
+
+    Character: {kurokawa_mitsuhiro}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    The interior of the elegant modern flagship Toraya store in central
+
+    Tokyo Akasaka, refined minimalist wood-and-paper architecture with
+
+    polished cypress display counters, the same 70-something Japanese
+
+    wagashi-house owner in dark indigo kimono and charcoal haori with the
+
+    small gold tiger family crest, calmly handing a small dark lacquered
+
+    box of seasonal wagashi to an elegantly dressed Japanese woman customer,
+
+    a subtle wall-mounted scroll behind him with traditional Japanese
+
+    calligraphy reading decorative kanji 「不易流行」readable, the visual of
+
+    "the family motto — preserve essence, refuse needless scale". Clearly
+
+    modern Tokyo Akasaka Japan setting. Decorative kanji on the scroll OK.
+
+    Mid-shot. Character: {kurokawa_mitsuhiro}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic close-up framing as panel 1 of the pair of
+
+    weathered elderly Japanese male hands filling the square center,
+
+    this time gently placing the same pale pink translucent nerikiri
+
+    wagashi onto a small dark lacquered tray beside a tiny ceramic cup
+
+    of green matcha tea, soft warm tatami-room light slightly warmer
+
+    golden, a faint shadow of the small Toraya tiger family crest
+
+    visible on the tray edge, decorative kanji 「虎屋 五百年」readable
+
+    on a small folded paper card beside the sweet, the loop image of
+
+    "500 years preserved in one bite of wagashi". Subject filling
+
+    square center for vertical short layout with blurred padding above
+
+    and below.
+
+    '
+ja:
+  title: '京都の老舗虎屋、500年続いた家訓 #Shorts'
+  description: '京都の老舗、虎屋。創業はおよそ500年前の1526年。17代にわたり、皇室御用達の和菓子を作り続けてきた。
+
+    規模より品質を守る家訓を貫いた、京都の老舗の物語を、30秒で紹介します。
+
+
+    #Shorts #職人 #老舗 #虎屋 #和菓子
+
+    '
+  hook_caption: 京都虎屋500年の家訓
+  series_brand: 虎屋500年
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 京都に、500年前の1526年から続く、和菓子の老舗があるのを知っていますか?その名は、虎屋。室町時代の終わりからの、現存する家業です。
+    caption: 京都の虎屋、創業1526年
+  - panel: p2
+    text: 虎屋は、後陽成天皇の時代から、皇室御用達の和菓子司として、京都御所のすぐ近くで暖簾を掲げました。明治の東京遷都とともに、本拠を東京赤坂に移しています。
+    caption: 皇室御用達、明治に赤坂へ
+  - panel: p3
+    text: 創業から今日まで、17代の当主が、500年の家業を、絶やさず受け継いできました。応仁の乱の直後から続く、世界でも稀な、同族経営の和菓子家です。
+    caption: 17代続く同族経営の和菓子家
+  - panel: p4
+    text: 17代目の黒川光博は、職人たちに「規模を追わず、味を守れ」と説き続けました。安易な工場大量生産を、決してしない、というのが、虎屋の不文律です。
+    caption: 17代目当主 黒川光博の信条
+  - panel: p5
+    text: 家訓は「不易流行」。変えてはならない本質を守りつつ、時代に合わせた一手だけは、躊躇わずに打つ。だからこそ、500年もの間、品質が、ぶれませんでした。
+    caption: 家訓は「不易流行」
+  - panel: p6
+    text: そして今日も、虎屋の職人たちは、500年前と同じ手仕事で、一粒の羊羹を、仕上げています。日本の老舗が守ってきたのは、味だけではなく、流儀そのものです。
+    caption: 500年続く手仕事、今日も健在
+en:
+  title: 'This Family''s Secret to a 500-Year-Old Business #Shorts'
+  description: 'Since 1526, the same family has run the legendary sweet shop Toraya, serving Emperors for generations. This is the simple rule that kept their 500-year legacy alive.
+
+    #Shorts #Japan #History #Business #Craftsmanship'
+  hook_caption: How a Family Business Lasted 500 Years
+  series_brand: 'Toraya: 500 Years'
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In Kyoto, Japan, a family business called Toraya began in 1526, during the age of the samurai.
+    caption: Founded in 1526
+  - panel: p3
+    text: For nearly 500 years, it's been passed down through 17 generations of the same family.
+    caption: 17 generations
+  - panel: p1
+    text: For centuries, they were the official confectioners to the Emperor himself.
+    caption: By Imperial Appointment
+  - panel: p4
+    text: 'Their secret? A simple family rule: ''Pursue quality, not size.'''
+    caption: Quality over quantity
+  - panel: p5
+    text: This means honoring tradition while embracing change, never sacrificing their craft for mass production.
+    caption: Tradition meets modern
+  - panel: p6
+    text: To this day, every single sweet is crafted by hand—a 500-year-old tradition you can still taste.
+    caption: Still made by hand

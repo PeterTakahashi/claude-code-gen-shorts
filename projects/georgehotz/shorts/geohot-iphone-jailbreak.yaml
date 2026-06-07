@@ -1,0 +1,177 @@
+id: geohot-iphone-jailbreak
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    August 2007, late at night in a cluttered New Jersey suburban teenage
+
+    bedroom. A 17-year-old George Hotz sitting at a messy desk in front of a
+
+    webcam mounted on a CRT monitor, holding up a first-generation Apple
+
+    iPhone toward the camera with a wide mischievous grin, the iPhone screen
+
+    glowing with a different cellular carrier name "T-Mobile" instead of
+
+    "AT&T". The desk is covered in screwdrivers, soldering iron, magnifier,
+
+    a disassembled iPhone case, energy drink cans, tangled wires. Cool
+
+    bluish monitor light on his face. Mid-shot, slightly tilted angle.
+
+    Character: {subject_teen}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A close-up still life on a wooden desk in 2007 — a brand new
+
+    first-generation Apple iPhone laying on top of a printed AT&T 2-year
+
+    service contract with bold "AT&T" carrier branding visible on the
+
+    iPhone''s screen status bar. A red "LOCKED" stamp visually implied over
+
+    the scene. Cold morning light through a venetian blind. No people. The
+
+    visual statement: in 2007, every iPhone in America belonged to AT&T.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Summer 2007 suburban Glen Rock New Jersey, a quiet tree-lined American
+
+    residential street with a modest two-story family home, a yellow school
+
+    bus stop sign at the curb, mid-morning summer sunlight, the warm
+
+    ordinary feel of a New Jersey suburb. Wide establishing shot, no
+
+    figures. The hometown of an unlikely hacker prodigy.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A messy teenage bedroom at 3am in summer 2007. A 17-year-old George
+
+    Hotz hunched over his desk under a single bright desk lamp, soldering
+
+    iron in one hand, magnifier in the other, carefully touching a tiny pin
+
+    on an exposed iPhone motherboard. His face is lit harsh-yellow from
+
+    below, deep concentration in his eyes, hair sticking up. Empty energy
+
+    drink cans and pizza boxes around him. The bedroom dark behind him.
+
+    Three-quarter view. Five hundred hours of obsession made visible.
+
+    Character: {subject_teen}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    August 2007, a laptop screen filling most of the frame, playing a
+
+    grainy low-resolution webcam video titled "Working iPhone with T-Mobile
+
+    sim card" with a YouTube-style red play bar at the bottom and a view
+
+    counter visibly ticking upward into the millions. On the playing video,
+
+    a tiny image of teenage George Hotz holding up the unlocked iPhone is
+
+    visible. Around the laptop, in a dim room, the silhouettes of stunned
+
+    adults — journalists or executives — watching. Conveys: the video that
+
+    shocked Apple and AT&T overnight.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late night August 2007 New Jersey bedroom. Close-up portrait of a
+
+    17-year-old George Hotz, the unlocked iPhone resting flat in his open
+
+    palm in the lower foreground, his face lit by the phone''s glow from
+
+    below, a quiet confident half-smirk on his lips, eyes calm and certain
+
+    — a teenager who just realized he had broken a billion-dollar
+
+    corporate lock and that this was only the beginning of his career.
+
+    Front-facing portrait framing.
+
+    Character: {subject_teen}.
+
+    '
+ja:
+  title: '17歳でiPhoneのロックを破った少年 #Shorts'
+  description: '2007年、17歳の高校生ジョージ・ホッツが、世界で初めてiPhoneのSIMロックを解除し、AT&Tの独占を破った。
+
+    かかった時間は500時間、寮室での独学だった。
+
+
+    #Shorts #ジョージホッツ #iPhone #Apple #人物伝
+
+    '
+  hook_caption: 17歳でiPhoneを破った男
+  series_brand: ジョージ・ホッツ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 17歳の高校生が、500時間かけて、iPhoneのSIMロックを破った話があります。
+    caption: 17歳が500時間でiPhoneを破った
+  - panel: p2
+    text: 2007年、AppleのiPhoneは、アメリカではAT&Tでしか、使えませんでした。
+    caption: 2007年、iPhoneはAT&T独占
+  - panel: p3
+    text: ニュージャージーに住む高校生、ジョージ・ホッツは、そのロックが、許せなかったんです。
+    caption: NJの高校生geohot
+  - panel: p4
+    text: 彼は、夏休みの間、自分の寝室で、半田ごてを片手に、iPhoneの基板を、改造し続けました。
+    caption: 寝室で半田ごてを握り続けた
+  - panel: p5
+    text: そして、ある夜、世界初の、SIMロック解除済みiPhoneが、誕生したんです。
+    caption: 世界初のSIMフリーiPhone誕生
+  - panel: p6
+    text: 彼が、YouTubeに投稿した動画は、一晩で世界中に広がり、伝説のハッカー、geohotが、生まれました。
+    caption: 一晩で伝説のハッカーに
+en:
+  title: 'How a 17-Year-Old Hacked the First iPhone #Shorts'
+  description: 'In 2007, George Hotz spent 500 hours in his bedroom to become the first person ever to unlock the iPhone, breaking AT&T''s monopoly.
+
+    This is the story of the legendary hacker ''geohot''.
+
+
+    #Shorts #GeorgeHotz #iPhone #Hacker #Apple'
+  hook_caption: He Beat Apple at 17
+  series_brand: The George Hotz Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: 'In 2007, the first iPhone was revolutionary, but it came with a catch: it was locked exclusively to AT&T.'
+    caption: Locked to AT&T
+  - panel: p3
+    text: But one 17-year-old from New Jersey, George Hotz, saw that as a challenge, not a rule.
+    caption: A 17-year-old's challenge
+  - panel: p4
+    text: He spent his entire summer break—over 500 hours—holed up in his bedroom with a soldering iron.
+    caption: 500 hours of hacking
+  - panel: p6
+    text: Finally, late one night, he cracked it, creating the world's very first fully unlocked iPhone.
+    caption: He cracked it
+  - panel: p5
+    text: He posted a video to YouTube as proof, and the tech world absolutely exploded.
+    caption: The proof on YouTube
+  - panel: p1
+    text: Overnight, he went from a kid at his desk to the legendary hacker known as 'geohot'.
+    caption: The legend of 'geohot'

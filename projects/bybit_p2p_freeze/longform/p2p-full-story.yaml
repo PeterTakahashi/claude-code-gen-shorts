@@ -1,0 +1,168 @@
+id: p2p-full-story
+parent_chapter: null
+panels:
+  - id: s1
+    prompt: |
+      A Japanese man sitting alone at night in his apartment, lit by the glow of
+      three monitors filled with crypto candlestick charts, staring at the camera
+      with a serious, weary expression, a faint red警告 mood, the visual of "a true
+      story I lived through in 2025". Cinematic wide shot, modern Japan apartment.
+      Character: {me}.
+  - id: s2
+    prompt: |
+      Close-up over the shoulder of the same man at his trading desk, a monitor
+      showing a volatile crypto chart crashing in red labeled with a small Japanese
+      caption "相場急変", a "Bybit" interface visible, his hand on the mouse deciding
+      to sell, the visual of "the market turned, time to take profit". Modern night.
+      Character: {me}.
+  - id: s3
+    prompt: |
+      A clean horizontal infographic on a dark blue background showing the man's USUAL
+      safe route: a flow diagram "USDT → BTC・ETH → Coincheck → 日本円 (銀行)" with arrows
+      and small coin/bank icons, all labels in Japanese except coin names, the visual of
+      "the regulated path he normally used". No people, clean infographic.
+  - id: s4
+    prompt: |
+      The same man on his phone showing a peer-to-peer trading chat (a "Bybit P2P"
+      style screen), a floating Japanese caption "好レートのP2P相手", a tempting better
+      exchange rate highlighted, the visual of "this one time, he chose a private
+      direct trade with a stranger". Tense, night, modern Japan.
+      Character: {me}.
+  - id: s5
+    prompt: |
+      A horizontal infographic: a calendar marked Japanese "9月26日", three repeated
+      arrows between two phone icons, USDT flowing out and yen flowing in, a bold
+      Japanese total caption "合計125万円", the visual of "three trades with the same
+      person, 1.25 million yen". Clean tense infographic, no people.
+  - id: s6
+    prompt: |
+      The same man relaxed on his sofa a few days later, phone in hand, faint smile,
+      unaware, a small calm domestic scene, soft light, the visual of "for a few days,
+      nothing seemed wrong". Modern Japan apartment, wide shot.
+      Character: {me}.
+  - id: s7
+    prompt: |
+      The man staring shocked at his phone showing a banking app error screen with a
+      red Japanese caption "口座凍結", a "三井住友銀行" style app interface, his face
+      tense in the dark, the visual of "October 4th — his bank account was frozen".
+      Cinematic close-up, night.
+      Character: {me}.
+  - id: s8
+    prompt: |
+      Inside a modern Japanese bank branch ("三井住友銀行" style interior), a bank
+      employee behind the counter speaking apologetically to the man, a small Japanese
+      caption "警察の要請で凍結", the man's stunned face, the visual of "the police had
+      frozen it — and the yen he received was scam money". Daytime, formal.
+      Character: {me}; bank employee ({bank_teller}).
+  - id: s9
+    prompt: |
+      A bare Japanese police-station interrogation room, the man seated across a plain
+      table from a detective in a dark suit holding documents, a laptop showing
+      blockchain transaction history, a Japanese caption "旭警察署・3時間", harsh light,
+      the visual of "questioned for three hours, all his online history disclosed".
+      Character: {me}; detective ({detective}).
+  - id: s10
+    prompt: |
+      Another Japanese police interrogation room, the same man patiently explaining a
+      glowing blockchain diagram on a whiteboard to an older detective who looks
+      impressed, a Japanese caption "月島警察署", the visual of "the officer didn't know
+      blockchain, so he explained it — and was offered a cybersecurity job". Tense but
+      a flicker of irony.
+      Character: {me}; detective ({detective}).
+  - id: s11
+    prompt: |
+      The man on the phone looking anxious, overlaid with a stylized image of a bank
+      headquarters building and a Japanese caption "解除は本部判断", the visual of
+      "the branch said only headquarters could decide whether to unfreeze". Modern,
+      uncertain mood.
+      Character: {me}.
+  - id: s12
+    prompt: |
+      The man on a tense phone call, a split composition suggesting two people talking,
+      a Japanese caption "被害者と直接交渉", a handshake-over-distance motif, the visual
+      of "he negotiated directly with the scam victim — agreeing to repay half".
+      Serious tone.
+      Character: {me}.
+  - id: s13
+    prompt: |
+      Close-up of the man's phone showing a bank transfer confirmation with a Japanese
+      caption "67.5万円 返金 完了", a slight relief on his face, the visual of "October
+      31st — he repaid half, and the account was finally unfrozen". Cinematic.
+      Character: {me}.
+  - id: s14
+    prompt: |
+      A somber horizontal scene: on one side a "Bybit" screen with a Japanese caption
+      "開示請求 → 音信不通", on the other a credit card being cut and a Japanese caption
+      "限度額 200万→30万", plus a rejected car-loan document stamped red, the man's tired
+      face, the visual of "the lasting damage to his credit". Cautionary tone.
+      Character: {me}.
+  - id: s15
+    prompt: |
+      A clean, calm closing infographic on a deep blue background, a bold Japanese
+      headline "教訓" and three short Japanese bullet lines, a shield/warning icon,
+      the visual of "the lesson: never take fiat from a stranger via P2P". Serious,
+      clear, no people.
+ja:
+  title: 'BybitのP2P取引で口座凍結された話【2025年・実話】'
+  description: |
+    2025年、私はBybitのP2P取引でUSDTを日本円に換えました。ところがその日本円は振り込め詐欺の被害金で、口座は凍結され、2つの警察署で尋問を受け、被害額の半分を返金し、クレジットの信用まで失いました。暗号資産ユーザーへの警告として、私の実体験を時系列で記録します。
+
+    #仮想通貨 #Bybit #振り込め詐欺 #P2P #口座凍結 #USDT
+  series_brand: 実録 P2P口座凍結
+  voice_speed: 1.3
+  narration:
+    - panel: s1
+      label: "2025年"
+      text: これは、2025年に私が実際に体験した話です。暗号資産で利益を確定しただけなのに、私の生活は半年近く、止まりました。
+      caption: 利確しただけで生活が半年止まった実話
+    - panel: s2
+      label: "2025年9月"
+      text: 9月、私はBybitで、HYPEというトークンを売買していました。相場が荒れてきたので、利益を確定するために、一旦USDTに戻したんです。
+      caption: 9月、相場急変で利確しUSDTへ
+    - panel: s3
+      text: いつもの私なら、USDTをBTCやイーサリアムに替えて、Coincheckを経由して、日本円に戻していました。規制された取引所を通す、安全な道です。
+      caption: 普段はCoincheck経由で換金していた
+    - panel: s4
+      text: ところがその時だけ、私はBybitのP2P取引を使いました。良いレートで日本円に替えてくれる取引相手を、見つけたからです。これが、全ての災難の始まりでした。
+      caption: その時だけP2Pで好レートの相手と取引
+    - panel: s5
+      label: "9月26日"
+      text: 9月26日、私は同じ相手と3回取引し、合計125万円。私がUSDTを送り、相手から日本円を受け取る形でした。
+      caption: 9月26日、同じ相手と3回・計125万円
+    - panel: s6
+      text: それから数日間は、何の異変もありませんでした。私は、ごく普通に過ごしていたんです。
+      caption: 数日間は異変がなかった
+    - panel: s7
+      label: "10月4日"
+      text: 10月4日、私は自分の三井住友銀行の口座が凍結されていることに気づきます。電話で問い合わせると、近くの支店に行ってくれと言われました。
+      caption: 10月4日、三井住友銀行の口座が凍結
+    - panel: s8
+      label: "10月8日"
+      text: 10月8日、支店に行くと、警察の要請で凍結していると言われます。千葉の旭警察署に電話すると、受け取った日本円が、振り込め詐欺で振り込まれた金だと知らされました。
+      caption: 受け取った円は振り込め詐欺の金だった
+    - panel: s9
+      label: "10月13日"
+      text: 10月13日、私は旭警察署に直接行き、Bybitの取引内容を説明しました。3時間ほどの尋問、そして全てのオンライン履歴の開示です。私は加害者ではないのに、です。
+      caption: 10月13日、旭署で3時間の尋問
+    - panel: s10
+      label: "10月20日"
+      text: 10月20日には月島警察署にも行き、再び3時間。担当の警官がブロックチェーンに詳しくなかったので、私が詳しく説明したら、サイバーセキュリティ部門で働かないかと、オファーされました。
+      caption: 月島署でも3時間、なぜか就職に誘われる
+    - panel: s11
+      label: "10月21日"
+      text: 10月21日、三井住友銀行の甲府支店に状況を共有しました。凍結を解除するかは本部が決めるので、すぐに解除できるかは分からない、と伝えられます。
+      caption: 解除するかは銀行本部の判断
+    - panel: s12
+      label: "10月22日"
+      text: 10月22日、私は振り込め詐欺の被害者の方と直接電話し、被害額の半分を返せば良い、という交渉が成立しました。
+      caption: 被害者と直接交渉、半額返金で合意
+    - panel: s13
+      label: "10月31日"
+      text: 10月30日に解除の連絡が来て、10月31日、私は被害者に半額の67.5万円を振り込みました。こうして、口座凍結はようやく解決したんです。
+      caption: 10月31日、67.5万円返金で凍結解除
+    - panel: s14
+      text: けれど、代償は残りました。Bybitにマネーロンダリングに使われた口座の開示を求めても、音信不通。クレジットカードの限度額は、複数のカードで200万円以上から30万円に下げられ、カーローンも通らなくなりました。
+      caption: Bybitは音信不通、信用も大きく毀損
+    - panel: s15
+      text: 教訓はひとつです。見知らぬ相手とのP2Pで、法定通貨を受け取ってはいけません。そのお金が詐欺の金なら、あなたの口座は凍り、あなたが返済し、信用まで失います。換金は必ず、規制された取引所を通してください。
+      caption: "教訓: P2Pで法定通貨を受け取らない"

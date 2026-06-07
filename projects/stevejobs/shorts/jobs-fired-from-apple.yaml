@@ -1,0 +1,97 @@
+id: jobs-fired-from-apple
+parent_chapter: ch5
+panels:
+- id: p1
+  prompt: 'Extreme close-up portrait of a 30-year-old Steve Jobs in May 1985, his face frozen in shocked recognition of betrayal, eyes wide and slightly glistening, jaw tight, brown shoulder-length hair,
+    blurred mahogany boardroom in the background, lit by cool overhead corporate lighting. Conveys the moment of being ousted.
+
+    Character: {jobs_young}.
+
+    '
+- id: p2
+  prompt: 'Establishing exterior shot of the 1985 Apple Computer Inc. Cupertino headquarters building, modern American corporate office park architecture with the original Apple rainbow logo visible on
+    the building facade, manicured California landscaping, daytime, evocative of early Silicon Valley.
+
+    '
+- id: p3
+  prompt: 'A 1985 Apple Inc. corporate boardroom interior, long polished dark mahogany conference table dominating the space, six or seven blurred male board members in 1980s business suits seated around
+    it, Apple rainbow logo on the back wall, glass walls showing the California office park outside, harsh cool overhead lighting. Tense formal atmosphere.
+
+    '
+- id: p4
+  prompt: 'Mid-shot of John Sculley (50s tall polished American CEO, dark suit and tie) standing at the head of the 1985 Apple boardroom table, delivering a stern judgment, his eyes avoiding direct contact,
+    hand resting on a folder of papers, cold corporate authority. Other board members blurred in the background.
+
+    '
+- id: p5
+  prompt: 'A weary 30-year-old Steve Jobs walking alone across a 1985 Apple Cupertino corporate parking lot at sunset, carrying a single cardboard box of personal belongings, his back slightly to the camera,
+    the Apple HQ building shrinking behind him, golden hour California light, melancholic atmosphere of departure.
+
+    Character: {jobs_young}.
+
+    '
+- id: p6
+  prompt: 'A 42-year-old mature Steve Jobs on a brightly lit 1997 Apple Macworld keynote stage, wearing his iconic black mock-turtleneck and faded blue Levi''s jeans, round rimless glasses, raising one
+    hand confidently mid-keynote presentation, an enormous Apple logo behind him, audience silhouettes in the dark foreground. The triumphant return.
+
+    Character: {jobs_adult}.
+
+    '
+ja:
+  title: 'ジョブズが自分の会社から追放された日 #Shorts'
+  description: 'Apple の創業者が、自分が立ち上げた会社から、自分が連れてきた男によって追放された1985年5月。30歳で全てを失ったジョブズが、その後どうなったのか。
+
+
+    #Shorts #スティーブジョブズ #Apple #人物伝
+
+    '
+  hook_caption: 30歳で自分の会社を失った創業者
+  series_brand: スティーブ・ジョブズ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: Apple の創業者が、自分の作った会社から、自分が連れてきた男に、追放された日があります。
+    caption: 創業者が、自分の会社を失う
+  - panel: p2
+    text: 1985年5月、クパチーノの Apple 本社、取締役会議室。
+    caption: 1985年5月、Apple本社
+  - panel: p3
+    text: ジョブズが、自分でペプシから引き抜いた男、ジョン・スカリーが、言いました——「スティーブ。取締役会は、決定を下した」。
+    caption: 「取締役会は決定を下した」
+  - panel: p4
+    text: 当時30歳のジョブズは、自分が立ち上げた会社から、自分が連れてきた男によって、その日、追放されたんです。
+    caption: 30歳で自分の会社を失った
+  - panel: p5
+    text: しかし、その12年後、ジョブズは買収された NeXT を通じて、Apple に CEO として帰還することになります。
+    caption: 12年後、CEOとして帰還
+  - panel: p6
+    text: iMac、iPod、iPhone を世に送り出した、第二幕の始まり。追放の日が、彼の人生で、最大の財産になった瞬間でした。
+    caption: 追放こそ、最大の財産だった
+en:
+  title: 'The Day Steve Jobs Was Fired From Apple #Shorts'
+  description: 'In 1985, Steve Jobs was forced out of Apple by the very CEO he hired. But this spectacular failure set the stage for one of the greatest comebacks in business history.
+
+
+    #Shorts #SteveJobs #Apple #History #Biography'
+  hook_caption: FIRED from the company he created
+  series_brand: The Steve Jobs Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p3
+    text: Imagine being fired from the company you started.
+    caption: Fired from his own company
+  - panel: p4
+    text: That's what happened to Steve Jobs in 1985, at the hands of the CEO HE had personally recruited.
+    caption: By the man he hired
+  - panel: p1
+    text: At just 30 years old, the board sided with the new CEO, John Sculley, and Jobs was out.
+    caption: He was just 30
+  - panel: p5
+    text: He walked away from Apple with nothing but a box of his personal belongings.
+    caption: Forced out
+  - panel: p6
+    text: But 12 years later, he returned to a nearly bankrupt Apple, ready for Act Two.
+    caption: 12 years later...
+  - panel: p6
+    text: This comeback gave us the iMac, iPod, and iPhone, proving that being fired was the best thing that ever happened to him.
+    caption: His greatest failure

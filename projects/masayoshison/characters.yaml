@@ -1,0 +1,75 @@
+# 孫正義 cast — 3 life-stage variants of Masayoshi Son.
+# Family, partners, and minor figures are description-only (text injection in
+# panel prompts; no individual stylesheet generated initially).
+
+characters:
+  - id: subject_adult
+    name_ja: 孫正義 (60代)
+    description_en: "Masayoshi Son in his 60s — a Korean-Japanese man with a fully bald round head, a wide friendly face, slightly hooded intelligent dark eyes behind rimless or thin-rimmed rectangular glasses, faint smile lines, a slightly stocky compact build, the bearing of a charismatic visionary investor accustomed to making billion-dollar decisions, often slightly leaning forward with intent focus"
+    outfit_en: "modern Silicon Valley / Tokyo business-casual — most often a plain short-sleeve or long-sleeve white or pale blue dress shirt with no tie, navy or charcoal slacks, sometimes a dark navy unstructured blazer over the shirt at major announcements, simple leather belt, dark dress shoes"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - confident decisive gaze across a boardroom table
+      - quiet reflective stare into the middle distance
+      - intense focus listening to a founder pitch
+      - private moment of disappointment
+      - warm slight smile during a handshake
+    poses:
+      - "Three-quarter seated leaning forward at a meeting table"
+      - "Standing onstage gesturing with one open hand"
+      - "Profile gazing out a high-floor window over a city"
+      - "Front view shaking hands across a table"
+
+  - id: subject_young
+    name_ja: 孫正義 (20代)
+    description_en: "a young Masayoshi Son aged 22-28 in the early-to-mid 1980s — a Korean-Japanese man with thick neatly-combed black hair parted on the side, a round friendly face still with full head of hair, intelligent dark eyes behind large 1980s-style metal-rimmed glasses, clean-shaven, slim-to-average build, the eager intense bearing of a young immigrant-returned entrepreneur founding his first company"
+    outfit_en: "1980s young Japanese businessman — a slightly boxy navy or charcoal two-piece suit, white dress shirt, narrow dark tie, simple black leather shoes, sometimes shirt-sleeves rolled up while working late"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - intense pitching to investors
+      - quiet determined focus at a desk
+      - excited near-disbelief at a breakthrough
+      - exhausted late-night working
+    poses:
+      - "Three-quarter standing presenting at a small office"
+      - "Front view hunched over a desk covered in papers"
+
+  - id: subject_teen
+    name_ja: 孫正義 (16歳)
+    description_en: "a 16-year-old Masayoshi Son in 1974 — a Korean-Japanese teenager with thick black hair in a typical 1970s Japanese high-school cut, a round earnest face, intelligent dark eyes, slim build, the quietly determined bearing of a boy who has just decided to leave Japan for America against his family's wishes"
+    outfit_en: "1970s Japanese high-school student look — either a black gakuran high-school uniform with gold buttons and stand collar, or a casual 1970s teenager outfit of plain t-shirt under an open button-down shirt and slightly flared jeans"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: null
+    expressions:
+      - quiet defiant determination
+      - intent absorbed reading
+      - lonely thoughtful gaze
+      - private moment of resolve
+    poses:
+      - "Three-quarter standing with a suitcase"
+      - "Front view sitting at a small desk reading a book"
+
+  # ===== Supporting cast (description-only, injected in prompts) =====
+  - id: jack_ma
+    name_ja: ジャック・マー
+    description_en: "Jack Ma in his mid-30s in 1999-2000 — a slim short Chinese man with a distinctive narrow face, prominent cheekbones and forehead, wide expressive mouth, short black hair, lively intelligent dark eyes, the bearing of a former English teacher turned audacious internet entrepreneur, often gesturing animatedly"
+    outfit_en: "late-1990s casual Chinese tech founder — simple short-sleeve button-down shirt in muted colors, plain dark slacks, sometimes a windbreaker or plain knit sweater, modest and slightly worn"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: adam_neumann
+    name_ja: アダム・ニューマン
+    description_en: "Adam Neumann in his late 30s in 2019 — a very tall Israeli-American man with long dark wavy hair past the shoulders, full beard, intense dark eyes, charismatic showman bearing, often barefoot or in casual clothes even in formal settings"
+    outfit_en: "late-2010s WeWork founder style — plain dark or white t-shirt, jeans or loose linen pants, sometimes barefoot, occasionally a casual unstructured jacket, a glass in hand"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null

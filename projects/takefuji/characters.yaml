@@ -1,0 +1,35 @@
+# 武富士 cast — Takei family + senior management.
+characters:
+  - id: takei_yasuo
+    name_ja: 武井保雄 (武富士創業者)
+    description_en: >-
+      a 70-something Japanese consumer-finance company founder, stern
+      square jawline, thick swept-back grey hair, deeply lined weathered
+      face with sharp narrow piercing eyes, prominent thick black-framed
+      glasses, a hard set mouth, broad shoulders, a quietly intimidating
+      Showa-era self-made-billionaire presence, the visual of the iron-
+      fisted founder of Japan's largest 1990s consumer-finance empire
+    outfit_en: >-
+      a sharply tailored dark charcoal grey three-piece business suit, a
+      white dress shirt with a stiff collar, a deep wine-red silk
+      necktie, a small gold lapel pin, polished black leather shoes, the
+      silhouette of an old-school Tokyo corporate strongman
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: takei_shinsuke
+    name_ja: 武井真介 (武富士4代目社長)
+    description_en: >-
+      a 40-something Japanese second-generation male company president
+      in 2010, slim build, neatly combed short black hair parted on one
+      side, a pale tense face with high cheekbones, thin rimless
+      glasses, narrow troubled eyes, a deeply uncomfortable
+      expression carrying the weight of a collapsing family empire, the
+      visual of the heir who had to file the largest consumer-finance
+      bankruptcy in Japanese history
+    outfit_en: >-
+      a dark navy-blue plain business suit, a white dress shirt, a dark
+      grey simple necktie, no jewelry, the deliberately understated
+      silhouette of a Japanese executive about to bow at an apology
+      press conference
+    voice_style_id: 1310138977
+    voice_speed: 1.4

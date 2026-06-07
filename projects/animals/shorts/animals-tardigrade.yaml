@@ -1,0 +1,63 @@
+id: animals-tardigrade
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      Extreme macro close-up of a tardigrade (water bear), a tiny chubby eight-legged
+      micro-animal, floating against the black void of outer space with Earth glowing
+      behind it, a decorative Japanese caption "宇宙で死なない生物", the visual of "the
+      toughest creature alive, surviving the vacuum of space". Eerie wondrous tone.
+  - id: p2
+    prompt: |
+      A clean science infographic on deep blue, a chubby cartoon tardigrade in the center
+      with arrows to extreme conditions — boiling heat, absolute-zero cold, deep ocean
+      pressure, radiation — each labeled with a short decorative Japanese caption
+      "高温" "極寒" "高圧" "放射線", the visual of "it survives everything". Infographic.
+  - id: p3
+    prompt: |
+      A microscope-style panel showing a tardigrade curling into a tiny dried-up barrel
+      shape, a decorative Japanese caption "乾眠 (クリプトビオシス)", the visual of "it dries
+      itself out and stops living to survive". Clean science illustration.
+  - id: p4
+    prompt: |
+      The same dried tardigrade barrel having water added, springing back to life and
+      walking, a decorative Japanese caption "水で復活", the visual of "add water decades
+      later and it walks again". Science illustration, dramatic revival.
+  - id: p5
+    prompt: |
+      A real 2007 experiment scene — tardigrades on the outside of a satellite in open
+      space, surviving, a decorative Japanese caption "宇宙空間で生存・確認", the visual of
+      "scientists exposed them to raw space and they lived". Cosmic, documentary tone.
+  - id: p6
+    prompt: |
+      Same macro tardigrade floating in space as panel 1, glowing with a tiny halo, a
+      decorative Japanese caption "地球最強の生物", the loop image of "the most indestructible
+      animal on Earth". Eerie wondrous tone.
+ja:
+  title: 'クマムシは宇宙の真空でも死なない最強生物 #Shorts'
+  description: |
+    高温も極寒も真空も放射線も耐え、乾燥して仮死状態になり、水で復活する。地球最強と言われるクマムシの正体を30秒で解説します。
+
+    #Shorts #動物雑学 #クマムシ #生物 #宇宙
+  hook_caption: 宇宙でも死なない最強生物クマムシ
+  series_brand: 最強生物クマムシ
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 高温でも、極寒でも、宇宙の真空でも死なない。地球最強と呼ばれる生物が、実在します。クマムシです。
+      caption: 宇宙でも死なない生物クマムシ
+    - panel: p2
+      text: 体長わずか1ミリ。なのに、150度の高温、マイナス270度の極寒、深海の数倍の圧力、強い放射線、その全てに耐えます。
+      caption: あらゆる極限環境に耐える1ミリの体
+    - panel: p3
+      text: 秘密は「乾眠」。環境が過酷になると、体から水分を抜いて、樽のように縮こまり、生命活動を、ほぼ止めるんです。
+      caption: 体を乾かし仮死状態になる「乾眠」
+    - panel: p4
+      text: そして数十年後でも、水を一滴かければ、何事もなかったかのように、再び動き出します。
+      caption: 水を一滴で何十年後でも復活
+    - panel: p5
+      text: 2007年には、生きたまま宇宙空間にさらす実験も行われ、クマムシは、本当に生き延びました。
+      caption: 2007年、宇宙空間で生存を確認
+    - panel: p6
+      text: 死なないわけではない。でも、生命を止めてでも、生き延びる。地球最強の生物は、こんなにも小さかったんです。
+      caption: 生命を止めてでも生き延びる最強生物

@@ -1,0 +1,212 @@
+id: physics-cube-earth
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic close-up of a glowing geometric cube-shaped planet
+
+    Earth floating in deep starry black space, the cube tilted slightly
+
+    to show three faces, each face showing weather patterns, blue oceans,
+
+    green continents — but the oceans pool unnaturally toward the center
+
+    of each square face leaving the sharp corners as dry barren black
+
+    peaks rising into vacuum, soft cosmic blue rim light wrapping the
+
+    edges, a faint decorative English caption silhouette "IF EARTH WERE
+
+    A CUBE" floating subtly in the corner, the visual of "what would
+
+    happen if our planet had six flat faces". Subject filling square
+
+    center for vertical short layout with blurred padding above and
+
+    below. Pure cosmic composition. No people.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A warm cozy modern anime physics classroom, the friendly middle-
+
+    aged Japanese physicist with silver-grey hair and round wire-frame
+
+    glasses, gentle teaching smile, white lab coat over beige sweater,
+
+    pointing at a small floating spherical Earth model in his right
+
+    hand and a small floating cubic Earth model in his left, decorative
+
+    English headline floating above them reading "SPHERE vs CUBE", a
+
+    chalkboard behind him with the decorative English equation
+
+    "g = GM/r²" sketched in white chalk, bright afternoon light through
+
+    tall windows. Clearly classroom setting. Mid-shot.
+
+    Character: {prof_kawai}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A dramatic dynamic view of a cube-Earth from low orbit, one full
+
+    square face dominating the frame, the entire ocean of that face
+
+    pulled into a single colossal circular dome of water bulging at
+
+    the geometric center of the face, the four corners of the face
+
+    jutting upward into thin atmosphere as dry barren rocky peaks
+
+    labeled with decorative English captions "VACUUM ZONE", thin atmos-
+
+    pheric haze concentrated only over the central water dome with
+
+    a decorative English caption silhouette "ATMOSPHERE LAKE",
+
+    curving glowing arrows showing gravity vectors all pointing toward
+
+    the geometric center of the planet, the visual of "gravity points
+
+    to the center, not to the surface". Wide composite shot. Decorative
+
+    English text only. No people.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern physics infographic on deep navy background, a stylized
+
+    cross-section diagram of the cube Earth showing a single square face
+
+    with a glowing red arrow pointing from a tiny human stick figure at
+
+    the corner down toward the geometric center, the decorative English
+
+    label "CORNER → CENTER ≈ 4,700 km" above the arrow, beneath the
+
+    diagram a decorative English caption reading "CORNERS = 4,700 km
+
+    ABOVE SEA LEVEL — HIGHER THAN MOUNT EVEREST × 530", the visual of
+
+    "the eight corners of a cube Earth would be impossibly high
+
+    mountains in vacuum". Pure infographic composition. Decorative
+
+    English text only. No people other than the tiny figure.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same warm anime physics classroom as panel 2, the silver-haired
+
+    physicist in white lab coat now facing camera with a slight smile
+
+    and gesturing toward a floating decorative English caption beside
+
+    him reading "NO LIFE AT THE CORNERS", behind him a chalkboard
+
+    sketched in white chalk with a small cube diagram and the decorative
+
+    English notes "OCEAN AT CENTER OF FACE", "AIR ONLY OVER OCEAN",
+
+    "CORNERS = SPACE", warm afternoon light through tall windows. Mid
+
+    close-up. Clearly classroom setting.
+
+    Character: {prof_kawai}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic close-up of the glowing geometric cube-shaped
+
+    planet Earth floating in deep starry black space as panel 1, this
+
+    time slightly later — the cube the same tilt, the oceans still
+
+    pooled at the center of each face, the four corners still jutting
+
+    as black barren peaks, but now a single tiny faint glowing point of
+
+    light visible only on the central water dome of one face, decorative
+
+    English caption silhouette "LIFE LIVES ONLY AT THE CENTER" floating
+
+    subtly above the cube, deeper cosmic blue rim light. The loop image
+
+    of "on a cube Earth, civilization would huddle in six watery
+
+    bullseyes". Subject filling square center for vertical short layout
+
+    with blurred padding above and below. Pure cosmic composition.
+
+    '
+ja:
+  title: 'もし地球が立方体だったら何が起きる #Shorts'
+  description: 'もし地球が、球ではなく立方体だったら、海はどこに集まり、人類はどこに住むのか。
+
+    重力と幾何学の意外な結論を、30秒で証明します。
+
+
+    #Shorts #物理 #思考実験 #地球 #重力
+
+    '
+  hook_caption: 地球が立方体だったら
+  series_brand: 立方体の地球
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: もし、地球が球ではなく、立方体だったら、海と空気は、どうなるのか?——意外なほど、SF的でない、答えがあります。
+    caption: 地球が立方体だったら海はどこへ?
+  - panel: p2
+    text: 重力は、質量の中心へ向かう力なので、立方体の地球であっても、重力の向きは、6つの面の表面ではなく、立方体の幾何中心へ向かいます。
+    caption: 重力は中心へ、表面に垂直ではない
+  - panel: p3
+    text: 結果、海と大気は、各面の中央へ流れ落ちて、それぞれが、巨大な丸い水のドームと、薄い大気の湖を、形成します。
+    caption: 海と大気は各面の中央に湖になる
+  - panel: p4
+    text: 一方、立方体の8つの頂点は、中心から、約4,700 km離れているので、エベレスト530個分の高さに匹敵する、空気のない真空の山に、なります。
+    caption: 8つの頂点は真空の超高山
+  - panel: p5
+    text: つまり、人類が住めるのは、面の中央にできた、丸い海と空気の湖の周辺だけ。立方体の地球には、6つの、独立した文明圏が、生まれることに、なります。
+    caption: 人類は6つの面の中央にしか住めない
+  - panel: p6
+    text: そして、頂点と頂点を結ぶ稜線は、誰も越えられない、真空の壁になります。立方体の地球は、海と空気が、中央に閉じ込められた、6つの小さな世界です。
+    caption: 立方体の地球は6つの小宇宙になる
+en:
+  title: 'What Life on a CUBE Earth Would Actually Be Like #Shorts'
+  description: 'If our planet was a cube, where would we live? The answer isn''t so simple. Gravity would create six separate worlds, forever isolated by walls of pure vacuum.
+
+    #Shorts #Physics #Science #Space #WhatIf'
+  hook_caption: If Earth were a CUBE...
+  series_brand: Cubic Earth
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: What if the Earth wasn't a sphere, but a perfect cube? Where would all the oceans and atmosphere go?
+    caption: A Cube Earth?
+  - panel: p2
+    text: Gravity always pulls towards the center of mass. So on a cube, you'd be pulled diagonally toward the planet's core, not straight down to the surface.
+    caption: Gravity pulls to the core
+  - panel: p3
+    text: This means all the water and air would rush to the middle of each of the six faces, forming six huge, circular oceans.
+    caption: Six separate oceans
+  - panel: p4
+    text: The corners, being so much farther from the center, would become colossal mountains, reaching into the pure vacuum of space.
+    caption: Corners = Vacuum Mountains
+  - panel: p5
+    text: Humanity could only survive on the shores of these oceans, creating six civilizations, completely isolated from each other.
+    caption: 6 isolated worlds
+  - panel: p6
+    text: The edges of the cube would be impassable walls of vacuum. It wouldn't be one world... it would be six.
+    caption: Not one world, but six

@@ -1,0 +1,92 @@
+id: musk-3-explosions
+parent_chapter: ch5
+panels:
+- id: p1
+  prompt: 'A 9:16 vertical dramatic illustration of the SpaceX Falcon 1 rocket''s second-stage Merlin engine burning brightly above Earth''s curvature, blue Pacific Ocean and white clouds visible far below,
+    black starry space above, the slim white rocket body silhouetted against the planet — the historic September 28 2008 moment of the first private liquid-fuel rocket to reach orbit.
+
+    '
+- id: p2
+  prompt: 'A SpaceX 2008 mission control room interior on Omelek Island, banks of computer monitors displaying telemetry, tense engineers in T-shirts and jeans seated at consoles, large central display
+    showing rocket trajectory, anxious atmosphere, tropical light through windows. American engineering startup vibe.
+
+    '
+- id: p3
+  prompt: 'A dramatic close-up illustration of a SpaceX Falcon 1 rocket exploding mid-flight in 2008 over the Pacific tropical sky, orange fireball, white smoke trails, the slim rocket body breaking apart,
+    dark blue ocean far below — capturing the heartbreak of a launch failure.
+
+    '
+- id: p4
+  prompt: 'A 37-year-old Elon Musk in 2008 sitting alone in a darkened SpaceX office at night, slumped slightly forward in an office chair, exhausted face, dark circles under eyes, hand running through
+    his short brown hair, a single desk lamp lit, conveying the weight of imminent bankruptcy of both SpaceX and Tesla simultaneously.
+
+    Character: {elon_adult}.
+
+    '
+- id: p5
+  prompt: 'A wide vertical illustration of the SpaceX Falcon 1 rocket''s 4th launch ignition on September 28 2008, Omelek Island launch pad, brilliant orange engine flame erupting downward into a billowing
+    white cloud, the slim white rocket beginning its ascent against a tropical Pacific sunset sky, dramatic backlighting.
+
+    '
+- id: p6
+  prompt: 'Inside the SpaceX mission control room September 28 2008, a 37-year-old Elon Musk and a crowd of his engineers (mostly young men in T-shirts) erupting in jubilant celebration, fists raised, hugs,
+    faces lit by triumph after the orbit confirmation, telemetry screens still showing successful trajectory.
+
+    Character: {elon_adult}.
+
+    '
+ja:
+  title: 'ロケット3連続爆発、4回目で起きたこと #Shorts'
+  description: '2008年、SpaceXは3度連続でロケットを爆発させていた。銀行残高はゼロ間近、Tesla も破産寸前。そんな崖っぷちで、4機目の打ち上げで起きた歴史的瞬間。
+
+
+    #Shorts #イーロンマスク #SpaceX #人物伝
+
+    '
+  hook_caption: 民間初の軌道到達
+  series_brand: イーロン・マスク伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 民間企業が、独自開発のロケットで、軌道に到達した、世界初の瞬間です。
+    caption: 民間初の軌道到達
+  - panel: p2
+    text: 2008年、9月28日、SpaceX の Falcon 1、4機目。
+    caption: 2008年9月28日、Falcon 1 第4号機
+  - panel: p3
+    text: 実は、その直前まで、SpaceX は、3度連続でロケット爆発を起こしていました。
+    caption: 直前まで、3回連続爆発
+  - panel: p4
+    text: 創業から6年、銀行残高は底、Tesla の Roadster も同時に破産寸前。
+    caption: Teslaも破産寸前
+  - panel: p5
+    text: 37歳のマスクは、それでも諦めず、人生の全てを最後の4機目に、賭けたんです。
+    caption: 37歳、最後の1機に全てを賭けた
+  - panel: p6
+    text: その3ヶ月後、NASA から16億ドルの契約が舞い込み、Tesla も土壇場で救済される——全ては、この4機目の成功から、始まったんですね。
+    caption: NASA 16億ドル契約、Tesla 救済
+en:
+  title: 'After 3 Explosions, Elon Musk Bet Everything on This Launch #Shorts'
+  description: 'In 2008, SpaceX was on its last legs. After three failed launches, Elon Musk gambled the last of his money on one final flight. This is the launch that saved both SpaceX and Tesla.
+
+
+    #ElonMusk #SpaceX #Innovation #History #Shorts'
+  hook_caption: 3 Failures Left Him With One Last Shot
+  series_brand: The Elon Musk Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p3
+    text: By 2008, SpaceX's first three rocket launches had all ended in explosive failure.
+    caption: 3 failed launches
+  - panel: p4
+    text: Founder Elon Musk was almost broke, with both SpaceX and Tesla on the verge of collapse.
+    caption: On the brink
+  - panel: p5
+    text: He bet the last of his money on a single, fourth attempt.
+    caption: One last shot
+  - panel: p1
+    text: On September 28th, the Falcon 1 finally reached orbit—a world first for a private company.
+    caption: A world first
+  - panel: p6
+    text: That one success saved everything, and led to a $1.6 billion contract from NASA.
+    caption: Saved everything

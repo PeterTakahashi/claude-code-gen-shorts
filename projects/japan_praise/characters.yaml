@@ -1,0 +1,60 @@
+# Why foreigners love Japan cast — generic foreigner + generic Japanese, no specific real person.
+characters:
+  - id: foreign_visitor
+    name_ja: 海外からの旅行者 (generic)
+    description_en: >-
+      a 30-something Western tourist with light brown shoulder-length
+      wavy hair, fair skin, blue or hazel eyes, friendly open expression,
+      a curious traveler's slightly wide-eyed look, casual but neat
+      appearance, no specific celebrity resemblance, the visual of a
+      respectful first-time visitor to Japan
+    outfit_en: >-
+      a simple olive-green casual jacket over a plain white t-shirt,
+      comfortable dark jeans, a small daypack backpack, walking sneakers,
+      the practical traveler's uniform
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: japanese_local
+    name_ja: 日本人 (generic)
+    description_en: >-
+      a 30-something Japanese person with short neat black hair, calm
+      polite expression, warm friendly eyes, modest unassuming posture,
+      no specific celebrity resemblance, the visual of a typical
+      considerate Japanese local
+    outfit_en: >-
+      neat casual modern Japanese clothing, a soft beige or grey
+      cardigan over a simple shirt, dark slacks, clean understated style
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: french_pastry_chef
+    name_ja: フランス人パティシエ (generic)
+    description_en: >-
+      a 50-something French male pastry chef, neat short brown hair
+      lightly greying at the temples, fair skin with faint laugh lines,
+      kind serious blue-grey eyes capable of welling up with emotion,
+      clean-shaven jawline, slim refined build, the visual of a
+      classically trained Parisian patissier in his prime, no specific
+      celebrity resemblance
+    outfit_en: >-
+      a crisp white double-breasted chef's jacket with cloth-knot buttons,
+      a folded white side-towel at the waist, dark slim trousers, simple
+      black leather shoes, the silhouette of a high-end French pastry
+      atelier chef
+    voice_style_id: 1310138977
+    voice_speed: 1.4
+  - id: kyoto_wagashi_master
+    name_ja: 京菓子職人 (generic)
+    description_en: >-
+      a 70-something Japanese wagashi master, short cropped silver hair,
+      deeply weathered tanned face with quiet wrinkles around the eyes,
+      thin frame, deep dark eyes carrying generations of craft, slow
+      careful movements, deeply weathered and slightly stained craftsman's
+      hands, the visual of the seventh-generation head of a 200-year-old
+      Kyoto wagashi house, no specific celebrity resemblance
+    outfit_en: >-
+      a navy indigo samue-style work jacket over a plain white inner
+      shirt, a long charcoal-grey work apron tied at the waist, dark
+      cotton trousers, simple cloth zori, the silhouette of a Kyoto
+      old-shop traditional craftsman
+    voice_style_id: 1310138977
+    voice_speed: 1.4

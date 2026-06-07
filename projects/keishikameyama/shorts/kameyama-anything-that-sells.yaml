@@ -1,0 +1,177 @@
+id: kameyama-anything-that-sells
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2020, a modern minimalist 六本木 office room. A 60-something
+
+    Keishi Kameyama stands center-frame with a calm slightly amused
+
+    half-smile, arms loosely crossed, surrounded by faintly glowing
+
+    semi-transparent floating icons representing his many businesses —
+
+    a video play button, a game controller, a 3D printer, a solar panel,
+
+    a Bitcoin coin, an English-conversation speech bubble, an online-salon
+
+    group symbol — all hovering around him like a satellite cloud. Cool
+
+    blue office light. The icon labels are stylized symbols only, no text.
+
+    Wide mid-shot.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid 2000s, an open-plan DMM office. Several young Japanese engineers in
+
+    hoodies and t-shirts gathered around a flat-screen monitor showing an
+
+    early Japanese video streaming web page, the buffering wheel just
+
+    finishing, a video starting to play. One engineer punches the air
+
+    quietly while the others smile. Conveys the moment online video
+
+    delivery first works at scale. Daylight through office windows.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid 2010s, a split-feel single illustration of a DMM office floor.
+
+    On the left half, several young engineers focused on monitors showing
+
+    an anime-style Japanese browser game with character cards visible.
+
+    On the right half, another team next to a webcam-equipped monitor
+
+    showing a smiling Filipino English teacher on screen — an online
+
+    English conversation lesson in progress. Bright modern office,
+
+    everyone working in parallel on totally different products.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2018, a sleek dark trading-floor style room. A wall of large
+
+    monitors displays cryptocurrency price charts with red and green
+
+    candles, Bitcoin price tickers, and the DMM-style minimalist branding
+
+    visible on a corner banner. A few focused young Japanese traders in
+
+    hoodies sit at desks watching the charts. The cool blue light of an
+
+    暗号通貨 exchange operation. Wide mid-shot.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2021, a stylized illustration of dozens of Japanese smartphone
+
+    users in different settings — a young office worker in a Tokyo
+
+    apartment, a college student in a cafe, a housewife at a kitchen
+
+    table — each holding their phone, all of their screens showing a
+
+    similar online-salon community feed with thread-style posts. Soft
+
+    warm light from each screen on each face. Conveys a nationwide
+
+    paid-community network. No specific real logo, generic UI.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A quiet evening in the 六本木ヒルズ DMM corporate floor. The 60-something
+
+    Keishi Kameyama stands alone by a tall window with the Tokyo skyline
+
+    glowing in the dusk behind him, hands in his jeans pockets, a faint
+
+    reflective half-smile, a single tablet on a nearby table showing a
+
+    rough business sketch. Conveys: he is already thinking about the next
+
+    thing. Side-front framing, cool blue evening light.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '「儲かるものは何でもやる」DMMの哲学 #Shorts'
+  description: '動画、ゲーム、英会話、3Dプリンタ、太陽光、暗号通貨、オンラインサロン。
+
+    亀山敬司のDMMは、儲かりそうなものは、ジャンルを問わず、何でもやる。
+
+    屋台仕込みのこの哲学が、グループを4000億円企業に育てた。
+
+
+    #Shorts #亀山敬司 #DMM #暗号通貨 #人物伝
+
+    '
+  hook_caption: 儲かるものは何でもやる
+  series_brand: 亀山敬司伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「儲かるものは、ジャンル問わず、何でもやる」。これが、DMM創業者、亀山敬司の哲学です。
+    caption: 儲かるものは、何でもやる
+  - panel: p2
+    text: 2000年代、彼は、貸ビデオから、オンライン動画配信へと、事業の柱を、移しました。
+    caption: 2000年代、オンライン動画配信
+  - panel: p3
+    text: 2010年代には、ブラウザゲーム、そして、フィリピン人講師のオンライン英会話まで、手を出します。
+    caption: ゲーム、オンライン英会話へ
+  - panel: p4
+    text: さらに、2018年には、暗号通貨取引所、DMM Bitcoinまで、立ち上げました。
+    caption: 2018年、DMM Bitcoin開始
+  - panel: p5
+    text: 近年は、有料オンラインサロン、3Dプリンタ、太陽光、農業まで、ジャンルは無限です。
+    caption: オンラインサロン、3Dプリンタ、農業
+  - panel: p6
+    text: 屋台で身についた「売れるものを、嗅ぎ分ける本能」は、40年経っても、止まらないんです。
+    caption: 屋台仕込みの嗅覚は、止まらない
+en:
+  title: 'The ''Anything Goes'' Philosophy of Japan''s DMM #Shorts'
+  description: 'Video, games, English lessons, crypto, solar power... DMM founder Keishi Kameyama would enter any business if it looked profitable.
+
+    This simple philosophy, learned from his early days at a street stall, grew his group into a 400 billion yen empire.
+
+
+    #Shorts #DMM #KeishiKameyama #Business #Japan'
+  hook_caption: His rule? If it makes money, do it.
+  series_brand: The Keishi Kameyama Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: “If it makes money, we do it. No matter the industry.” This is the core philosophy of DMM founder, Keishi Kameyama.
+    caption: 'The #1 Rule'
+  - panel: p2
+    text: In the 2000s, he pivoted from video rentals to one of Japan's first major online streaming services.
+    caption: Video Streaming
+  - panel: p3
+    text: By the 2010s, DMM had expanded into browser games and even online English tutoring.
+    caption: Games & Tutoring
+  - panel: p4
+    text: Then in 2018, jumping on the latest trend, he launched the crypto exchange DMM Bitcoin.
+    caption: Crypto Exchange
+  - panel: p5
+    text: 'Today, their portfolio seems endless: 3D printing, solar power, agriculture, and online communities.'
+    caption: A Limitless Portfolio
+  - panel: p6
+    text: This instinct for what sells—honed at a street stall 40 years ago—is what built his 400 billion yen empire.
+    caption: A 400 Billion Yen Instinct

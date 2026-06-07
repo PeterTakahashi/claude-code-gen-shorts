@@ -1,0 +1,205 @@
+id: crypto-coincheck-nem-2018
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic close-up of a digital exchange screen at midnight, glowing
+
+    cracked decorative English numbers "−58,000,000,000 YEN" filling the center of
+
+    the square in vivid red, a single small Coincheck-style logo silhouette in the
+
+    corner in decorative English "COINCHEEK", neon Tokyo Shibuya skyline lights
+
+    reflecting cold blue and pink off the dark glass in the background, a small
+
+    stylized NEM coin icon shattering into pixels and streaming off-screen, the
+
+    visual of "the night 58 billion yen vanished in a single transaction".
+
+    Subject filling square center for vertical short layout with blurred padding
+
+    above and below. Clearly Tokyo Japan late-night cyber setting. Decorative
+
+    English text only on screen.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Late January 26, 2018, the interior of a modern open-plan Coincheck startup
+
+    office on the upper floor of a Shibuya Tokyo building just past midnight, a
+
+    27-year-old Japanese male startup CEO with a thin youthful face, pale skin,
+
+    short neatly-cut jet-black hair parted on one side, dark grey suit jacket
+
+    over a black t-shirt, standing frozen in front of a wall of monitors all
+
+    flashing red alerts in decorative English "UNAUTHORIZED TRANSFER — NEM",
+
+    a few sleepy young Japanese engineers in hoodies rushing into the room
+
+    behind him, cold blue monitor light on his stunned face, the visual of
+
+    "the moment the CEO realized 58 billion yen had been stolen". Clearly
+
+    Tokyo Shibuya Japan office setting. Mid-shot.
+
+    Character: {wada_koichiro}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern infographic on cold dark navy background, a stylized digital
+
+    vault split into two sides, the left side glowing safe green labeled
+
+    decoratively in English "COLD WALLET — OFFLINE", the right side glowing
+
+    danger red cracked open labeled "HOT WALLET — INTERNET", a glowing
+
+    decorative English NEM logo icon pouring out of the red cracked side
+
+    into shadow, a small decorative English subheadline "ALL 580 億 NEM —
+
+    KEPT HOT", the visual of "the security mistake that cost 58 billion
+
+    yen". Pure infographic composition. No people. Decorative English only.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    January 26, 2018 late-night Tokyo press conference room, the same
+
+    27-year-old Japanese male Coincheck CEO with thin face, neatly parted
+
+    black hair, dark grey suit jacket over black t-shirt, bowing deeply
+
+    at a long press table beside a slightly older bespectacled Japanese
+
+    male COO in a dark suit also bowing, a decorative English logo
+
+    backdrop "COINCHEEK" behind them, dozens of camera flashes from
+
+    Japanese reporters in dark suits in the foreground, the visual of
+
+    "the 1am apology press conference that defined Japan crypto". Clearly
+
+    Tokyo Japan press conference setting. Mid close-up. Decorative
+
+    English only on backdrop. Character: {wada_koichiro}.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Early 2018, the official Financial Services Agency headquarters building
+
+    in central Kasumigaseki Tokyo, two stern 50-something Japanese government
+
+    inspectors in dark suits walking up the front steps holding leather
+
+    briefcases, dawn light catching the Japanese national flag flying overhead,
+
+    a small decorative English caption silhouette "FSA — INSPECTION", the
+
+    visual of "the regulator stepping in that turned Coincheck into the
+
+    birth of Japan''s crypto law". Clearly Tokyo Kasumigaseki Japan setting.
+
+    Mid-shot. Decorative English text only.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic close-up of the digital exchange screen as panel 1
+
+    but now slightly later, the same glowing cracked decorative English
+
+    headline replaced with "JAPAN CRYPTO — RESET" in cooler blue, the
+
+    Coincheck-style logo silhouette beside a newer decorative English
+
+    stamp "ACQUIRED BY MONEX 2018", the same neon Tokyo Shibuya skyline
+
+    reflections still cold blue and pink off the glass, a small stylized
+
+    NEM coin icon now whole again but faded, the loop image of "the
+
+    midnight that rewrote Japan''s crypto rulebook". Subject filling
+
+    square center for vertical short layout with blurred padding above
+
+    and below. Decorative English only.
+
+    '
+ja:
+  title: 'Coincheck、580億NEMが消えた深夜 #Shorts'
+  description: '※この動画は歴史・事件解説です。投資助言ではありません。仮想通貨投資は元本割れリスクがあります。
+
+
+    8年前の2018年1月、東京渋谷の暗号通貨取引所Coincheckから、580億円分のNEMが、わずか数十分で流出した。
+
+    日本の仮想通貨規制を一変させた、深夜の事件を、30秒で振り返ります。
+
+
+    #Shorts #Coincheck #NEM #仮想通貨事件 #事件解説
+
+    '
+  hook_caption: 580億NEMが消えた深夜
+  series_brand: Coincheck事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 8年前の2018年1月、東京渋谷の暗号通貨取引所から、たった一晩で580億円分のNEMが消えた事件を、覚えていますか?
+    caption: 580億円のNEMが一晩で消えた
+  - panel: p2
+    text: 流出元はCoincheck、当時のCEOは20代の和田晃一良。深夜0時すぎ、社内モニターが赤く点滅し始め、若いチームは異変に気づいたんです。
+    caption: 当時20代のCEO和田晃一良
+  - panel: p3
+    text: 原因は、本来オフライン保管すべき顧客資産のNEMを、利便性のため、ネットに繋がったホットウォレットに、ほぼ全額置いていたこと。鍵が破られた瞬間、全部、抜かれました。
+    caption: NEMをホットウォレットに全額保管
+  - panel: p4
+    text: 1月26日深夜、Coincheckは緊急記者会見を開き、和田CEOらが、深々と頭を下げました。会見の終了時刻は、深夜1時半。日本の仮想通貨史に残る夜です。
+    caption: 1月26日深夜、緊急謝罪会見
+  - panel: p5
+    text: 直後、金融庁が立ち入り検査に入り、業務改善命令を発出。この事件を境に、日本の仮想通貨取引所は、厳格な登録制へと、一気に転換しました。
+    caption: 金融庁が動き、登録制が一気に進む
+  - panel: p6
+    text: 同じ年、Coincheckは大手証券のマネックスに買収され再建。580億円のNEM流出は、日本の暗号資産規制の出発点として、今も語り継がれています。
+    caption: 日本の暗号資産規制の出発点
+en:
+  title: 'The Night ¥58 Billion in Crypto Vanished #Shorts'
+  description: 'This video is for historical and educational purposes and is not investment advice. Cryptocurrency investment carries risk of principal loss.
+
+    In January 2018, ¥58 billion worth of NEM vanished from the Tokyo exchange Coincheck. Here''s the story of the hack that changed crypto in Japan forever.
+
+    #Shorts #Coincheck #Crypto #History #Japan'
+  hook_caption: $500 Million Vanished Overnight
+  series_brand: The Coincheck Hack
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In January 2018, 58 billion yen worth of crypto vanished from a Tokyo exchange in a single night.
+    caption: ¥58 Billion Gone
+  - panel: p2
+    text: The exchange was Coincheck. Just after midnight, red alerts lit up their office as the young team realized something was terribly wrong.
+    caption: Midnight Disaster
+  - panel: p3
+    text: Their fatal mistake? They kept nearly all customer funds in an online 'hot wallet' for convenience, instead of in secure offline storage.
+    caption: The 'Hot Wallet' Mistake
+  - panel: p4
+    text: That same night, the company's 27-year-old CEO held an emergency press conference, ending in a deep bow of apology at 1:30 AM.
+    caption: 1:30 AM Apology
+  - panel: p5
+    text: Japan's financial regulators immediately raided their offices. The incident triggered a massive government crackdown, forcing all exchanges under a strict new licensing system.
+    caption: Government Crackdown
+  - panel: p6
+    text: Coincheck was later acquired and rebuilt, but the half-billion dollar heist became the defining moment that shaped Japan's entire crypto industry.
+    caption: A New Era of Regulation

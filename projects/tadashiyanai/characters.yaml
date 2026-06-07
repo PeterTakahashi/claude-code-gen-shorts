@@ -1,0 +1,61 @@
+# 柳井正 cast — Fast Retailing/UNIQLO 創業者
+# 二つの年齢ステージ (若手 / 成熟期) のビジュアル設計。
+# 家族や脇役は description-only でパネルプロンプトに直接記述。
+
+characters:
+  - id: subject_adult
+    name_ja: 柳井正 (60-70代)
+    description_en: "the mature Tadashi Yanai aged 60-77, a Japanese businessman with the characteristic Yanai features: a square slightly rounded face with strong jawline, short neatly-cropped white-grey hair combed back, prominent forehead, thin-rimmed rectangular silver eyeglasses, deep-set thoughtful eyes behind the lenses, lightly tanned skin, a calm intelligent often slightly stern expression, the composed authoritative bearing of a self-made global retail tycoon"
+    outfit_en: "the signature Yanai uniform — a well-cut dark navy or charcoal business suit, crisp white dress shirt with open collar (no necktie), polished black leather shoes; occasionally seen in casual UNIQLO clothing for store visits — a simple UNIQLO fleece jacket or plain crew-neck T-shirt and chinos"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - calm authoritative composure
+      - intense focus reading a business document
+      - quiet pride visiting a UNIQLO store
+      - thoughtful contemplation at his desk
+      - decisive confidence speaking with employees
+    poses:
+      - "Three-quarter portrait standing with hands clasped behind back"
+      - "Side profile reviewing a sales chart on a desk"
+      - "Front view walking through a UNIQLO store"
+      - "Seated at a boardroom table with arms folded"
+
+  - id: subject_young
+    name_ja: 柳井正 (20-30代)
+    description_en: "a young Tadashi Yanai aged 23-35 in the 1970s-1980s, a slim Japanese man, jet-black short well-combed hair parted on the side, clean-shaven, square face with strong jaw beginning to firm up, sharp serious eyes (no glasses yet, or wearing subtle square eyeglasses by his early 30s), pale skin, the earnest intense bearing of a young Showa-era heir taking over a small family menswear shop in regional Yamaguchi"
+    outfit_en: "1970s-1980s Showa-era Japanese small-business owner attire — a modest navy or dark grey two-piece suit with narrow lapels, plain white dress shirt, simple dark necktie, polished black leather shoes; occasionally a white short-sleeved dress shirt with grey slacks for in-store work"
+    voice_style_id: 1310138977
+    voice_speed: 1.0
+    voice_instructions: null
+    selected_candidate: 1
+    expressions:
+      - quiet determination behind a shop counter
+      - tense focus reading import catalogs
+      - private moment of doubt at the desk
+      - earnest pitching to a banker
+      - cautious pride at a new store opening
+    poses:
+      - "Front view standing behind a menswear shop counter"
+      - "Three-quarter sitting at a small office desk with papers"
+      - "Side profile inspecting clothing inventory"
+      - "Standing at the entrance of a new store with arms at sides"
+
+  # ===== Supporting / minor figures (description-only) =====
+  - id: hitoshi_yanai
+    name_ja: 柳井等 (父)
+    description_en: "Tadashi Yanai's father Hitoshi Yanai — a Japanese small-business owner in his 50s-60s in the early 1970s, a stocky weathered face with short greying hair, deep-set serious eyes, the bearing of a self-made postwar Yamaguchi merchant who built a tiny menswear shop in Ube"
+    outfit_en: "1970s Japanese provincial small-business owner — plain dark suit with wide lapels, white shirt, simple dark tie, sometimes a cardigan over the shirt when working in the shop"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null
+
+  - id: ube_shop_clerk
+    name_ja: 小郡商事店員
+    description_en: "a generic 1972 male shop clerk in his 30s-40s at a small Ube Yamaguchi menswear store — a thin Japanese man with short black hair, plain face, deferential bearing of a salaryman tailor's assistant"
+    outfit_en: "1970s Japanese menswear shop staff — short-sleeved white dress shirt, dark slacks, sometimes a simple grey apron or measuring tape around the neck"
+    voice_style_id: null
+    voice_instructions: null
+    selected_candidate: null

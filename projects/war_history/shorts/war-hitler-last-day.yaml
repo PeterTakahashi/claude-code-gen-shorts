@@ -1,0 +1,190 @@
+id: war-hitler-last-day
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    April 30 1945 afternoon, deep inside the cramped concrete
+
+    Führerbunker beneath the Reich Chancellery in Berlin, a dimly lit
+
+    small sitting room with peeling wallpaper and a single dusty
+
+    ceiling lamp, Character: {hitler} sitting slumped on a small
+
+    floral-patterned sofa, head bowed, a single pistol resting on a
+
+    side table beside a framed photograph, Character: {eva_braun}
+
+    seated quietly beside him, the air heavy and silent, the distant
+
+    muffled rumble of Soviet artillery vibrating dust from the
+
+    ceiling. Tight mid-shot. Clearly the underground bunker in Berlin
+
+    1945. No Japanese text.
+
+    Character: {hitler}, {eva_braun}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    April 29 1945 night, exterior wide view of central Berlin Germany,
+
+    bombed-out apartment blocks silhouetted against an orange burning
+
+    sky, plumes of black smoke, distant flashes of Soviet Katyusha
+
+    rockets, a ruined Brandenburg-style monument barely visible,
+
+    collapsed tram cables, no people visible, the visual of "the
+
+    capital of the Reich on its final night". Wide establishing shot.
+
+    Clearly war-torn Berlin 1945. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Just past midnight April 29 to 30 1945, a narrow concrete corridor
+
+    of the Führerbunker map room with reinforced steel doors, a small
+
+    civil ceremony in progress, Character: {hitler} standing stiffly
+
+    beside Character: {eva_braun} who now wears a simple gold band, a
+
+    grey-haired Nazi civil registrar in a brown party uniform holding
+
+    a marriage document, two stiff military aides as witnesses in the
+
+    background, the lighting dim and yellow, the visual of "a wedding
+
+    held forty hours before death". Mid-shot. Clearly the Berlin
+
+    bunker 1945. No Japanese text.
+
+    Character: {hitler}, {eva_braun}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early afternoon April 30 1945, the bunker''s narrow corridor
+
+    outside the private quarters, several anxious German military
+
+    officers and a worried male valet pressed against the wall
+
+    listening intently, their faces tense and grey, a closed wooden
+
+    door at the end of the hallway, a single bare bulb overhead, the
+
+    visual of "the staff waiting for the gunshot they know is coming".
+
+    Tight mid-shot. Clearly the Berlin bunker 1945. No people inside
+
+    the closed room visible. No Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Evening April 30 1945, a damp rubble-strewn garden of the Reich
+
+    Chancellery in central Berlin, several German SS officers in
+
+    field-grey uniforms stand around a shallow shell crater, two
+
+    stretchers wrapped in dark grey wool blankets lie inside the
+
+    crater, jerry-cans of petrol being poured, dark smoke beginning
+
+    to rise, the orange light of burning Berlin in the background,
+
+    the visual of "a hurried cremation under enemy fire". Wide shot.
+
+    Clearly Berlin 1945. No closeup of bodies. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Dawn May 1 1945, the same cramped sitting room of the
+
+    Führerbunker as panel 1, now completely empty, the small floral
+
+    sofa stained and torn, the side table tipped over, the pistol
+
+    gone, the framed photograph cracked on the floor, dust drifting
+
+    in the still air, a single shaft of dim morning light from a vent,
+
+    a low rumble of Soviet tanks above. Tight mid-shot. Clearly the
+
+    abandoned Berlin bunker 1945. No people. No Japanese text.
+
+    '
+ja:
+  title: 'ヒトラー、自殺した最後の24時間 #Shorts'
+  description: '1945年4月30日、ベルリン地下要塞での最後の24時間。
+
+    結婚、遺書、そして自殺——独裁者が選んだ終わり方を、Animeで再構成。
+
+
+    #Shorts #第二次大戦 #ヒトラー #1945 #Berlin
+
+    '
+  hook_caption: ヒトラー、最後の24時間
+  series_brand: バルトゥーン戦争史
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1945年4月30日午後3時半、ベルリン地下10メートルの要塞で、ヒトラーは自分の頭にピストルを向けました。56歳、第二次大戦末期、彼の最後の24時間は、何が起きていたのか?
+    caption: 1945年4月30日、最後の瞬間
+  - panel: p2
+    text: 前日の夜、ベルリン市内では、ソビエト軍がもう500メートル先まで迫っていました。彼が指揮する首都は、燃え尽きる寸前です。
+    caption: ソ連軍はもう500m先まで来ていた
+  - panel: p3
+    text: 死を覚悟したヒトラーは、深夜0時すぎに長年の愛人エヴァ・ブラウンと、急ぎ婚姻届を交わします。彼女と夫婦として死ぬためでした。
+    caption: 死の40時間前に結婚する
+  - panel: p4
+    text: 翌4月30日昼、彼は遺書を口述し終え、午後3時半に部屋へ消えます。廊下では、副官や秘書たちが、来るべき銃声を、息を殺して待っていました。
+    caption: 廊下で銃声を待つ副官たち
+  - panel: p5
+    text: 銃声のあと、遺体は毛布に包まれ、庭の砲弾跡へ運ばれます。ガソリンをかけて燃やしたのは、スターリンに遺体を渡さないためでした。
+    caption: 遺体を焼いたのはソ連対策
+  - panel: p6
+    text: 翌5月1日早朝、要塞の部屋に、もう誰もいません。そして8日後、ドイツは無条件降伏します。一人の自殺から、ヨーロッパの戦争が、ようやく終わるんです。
+    caption: 8日後、ヨーロッパ戦争が終わる
+en:
+  title: 'The Final 24 Hours of Adolf Hitler #Shorts'
+  description: 'April 30, 1945. The final 24 hours inside a Berlin bunker.
+
+    Marriage, a final will, and suicide—a dictator''s end, reconstructed in anime.
+
+    #WWII #History #Hitler #Berlin #Shorts'
+  hook_caption: Inside Hitler's Final Hours
+  series_brand: Webtoon War History
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: On April 30, 1945, deep in a Berlin bunker, a 56-year-old Adolf Hitler prepared to take his own life. This is the story of his final 24 hours.
+    caption: The Dictator's End
+  - panel: p2
+    text: The night before, Soviet forces were closing in, less than 500 meters from his bunker. The city of Berlin was burning to the ground.
+    caption: Berlin in flames
+  - panel: p3
+    text: Resigned to his fate, Hitler married his long-time partner, Eva Braun, in a rushed ceremony just after midnight. He was determined they would die as husband and wife.
+    caption: A midnight wedding
+  - panel: p4
+    text: By the next afternoon, he had dictated his final will. At 3:30 PM, he disappeared into his room as his staff waited outside, holding their breath for the gunshot.
+    caption: Waiting for the shot
+  - panel: p5
+    text: After the shot rang out, their bodies were wrapped in blankets and carried to a shell crater. They were doused in gasoline and burned, to ensure they would never fall into Stalin's hands.
+    caption: No body for Stalin
+  - panel: p6
+    text: By the morning of May 1st, the room was empty. Eight days later, Germany unconditionally surrendered. With one man's suicide, the war in Europe was finally over.
+    caption: The war is over

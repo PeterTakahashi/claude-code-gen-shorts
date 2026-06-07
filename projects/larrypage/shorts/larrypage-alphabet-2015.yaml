@@ -1,0 +1,174 @@
+id: larrypage-alphabet-2015
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2016, the inside of a vast secretive Google X research lab in Mountain View
+
+    California. A 43-year-old Larry Page standing alone with his back to the
+
+    camera, looking up at a large mysterious experimental machine — could be a
+
+    stratospheric balloon rig or a wing of an electric aircraft — glowing soft
+
+    blue under industrial overhead lights, the rest of the cavernous warehouse
+
+    space stretching dark behind him, his small silhouette dwarfed by the
+
+    project. The visual essence of: the founder vanished from Google''s everyday
+
+    world into moonshots. Wide cinematic vertical framing.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    August 10, 2015. A simple minimalist Google press room. Larry Page sitting
+
+    at a small wooden table with a microphone, a single blue-and-white "Alphabet"
+
+    logo on a backdrop behind him, holding up a tablet showing a stylized
+
+    diagram of the new corporate structure with Google as just one box among
+
+    many subsidiaries, his expression calm and quietly confident. Reporters''
+
+    cameras flashing softly in the foreground. The day Google became a
+
+    subsidiary.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A stylized close-up of a simple hand-drawn-looking corporate organizational
+
+    diagram on a white background or whiteboard: at the top, the single word
+
+    "Alphabet" in bold, with lines descending to several equal-sized boxes
+
+    labeled "Google", "Calico", "Loon", "Waymo", "Verily", "X", "DeepMind", all
+
+    siblings. Soft warm lighting on the page, a coffee mug just visible at the
+
+    edge. The visual essence of Larry''s restructuring vision.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    August 2015, a bright sunlit corner inside the Googleplex Mountain View
+
+    campus. Larry Page in his signature casual t-shirt and zip vest standing
+
+    beside Sundar Pichai, both shaking hands warmly, Larry with a quiet half-smile,
+
+    Sundar with a calm dignified smile, soft afternoon California light through
+
+    tall windows, the Mountain View campus visible beyond. The peaceful
+
+    succession — Larry hands the keys of Google to its new CEO.
+
+    Characters: {subject_adult}, {mentor_sundar}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A serene wide shot of three or four enormous translucent stratospheric
+
+    Project Loon balloons drifting silently above the curve of the Earth at
+
+    sunset, deep blue space at the top of the sky, glowing orange-pink horizon
+
+    below, faint outline of continents visible. A single small Alphabet "X" logo
+
+    visible on the side of one balloon. Wonder and scale — the kind of project
+
+    Larry Page wanted to focus on instead of running Google''s everyday business.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late afternoon at the Googleplex in 2019. Larry Page seen from behind,
+
+    walking calmly away down a long sunlit campus path with his back to the
+
+    camera, hands in his pockets, the colorful Google buildings receding behind
+
+    him, golden-hour California light, a faint outline of distant Stanford hills
+
+    ahead, a soft breeze in the trees. The quiet exit of a founder who chose to
+
+    step out of the spotlight. Wide cinematic over-shoulder framing.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: 'CEOを辞めて未来に消えた男 #Shorts'
+  description: '2015年、ラリー・ペイジは、Googleを再編し、Alphabetを設立した。
+
+    彼自身はAlphabet CEOとなり、Googleの日常運営をスンダー・ピチャイに譲って、未来技術へ消えた。
+
+
+    #Shorts #ラリーペイジ #Alphabet #Google #人物伝
+
+    '
+  hook_caption: 未来に消えたGoogle創業者
+  series_brand: ラリー・ペイジ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: Google創業者が、自ら、CEOを辞めて、未来に消えた話です。
+    caption: CEOを辞めて未来に消えた創業者
+  - panel: p2
+    text: 2015年8月、ラリー・ペイジは、Googleを再編し、新会社、Alphabetを設立すると、発表しました。
+    caption: 2015年8月、Alphabetを設立
+  - panel: p3
+    text: Googleは、Alphabetの、1子会社に変わり、CalicoやLoonなどの未来事業と、並列になりました。
+    caption: Googleは1子会社に降格
+  - panel: p4
+    text: そして、Googleの日常運営を、彼は、スンダー・ピチャイに、託したんです。
+    caption: Sundar PichaiにGoogleを託す
+  - panel: p5
+    text: 彼自身は、Alphabet CEOとして、長寿研究のCalicoや、成層圏インターネットのLoonなど、ムーンショットに集中しました。
+    caption: ムーンショットに集中する選択
+  - panel: p6
+    text: その4年後、彼は、Alphabet CEOからも退き、公の場から、ほぼ完全に、姿を消したんです。
+    caption: 4年後、公の場から消える
+en:
+  title: 'He Built Google, Then Vanished #Shorts'
+  description: 'In 2015, Google co-founder Larry Page made a shocking move. He created a new parent company, Alphabet, and handed the keys to Google over to someone else. This is the story of why he stepped
+    away to chase the future.
+
+
+    #Shorts #LarryPage #Google #Alphabet #Tech'
+  hook_caption: He Built Google... Then Fired Himself
+  series_brand: The Larry Page Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: This is the story of how Google's founder stepped down as CEO to disappear into the future.
+    caption: Chasing the Future
+  - panel: p2
+    text: 'In August 2015, Larry Page announced a massive reorganization, creating a new parent company: Alphabet.'
+    caption: 'A New Company: Alphabet'
+  - panel: p3
+    text: Under this new structure, Google itself was demoted to just one of many subsidiaries.
+    caption: Google Demoted
+  - panel: p4
+    text: He handed day-to-day control of the search giant over to its new CEO, Sundar Pichai.
+    caption: Handing Over The Keys
+  - panel: p5
+    text: As CEO of Alphabet, Page was now free to focus entirely on 'moonshots'—radical, futuristic projects.
+    caption: Focus on Moonshots
+  - panel: p6
+    text: But just four years later, he stepped down from that role too, and almost completely vanished from public life.
+    caption: Vanished

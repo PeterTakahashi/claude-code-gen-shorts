@@ -1,0 +1,190 @@
+id: mystery-glico-morinaga
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    March 18 1984 night, a quiet upscale Nishinomiya residential
+
+    street in Hyogo Japan, the front gate of a large traditional
+
+    Japanese home, two unidentified men in dark balaclava ski-masks
+
+    and grey work jackets shoving a 50-something Japanese man in a
+
+    white bathrobe into the back of a small white van, the man''s
+
+    slippers fallen on the wet driveway, no witnesses visible, soft
+
+    sodium streetlight glow, the visual of "the kidnapping that
+
+    started 17 months of terror". Mid-shot. Clearly Japanese
+
+    residential setting 1984. No Japanese text.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late March 1984, a busy modern Japanese convenience store
+
+    interior in Osaka Japan, a young Japanese mother with her small
+
+    child reaching toward a shelf of Glico-branded chocolate boxes,
+
+    a nearby black-and-white printed warning notice taped to the
+
+    shelf in decorative English only reading "DANGER POISON", the
+
+    mother freezing in alarm with her hand pulled back, fluorescent
+
+    lights overhead, the visual of "an entire nation afraid to eat
+
+    candy". Mid-shot. Clearly Japanese convenience store 1984. No
+
+    Japanese text in image.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Spring 1984, a dim cluttered Japanese apartment interior, only
+
+    the gloved hands of an unidentified person visible in tight
+
+    closeup, typing on a 1980s manual typewriter, a half-typed
+
+    taunting letter on cream paper signed in decorative English
+
+    "THE MONSTER WITH 21 FACES", a small folded newspaper beside it
+
+    with grainy headline-style English text, the warm yellow glow
+
+    of a single desk lamp, the visual of "the extortionist who
+
+    played with the police". Tight closeup. Person''s face not
+
+    visible. No Japanese text in image.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    June 28 1984 evening, the lobby of a Hyogo prefecture police
+
+    station Japan, several middle-aged Japanese male detectives in
+
+    dark suits surrounding a worn-out 50-something Japanese male
+
+    executive in a rumpled grey suit who has just walked in alive,
+
+    the executive''s hair disheveled, his face exhausted but relieved,
+
+    flashbulbs popping from off-screen reporters, the visual of "the
+
+    victim escapes after 3 days but the case is just beginning".
+
+    Mid-shot. Clearly Japanese 1984 police station setting. No
+
+    Japanese text.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    November 1984, a rainy night highway service-area parking lot in
+
+    Shiga Japan, a lone unmarked white sedan parked under a flickering
+
+    sodium light, a middle-aged Japanese police detective in a dark
+
+    raincoat crouching beside the car, peering through binoculars at
+
+    a distant figure on a hillside, the visual of "the suspect in the
+
+    cap police saw but couldn''t catch". Wide shot. Clearly Japanese
+
+    1984 highway setting. No Japanese text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Present day 2026, the same quiet Nishinomiya residential street
+
+    in Hyogo Japan as panel 1, the same front gate of the now older
+
+    traditional Japanese home, no van, no kidnappers, no victim,
+
+    just the empty wet driveway in soft modern LED streetlight glow,
+
+    a small weathered news clipping pinned to a nearby utility
+
+    pole with decorative faded English label "UNSOLVED — 42 YEARS",
+
+    the visual of "the case time forgot but never solved". Wide shot.
+
+    Clearly Japanese residential 2026 setting. No Japanese text.
+
+    '
+ja:
+  title: 'グリコ森永事件、42年経った今 #Shorts'
+  description: '1984年、社長誘拐から始まり、お菓子に青酸カリを混入。「かい人21面相」と名乗る犯人は、警察を翻弄し続けた末に、消えた。
+
+    時効から25年経った今も未解決の、戦後最大の劇場型犯罪を、Animeで。
+
+
+    #Shorts #グリコ森永事件 #未解決 #劇場型犯罪 #1984
+
+    '
+  hook_caption: グリコ森永、42年経った今
+  series_brand: バルトゥーン未解決事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1984年3月18日夜、兵庫県西宮で、Glicoの社長が、覆面の男たちに、自宅の風呂場から誘拐されました。ここから、17か月続く戦後最大の劇場型犯罪が、始まります。
+    caption: 1984年、社長が風呂場から誘拐
+  - panel: p2
+    text: 犯人は身代金10億円を要求し、応じないと見るや、コンビニのお菓子に青酸カリを混入させると脅迫しました。実際に毒入り商品が見つかり、全国の店頭から、お菓子が一斉に消えます。
+    caption: お菓子に青酸カリ、店頭から消える
+  - panel: p3
+    text: 犯人は警察やマスコミに、英文で「かい人21面相」と署名した挑戦状を、何十通も送りつけました。手口の派手さから「劇場型犯罪」という言葉が、日本で生まれます。
+    caption: 「かい人21面相」の挑戦状
+  - panel: p4
+    text: 誘拐から3日後、社長は自力で監禁先から脱出します。しかし犯人は捕まらず、矛先をMorinaga、House食品など、他の大手食品メーカーに、次々と移していきました。
+    caption: 標的はMorinagaなど他社へ拡大
+  - panel: p5
+    text: 警察は何度も犯人に肉薄しますが、覆面パトカーから降りた瞬間を目撃された「キツネ目の男」を含め、ことごとく逃げられました。
+    caption: 「キツネ目の男」も取り逃がす
+  - panel: p6
+    text: そして17年後の2000年に時効が成立し、42年経った今も、犯人は誰一人として、特定されていません。日本警察が完敗した、唯一の事件なんです。
+    caption: 2000年に時効、警察完敗の事件
+en:
+  title: 'Japan''s Greatest Unsolved Mystery: The Monster with 21 Faces #Shorts'
+  description: 'In 1984, a mysterious criminal gang calling itself ''The Monster with 21 Faces'' kidnapped a candy CEO, poisoned store shelves, and taunted police for 17 months before vanishing. The case
+    remains completely unsolved.
+
+
+    #Shorts #UnsolvedMysteries #TrueCrime #Japan #GlicoMorinaga'
+  hook_caption: The Phantom Criminals Who Taunted All of Japan
+  series_brand: Bartoon Unsolved Mysteries
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: It began on a quiet night in 1984. Masked men kidnapped the president of Japan's biggest candy company, Glico... right out of his own bathtub.
+    caption: Kidnapped from his bath
+  - panel: p2
+    text: When their ransom demands failed, they began lacing candy with cyanide and leaving it on store shelves, sparking a nationwide panic.
+    caption: Poison in the candy aisle
+  - panel: p3
+    text: Calling themselves 'The Monster with 21 Faces,' they sent dozens of taunting letters to police and the media, turning their crime into a public spectacle.
+    caption: The Monster with 21 Faces
+  - panel: p4
+    text: The CEO miraculously escaped, but the Monster just expanded its targets to rival food companies, continuing the campaign of terror.
+    caption: The terror spreads
+  - panel: p5
+    text: Police had multiple chances to catch them, even identifying a key suspect known as the 'Fox-Eyed Man.' But every single time, the criminals slipped right through their fingers.
+    caption: Always one step ahead
+  - panel: p6
+    text: After 17 months, they just... vanished. The statute of limitations has long expired, and to this day, no one knows who they were. It remains Japan's most humiliating police failure.
+    caption: A perfect, unsolved crime

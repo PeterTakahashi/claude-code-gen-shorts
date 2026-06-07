@@ -1,0 +1,68 @@
+id: math-banach-tarski
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A clean math illustration of a single solid orange sphere on a soft pastel background,
+      then a magical split showing the same sphere becoming two identical solid spheres of
+      the exact same size, a decorative English caption "1 BALL → 2 IDENTICAL BALLS", the
+      visual of "one ball can be cut and reassembled into two of the same size". Bright,
+      curious infographic style.
+  - id: p2
+    prompt: |
+      An infographic of the sphere being broken into 5 strange jagged pieces of impossible
+      complexity, each piece labeled in decorative English "PIECE 1" through "PIECE 5",
+      the visual of "only five pieces are needed". Clean math illustration with abstract
+      shapes.
+  - id: p3
+    prompt: |
+      An infographic showing two arrows from the same 5 pieces rebuilding into TWO full
+      spheres side by side, both identical to the original, a decorative English caption
+      "NO STRETCHING / NO COPYING", the visual of "the pieces are only rotated and moved".
+      Clean math diagram.
+  - id: p4
+    prompt: |
+      A whimsical infographic of a small cartoon mathematician looking shocked next to a
+      decorative English headline "PROVEN 1924 / BANACH & TARSKI", two portraits of early
+      20th century European mathematicians in suits drawn in chibi style, the visual of
+      "this was proven by two Polish mathematicians in 1924". Curious infographic style.
+  - id: p5
+    prompt: |
+      An infographic explanation panel, a decorative English caption "THE PIECES ARE NOT
+      MEASURABLE", a stylized abstract dust-cloud shape, a small icon showing "ATOMS" with
+      a red X over it, the visual of "the pieces are infinitely complex point-sets — not
+      possible in the real world of atoms". Clean math infographic.
+  - id: p6
+    prompt: |
+      A thoughtful illustration of two glowing identical spheres floating side by side
+      against a deep navy mathematical background, a single soft beam of light between
+      them, the loop image of "the theorem that broke our idea of volume". Calm, wondrous
+      tone.
+ja:
+  title: 'バナッハ・タルスキの定理、1個の球が2個になる数学 #Shorts'
+  description: |
+    1個の球を5つの破片に分けて、伸ばさずに組み直すだけで、まったく同じサイズの球が2個できる。1924年に証明された「バナッハ・タルスキのパラドックス」を30秒で解説します。
+
+    #Shorts #数学 #バナッハタルスキ #パラドックス #雑学
+  hook_caption: 1個の球が2個になる定理
+  series_brand: 直感を裏切る数学
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 1個の球を切り分けて組み直しただけで、まったく同じサイズの球が、2個できる。そんな定理が、本当に証明されています。
+      caption: 1個の球から2個の球が作れる
+    - panel: p2
+      text: しかも必要な破片は、たった5個。ぐにゃっと伸ばしたり、コピーを足したりは、一切しません。
+      caption: 必要な破片はたった5個
+    - panel: p3
+      text: 切り分けた5つの破片を、回転させて並べ直すだけで、元と同じ大きさの球が、2個、現れるんです。明らかに、体積が合っていません。
+      caption: 回転と移動だけで球が2倍に
+    - panel: p4
+      text: これは1924年に、ポーランドの数学者バナッハとタルスキが、論理的に厳密に、証明しました。隙のない、数学の定理なんです。
+      caption: 1924年バナッハとタルスキが証明
+    - panel: p5
+      text: 種明かしをすると、ここで使う「破片」は、原子のような物質ではなく、無限に細かい点の集まりで、体積という概念が、そもそも定義できないんです。
+      caption: 破片は体積が定義できない点の集合
+    - panel: p6
+      text: つまり現実の物体では、絶対にできません。それでも数学の世界では、1が2になる。「無限」が絡むと、世界の常識が、こうも壊れるんです。
+      caption: 数学の世界では1が2に化ける

@@ -1,0 +1,194 @@
+id: mystery-fukuda-kazuko-1982
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic mirror shot — a 33-year-old Japanese woman''s
+
+    half-bandaged face staring at her own reflection in a cracked compact
+
+    mirror, fresh surgical bandages wrapped around her nose and jawline, only
+
+    her dark unblinking eyes and a thin smear of red lipstick visible, the
+
+    reflection showing a slightly different unfamiliar face emerging from
+
+    beneath the bandage — sharper cheekbones, a different nose shape, the
+
+    visual of "the face she used to escape herself." Soft sodium hotel-room
+
+    light, a Japanese newspaper headline 「指名手配」 in soft focus behind her.
+
+    Subject filling the square center for vertical short layout with blurred
+
+    padding above/below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    August 19 1982 a dim back room of a small Matsuyama Ehime Japan
+
+    countryside snack bar at night, mid-shot showing a 34-year-old Japanese
+
+    hostess in a faded floral dress lying motionless on tatami beside an
+
+    overturned sake bottle, the silhouette of another woman in her late 20s
+
+    with shoulder-length permed black hair — Kazuko Fukuda — standing over
+
+    her clutching a small bundle of 5,000-yen notes, her face shadowed but
+
+    her wide panicked eyes catching the light. Decorative Japanese signage
+
+    「松山」 readable in soft focus. The visual of "the night she became a
+
+    murderer for a bundle of cash."
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    A 1985 small back-alley plastic surgery clinic somewhere in regional
+
+    Japan at night, mid-shot of the same woman — Kazuko Fukuda — lying on
+
+    a green vinyl operating chair with her face half-covered in surgical
+
+    drapes, only her wide darting eyes visible above the cloth, a 50-year-
+
+    old male Japanese surgeon in a faded white coat and round glasses leaning
+
+    over with a scalpel, a single bare bulb overhead, a stack of unmarked
+
+    cash envelopes sitting on a metal tray beside her. The visual of "the
+
+    first of many faces she would buy."
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern infographic on cream background, decorative bold English
+
+    headline "15 YEARS — 7 IDENTITIES" centered, four small chibi-portraits
+
+    of the same woman arranged in a horizontal row beneath labeled in
+
+    decorative English "1985 / 1988 / 1992 / 1996", each face subtly
+
+    different, smaller decorative Japanese label 「指名手配中の整形15年」
+
+    readable beneath, a tiny floating Japan map with red pins marking 「松山
+
+    → 大阪 → 名古屋 → 福井」. The visual of "the woman who became seven
+
+    different people."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    July 29 1997 inside a small Fukui Japan snack bar interior at night,
+
+    mid-shot of the now 49-year-old Kazuko Fukuda in a quiet purple kimono
+
+    apron working behind the counter pouring sake for a salaryman customer
+
+    with her back to the entrance, while two Japanese plain-clothes
+
+    detectives in dark suits step quietly through the front noren curtain
+
+    with police badges held discreetly out, her hand frozen mid-pour as
+
+    she catches their reflection in a small mirror behind the bar. A small
+
+    red public payphone visible in the corner. The visual of "the anonymous
+
+    tip that ended 15 years of running."
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic mirror shot composition as panel 1 —
+
+    but this time the cracked compact mirror is sitting alone on a cold
+
+    Fukui police interrogation room table, no longer in her hand, the
+
+    bandages now removed and discarded beside it, the lipstick smudged
+
+    and broken, a single thin decorative Japanese caption 「15年、終了」
+
+    barely readable on a small evidence tag, soft cold fluorescent light
+
+    from above. The loop image of "the woman who finally ran out of
+
+    faces." Subject filling the square frame for vertical short with
+
+    blurred padding above/below.
+
+    '
+ja:
+  title: '福田和子、15年逃げ続けた整形殺人犯 #Shorts'
+  description: '44年前の1982年、愛媛・松山で、ホステス殺害事件が起きました。犯人の福田和子は、奪った現金で、整形を繰り返しながら、15年、日本中を、逃げ回ったんです。
+
+    彼女が、最後に捕まったきっかけは、たった一本の、匿名電話でした。
+
+
+    #Shorts #福田和子 #未解決 #実話 #昭和事件史
+
+    '
+  hook_caption: 整形で15年逃げた女
+  series_brand: 福田和子事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 自分の顔を、7回作り変えて、15年、日本中を逃げ切った女がいたことを、知っていますか? 名前は、福田和子です。
+    caption: 顔を7回変えて15年逃げた女
+  - panel: p2
+    text: 44年前の1982年8月に、愛媛・松山で、彼女は、同僚のホステスを殺害し、200万円を奪って、その夜のうちに、姿を消しました。
+    caption: 44年前の1982年、松山で同僚殺害
+  - panel: p3
+    text: 福田は、奪った現金で、まず大阪の闇医者を訪ね、顔の整形手術を、受けます。鼻、頬骨、まぶた——彼女は、自分の顔を、買い替え始めたんです。
+    caption: 奪った金で顔を買い替える
+  - panel: p4
+    text: それから15年、彼女は7つの偽名と、7つの顔を使い分けながら、松山、大阪、名古屋、福井と、ホステスとして、転々と働いていました。
+    caption: 7つの名前、7つの顔で転々と
+  - panel: p5
+    text: 時効まで、わずか21日と迫った1997年7月、福井のスナックに、たった一本の匿名電話が、入ります——「あの店の女、整形した福田だ」と。
+    caption: 時効21日前、たった一本の匿名電話
+  - panel: p6
+    text: 警察が踏み込んだとき、彼女は、49歳になっていました。15年の逃亡は、自分の顔を、捨て続けた人生。それでも、最後の顔だけは、捨てられなかったんです。
+    caption: 最後の顔だけは捨てられなかった
+en:
+  title: 'The Killer Who Had 7 Faces to Escape Justice #Shorts'
+  description: 'The shocking true story of Kazuko Fukuda. After committing murder in 1982, she evaded capture for nearly 15 years by repeatedly undergoing plastic surgery and living under a series of false
+    identities.
+
+
+    #Shorts #TrueCrime #Japan #KazukoFukuda #History'
+  hook_caption: She Had 7 Faces To Escape One Crime
+  series_brand: The Kazuko Fukuda Case
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 1982, a hostess in a small Japanese town was murdered. The killer, Kazuko Fukuda, vanished into the night.
+    caption: A killer vanishes
+  - panel: p3
+    text: Using stolen cash, she paid back-alley surgeons to change her face, piece by piece, again and again.
+    caption: Buying a new identity
+  - panel: p4
+    text: For the next 15 years, she lived under seven different aliases with seven different faces, hiding in plain sight.
+    caption: 7 names, 7 faces
+  - panel: p1
+    text: She was constantly running, not just from the law, but from the person she saw in the mirror.
+    caption: Running from herself
+  - panel: p5
+    text: But with just 21 days until she was legally in the clear, an anonymous phone call finally exposed her.
+    caption: Caught at the last second
+  - panel: p6
+    text: After nearly 15 years of escaping her own reflection, the chase was finally over.
+    caption: The chase ends

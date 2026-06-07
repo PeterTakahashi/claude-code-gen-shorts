@@ -1,0 +1,91 @@
+# English proper nouns and number/date readings for Aivis TTS.
+# Subtitle text keeps the Roman / Arabic form; this lexicon only rewrites
+# the string that goes to OpenJTalk G2P so the audio sounds natural.
+#
+# When adding a new entry, prefer the *full* form so a longer surface wins
+# over its prefix substring (the lexicon sorts by length descending).
+
+words:
+  # ===== Companies / products =====
+  - { surface: "SpaceX",       reading: "すぺーすえっくす",   kind: name }
+  - { surface: "Tesla",        reading: "てすら",              kind: name }
+  - { surface: "Roadster",     reading: "ろーどすたー",        kind: name }
+  - { surface: "Falcon 1",     reading: "ふぁるこんわん",      kind: name }
+  - { surface: "Falcon1",      reading: "ふぁるこんわん",      kind: name }
+  - { surface: "Merlin",       reading: "まーりん",            kind: name }
+  - { surface: "NASA",         reading: "なさ",                kind: name }
+  - { surface: "PayPal",       reading: "ぺいぱる",            kind: name }
+  - { surface: "Paypal",       reading: "ぺいぱる",            kind: name }
+  - { surface: "eBay",         reading: "いーべい",            kind: name }
+  - { surface: "ebay",         reading: "いーべい",            kind: name }
+  - { surface: "EBay",         reading: "いーべい",            kind: name }
+  - { surface: "Zip2",         reading: "じっぷつー",          kind: name }
+  - { surface: "Zip 2",        reading: "じっぷつー",          kind: name }
+  - { surface: "Compaq",       reading: "こんぱっく",          kind: name }
+  - { surface: "Confinity",    reading: "こんふぃにてぃ",      kind: name }
+  - { surface: "X.com",        reading: "えっくすどっとこむ",  kind: name }
+  - { surface: "Knight Ridder", reading: "ないとりっだー",     kind: name }
+  - { surface: "Yahoo",        reading: "やふー",              kind: name }
+  - { surface: "VIC-20",       reading: "ぶいあいしーにじゅう", kind: name }
+  - { surface: "Commodore",    reading: "こもどーる",          kind: name }
+  - { surface: "Lehman",       reading: "りーまん",            kind: name }
+  - { surface: "Wharton",      reading: "うぉーとん",          kind: name }
+
+  # ===== People (Roman-spelled names) =====
+  - { surface: "Elon Musk",    reading: "いーろん・ますく",    kind: name }
+  - { surface: "Peter Thiel",  reading: "ぴーたー・てぃーる",  kind: name }
+  - { surface: "Justine",      reading: "じゃすてぃん",        kind: name }
+  - { surface: "Kimbal",       reading: "きんばる",            kind: name }
+  - { surface: "Errol",        reading: "えろーる",            kind: name }
+  - { surface: "Maye",         reading: "めい",                kind: name }
+  - { surface: "Eberhard",     reading: "えばーはーど",        kind: name }
+  - { surface: "Tarpenning",   reading: "たーぺにんぐ",        kind: name }
+  - { surface: "Straubel",     reading: "すとろーべる",        kind: name }
+  - { surface: "JB",           reading: "じぇいびー",          kind: name }
+  - { surface: "Sagan",        reading: "せーがん",            kind: name }
+  - { surface: "Carl Sagan",   reading: "かーる・せーがん",    kind: name }
+
+  # ===== Places =====
+  - { surface: "Pretoria",     reading: "ぷれとりあ",          kind: place }
+  - { surface: "Palo Alto",    reading: "ぱろあると",          kind: place }
+  - { surface: "El Segundo",   reading: "えるせぐんど",        kind: place }
+  - { surface: "Kwajalein",    reading: "くぇぜりん",          kind: place }
+  - { surface: "Omelek",       reading: "おーめれく",          kind: place }
+  - { surface: "Moscow",       reading: "もすくわ",            kind: place }
+  - { surface: "Toronto",      reading: "とろんと",            kind: place }
+  - { surface: "Penn",         reading: "ぺん",                kind: place }
+
+  # ===== Ch3 v2 additions =====
+  - { surface: "McLaren F1",   reading: "まくらーれんえふわん",  kind: name }
+  - { surface: "McLaren",      reading: "まくらーれん",          kind: name }
+
+  # ===== Ch6+ additions =====
+  - { surface: "Grasshopper",  reading: "ぐらすほっぱー",      kind: name }
+  - { surface: "New York Times", reading: "にゅーよーくたいむず", kind: name }
+  - { surface: "NUMMI",        reading: "ぬーみー",            kind: name }
+
+  # ===== Ch5+ additions =====
+  - { surface: "Model S",      reading: "もでるえす",          kind: name }
+  - { surface: "Falcon 9",     reading: "ふぁるこんないん",    kind: name }
+  - { surface: "Falcon9",      reading: "ふぁるこんないん",    kind: name }
+  - { surface: "Dragon",       reading: "どらごん",            kind: name }
+  - { surface: "Cape Canaveral", reading: "けーぷかなべらる",  kind: place }
+  - { surface: "Christmas Eve",  reading: "くりすますいぶ",    kind: name }
+  - { surface: "Series E",     reading: "しりーずいー",        kind: name }
+  - { surface: "ORBIT ACHIEVED", reading: "おーびっとあちーぶど", kind: name }
+  - { surface: "Mars",         reading: "まーず",              kind: name }
+
+  # ===== Common date readings (force natural Japanese pronunciation) =====
+  - { surface: "1971年",       reading: "せんきゅうひゃくななじゅういちねん",   kind: date }
+  - { surface: "1983年",       reading: "せんきゅうひゃくはちじゅうさんねん",   kind: date }
+  - { surface: "1989年",       reading: "せんきゅうひゃくはちじゅうきゅうねん", kind: date }
+  - { surface: "1995年",       reading: "せんきゅうひゃくきゅうじゅうごねん",   kind: date }
+  - { surface: "1999年",       reading: "せんきゅうひゃくきゅうじゅうきゅうねん", kind: date }
+  - { surface: "2001年",       reading: "にせんいちねん",                       kind: date }
+  - { surface: "2002年",       reading: "にせんにねん",                         kind: date }
+  - { surface: "2003年",       reading: "にせんさんねん",                       kind: date }
+  - { surface: "2004年",       reading: "にせんよねん",                         kind: date }
+  - { surface: "2005年",       reading: "にせんごねん",                         kind: date }
+  - { surface: "2006年",       reading: "にせんろくねん",                       kind: date }
+  - { surface: "2007年",       reading: "にせんななねん",                       kind: date }
+  - { surface: "2008年",       reading: "にせんはちねん",                       kind: date }

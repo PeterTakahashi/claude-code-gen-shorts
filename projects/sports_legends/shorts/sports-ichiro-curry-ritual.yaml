@@ -1,0 +1,203 @@
+id: sports-ichiro-curry-ritual
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 2004 Seattle United States, interior of the Seattle
+
+    Mariners home clubhouse on a game-day morning, a 30-year-old
+
+    Japanese professional baseball player in grey training t-shirt
+
+    sitting alone at a small wooden table, in front of him a
+
+    single plain white plate of homemade Japanese-style curry
+
+    rice with a precise placement, a fork held in his hand,
+
+    his expression calm contemplative and meditative, soft morning
+
+    light from high windows, the visual of "the same plate of
+
+    curry, the same time, every single game-day for years". Mid
+
+    close-up. Clearly American major-league clubhouse setting.
+
+    No Japanese text.
+
+    Character: {ichiro}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Wider shot of the same 2004 Seattle Mariners clubhouse, the
+
+    lone Japanese player at his table with his plate of curry
+
+    while in the background several large white American teammates
+
+    in casual clothes chat noisily eating cheeseburgers and pizza
+
+    from a buffet table, a clubhouse clock on the wall reading
+
+    exactly 11:00 AM, the visual of "the man who eats the same
+
+    thing while everyone else changes daily" — quiet isolation
+
+    framed not as loneliness but as discipline. Wide shot.
+
+    Clearly American clubhouse. Decorative English wall clock
+
+    labels only. No Japanese text.
+
+    Character: {ichiro}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Close-up of a typed daily schedule sheet pinned inside a
+
+    locker, decorative English handwritten time-blocks reading
+
+    "STRETCH 9:00 / CURRY 11:00 / BAT-PREP 12:30 / WARMUP 1:15
+
+    / FIRST PITCH 2:05", a small framed photograph of the same
+
+    Japanese ballplayer''s bat tucked beside it, the visual of
+
+    "a life sliced into identical days on purpose". Macro shot.
+
+    No people. Clearly American locker-room setting. No Japanese
+
+    text in image.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 2004 Seattle Safeco Field stadium during a home game,
+
+    the same 30-year-old Japanese player in Seattle Mariners
+
+    white home uniform number 51 stepping into the batters box
+
+    with intense focused eyes, gripping the bat in his exact
+
+    signature pre-pitch ritual posture, late afternoon stadium
+
+    sunlight glowing on the field, packed crowd visible blurred
+
+    in the background. Mid-shot. Clearly American MLB stadium
+
+    setting. No Japanese text.
+
+    Character: {ichiro}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The same player frozen in mid-swing connecting with a fastball,
+
+    a sharp white line-drive ball captured streaking off the bat,
+
+    a large stadium scoreboard in the background showing decorative
+
+    English text "262 HITS — MLB SINGLE SEASON RECORD", the visual
+
+    of "the all-time single-season hit record set in this very
+
+    year of 2004 by the man who ate the same curry every morning".
+
+    Wide dynamic shot. Clearly American MLB stadium. No Japanese
+
+    text other than scoreboard English.
+
+    Character: {ichiro}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Back to the same quiet Seattle clubhouse the next morning,
+
+    the same 30-year-old Japanese player in grey training t-shirt
+
+    seated at the same wooden table with the same single plate of
+
+    curry rice on a plain white plate, the morning light identical
+
+    to panel 1, his expression calm and unchanged — visual loop
+
+    callback to panel 1, the message of "262 hits, and tomorrow''s
+
+    breakfast is still curry". Mid close-up. Clearly American
+
+    clubhouse setting. No Japanese text.
+
+    Character: {ichiro}.
+
+    '
+ja:
+  title: 'イチローが毎朝、同じ時間にカレーを食べた理由 #Shorts'
+  description: 'シアトル時代のイチローは、試合日には毎朝、同じ時間に、同じカレーを食べていた。
+
+    なぜ彼は、変化ではなく、徹底した「同じ」を選んだのか。
+
+
+    #Shorts #イチロー #Ichiro #ルーティン #野球 #伝説
+
+    '
+  hook_caption: 同じカレー、262本の理由
+  series_brand: バルトゥーンスポーツ選手伝説
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「シーズン中、毎朝、同じ時間に、同じカレーを食べていた選手がいた」——22年前のシアトルにいた、ある日本人の話を知っていますか?
+    caption: 毎朝同じカレーを食べる選手
+  - panel: p2
+    text: 当時30歳のイチローは、試合日には朝11時、ほぼ判で押したように、奥さんが用意したカレーを、一人で静かに食べていました。
+    caption: 朝11時、判で押したように
+  - panel: p3
+    text: 彼は変数を、極端に嫌った人でした。食事も、ストレッチも、バット入れの順番すら、同じ。「同じ」を守ることで、自分の状態を、正確に読めるからです。
+    caption: 「同じ」を守れば自分が見える
+  - panel: p4
+    text: コンディションが、わずかにブレた日、いつもと違うのは、自分の体だけ——だからこそ、立ち位置や、振りの調整が、ミリ単位でできた。
+    caption: 体のブレが、ミリ単位で見える
+  - panel: p5
+    text: その2004年、イチローはシーズン262安打という、84年破られなかったMLB記録を、塗り替えました。
+    caption: 2004年、262安打のMLB新記録
+  - panel: p6
+    text: 記録を出した翌朝も、彼はまた、同じ時間に、同じカレーを食べた——天才ではなく、変えないことを選び続けた、人間の話です。
+    caption: 翌朝もまた、同じカレー
+en:
+  title: 'Why This MLB Legend Ate the Same Meal Every Day #Shorts'
+  description: 'During his record-breaking 2004 season, Ichiro Suzuki ate the same curry before every single game. This wasn''t a superstition; it was the secret to his legendary precision.
+
+
+    #Shorts #Ichiro #Baseball #MLB #History'
+  hook_caption: His Pre-Game Meal Broke an 84-Year Record
+  series_brand: 'Valiant Toons: Sports Legends'
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In 2004, Seattle Mariners star Ichiro Suzuki had a strange pre-game ritual.
+    caption: A Strange Ritual
+  - panel: p2
+    text: 'Every single game day, at the exact same time, he would eat the same meal: a plate of his wife''s curry.'
+    caption: Same Time, Same Meal
+  - panel: p3
+    text: But this wasn't superstition. Ichiro was obsessed with eliminating variables from his routine.
+    caption: Eliminating Variables
+  - panel: p4
+    text: By keeping everything else constant, he could instantly detect the tiniest changes in his own body.
+    caption: A Perfect Baseline
+  - panel: p5
+    text: This focus allowed him to make micro-adjustments at the plate, leading to 262 hits and shattering an 84-year-old MLB record.
+    caption: An 84-Year Record Broken
+  - panel: p6
+    text: The very next morning, he was back at it. A testament not to genius, but to incredible discipline.
+    caption: The Master of Discipline

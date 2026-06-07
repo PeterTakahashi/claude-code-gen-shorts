@@ -1,0 +1,229 @@
+id: war-tojo-last-48h
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic close-up of a single Colt .32 caliber pistol resting
+
+    on a small dark lacquered wooden side table inside a quiet Japanese-
+
+    style room, the pistol''s brass tip glinting faintly, beside it a
+
+    folded white handwritten will in vertical Japanese calligraphy
+
+    readable as decorative kanji 「遺書」 stamped in red ink at the top,
+
+    a small black-and-white framed family photograph turned slightly
+
+    away, soft late afternoon golden light slanting through paper shoji
+
+    screens, the visual of "the 48 hours before he pulled the trigger".
+
+    Subject filling square center for vertical short layout with blurred
+
+    padding above and below. Clearly September 1945 Tokyo Japan
+
+    residence setting. Decorative kanji on the will OK.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    September 1945 daytime, mid-shot of a 60-year-old Japanese former
+
+    prime minister standing alone at the genkan entrance of a modest
+
+    wooden Tokyo Setagaya residence, clean-shaven angular face with
+
+    prominent cheekbones, round wire-rimmed eyeglasses, close-cropped
+
+    iron-grey hair shaved high on the sides, a thin neatly-trimmed
+
+    grey toothbrush mustache, a plain dark civilian three-piece wool
+
+    suit with a white dress shirt and dark necktie, hands clasped
+
+    quietly in front of him, the visual of "the man the world wanted
+
+    to hang waiting at his door". Outside the gate behind him, a small
+
+    group of Japanese reporters in dark suits with cameras and a few
+
+    curious neighbors gathering, late summer cicadas faintly suggested
+
+    in shimmering background air, soft warm late-afternoon light.
+
+    Clearly Tokyo Japan September 1945 setting. Mid-shot.
+
+    Character: {tojo}.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Inside a quiet tatami-mat washitsu room of the same Tokyo Setagaya
+
+    residence, September 11 1945 afternoon, the same 60-year-old Japanese
+
+    former prime minister now in a plain dark civilian three-piece suit
+
+    sitting alone at a low cedar writing desk, writing in fluid vertical
+
+    Japanese calligraphy onto a long sheet of white washi paper with a
+
+    black brush, his face calm and resigned, an inkstone and water
+
+    dropper beside him, the same Colt .32 pistol from panel 1 visible
+
+    on the side table behind, a small framed photograph of his family
+
+    on the tokonoma alcove, soft amber afternoon light through paper
+
+    shoji, the visual of "writing his final words while he still has
+
+    time". Mid-shot. Clearly Tokyo Japan September 1945 residence
+
+    setting. Decorative kanji on the paper readable but small.
+
+    Character: {tojo}.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern infographic on warm cream background, a horizontal
+
+    decorative English timeline running across the frame, on the left
+
+    side a small decorative English label "SEP 10 1945 — MACARTHUR
+
+    ORDERS ARREST", in the middle a stylized icon of a pistol with
+
+    decorative English caption "SEP 11 1945 — SUICIDE ATTEMPT — SHOT
+
+    THROUGH CHEST — SURVIVED", on the right side a stylized icon of a
+
+    noose with decorative English caption "DEC 23 1948 — HANGED AT
+
+    SUGAMO PRISON", the visual of "from arrest order to execution —
+
+    three years, one failed bullet". Pure infographic composition.
+
+    Decorative English text only. No people.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Late afternoon September 11 1945, exterior wide mid-shot of the
+
+    front gate of the same modest wooden Tokyo Setagaya residence, four
+
+    American military police officers in olive-drab US Army uniforms
+
+    with white "MP" armbands and white helmets striding briskly up the
+
+    stone walkway toward the entrance, one US Army officer in the lead
+
+    carrying a clipboard, a Japanese household maid frozen at the open
+
+    shoji door in shock, a distant muffled single gunshot sound
+
+    suggested by a small puff of smoke from a window of the residence,
+
+    the visual of "the MPs arrive just as the gun goes off". Clearly
+
+    Tokyo Japan September 11 1945 setting. Decorative kanji on the
+
+    gate plaque 「東條」 readable. Wide mid-shot.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic close-up framing as panel 1 of the small dark
+
+    lacquered wooden side table inside the quiet Japanese-style room,
+
+    this time slightly later — the Colt .32 pistol now toppled
+
+    sideways on the table, the folded white handwritten will 「遺書」
+
+    with the red ink stamp still beside it but slightly unfolded
+
+    showing more vertical kanji calligraphy, the small black-and-white
+
+    framed family photograph now lying face down, a tiny spot of dark
+
+    red faintly visible on the floor edge, soft golden late-afternoon
+
+    light cooler than panel 1, the loop image of "the bullet that
+
+    missed — and the trial that finished what the gun could not".
+
+    Subject filling square center for vertical short layout with
+
+    blurred padding above and below.
+
+    '
+ja:
+  title: '東條英機 最後の48時間 #Shorts'
+  description: '81年前の1945年9月、敗戦からまもなく、元首相 東條英機が、自宅で自決を図りました。
+
+    そして3年後、絞首刑に処せられた東條の、最後の48時間を、30秒で再構成します。
+
+
+    #Shorts #第二次大戦 #東條英機 #1945 #戦後日本
+
+    '
+  hook_caption: 東條英機 最後の48時間
+  series_brand: 東條最期
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 81年前の1945年9月、東京の自宅で、元首相 東條英機が、自分の胸にピストルを向けたことを、ご存じですか?敗戦のわずか1か月後の出来事です。
+    caption: 1945年9月、自決を図った元首相
+  - panel: p2
+    text: 9月10日、GHQ最高司令官マッカーサーが、東條の戦犯としての逮捕を命じたので、世田谷の自宅前には、米軍憲兵を待つ報道陣が、詰めかけていました。
+    caption: 9月10日、GHQが逮捕命令を発出
+  - panel: p3
+    text: 翌11日午後、東條は、自宅の和室で、家族と国民に宛てた遺書を、淡々と筆で、書き終えました。机の傍らには、米国製のコルト32口径が、置いてありました。
+    caption: 9月11日午後、遺書を書き終える
+  - panel: p4
+    text: しかし、彼の自決は、失敗します。胸を撃ったものの、心臓を僅かに外したので、米軍憲兵に発見され、輸血を受けて、一命を取り留めました。
+    caption: 心臓を僅かに外し、一命を取り留める
+  - panel: p5
+    text: 玄関先に米軍憲兵が踏み込んだのと、ほぼ同時に、屋内から銃声が響いたのです。東條は救急搬送され、東京裁判の被告として、3年を生き延びることに、なりました。
+    caption: 米軍憲兵到着と同時に、銃声が響く
+  - panel: p6
+    text: そして、3年後の1948年12月23日、東條は巣鴨拘置所で、A級戦犯として絞首刑に処せられました。コルトの弾丸が外したものを、絞首台が、引き継ぐ形に、なりました。
+    caption: 3年後、絞首刑で人生を閉じる
+en:
+  title: 'Why Japan''s Wartime Leader Botched His Final Act #Shorts'
+  description: 'In September 1945, former Prime Minister Hideki Tojo attempted suicide to escape trial. He failed. This is the story of his final days and his ultimate fate.
+
+
+    #History #WW2 #Tojo #Japan #Shorts'
+  hook_caption: His Final Act of Defiance Failed
+  series_brand: The Last Stand
+  voice_speaker: Ryan
+  narration:
+  - panel: p5
+    text: In September 1945, as American MPs stormed his Tokyo home, a single gunshot rang out from inside.
+    caption: A Single Gunshot
+  - panel: p2
+    text: They were there to arrest Japan's former prime minister, Hideki Tojo, as a wanted war criminal following the nation's surrender.
+    caption: Wanted
+  - panel: p3
+    text: But Tojo had his own plan. Choosing death over capture, he had calmly finished writing his final letters to his family.
+    caption: Choosing His Fate
+  - panel: p1
+    text: He took a Colt .32 pistol, aimed it at his own heart, and pulled the trigger.
+    caption: The Attempt
+  - panel: p4
+    text: Incredibly, the bullet missed its mark. The American soldiers found him wounded but alive and rushed him to a hospital, saving his life.
+    caption: He Survived
+  - panel: p6
+    text: Tojo would live for three more years, only to be tried and executed by hanging. The gallows finished what the bullet could not.
+    caption: An Unavoidable End

@@ -1,0 +1,170 @@
+id: fujita-ameba-blog
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid 2000s Tokyo, a young Japanese female celebrity (generic, not a real
+
+    person — long brown hair, fashionable casual dress) sitting in a stylish
+
+    apartment with soft afternoon light, typing on a sleek laptop, the screen
+
+    faintly showing an Ameblo-style blog interface in pink and white, her
+
+    face animated with the joy of a personal post about to go live. Around
+
+    her, a faint imagined swirl of thousands of fan comments floating in
+
+    the air as motion lines. The exact moment a celebrity blog goes viral.
+
+    Mid-shot, no logos.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2004, a Tokyo CyberAgent meeting room. A 30-year-old Susumu Fujita in a
+
+    white shirt with sleeves rolled up, no tie, standing in front of a
+
+    whiteboard covered with traffic graphs trending flat, hand on his chin
+
+    in deep concerned thought, several young Japanese employees seated at a
+
+    table behind him also looking worried. The struggling early Ameba
+
+    blogging service before the pivot. Cool office lighting.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2004 Tokyo CyberAgent office at night, a 30-year-old Susumu Fujita
+
+    alone at a whiteboard, drawing a simple diagram with a black marker:
+
+    a star icon labeled in Japanese "芸能人" at the top, arrows flowing down
+
+    to many small "ファン" circles, the strategy crystallizing. His
+
+    expression of quiet focused realization. A single overhead light, the
+
+    rest of the office dark. The exact moment of the strategic pivot.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A mid-2000s upscale Tokyo meeting room. A 30-year-old Susumu Fujita in
+
+    a tailored navy suit seated across from two older Japanese talent-agency
+
+    executives in dark suits, leaning forward and explaining intently while
+
+    pointing at a printed blog-mockup on the table, the executives listening
+
+    with cautious interest. Cool corporate lighting through tall windows.
+
+    The deals that brought celebrities onto Ameblo.
+
+    Character: {subject_young}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Mid-late 2000s Tokyo CyberAgent operations room, a large wall of monitors
+
+    displaying simple analytics dashboards with the user-count graph
+
+    explosively rising, several young Japanese engineers in casual shirts
+
+    standing and pointing in excitement at the screens, cool blue server-room
+
+    light. The moment Ameblo became the dominant Japanese blogging platform.
+
+    No specific faces — the data is the hero.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 2000s Tokyo, a 32-year-old Susumu Fujita in a navy jacket standing
+
+    by a tall window of the CyberAgent office at dusk, looking down at a
+
+    smartphone in his hand showing an Ameblo-style blog post by a celebrity,
+
+    a faint satisfied half-smile on his face. The Shibuya skyline glowing
+
+    behind him. The platform that changed the rules. Over-shoulder framing.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '芸能人ブログで業界の常識を変えた男 #Shorts'
+  description: '2004年、フジタ ススムは Ameblo を立ち上げ、芸能人ブログプラットフォームへと舵を切った。
+
+    日本のブログ業界の常識を変えた決断の話。
+
+
+    #Shorts #藤田晋 #Ameblo #CyberAgent #人物伝
+
+    '
+  hook_caption: 芸能人ブログで業界を変えた
+  series_brand: フジタ ススム伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 日本のブログ業界の、常識を、ひっくり返した男がいます。
+    caption: ブログ業界の常識を変えた男
+  - panel: p2
+    text: 2004年、CyberAgent のフジタ ススムは、Ameba という、新しいブログサービスを、立ち上げました。
+    caption: 2004年、Ameblo を立ち上げ
+  - panel: p3
+    text: しかし、当初は、ライバルに、まったく、勝てなかったんです。
+    caption: 当初はライバルに惨敗
+  - panel: p4
+    text: そこで、フジタは、決断します。「芸能人に、書いてもらおう」、と。
+    caption: 芸能人に書いてもらう、と決断
+  - panel: p5
+    text: 事務所を、1社ずつ、口説き、有名タレントの公式ブログを、次々に、Ameblo に集めました。
+    caption: 事務所を1社ずつ口説いた
+  - panel: p6
+    text: ファンが、押し寄せ、Ameblo は、日本最大の、ブログプラットフォームに、成長したんです。
+    caption: Ameblo は日本最大に成長
+en:
+  title: 'His Blog Platform Was Failing... So He Hired Celebrities #Shorts'
+  description: 'In 2004, Susumu Fujita''s new platform Ameba Blog couldn''t compete. His solution? Pivot to exclusively hosting Japan''s biggest celebrities. This one decision changed the country''s internet
+    culture forever.
+
+
+    #Shorts #Business #Entrepreneurship #Japan #Ameblo'
+  hook_caption: His blog was failing... until this one idea.
+  series_brand: The Susumu Fujita Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: In 2004, Susumu Fujita of CyberAgent launched a new blog service called Ameba.
+    caption: A new blog service
+  - panel: p3
+    text: But at first, it was a total flop, completely overshadowed by its rivals.
+    caption: It was failing
+  - panel: p4
+    text: 'So Fujita made a radical decision: forget ordinary users, let''s get celebrities to write for us.'
+    caption: A radical decision
+  - panel: p1
+    text: He personally pitched talent agencies one by one, convincing Japan's biggest stars to join.
+    caption: Recruiting the stars
+  - panel: p5
+    text: The strategy worked. Millions of fans flooded the site and user numbers exploded overnight.
+    caption: Users exploded
+  - panel: p6
+    text: And just like that, Ameblo became the undisputed king of Japan's blogosphere.
+    caption: 'Japan''s #1 Platform'

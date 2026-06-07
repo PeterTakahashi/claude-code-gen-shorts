@@ -1,0 +1,206 @@
+id: seren-fleming-penicillin
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 1928 London England, interior of St Mary''s Hospital
+
+    bacteriology laboratory at St Mary''s Paddington, a cluttered
+
+    workbench piled with dozens of round glass petri dishes,
+
+    morning light slanting through tall Victorian windows,
+
+    a 47-year-old Scottish bacteriologist man in white lab coat
+
+    and brown three-piece tweed suit standing transfixed staring
+
+    at one open petri dish in his hand, his eyes wide with quiet
+
+    shock, a strange ring of clear space surrounding a fuzzy
+
+    green-blue mold colony on the agar inside the dish — the
+
+    visual of "the moment a 4-week-vacation laziness produced
+
+    the medicine of the century". Mid close-up. Clearly British
+
+    1920s laboratory setting. No Japanese text.
+
+    Character: {fleming}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late summer 1928, the same St Mary''s London laboratory shown
+
+    four weeks earlier completely empty, the workbench cluttered
+
+    with petri dishes left uncovered, sunlight dim through closed
+
+    shutters, dust visible in the air, a small handwritten note
+
+    on the bench reading in decorative English only "GONE ON
+
+    HOLIDAY", an open window in the background hinting that
+
+    airborne spores have drifted in. No people. The visual of
+
+    "the empty lab where a miracle was brewing because the
+
+    scientist skipped work". Wide shot. Clearly 1920s British
+
+    lab. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Extreme macro close-up inside a single round glass petri dish,
+
+    a circular field of pale yellow staphylococcus bacteria
+
+    colonies covering the agar, a single fuzzy blue-green
+
+    Penicillium mold colony in the centre, a perfectly clean
+
+    circular ring of dead-bacteria zone radiating outward from
+
+    the mold — the visual of "an invisible chemical war the
+
+    mold was winning". Scientific illustration composition,
+
+    decorative English label "INHIBITION ZONE" floating to the
+
+    side. No people. No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same 1928 London laboratory later that morning, the same
+
+    47-year-old Scottish bacteriologist man in white coat seated
+
+    at his desk, leaning over an open leather-bound notebook
+
+    writing rapidly with a fountain pen, the petri dish placed
+
+    beside him under a brass desk lamp, his expression intensely
+
+    focused with the faintest curious smile, the visual of
+
+    "noticing the thing nobody else would have noticed". Mid-shot.
+
+    Clearly Victorian-era British lab. No Japanese text.
+
+    Character: {fleming}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    World War 2 era 1944 European battlefield military field
+
+    hospital tent, rows of wounded Allied soldiers on canvas
+
+    cots, an American army nurse in olive uniform injecting a
+
+    clear pale-yellow liquid from a small glass vial labeled in
+
+    decorative English only "PENICILLIN" into a soldier''s arm,
+
+    warm hopeful lamplight, the visual of "the mold from a
+
+    forgotten dish saving millions of lives a decade later".
+
+    Mid-shot. Clearly 1940s European wartime setting. No Japanese
+
+    text.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 1945 Stockholm Sweden, a formal Nobel Prize ceremony
+
+    hall, the same now-64-year-old Scottish bacteriologist man
+
+    in formal black tailcoat receiving a gold Nobel medal from
+
+    the Swedish king on a grand carpeted stage, a crowd of
+
+    formally-dressed dignitaries applauding, his expression
+
+    humble and slightly bewildered as if still surprised that
+
+    a holiday accident brought him here — visual loop callback
+
+    to panel 1''s petri dish moment. Wide shot. Clearly Swedish
+
+    Nobel ceremony setting. No Japanese text.
+
+    Character: {fleming}.
+
+    '
+ja:
+  title: 'サボったらノーベル賞、ペニシリン誕生秘話 #Shorts'
+  description: '1928年、ロンドンの細菌学者フレミングは、4週間の夏休みから戻ってきて、培養皿を片付け忘れていたことに気づいた。
+
+    その「サボり」が、人類最大の薬、ペニシリンを生んだ。
+
+
+    #Shorts #ペニシリン #フレミング #偶然 #ノーベル賞 #serendipity
+
+    '
+  hook_caption: サボってノーベル賞
+  series_brand: バルトゥーン偶然の大発見
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「4週間サボって戻ってきたら、ノーベル賞が転がっていた」——98年前の1928年、ロンドンで本当にあった話を知っていますか?
+    caption: サボった先にノーベル賞があった話
+  - panel: p2
+    text: 当時47歳の細菌学者フレミングは、夏休みに、培養皿を、机に出しっぱなしのまま、家族と田舎へ旅立っていました。
+    caption: 培養皿を出しっぱなしで夏休みへ
+  - panel: p3
+    text: 戻ってみると、皿の中で、青カビの周りだけ、ブドウ球菌が、きれいに死んでいた。本来なら捨てるはずのその皿を、彼は捨てなかったんです。
+    caption: 青カビの周りだけ菌が死んでいた
+  - panel: p4
+    text: 「このカビは、何かを出している」——そう直感したフレミングは、その物質をペニシリンと名付け、論文に、すぐ記録しました。
+    caption: 「カビが何かを出している」と直感
+  - panel: p5
+    text: それから16年後の1944年、ペニシリンは、第二次大戦の戦場で、何百万人もの兵士の感染症を治す、人類初の抗生物質になります。
+    caption: 16年後、戦場で何百万人を救う
+  - panel: p6
+    text: そして1945年、フレミングはノーベル賞を受賞。「サボらなかったら、ペニシリンは無かった」——偶然は、整理整頓を、嫌うようです。
+    caption: 偶然は整理整頓を嫌う
+en:
+  title: 'The Lazy Mistake That Won a Nobel Prize #Shorts'
+  description: 'In 1928, Alexander Fleming forgot to clean up his lab before a long vacation. That one messy mistake led to Penicillin, one of the greatest medical discoveries in history.
+
+    #Shorts #History #Science #Penicillin #DidYouKnow'
+  hook_caption: His Messy Lab Saved Millions
+  series_brand: Accidental Discoveries
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In 1928, scientist Alexander Fleming was studying deadly bacteria in his London lab.
+    caption: A dangerous experiment
+  - panel: p2
+    text: 'But before leaving on a 4-week vacation, he made a careless mistake: leaving a culture dish completely uncovered.'
+    caption: The careless mistake
+  - panel: p3
+    text: When he returned, a strange mold had contaminated the dish... and it was destroying all the bacteria around it.
+    caption: A strange contamination
+  - panel: p4
+    text: Fleming realized this mold was releasing a substance that could kill infections. He named it Penicillin.
+    caption: A secret weapon
+  - panel: p5
+    text: By World War II, that discovery was being used to save millions of soldiers on the battlefield.
+    caption: Saving millions of lives
+  - panel: p6
+    text: For his 'lazy' mistake, Fleming won a Nobel Prize, proving that sometimes a little mess can change the world.
+    caption: A Nobel-winning mess

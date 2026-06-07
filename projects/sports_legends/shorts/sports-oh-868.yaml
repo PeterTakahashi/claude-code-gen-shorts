@@ -1,0 +1,61 @@
+id: sports-oh-868
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A nostalgic 1970s Japanese baseball stadium, the legendary slugger Sadaharu Oh in a Yomiuri
+      Giants uniform at bat, packed crowd, conveying "the man who hit more home runs than anyone".
+      Warm vintage stadium light. Recognizable likeness of Sadaharu Oh.
+  - id: p2
+    prompt: |
+      A dramatic batting-stance shot of Sadaharu Oh balancing on one leg in his iconic "flamingo"
+      one-legged stance, bat raised, perfect poise, conveying "his unique one-legged batting form".
+      Vintage cinematic. Likeness of Sadaharu Oh.
+  - id: p3
+    prompt: |
+      A montage of Sadaharu Oh launching a towering home run, the ball soaring into the night sky,
+      crowd roaring, conveying "home run after home run". Dynamic vintage sports illustration.
+      Likeness of Sadaharu Oh.
+  - id: p4
+    prompt: |
+      A symbolic scoreboard/record illustration glowing with a towering stack representing 868
+      home runs beside smaller stacks of other legends, conveying "868 — a world record". Warm,
+      epic vintage tone.
+  - id: p5
+    prompt: |
+      A behind-the-scenes vintage scene of Sadaharu Oh practicing his stance alone late at night,
+      slicing a hanging paper with a Japanese sword to perfect his balance, conveying "the
+      relentless training behind the record". Disciplined, focused mood. Likeness of Sadaharu Oh.
+  - id: p6
+    prompt: |
+      A dignified portrait of an older Sadaharu Oh looking proudly over a stadium, conveying "a
+      record that still stands as a symbol of Japanese baseball". Reverent, warm light.
+      Likeness of Sadaharu Oh.
+ja:
+  title: '王貞治、世界記録868本塁打を生んだ一本足打法 #Shorts'
+  description: |
+    通算868本塁打という世界記録を打ち立てた王貞治。その秘密は、片足で立つ独特の「一本足打法」と、それを支えた壮絶な鍛錬にあった。日本野球の象徴となった伝説を30秒で解説します。
+
+    #Shorts #スポーツ #王貞治 #野球 #世界記録
+  hook_caption: 王貞治、世界記録868本塁打の秘密
+  series_brand: 王貞治
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 通算868本塁打。これは、世界の誰も超えていない、ホームランの世界記録です。打ち立てたのは、おうさだはるでした。
+      caption: 通算868本塁打という世界記録
+    - panel: p2
+      text: 彼の代名詞は、片足で立つ独特の構え、一本足打法。一見不安定なこのフォームから、おうさんは強烈な打球を生み出しました。
+      caption: 片足で立つ独特の「一本足打法」
+    - panel: p3
+      text: その打球は、次々とスタンドへ。来る日も来る日も、彼はホームランを積み重ねていきました。
+      caption: 次々とホームランを積み重ねた
+    - panel: p4
+      text: そして到達したのが、868本という前人未到の数字。世界中の名選手をも上回る、とてつもない記録でした。
+      caption: 前人未到の868本に到達した
+    - panel: p5
+      text: その裏には、壮絶な鍛錬がありました。深夜、吊るした紙を日本刀で斬り、一本足の軸とバランスを、極限まで磨いたんです。
+      caption: 深夜、日本刀で紙を斬り軸を磨いた
+    - panel: p6
+      text: 才能だけでは、世界記録は生まれません。誰よりも考え、誰よりも練習した男だけが、伝説になれたのです。
+      caption: 誰よりも考え練習した者だけが伝説になれた

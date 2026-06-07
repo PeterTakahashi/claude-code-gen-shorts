@@ -1,0 +1,39 @@
+# Personal-debt cautionary-tale shorts-only project. No long-form chapters.
+# Each short is one self-contained ~30s failure story (7-beat failure arc):
+#   crater → relatability → fatal decision → spiral → rock bottom → AVOIDANCE/lesson.
+# The avoidance beat (相談先=弁護士/債務整理) is mandatory: payoff + native-ad slot.
+# See skill: cautionary-tale-webtoon.
+id: money_failure
+title_ja: "お金の後悔"
+title_en: "お金の後悔"
+subject: "Japanese personal-finance cautionary tales"
+language: ja
+
+era: "modern Japan, 2010s-2020s"
+locale_hint: "urban Japan"
+
+style:
+  description: "full-color modern anime / webtoon style, soft cel shading, expressive line art, cinematic lighting, relatable everyday-drama tone, ordinary contemporary Japanese people"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, extra limbs, distorted face, photorealistic, photograph, 3D render, real brand logos"
+
+chapters: []
+
+narrator:
+  voice_style_id: 1310138977
+  voice_speed: 1.0
+  instructions: |
+    First-person regretful memoir: an ordinary person looking back on a money
+    mistake (debt, scam, over-spending). Honest, a little ashamed, never
+    preachy. In the final lesson beats, turn gently to the viewer and name a
+    CATEGORY of help (専門家・弁護士) — never specific advice or a product.
+
+voice:
+  engine: aivis
+  endpoint: "http://127.0.0.1:10101"
+
+bubbles:
+  font_path: /Users/apple/dev/claude-code/webtoon-gen/assets/fonts/NotoSansJP-Regular.otf
+  font_index: 0
+  font_scale: 4.0
+
+output_targets: []

@@ -1,0 +1,203 @@
+id: mens-3sec-first-impression
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A modern bright contemporary Tokyo cafe interior, two people
+
+    meeting for the first time across a small round wooden table,
+
+    a 27-year-old Japanese man in charcoal crewneck sweater
+
+    walking up to greet a 26-year-old Japanese woman in beige
+
+    blouse who is seated, the woman''s eyes subtly scanning him
+
+    head-to-toe with a quick almost-imperceptible micro-expression
+
+    of evaluation, a small decorative English overlay caption
+
+    "FIRST 3 SECONDS" floating subtly to the side, soft window
+
+    light, the visual of "the silent judgement happening before
+
+    the first hello". Mid-shot. Clearly Tokyo cafe setting.
+
+    No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A clean modern infographic panel on soft pastel background,
+
+    decorative English numerals "1. POSTURE" centered prominently,
+
+    a stylized split-image comparison: on the left a chibi-style
+
+    anime young Japanese man slouching forward with rounded
+
+    shoulders and a sheepish smile, on the right the same chibi
+
+    man standing tall with relaxed open shoulders and chin
+
+    slightly up, a small arrow between them, the visual of
+
+    "spine height = silent confidence signal". Decorative English
+
+    text only. No Japanese text.
+
+    Character: {male_lead}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic panel style, decorative English
+
+    "2. EYE CONTACT 60%" centered, a chibi-style anime version
+
+    of the young Japanese man talking with the chibi Japanese
+
+    woman, a small subtle pie-chart graphic showing 60 percent
+
+    eye contact 40 percent natural glance-away, his expression
+
+    calm and warm not staring, the visual of "60 percent eye
+
+    contact reads as warmth, 100 percent reads as creepy".
+
+    Decorative English text only. No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic panel style, decorative English
+
+    "3. VOICE TONE" centered, the chibi-style male character
+
+    speaking with a small decorative sound-wave graphic showing
+
+    a calm low-frequency steady waveform versus a thin jittery
+
+    high-frequency one, a small annotation in decorative English
+
+    "SLOW + LOW = SAFE", the chibi female listening with a small
+
+    relaxed nod. Decorative English text only. No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same clean infographic panel style, decorative English
+
+    "4. CLEANLINESS" centered, a chibi-style anime young
+
+    Japanese man with neatly trimmed fingernails clean pressed
+
+    shirt collar and well-groomed haircut shown in a series of
+
+    three small detail close-up callouts — fingernails, collar,
+
+    shoes — the visual of "small details > expensive brands".
+
+    Decorative English text only. No Japanese text.
+
+    Character: {male_lead}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Back in the same modern Tokyo cafe from panel 1, the same
+
+    27-year-old Japanese man in charcoal sweater now seated
+
+    across from the same 26-year-old Japanese woman in beige
+
+    blouse, both with relaxed warm body language, the man with
+
+    open posture making natural calm eye contact, the woman
+
+    smiling gently and leaning slightly forward, a small floating
+
+    decorative English caption "FIRST 3 SECONDS — PASSED",
+
+    warm afternoon window light — visual loop callback to
+
+    panel 1''s evaluation moment, now resolved into connection.
+
+    Mid-shot. No Japanese text.
+
+    Character: {male_lead}, {female_lead}.
+
+    '
+ja:
+  title: '初対面の3秒で女性が見ている、4つの場所 #Shorts'
+  description: '心理学では、初対面の印象は、ほんの数秒で、ほぼ決まると言われています。
+
+    女性が無意識にチェックしている、4つのポイントを、anime寸劇で解説します。
+
+
+    #Shorts #恋愛心理 #第一印象 #コミュニケーション #心理学
+
+    '
+  hook_caption: 初対面3秒で見られる場所
+  series_brand: バルトゥーンメンズ恋愛
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 「初対面の3秒で、ほぼ印象が決まる」——心理学でそう言われている、女性が無意識に見ている、4つのポイントを知っていますか?
+    caption: 3秒で見られている4つの場所
+  - panel: p2
+    text: 1つ目は、姿勢。研究では、背筋の伸びた相手を、自信があると、感じる傾向があるとされています。猫背を直すだけで、印象は変わります。
+    caption: ①姿勢——猫背を直すだけ
+  - panel: p3
+    text: 2つ目は、目線。アイコンタクトは、6割ほどが、ちょうど良いとされ、見つめすぎても、外しすぎても、不安に映る傾向があります。
+    caption: ②目線——6割が安心される
+  - panel: p4
+    text: 3つ目は、声のトーン。心理学的に、低めで、ゆっくりした声は、落ち着きや安心感と、結びつきやすいと、研究されています。
+    caption: ③声——低く、ゆっくり話す
+  - panel: p5
+    text: 4つ目は、清潔感。爪、襟元、靴——この3点が整っているかは、ブランド物より、ずっと強く印象を、左右する傾向があります。
+    caption: ④清潔感——爪・襟・靴の3点
+  - panel: p6
+    text: 姿勢、目線、声、清潔感——どれも、明日から、自分で整えられる項目です。テクニックではなく、自分のメンテナンスから、印象は変わります。
+    caption: テクニックより自分のメンテナンス
+en:
+  title: '4 Things Women Judge in the First 3 Seconds #Shorts'
+  description: 'Psychology says a woman forms her first impression of you in just a few seconds. Here are the 4 things she''s unconsciously checking out.
+
+
+    #Shorts #FirstImpressions #DatingAdvice #Psychology #Communication'
+  hook_caption: 4 Things Women Judge INSTANTLY
+  series_brand: Baltoon Men's Dating
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: They say she'll make up her mind about you in the first 3 seconds. Here are the 4 things she's secretly judging.
+    caption: Her 3-Second Test
+  - panel: p2
+    text: 'First up: your posture. Standing up straight doesn''t just look better—studies show it projects confidence. Stop slouching, start impressing.'
+    caption: 1. Posture = Confidence
+  - panel: p3
+    text: Second, eye contact. The sweet spot is around 60%. Stare too much, and you're creepy. Look away too much, and you seem nervous.
+    caption: '2. Eye Contact: 60%'
+  - panel: p4
+    text: Third, your tone of voice. Psychologically, a lower, slower voice is associated with calm and a sense of security. Don't rush your words.
+    caption: '3. Voice: Low & Slow'
+  - panel: p5
+    text: And fourth, cleanliness. She's not looking for expensive brands. She's checking your nails, your collar, and your shoes. These details matter most.
+    caption: 4. Details > Brands
+  - panel: p6
+    text: Posture, eyes, voice, and grooming. These aren't complicated tricks—they're simple habits you can start today to completely change your first impression.
+    caption: It's all about maintenance.

@@ -1,0 +1,58 @@
+id: animals-platypus
+image_style: photorealistic
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A photorealistic close-up of a platypus swimming in a clear Australian river, its duck-like
+      bill, beaver-like tail and webbed feet clearly visible, soft underwater light, wildlife
+      documentary photography.
+  - id: p2
+    prompt: |
+      A platypus walking on a muddy riverbank showing its strange mix of features — duck bill,
+      furry otter-like body, webbed clawed feet, naturalistic detail, nature photography.
+  - id: p3
+    prompt: |
+      A photorealistic scene of a platypus curled in a riverbank burrow beside small leathery
+      eggs, warm earthy den light, conveying a rare egg-laying mammal, wildlife photography.
+  - id: p4
+    prompt: |
+      A close-up of a male platypus's hind leg showing a sharp venomous spur, detailed realistic
+      texture, dramatic naturalistic lighting.
+  - id: p5
+    prompt: |
+      A platypus hunting underwater with its eyes closed, its sensitive bill sweeping the riverbed,
+      faint ripples suggesting it senses electric signals from prey, atmospheric underwater
+      photography.
+  - id: p6
+    prompt: |
+      A serene photorealistic portrait of a platypus surfacing on calm water at golden hour,
+      water beading on its fur, peaceful and detailed wildlife photography.
+ja:
+  title: 'カモノハシは、生物学の常識を全部破る動物 #Shorts'
+  description: |
+    クチバシはカモ、体は獣、卵を産むのに哺乳類。さらにオスは毒を持ち、目を閉じたまま獲物の電気を感じて狩る。常識外れのカモノハシを30秒で解説します。
+
+    #Shorts #動物雑学 #カモノハシ #生き物 #雑学
+  hook_caption: 常識を全部破る動物、カモノハシ
+  series_brand: 規格外の生き物
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: クチバシはカモ、しっぽはビーバー、足には水かき。まるで複数の動物を混ぜたようなこの生き物が、カモノハシです。
+      caption: カモ・ビーバー・水かきが混ざった姿
+    - panel: p2
+      text: 見た目だけではありません。哺乳類なのに、その分類の常識を、ことごとく破っていく動物なんです。
+      caption: 哺乳類なのに常識を次々と破る
+    - panel: p3
+      text: 最大の驚きは、卵を産むこと。哺乳類でありながら、卵から子を孵し、その後に母乳で育てます。
+      caption: 哺乳類なのに卵を産んで母乳で育てる
+    - panel: p4
+      text: さらにオスは、後ろ足に毒のトゲを持っています。哺乳類で毒を持つものは、ごくわずかしかいません。
+      caption: オスは後ろ足に毒のトゲを持つ
+    - panel: p5
+      text: 狩りのときは、目も耳も閉じます。代わりに、クチバシで獲物が出すかすかな電気を感じ取って、暗い水中で獲物を捕らえるんです。
+      caption: 目を閉じ、獲物の電気を感じて狩る
+    - panel: p6
+      text: 卵、毒、電気センサー。一匹に詰め込まれた異常な特徴は、進化の不思議そのもの。自然は、私たちの分類などお構いなしなのです。
+      caption: 自然は人間の分類などお構いなし

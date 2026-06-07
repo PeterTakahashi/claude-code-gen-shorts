@@ -1,0 +1,128 @@
+id: ellison-bought-lanai-island
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      A 2012 aerial wide shot of Lanai island in Hawaii at golden hour,
+      lush green and red-dirt landscape, turquoise ocean surrounding it,
+      a tiny figure of a tan athletic man with short silver hair brushed
+      back, neatly trimmed silver goatee, standing on a clifftop estate
+      veranda overlooking his vast private island domain, hands clasped
+      behind his back, posture quietly proprietary, golden sunset light.
+      The framing communicates "this entire island belongs to one man."
+      Wide aerial shot. No people other than the lone figure. No text.
+      Character: {ellison_old}.
+  - id: p2
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      1990s Silicon Valley, an interior shot of Oracle Corporation's
+      corporate headquarters in Redwood City California, the iconic red
+      "ORACLE" logo prominent on a glass wall, a confident 50-year-old
+      Larry Ellison in an open-collar dress shirt and dark sport jacket
+      standing in front of the logo with a smug confident smirk, arms
+      crossed, posture of a tech titan at the peak of his power.
+      Mid-shot. Clearly American Silicon Valley setting.
+      Character: {ellison_old}.
+  - id: p3
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      June 2012, a wood-paneled luxury law office in Honolulu Hawaii,
+      a 67-year-old Larry Ellison in casual luxury polo and sport jacket
+      sitting at a long mahogany conference table signing an enormous
+      stack of contracts with a fountain pen, two American lawyers in
+      suits flanking him, large window behind showing palm trees and the
+      Pacific ocean, an open laptop on the table showing a topographical
+      map of Lanai island. The historic moment of buying an entire
+      Hawaiian island. Mid-shot.
+      Character: {ellison_old}.
+  - id: p4
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      A clean infographic-style top-down map of the Hawaiian island chain,
+      drawn in modern anime/webtoon flat-color style on a soft teal ocean
+      background, the six main islands clearly labeled in decorative
+      English: Hawaii, Maui, Oahu, Kauai, Molokai, Lanai. The smaller
+      island of Lanai is highlighted with a bright red 98 percent overlay
+      pattern indicating private ownership. A clean stylized US dollar
+      sign symbol floats above it. Pure infographic, no people, no
+      Japanese text, decorative English labels only.
+  - id: p5
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      Modern-day Lanai island Hawaii, a sun-drenched panoramic view of
+      neat experimental organic vegetable farms, rows of solar panels
+      along a ridge in the distance, a sleek modern luxury Four Seasons
+      resort on a cliff over the turquoise ocean, palm trees swaying in
+      trade winds, a single black Tesla SUV on a red-dirt road in the
+      foreground. The visual of a billionaire's living sustainability
+      experiment, prosperous and futuristic. Wide shot. No people
+      visible. Clearly tropical Hawaiian setting.
+  - id: p6
+    prompt: |
+      9:16 vertical anime/webtoon style illustration:
+      Same clifftop veranda as panel 1, same 67-year-old man with short
+      silver hair and silver goatee in luxury polo, now turned three
+      quarters toward the camera, smug confident smirk, behind him the
+      same Lanai island vista at slightly later sunset light, more red
+      and orange in the sky, the visual of "his private kingdom",
+      seamlessly looping back to the opening composition. Wide shot
+      with the figure slightly larger than in panel 1.
+      Character: {ellison_old}.
+ja:
+  title: '300億円でハワイの島を丸ごと買った男 #Shorts'
+  description: |
+    2012年、Oracle 創業者ラリー・エリソンは、ハワイのラナイ島の98%を、約3億ドルで買い取った。
+    彼は今、その島全体を、完全に持続可能な未来都市の、実験場にしようとしている。
+
+    #Shorts #ラリーエリソン #LarryEllison #Oracle #ハワイ #人物伝
+  hook_caption: ハワイの島を丸ごと買った男
+  series_brand: ラリー・エリソン伝
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: 一人の男が、ハワイの一つの島を、丸ごと買い取った話を、知っていますか?
+      caption: ハワイの島を丸ごと買った男
+    - panel: p2
+      text: 主役は、Oracle の創業者ラリー・エリソンです。1970年代に Oracle を立ち上げ、世界最大級のソフトウェア企業に、育て上げました。
+      caption: Oracle 創業者、世界有数の大富豪
+    - panel: p3
+      text: そして2012年、67歳の彼は、ハワイのラナイ島を、約3億ドル——日本円で、およそ300億円で、買い取ったんです。
+      caption: 2012年、ラナイ島を約300億円で購入
+    - panel: p4
+      text: ラナイ島は、ハワイで6番目に大きい島で、彼が所有しているのは、その実に98%。事実上、一つの島を、丸ごと、私有しています。
+      caption: 島の98%を私有、事実上の島主
+    - panel: p5
+      text: 彼の狙いは、リゾート開発だけでは、ありません。電力、水、食料を、完全に自給できる、持続可能な未来都市を、この島で、実証すると、宣言しました。
+      caption: 持続可能な未来都市の実験場に
+    - panel: p6
+      text: Oracle で築いた財産を、ハワイの島ごと、次の世界を作るために、注ぎ込む。億万長者の私有王国は、今この瞬間も、拡張を続けています。
+      caption: 億万長者の私有王国、拡張中
+en:
+  title: 'How an Oracle Billionaire Bought a Whole Hawaiian Island #Shorts'
+  description: |
+    In 2012, Oracle founder Larry Ellison bought 98 percent of the Hawaiian island of Lanai for around 300 million dollars. He now intends to turn the entire island into a fully sustainable, self-sufficient city of the future.
+
+    #Shorts #LarryEllison #Oracle #Hawaii #Lanai #Billionaire
+  hook_caption: He Bought a Whole Hawaiian Island
+  series_brand: The Larry Ellison Story
+  voice_speaker: am_michael
+  narration:
+    - panel: p1
+      text: One man quietly bought an entire Hawaiian island. This is how he pulled it off.
+      caption: He Owns a Hawaiian Island
+    - panel: p2
+      text: His name is Larry Ellison. In the late 1970s, he founded Oracle and grew it into one of the largest software companies in the world.
+      caption: The Founder of Oracle
+    - panel: p3
+      text: Then in 2012, at age 67, he bought 98 percent of the Hawaiian island of Lanai for around 300 million dollars.
+      caption: 2012 — Bought 98% of Lanai
+    - panel: p4
+      text: Lanai is the sixth largest of the Hawaiian islands. He effectively owns the whole place.
+      caption: Effectively Owns the Whole Island
+    - panel: p5
+      text: His plan is not just luxury resorts. He intends to turn the entire island into a fully self-sufficient city of the future — energy, water, and food all sustainable.
+      caption: A Sustainable City of the Future
+    - panel: p6
+      text: From Oracle to Hawaii, the billionaire is using his fortune to build the next world on his own private kingdom — and it is still expanding today.
+      caption: His Private Kingdom, Still Expanding

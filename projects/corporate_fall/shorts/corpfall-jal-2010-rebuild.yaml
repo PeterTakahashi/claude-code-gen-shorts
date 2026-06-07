@@ -1,0 +1,190 @@
+id: corpfall-jal-2010-rebuild
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme close-up dramatic shot of a 78-year-old Japanese male
+
+    industrialist Inamori Kazuo''s face, fully greyed-to-white short hair
+
+    receding at the front, kind grandfatherly face with deep laugh lines,
+
+    gentle thoughtful eyes behind small round wire-frame glasses fixed
+
+    with quiet steely calm, a single tiny "¥1" coin held between his
+
+    weathered thumb and index finger directly in front of his lips, a
+
+    conservative dark navy suit shoulder visible, soft-focus background
+
+    of a JAL boardroom with a red-and-grey JAL crane logo blurred large
+
+    on the wall behind. The visual of "the salary of the man who rebuilt
+
+    a national airline." Subject filling square center for vertical short
+
+    layout, blurred padding above and below.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Tokyo JAL headquarters press conference January 2010, wide mid-shot
+
+    from behind a row of bowing executives onstage in conservative dark
+
+    navy business suits, all bowed in a deep 90-degree apology bow, a
+
+    huge backdrop reading decorative English "Japan Airlines" with a
+
+    small JAL red-and-grey crane logo, news photographers'' camera flashes
+
+    visible as bright white bursts, a small decorative Japanese banner
+
+    reading「会社更生法 申請」readable above the stage. The visual of
+
+    "the day the flag-carrier filed for bankruptcy."
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of a quiet Kyocera headquarters office Kyoto early 2010,
+
+    mid-shot of the 78-year-old Inamori Kazuo in his dark navy business
+
+    suit sitting calmly at a polished wooden desk, his hands folded, a
+
+    Japanese government official in a dark grey suit sitting opposite
+
+    handing him a thick document folder with a JAL crane logo on the
+
+    cover, a decorative kakejiku scroll on the wall reading「敬天愛人」
+
+    readable, soft warm morning light through tall windows. The visual
+
+    of "the retired founder asked to save the country''s airline."
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern data visualization on soft cream background, decorative
+
+    bold English headline "2 YEARS / ¥1 SALARY" centered, smaller
+
+    decorative Japanese label beneath「2010年1月 会社更生法 → 2012年9月
+
+    再上場 / 会長報酬 1円」readable, a tiny chibi figure of Inamori in
+
+    a small suit between them, a faint JAL crane silhouette in the
+
+    corner. The visual of "16 years ago in 2010 a 78-year-old rebuilt a
+
+    bankrupt airline for one yen."
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Interior of a JAL crew briefing room 2011, mid-shot of the same
+
+    78-year-old Inamori Kazuo standing in front of a small group of JAL
+
+    pilots in dark blue captain uniforms with gold-stripe shoulders and
+
+    flight attendants in red-trim uniforms, holding a worn paperback
+
+    copy of decorative Japanese title「JALフィロソフィ」visible in his
+
+    hand, gesturing gently with kind eyes, a JAL crane logo on the wall
+
+    banner, the visual of "the chairman who taught philosophy before
+
+    he taught profit."
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme close-up dramatic shot as panel 1 but slightly later — the
+
+    same 78-year-old Inamori Kazuo''s face, the same single tiny "¥1"
+
+    coin still between his thumb and index finger, the steely calm now
+
+    softened by the faintest contented smile reaching his eyes behind
+
+    the small round glasses, the soft-focus JAL crane logo on the wall
+
+    behind glowing slightly warmer in deeper light. The loop image of
+
+    "the one-yen salary that put a national flag back in the sky." Subject
+
+    filling square frame for vertical short with blurred padding above
+
+    and below.
+
+    '
+ja:
+  title: '78歳が1円で再建したJAL、稲盛和夫の2年 #Shorts'
+  description: '16年前の2010年、JAL は会社更生法を申請し、戦後最大の倒産企業に、なりました。
+
+    そのJALを、当時78歳の京セラ創業者・稲盛和夫が、報酬1円の会長として引き受け、わずか2年で、再上場まで導いたんです。
+
+
+    #Shorts #JAL #稲盛和夫 #京セラ #企業再生
+
+    '
+  hook_caption: 78歳が1円で再建した話
+  series_brand: JAL再建
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 16年前の2010年、戦後最大の倒産から日本航空 JAL を救ったのは、武勇伝ある経営者ではなく、当時78歳の、引退済みの一人の老人でした。彼の報酬は、年俸ゼロではなく、年「1円」だったんです。
+    caption: 78歳・年俸1円の会長
+  - panel: p2
+    text: 2010年1月19日、JAL は会社更生法を申請しました。負債総額は約2兆3,000億円。日本中の空港で、JAL機の運航停止リスクと、従業員4万人の雇用問題が、現実の影として、迫っていたんです。
+    caption: 負債2兆3,000億、従業員4万人
+  - panel: p3
+    text: 政府がJALの会長就任を打診したのは、京セラとKDDIを一代で築いた、当時78歳の稲盛和夫でした。彼は航空業界の経験がなかったので、最初は固辞しましたが、「公益のため」という一点で、引き受けます。
+    caption: 京セラ創業者、公益のため就任
+  - panel: p4
+    text: 稲盛は、会長報酬を、年「1円」に設定しました。そして2010年1月の更生法申請から、わずか2年8ヶ月後の2012年9月、JAL は東証一部に、再上場します。これは世界の航空再生史でも、異例のスピードでした。
+    caption: 2年8ヶ月で再上場、報酬1円
+  - panel: p5
+    text: 彼が現場に持ち込んだのは、最新の経営理論ではなく、京セラ哲学を航空に翻訳した「JALフィロソフィ」という、薄い一冊でした。パイロットも整備士も客室乗務員も、まず「人として何が正しいか」から、教え直されたんです。
+    caption: JALフィロソフィ、人として正しいか
+  - panel: p6
+    text: 78歳の老人が、報酬1円で、たった2年で国営級の航空会社を蘇らせた話は、日本の経営史に、静かに刻まれています。それは技術ではなく、私心を捨てた一人の人間の、覚悟の物語でした。
+    caption: 私心を捨てた、覚悟の物語
+en:
+  title: 'How a 78-Year-Old Saved an Airline for a ¥1 Salary #Shorts'
+  description: 'In 2010, Japan Airlines filed for one of the largest bankruptcies in Japanese history. The government asked 78-year-old Kazuo Inamori, founder of Kyocera, to save it. He did it for a salary
+    of just ¥1, achieving a record-breaking turnaround in under 3 years.
+
+
+    #Shorts #Business #Leadership #Japan #JAL'
+  hook_caption: He Saved An Airline For 1 Cent
+  series_brand: The JAL Turnaround
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: In 2010, Japan Airlines was in freefall, declaring one of the biggest bankruptcies in the country's history.
+    caption: A National Crisis
+  - panel: p3
+    text: 'The government begged one man to come out of retirement and save it: 78-year-old Kazuo Inamori, the legendary founder of Kyocera.'
+    caption: An Unlikely Savior
+  - panel: p1
+    text: With zero airline experience, he initially refused. But he eventually accepted the impossible job...
+    caption: The Impossible Job
+  - panel: p6
+    text: '...on one condition: his annual salary would be just one yen. Essentially, he''d work for free.'
+    caption: 'Salary: ¥1'
+  - panel: p5
+    text: He didn't bring complex spreadsheets. He brought a simple philosophy he taught to every employee, from pilots to cabin crew.
+    caption: A Simple Philosophy
+  - panel: p4
+    text: And it worked. In just two years and eight months, JAL was profitable and relisted on the stock exchange—one of the fastest airline turnarounds ever.
+    caption: Record-Breaking Comeback

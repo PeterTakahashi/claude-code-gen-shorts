@@ -1,0 +1,61 @@
+id: mens-listen-7-talk-3
+parent_chapter: null
+panels:
+  - id: p1
+    prompt: |
+      A modern anime/webtoon date scene where a man is talking nonstop and the woman looks
+      politely bored, the visual of
+      "the man who talks too much loses her". Warm restaurant light, slightly awkward tone.
+  - id: p2
+    prompt: |
+      A psychology infographic of a 7:3 ratio bar — 70% listening, 30% talking — with a happy
+      woman speaking, the visual of "listen 70%,
+      talk 30%". Clean infographic, warm palette.
+  - id: p3
+    prompt: |
+      A webtoon scene of the man listening attentively, nodding, leaning in, the woman
+      brightening as she talks, the visual of
+      "make her enjoy talking". Warm, attentive conversation tone.
+  - id: p4
+    prompt: |
+      An infographic of good follow-up questions expanding on her words ("それでどうなったの?"),
+      versus interrogating questions (crossed out), the visual of "ask questions that go deeper, not interrogate".
+      Clean honest infographic.
+  - id: p5
+    prompt: |
+      A do-and-dont scene: hijacking her story with "俺なんてさ" (bad, crossed out) versus
+      reacting and asking more (good), the visual
+      of "don't hijack her story with your own". Clean comparison illustration.
+  - id: p6
+    prompt: |
+      A warm webtoon scene of the woman smiling, clearly enjoying the conversation, the man
+      relaxed, the loop image of "good
+      listeners win". Hopeful, warm date tone.
+ja:
+  title: 'モテる男は聞き上手、会話は「聞く7・話す3」 #Shorts'
+  description: |
+    自分の話ばかりする男性は、なぜモテないのか。人は自分のことを話すと快感を覚えるため、相手に気持ちよく話させた男が好印象を残します。会話の黄金比「聞く7・話す3」を30秒で解説します。
+
+    #Shorts #恋愛 #会話術 #心理学 #モテ
+  hook_caption: モテる男は会話が「聞く7・話す3」
+  series_brand: メンズ恋愛
+  voice_speed: 1.4
+  narration:
+    - panel: p1
+      text: デートで自分の話ばかりしてしまい、なぜか盛り上がらない。実は、話しすぎる男性ほど、印象を落としているんです。
+      caption: 話しすぎる男性ほど印象を落としている
+    - panel: p2
+      text: 目指したい黄金比は、聞く7に対して、話す3。会話の主役を、相手に譲ってあげるイメージです。
+      caption: 黄金比は聞く7・話す3
+    - panel: p3
+      text: なぜなら人は、自分のことを話しているときに、いちばん快感を覚えるからです。気持ちよく話せた相手を、好きになりやすいんです。
+      caption: 人は自分の話をするとき快感を覚える
+    - panel: p4
+      text: カギは、相手の言葉を深掘りする質問です。「それでどうなったの?」と興味を示すだけで、会話は自然に続いていきます。
+      caption: 「それでどうなったの?」と深掘りする
+    - panel: p5
+      text: 逆にやってはいけないのが、「俺なんてさ」と話を奪うこと。せっかく開いた相手の口を、自分で閉じてしまうことになります。
+      caption: 「俺なんてさ」と話を奪うのはNG
+    - panel: p6
+      text: 上手にしゃべる必要はありません。気持ちよく話させた人が、最後に好かれる。次のデートは、口より耳を使ってみてください。
+      caption: 次のデートは口より耳を使ってみて

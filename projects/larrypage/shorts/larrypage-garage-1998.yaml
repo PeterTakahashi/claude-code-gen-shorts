@@ -1,0 +1,166 @@
+id: larrypage-garage-1998
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    September 1998, a sunny Menlo Park California suburban street. A 25-year-old
+
+    Larry Page standing in front of an open white wooden garage door of a modest
+
+    one-story 1950s suburban house, a small cardboard box of computer cables in
+
+    his arms, looking quietly at the empty garage with a faint half-smile, the
+
+    golden-hour California afternoon light warming the scene, a beige Volvo
+
+    parked on the gravel driveway, palm trees in the background. The first day
+
+    of Google. Wide mid-shot. Caption-friendly empty sky at the top.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    September 1998, the front porch of Susan Wojcicki''s Menlo Park house. Susan
+
+    Wojcicki — a friendly young white American woman in her late 20s with long
+
+    brown hair, warm smile, a casual sweater — shaking hands with a quietly
+
+    pleased Larry Page while Sergey Brin grins beside him with a piece of paper
+
+    in his hand, suburban California sunshine. The handshake that sealed the
+
+    most famous landlord deal in tech history.
+
+    Characters: {subject_young}, {cofounder_sergey}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late 1998, interior of Susan Wojcicki''s Menlo Park garage converted into the
+
+    first Google office. Two cheap folding desks crammed against the wall, each
+
+    with a beige CRT monitor, a tangle of network cables snaking across the
+
+    concrete floor to a homemade server rack glowing with blue LEDs, a foosball
+
+    table wedged into one corner, scattered pizza boxes and Coke cans, a single
+
+    bare overhead bulb, warm late afternoon light leaking under the half-open
+
+    garage door. The legendary garage-office aesthetic.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Inside the 1998 Menlo Park garage at night, single bare overhead bulb. Larry
+
+    Page seated at a folding desk in a plain t-shirt typing intently at a beige
+
+    keyboard, expression of quiet focus, while Sergey Brin paces behind him
+
+    animatedly explaining something with both hands raised, a printed page of
+
+    Google search results pinned to the wall. Two contrasting energies: the
+
+    introvert coder and the extrovert evangelist.
+
+    Characters: {subject_young}, {cofounder_sergey}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A stylized close-up of a paper check on a wooden table, written for $100,000,
+
+    payable to "Google Inc." in handwritten ink, a fountain pen lying beside it,
+
+    Larry Page''s slightly-out-of-focus hand reaching for it from the side, soft
+
+    morning light. The famous check Sun-founder Andy Bechtolsheim wrote before
+
+    Google had even been incorporated — they had to delay cashing it for weeks.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Early morning at the Menlo Park garage, late 1998. Larry Page alone, standing
+
+    just inside the open garage door looking out at the quiet suburban street
+
+    bathed in pink-orange dawn light, a cup of coffee in one hand, his expression
+
+    contemplative and quietly determined, the cluttered garage office behind him
+
+    out of focus. The calm moment before the company would outgrow this room
+
+    within months. Over-shoulder framing.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '月1100ドルのガレージで創業 #Shorts'
+  description: '1998年9月、ラリー・ペイジとセルゲイ・ブリンは、Susan Wojcickiの自宅ガレージを
+
+    月1100ドルで借り、そこでGoogleを創業した。シリコンバレーの伝説の起点。
+
+
+    #Shorts #ラリーペイジ #Google #SiliconValley #人物伝
+
+    '
+  hook_caption: 月1100ドルのガレージから
+  series_brand: ラリー・ペイジ伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 月、1100ドルの、ガレージから始まった会社の話です。
+    caption: 月1100ドルのガレージで創業
+  - panel: p2
+    text: 1998年9月、ラリー・ペイジとセルゲイ・ブリンは、Stanford時代の友人、Susan Wojcickiから、自宅ガレージを借りました。
+    caption: 1998年9月、Susan Wojcickiから借りる
+  - panel: p3
+    text: 場所は、カリフォルニア州メンロパーク。家賃は、月、1700ドルでした。
+    caption: 場所はMenlo Park、月1700ドル
+  - panel: p4
+    text: ガレージの中には、自作サーバー、卓球台、そして、ピザの空箱が、所狭しと並んでいました。
+    caption: 自作サーバーと卓球台の空間
+  - panel: p5
+    text: 創業前、投資家アンディ・ベクトルシャイムは、彼らに、10万ドルの小切手を、即座に切ったんです。
+    caption: 投資家から即10万ドルの小切手
+  - panel: p6
+    text: そして、その5ヶ月後、彼らは、このガレージを卒業し、Google の伝説が、本格的に始まりました。
+    caption: 5ヶ月後、Google伝説の始まり
+en:
+  title: 'Google''s First Office Was a Garage #Shorts'
+  description: 'In 1998, Larry Page and Sergey Brin rented a garage from Susan Wojcicki for $1700/month. This is the story of Google''s first office.
+
+
+    #Shorts #Google #LarryPage #SiliconValley #History'
+  hook_caption: This garage birthed a TRILLION-dollar company.
+  series_brand: The Larry Page Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p1
+    text: In 1998, two Stanford PhD students needed a cheap office for their new search engine idea.
+    caption: A humble start
+  - panel: p2
+    text: Their friend, Susan Wojcicki, agreed to rent them her garage in Menlo Park for $1700 a month.
+    caption: The first landlord
+  - panel: p3
+    text: Working amongst cheap desks and homemade servers, Larry Page and Sergey Brin built their company.
+    caption: Building the future
+  - panel: p5
+    text: An early investor was so impressed, he wrote a $100,000 check before the company was even officially incorporated.
+    caption: A $100,000 bet
+  - panel: p6
+    text: Just five months later, they moved out. The rest is Silicon Valley history.
+    caption: The legend begins

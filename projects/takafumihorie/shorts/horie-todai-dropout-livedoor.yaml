@@ -1,0 +1,148 @@
+id: horie-todai-dropout-livedoor
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 22-year-old Takafumi Horie in 1996 sitting at a cluttered desk inside a tiny one-room Tokyo
+
+    startup office at night, a bulky beige CRT monitor showing early Web HTML code, scattered
+
+    technical books on TCP IP and HTML, cigarette smoke in the air, a single ceiling fluorescent
+
+    light, his face lit by the CRT glow, conveying the moment a young dropout founder is building
+
+    the future alone. Wide-mid shot.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A young 22-year-old Takafumi Horie in 1996 walking away from the iconic red-brick gate of
+
+    Tokyo University Hongo campus on a grey overcast day, hands in jacket pockets, his back
+
+    partly to the viewer, conveying the moment of leaving the top university in Japan. Other
+
+    students in formal recruit-style attire walk in the opposite direction.
+
+    Character: {subject_young}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 22-year-old Horie shaking hands with one other young Japanese co-founder inside a cramped
+
+    6-tatami Tokyo apartment that has been converted into the first office of his company in
+
+    April 1996, a single second-hand desk, two computers, a futon folded against the wall,
+
+    handwritten company name "On The Edge" taped to the wall in English letters. Bright morning
+
+    light through a small window.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 22-year-old Horie and one engineer hunched at side-by-side CRT monitors late at night,
+
+    coding the very first Japanese corporate websites in 1996-1997, energy-drink cans and
+
+    ramen cups stacked beside them, an early Netscape Navigator browser visible on screen,
+
+    the room messy with cables. The exhilaration of a Web boom.
+
+    Character: {subject_young}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A slightly older 24-25 year-old Horie standing in front of a much bigger Tokyo office in
+
+    1998-1999, a wall sign reading "On The Edge" in English, perhaps a dozen young Japanese
+
+    employees in casual t-shirts working at rows of desks behind him visible through a glass
+
+    door, his face calm and slightly cocky. The transformation from one room to a real company.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Over-the-shoulder view of 22-year-old Horie alone again at his cluttered first-office desk
+
+    in 1996, late at night, the CRT monitor reflecting Web code on his face, one hand on a
+
+    bulky beige keyboard. The same origin scene, now read as "this is where the empire began".
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: '東大中退で22歳で会社を作った男 #Shorts'
+  description: '東京大学に入りながら中退し、22歳でオン・ザ・エッヂ (後の Livedoor) を創業した堀江貴文。1996年の Web 黎明期、日本にまだインターネットを知らない人が大多数の時代の話。
+
+
+    #Shorts #堀江貴文 #ホリエモン #人物伝
+
+    '
+  hook_caption: 東大中退、22歳で起業
+  series_brand: 堀江貴文伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 東大に合格した男が、すぐに中退して、22歳で起業しました。
+    caption: 東大合格→即中退→22歳で起業
+  - panel: p2
+    text: 1996年、堀江貴文、22歳。場所は、東京の、6畳一間のアパートでした。
+    caption: 1996年、22歳、6畳一間でスタート
+  - panel: p3
+    text: 会社の名前は、オン・ザ・エッヂ。後の、Livedoor です。
+    caption: 社名はオン・ザ・エッヂ (後の Livedoor)
+  - panel: p4
+    text: 彼は、日本人の、ほとんどが、インターネットを、知らない時代に、企業の Web サイトを、作りまくりました。
+    caption: ネット黎明期、Webサイト制作で急成長
+  - panel: p5
+    text: そして、わずか数年で、社員数百人の会社に、育て上げたんです。
+    caption: 数年で社員数百人規模に
+  - panel: p6
+    text: 東大の安定を捨てた、22歳の選択が、後の、日本の IT 史を、変えていきます。
+    caption: 22歳の選択が日本IT史を変えた
+en:
+  title: 'The College Dropout Who Hacked Japan''s Internet Boom #Shorts'
+  description: 'He quit Japan''s most prestigious university to start a company in a tiny apartment. This is the story of Takafumi Horie, the controversial founder of Livedoor, who changed Japan''s internet
+    forever.
+
+
+    #Shorts #Biography #Tech #Japan #TakafumiHorie'
+  hook_caption: 'He Quit Japan''s #1 University To Do WHAT?'
+  series_brand: The Takafumi Horie Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p2
+    text: In 1996, a 22-year-old student got into Japan's top university... and immediately dropped out.
+    caption: Quit Japan's Best School
+  - panel: p3
+    text: His name was Takafumi Horie. He and a friend started a company in a tiny Tokyo apartment.
+    caption: A 22-Year-Old Founder
+  - panel: p4
+    text: They called it 'On The Edge,' and their business was building websites... when most of the country had never even been online.
+    caption: The Dawn of the Web
+  - panel: p1
+    text: Working day and night, Horie coded the first wave of Japan's new internet economy.
+    caption: Coding the Future
+  - panel: p5
+    text: In just a few years, that tiny startup exploded into a massive company that would later become Livedoor.
+    caption: From Startup to Giant
+  - panel: p6
+    text: That one choice to abandon a safe path for a risky idea would change Japan's tech industry forever.
+    caption: Changed an Industry Forever

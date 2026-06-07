@@ -1,0 +1,193 @@
+id: snowbrand-14000-poisoned
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 2000 western Japan summer morning, a typical Japanese
+
+    household kitchen, on the wooden dining table sits an opened
+
+    paper carton of milk with the iconic blue Snow Brand snowflake
+
+    logo, beside it a half-full glass of milk, a small Japanese
+
+    child of age 7 clutching her stomach in obvious pain, slumped
+
+    forward on the table, her grandmother in a beige cardigan
+
+    kneeling worriedly beside her, soft daylight from a window with
+
+    shoji screen, a sense of quiet domestic catastrophe. Clearly
+
+    Japanese household setting. Mid-shot. No Japanese text in image.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    June 2000, a busy modern Japanese hospital emergency room hallway,
+
+    multiple patients in hospital gowns lying on gurneys, several
+
+    Japanese parents holding children, Japanese nurses in pale-blue
+
+    scrubs and surgical masks running back and forth, a doctor in a
+
+    white coat looking grim, fluorescent lighting cold and clinical,
+
+    a sign on the wall reads in decorative English only "EMERGENCY".
+
+    Wide shot. The scale of a public health emergency. Clearly
+
+    Japanese hospital setting. No Japanese text.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Interior of a Snow Brand dairy processing factory in Osaka Japan
+
+    around 1999-2000, large stainless-steel milk storage tanks with
+
+    visible pipework, an industrial spray-drying tower assembly in
+
+    the background, the lighting cold blue fluorescent, an empty
+
+    milk valve glistening in the foreground with a small black mark
+
+    indicating contamination buildup. The visual of an industrial
+
+    hygiene failure point. Pure industrial scene. No people visible.
+
+    No Japanese text.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Late June 2000, a packed Japanese corporate press conference room
+
+    in Osaka, a 60-something Japanese corporate executive man with
+
+    thinning grey hair, narrow rectangular eyeglasses, conservative
+
+    dark navy business suit, sitting at a long table with two
+
+    colleagues, dozens of camera flashes from journalists in the
+
+    foreground, his expression visibly cornered and exhausted,
+
+    microphones from multiple TV networks crowding the table, a
+
+    blue-and-white Snow Brand corporate logo backdrop behind him.
+
+    Mid-shot. Clearly Japanese corporate press conference setting.
+
+    No Japanese text in image.
+
+    Character: {ishikawa_ceo}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Same press conference room moments later, the same 60-something
+
+    Japanese executive man caught mid-irritated-gesture, hand raised
+
+    toward an off-screen reporter, his face flushed with frustration,
+
+    surrounded by aggressive microphones thrust toward him by
+
+    Japanese reporters in suits, the flash bulbs continuing — the
+
+    visual of "the disastrous corporate response that became more
+
+    famous than the incident itself". Mid close-up. Clearly Japanese
+
+    press conference setting. No Japanese text.
+
+    Character: {ishikawa_ceo}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Year 2001, a quiet rainy day in front of a closed-down Snow Brand
+
+    Foods factory entrance in Japan, the iconic blue snowflake logo
+
+    sign mounted on a metal gate behind a yellow tape barrier, rain
+
+    streaking down the sign, no employees visible, a single dim
+
+    streetlight in the cool grey light. The empty image of a
+
+    historic brand collapsing under the weight of its own scandal.
+
+    Wide shot. No people. No Japanese text other than possibly
+
+    faded ASCII labels. Clearly industrial Japanese setting.
+
+    '
+ja:
+  title: '戦後最悪、1万4千人が倒れた牛乳の話 #Shorts'
+  description: '2000年6月、関西の家庭で同じ牛乳を飲んだ子供たちが、次々と倒れた。
+
+    被害者は最終的に1万4780人。戦後最大の食中毒事件として、戦後日本を代表する大企業の一つを、崩壊させた。
+
+
+    #Shorts #雪印 #SnowBrand #食中毒 #事件
+
+    '
+  hook_caption: 戦後最悪、1万4千人が倒れた牛乳
+  series_brand: 雪印集団食中毒事件
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 朝、家族で飲んだ牛乳のあと、子供が、突然倒れた——そんな出来事が、関西の家庭で、同時に、何千件も起きた話を知っていますか?
+    caption: 同じ牛乳を飲んだ家族が次々倒れた
+  - panel: p2
+    text: 2000年6月、大阪を中心に集団食中毒が発生し、被害者は最終的に、1万4780人にのぼりました。戦後最大の規模です。
+    caption: 2000年6月、被害者1万4780人
+  - panel: p3
+    text: 原因は、Snow Brand大阪工場の脱脂粉乳ラインで、停電後の洗浄を、3週間サボったことでした。黄色ブドウ球菌の毒素が、製品に混入したんです。
+    caption: 工場の洗浄を3週間サボった結果
+  - panel: p4
+    text: 当時の社長は、緊急記者会見に追われ、深夜まで対応を迫られました。
+    caption: 緊急記者会見、深夜まで対応
+  - panel: p5
+    text: そこで彼は、しつこく食い下がる記者に対し、「私は寝てないんだ!」と、声を荒げました。この一言が、企業崩壊の象徴として、全国に拡散します。
+    caption: 「私は寝てないんだ!」が炎上
+  - panel: p6
+    text: そして翌2001年、Snow Brand Foodsは事実上解体。100年続いた優良ブランドが、たった3週間の手抜きと、一言の失言で、消えました。
+    caption: 2001年、Snow Brand Foods 事実上解体
+en:
+  title: 'The Milk That Poisoned 15,000 People #Shorts'
+  description: 'In 2000, a popular brand of milk sickened nearly 15,000 people in Japan. The cause was shocking negligence, but it was the company president''s one angry outburst that sealed the 100-year-old
+    company''s fate.
+
+    #Shorts #TrueStory #Japan #Scandal #History'
+  hook_caption: How One Outburst Destroyed A Dairy Empire
+  series_brand: The Snow Brand Milk Scandal
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: In the summer of 2000, thousands of children across western Japan suddenly fell violently ill after drinking their morning milk.
+    caption: A typical morning
+  - panel: p2
+    text: Emergency rooms were flooded. It would become the worst food poisoning event in post-war Japan, with nearly 15,000 victims.
+    caption: Nearly 15,000 victims
+  - panel: p3
+    text: 'The source: A Snow Brand factory where a production line went uncleaned for three weeks after a power failure, allowing deadly toxins to breed.'
+    caption: Three weeks of neglect
+  - panel: p4
+    text: At a chaotic press conference, the company's president was hounded by journalists for an explanation.
+    caption: Under pressure
+  - panel: p5
+    text: Cornered and exhausted, he finally snapped, shouting, "I haven't slept!" The public saw it not as an excuse, but as pure arrogance.
+    caption: '"I haven''t slept!"'
+  - panel: p6
+    text: The backlash was merciless. Within a year, the century-old food giant was dismantled, its legacy destroyed by one fatal sentence.
+    caption: A legacy destroyed

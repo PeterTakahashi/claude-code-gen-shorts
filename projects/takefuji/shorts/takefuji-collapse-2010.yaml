@@ -1,0 +1,216 @@
+id: takefuji-collapse-2010
+parent_chapter: null
+panels:
+- id: p1
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the entire frame edge-to-edge.
+
+    Extreme dramatic close-up of a stack of legal court documents filling
+
+    the square frame, the top page bearing the bold decorative kanji
+
+    stamp 「会社更生法 適用申請」 in deep crimson red ink, beneath it a
+
+    smaller folded financial statement showing the decorative English
+
+    number "¥433,600,000,000" in faint grey, a single black fountain pen
+
+    laid diagonally across the documents, the cracked silhouette of a
+
+    decorative kanji headline 「武富士」 visible faintly behind in dark
+
+    grey, cold blue fluorescent Tokyo law-office lighting from above.
+
+    Subject filling square center for vertical short layout with blurred
+
+    padding above and below. Clearly Tokyo Japan 2010 corporate-collapse
+
+    setting.
+
+    '
+- id: p2
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Year 1980s Tokyo Japan boom-era night, a wide mid-shot of the brightly
+
+    lit Takefuji corporate headquarters skyscraper in Shinjuku, the
+
+    decorative English neon corporate logo "TAKEFUJI" glowing softly atop
+
+    a gleaming 1980s glass tower, a famous neon advertising board on the
+
+    lower face showing the iconic 1990s Takefuji "踊る武富士" silhouette
+
+    dancers in red leotards mid-pose, busy Tokyo Shinjuku streets below
+
+    with bubble-era taxis and salarymen, the visual of "the consumer-
+
+    finance king at his peak". Clearly bubble-era Tokyo Shinjuku Japan
+
+    setting. Decorative kanji 「武富士」 on the building OK. Wide shot.
+
+    '
+- id: p3
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Year 1990s Takefuji executive boardroom, mid-shot of the founder, a
+
+    stern 70-something Japanese male company chairman with swept-back
+
+    grey hair, thick black-framed glasses, sharp narrow eyes, dark
+
+    charcoal three-piece suit and deep wine-red necktie, standing at the
+
+    head of a long polished cherry-wood conference table, holding up a
+
+    paper financial report with decorative English "¥1.7 TRILLION
+
+    ASSETS" visible, surrounded by stiff middle-aged Japanese male
+
+    executives in dark suits taking notes, a small decorative kanji
+
+    wall plaque 「武富士」 visible behind. Clearly Tokyo Japan 1990s
+
+    corporate boardroom setting. Mid-shot.
+
+    Character: {takei_yasuo}.
+
+    '
+- id: p4
+  prompt: 'Square 1:1 anime/webtoon style infographic-style panel.
+
+    Clean modern infographic on cold light-grey background, a large
+
+    decorative English headline at the top "2006 SUPREME COURT" in
+
+    bold black, beneath it a stylized illustration of a Japanese
+
+    gavel with the decorative English label "GREY-ZONE INTEREST
+
+    ILLEGAL", below that a downward red arrow connecting to a
+
+    cascading wall of stylized claim envelopes each labeled decorative
+
+    English "OVERPAID INTEREST CLAIM", a final decorative English
+
+    caption at the bottom "¥2,000,000,000,000 CLAIMS NATIONWIDE", the
+
+    visual of "one Supreme Court ruling unleashed two trillion yen in
+
+    claims". Pure infographic composition. Decorative English only.
+
+    No people.
+
+    '
+- id: p5
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    September 28, 2010, a Tokyo press-conference room, mid-shot of a
+
+    40-something Japanese male Takefuji president with thin rimless
+
+    glasses, neatly combed black hair, plain dark navy business suit,
+
+    standing at a long press table bowing deeply at 90 degrees beside
+
+    two older bespectacled Japanese male executives also bowing, a
+
+    decorative kanji backdrop behind them reading 「株式会社 武富士」
+
+    readable, dozens of camera flashes from Japanese reporters in dark
+
+    suits in the foreground, a small decorative kanji caption silhouette
+
+    「会社更生法」 floating subtly above. Clearly Tokyo Japan 2010 press
+
+    conference setting. Mid close-up.
+
+    Character: {takei_shinsuke}.
+
+    '
+- id: p6
+  prompt: 'Square 1:1 anime/webtoon style illustration filling the frame.
+
+    Same extreme dramatic close-up framing as panel 1 of the stack of
+
+    legal court documents filling the square center, this time slightly
+
+    later — the same red 「会社更生法 適用申請」 stamp on the top page
+
+    now faded to a softer rose, a new official receipt stamped on top
+
+    decorative English "ACCEPTED" in cool blue ink, the decorative
+
+    financial figure "¥433,600,000,000" still faintly readable beneath,
+
+    the cracked silhouette of decorative kanji 「武富士」 behind now
+
+    replaced by a faded shadow, cool blue dawn light replacing the cold
+
+    fluorescent from panel 1, the loop image of "the day the consumer-
+
+    finance king officially disappeared". Subject filling square center
+
+    for vertical short layout with blurred padding above and below.
+
+    '
+ja:
+  title: '武富士、サラ金王が消えた日 #Shorts'
+  description: '16年前の2010年9月、消費者金融最大手の武富士が、会社更生法を申請しました。
+
+    最高裁判決を引き金に、2兆円の過払金請求が殺到した、サラ金王崩壊の経緯を、30秒で振り返ります。
+
+
+    #Shorts #武富士 #会社更生法 #消費者金融 #事件解説
+
+    '
+  hook_caption: サラ金王が消えた日
+  series_brand: 武富士崩壊
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 16年前の2010年9月、消費者金融最大手の武富士が、東京地裁に会社更生法の適用を申請したことを、覚えていますか?負債総額は、4,336億円でした。
+    caption: 2010年9月、4,336億円の負債で破綻
+  - panel: p2
+    text: 武富士は、創業者の武井保雄が1966年に小さな貸金業として始めた会社で、バブル期の1990年代には、踊る武富士のCMで全国区となり、日本最大のサラ金王に、のし上がりました。
+    caption: バブル期に踊る武富士で全国制覇
+  - panel: p3
+    text: 武井保雄は、グレーゾーン金利という、出資法と利息制限法の隙間を最大限に活用したので、最盛期の総資産は、1.7兆円にまで、膨張しました。
+    caption: 武井保雄、グレーゾーン金利で1.7兆円
+  - panel: p4
+    text: しかし、4年前の2006年に最高裁が、グレーゾーン金利を実質違法と判断したので、利用者からの過払金返還請求が、全国で約2兆円規模に膨れ上がりました。
+    caption: 2006年最高裁判決で2兆円の過払金
+  - panel: p5
+    text: 4代目社長の武井真介は、自力での弁済が、もう不可能だと判断しました。2010年9月28日、東京で会社更生法の申請を発表し、深々と頭を下げています。
+    caption: 4代目社長 武井真介が破綻を発表
+  - panel: p6
+    text: その後、武富士は韓国のA&Pファイナンシャルに買収され、武井家のサラ金帝国は、完全に終焉しました。最高裁判決から、わずか4年での、崩壊でした。
+    caption: 最高裁判決からわずか4年で終焉
+en:
+  title: 'How Japan''s Loan King Lost His ¥1.7 Trillion Empire #Shorts'
+  description: 'In 2010, Japan''s largest consumer finance company, Takefuji, suddenly collapsed. A single Supreme Court ruling triggered a flood of lawsuits that brought down the entire empire in just
+    four years.
+
+
+    #Shorts #History #Finance #Japan #Business'
+  hook_caption: How a Single Court Case Toppled Japan's Loan King
+  series_brand: The Fall of Takefuji
+  voice_speaker: Aiden
+  narration:
+  - panel: p1
+    text: In September 2010, Japan's largest consumer loan company, Takefuji, suddenly collapsed under a mountain of debt totaling over 433 billion yen.
+    caption: ¥433 Billion in Debt
+  - panel: p2
+    text: Just years earlier, Takefuji was a giant, famous for its iconic TV commercials and its iron grip on the consumer loan market.
+    caption: A consumer loan giant
+  - panel: p3
+    text: Its founder, Yasuo Takei, built a 1.7 trillion yen empire by exploiting a legal loophole to charge sky-high 'gray zone' interest rates.
+    caption: The 'Gray Zone' Loophole
+  - panel: p4
+    text: But in 2006, a Supreme Court ruling declared these rates illegal, opening the floodgates for 2 trillion yen in overpayment claims from past customers.
+    caption: 2006 Supreme Court Ruling
+  - panel: p5
+    text: Unable to pay back the astronomical sum, the company had no choice but to file for bankruptcy.
+    caption: Bankruptcy
+  - panel: p6
+    text: The Takei family's empire was finished, collapsing just four years after that single court decision.
+    caption: An empire crumbles

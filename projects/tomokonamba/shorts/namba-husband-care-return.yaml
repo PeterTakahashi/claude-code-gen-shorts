@@ -1,0 +1,172 @@
+id: namba-husband-care-return
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A quiet hospital private room around 2012, soft natural daylight through
+
+    tall windows. Tomoko Namba in her late 40s wearing casual clothes — a soft
+
+    grey cardigan over a white blouse, no makeup, hair slightly down — sits on a
+
+    chair beside a hospital bed, gently holding the hand of her sleeping husband
+
+    (an older Japanese man with thinning hair, his face turned away to suggest
+
+    privacy). Her face shows tender exhausted love, no tears, just composed
+
+    devotion. The most private moment of a public CEO. No medical text visible.
+
+    Character: {subject_adult}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    June 2011, a formal DeNA press conference at a Tokyo hotel ballroom. Tomoko
+
+    Namba in a tailored navy suit standing at a podium with a microphone, her
+
+    face composed but visibly emotional, announcing her resignation as CEO. Many
+
+    Japanese journalists in the foreground holding cameras with bright flash
+
+    bursts illuminating the scene, others scribbling on notepads. The cold
+
+    moment when she chose family over the top of a public company.
+
+    Character: {subject_adult}.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2013, a quiet hospital corridor at evening, soft fluorescent
+
+    lighting. Tomoko Namba in plain casual clothes — a soft sweater and dark
+
+    trousers, no makeup, hair tied back — leans against a wall reading a
+
+    smartphone screen, her face composed but tired. Faint reflections of the
+
+    hospital ward visible through windows behind her. A paper coffee cup in her
+
+    other hand. The dual life of a caregiver and a former CEO. No readable
+
+    text.
+
+    Character: {subject_adult}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2015, a warm Tokyo home living room in the afternoon. Tomoko Namba
+
+    sits on a sofa next to her seated husband (older Japanese man wearing a
+
+    light home cardigan, his face partially obscured by Namba''s shoulder for
+
+    privacy), softly reading aloud from a hardcover book in her lap, a tray
+
+    with tea on the low table. Soft natural light through large windows, a few
+
+    indoor plants. The intimate atmosphere of long-term home care.
+
+    Character: {subject_adult}.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Around 2017, a quiet morning in a Tokyo home living room with cool blue
+
+    light through the windows. Tomoko Namba in plain dark clothes standing
+
+    alone in front of an empty armchair that clearly belonged to someone now
+
+    gone, a small framed photograph and a fresh flower on a side table. Her
+
+    expression is composed, sad but resolute, eyes slightly red. The morning
+
+    after grief becomes resolve. No readable text on the photograph.
+
+    Character: {subject_adult}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    2017, a DeNA Tokyo headquarters town-hall stage. Tomoko Namba in a sharp
+
+    navy blazer over a white blouse standing on a low stage in front of a large
+
+    audience of seated young DeNA employees in casual office wear, her face
+
+    showing a calm proud half-smile as she addresses them as the newly
+
+    appointed chairwoman. Warm modern stage lighting, a clean minimalist
+
+    backdrop. The return after exile. Mid shot, slightly low angle.
+
+    Character: {subject_adult}.
+
+    '
+ja:
+  title: '夫の看病で社長を辞めた女性CEO #Shorts'
+  description: '2011年、上場企業の社長だった南場智子は、夫の闘病のため、社長を退任した。
+
+    6年後、夫を看取り、彼女は会長として、DeNAに復帰した。
+
+
+    #Shorts #南場智子 #DeNA #人物伝
+
+    '
+  hook_caption: 夫の看病で社長を辞めた女性CEO
+  series_brand: 南場智子伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 上場企業の社長を、夫の看病のために、辞めた女性CEOがいます。
+    caption: 上場企業社長を夫の看病で退任
+  - panel: p2
+    text: 2011年、横浜ベイスターズを買収した、まさにその数ヶ月後、彼女は突然、社長退任を発表しました。
+    caption: 2011年、ベイスターズ買収直後に退任
+  - panel: p3
+    text: 理由は、夫の重い病気。仕事の絶頂で、家族を、選んだんです。
+    caption: 仕事の絶頂で家族を選択
+  - panel: p4
+    text: それから6年間、彼女は経営の表舞台から、ほぼ完全に、姿を消しました。
+    caption: 6年間、経営の表舞台から消える
+  - panel: p5
+    text: そして、2017年、夫を看取った後、彼女は、DeNAの代表取締役会長として、復帰します。
+    caption: 2017年、会長として復帰
+  - panel: p6
+    text: 「家族のために辞めた経営者」が、再び戻ってきた、日本では稀な物語だったんです。
+    caption: 家族のために辞めた経営者の帰還
+en:
+  title: 'Why This Top CEO Vanished for 6 Years #Shorts'
+  description: 'In 2011, DeNA CEO Tomoko Namba resigned at the peak of her career to care for her ailing husband. Six years later, she made an incredible comeback.
+
+
+    #Shorts #TomokoNamba #DeNA #Leadership #WomenInBusiness'
+  hook_caption: She was a top CEO. Then she vanished for 6 years.
+  series_brand: The Tomoko Namba Story
+  voice_speaker: Ryan
+  narration:
+  - panel: p2
+    text: In 2011, at the absolute peak of her career, CEO Tomoko Namba suddenly stepped down from the company she founded.
+    caption: A Shock Resignation
+  - panel: p3
+    text: The reason wasn't a business failure. Her husband was battling a serious illness, and she chose to be with him.
+    caption: She Chose Family
+  - panel: p4
+    text: For the next six years, she completely disappeared from the corporate world to become his full-time caregiver.
+    caption: 6 Years Away
+  - panel: p5
+    text: After he passed away in 2017, many wondered if her story in the business world was over.
+    caption: An Uncertain Future
+  - panel: p6
+    text: But she made a historic comeback, returning to DeNA as Executive Chairperson, inspiring millions.
+    caption: Her Historic Return

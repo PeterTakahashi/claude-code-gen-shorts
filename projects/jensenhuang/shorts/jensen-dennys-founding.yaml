@@ -1,0 +1,113 @@
+id: jensen-dennys-founding
+parent_chapter: null
+panels:
+- id: p1
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A late-night 1993 American Denny''s diner interior in East San Jose, three young engineers in their late 20s to early 30s seated at a vinyl booth under warm yellow pendant lights, coffee cups and a
+    half-eaten plate of pancakes on the table, paper napkins scribbled over with chip architecture diagrams, the windows showing pitch-black night outside, an intense quiet conversation, mid-shot focused
+    on the booth.
+
+    Character: {subject_young}.
+
+    '
+- id: p2
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Exterior wide shot of a classic 1993 American Denny''s restaurant in East San Jose at night, the bright red and yellow Denny''s neon sign glowing against a dark suburban California strip-mall parking
+    lot, a single sedan parked outside, palm trees silhouetted against the night sky, conveying the unglamorous birthplace of a future trillion-dollar company.
+
+    '
+- id: p3
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 30-year-old Jensen Huang in 1993 standing in a fluorescent-lit early-1990s American semiconductor company office, a CRT monitor and a stack of chip datasheets on his desk, a thoughtful determined
+    expression as he looks at a small sketch of a 3D graphics chip on his notepad, daytime corporate Silicon Valley.
+
+    Character: {subject_young}.
+
+    '
+- id: p4
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    Tight close-up of a 1993 Denny''s diner table — a white paper napkin covered in hand-drawn block diagrams of a graphics chip, arrows labeled "3D", "triangles", "pixels", a black ballpoint pen resting
+    on it, a half-empty coffee mug beside the napkin, the warm diner light casting a soft glow.
+
+    '
+- id: p5
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    A 30-year-old Jensen Huang in 1993 seated in the Denny''s booth, leaning forward across the table, pointing at a napkin diagram with an intense conviction in his eyes, his two co-founders Chris Malachowsky
+    and Curtis Priem (also late-20s engineers in casual button-downs) listening intently, a quiet historic moment, warm yellow diner light on their faces.
+
+    Character: {subject_young}.
+
+    '
+- id: p6
+  prompt: '9:16 vertical anime/webtoon style illustration:
+
+    The same 1993 East San Jose Denny''s booth at the dawn of a new day, soft pink-orange morning light through the diner window, the three founders'' coffee cups now empty, a stack of scribbled napkins
+    pushed to the side, the three young engineers gathering their jackets to leave, the quiet weight of a decision made — the future company called Nvidia has just been born.
+
+    Character: {subject_young}.
+
+    '
+ja:
+  title: 'Denny''s で Nvidia を創業した男 #Shorts'
+  description: '1993年、30歳のジェンスン・ファンは、East San Jose の Denny''s の片隅で、3人の仲間と Nvidia を創業した。深夜のファミレスから世界の AI を支える企業が始まった話。
+
+
+    #Shorts #ジェンスンファン #Nvidia #人物伝
+
+    '
+  hook_caption: Denny's で創業した男
+  series_brand: ジェンスン・ファン伝
+  voice_speed: 1.4
+  narration:
+  - panel: p1
+    text: 1993年、ある深夜のファミレスで、3人の若いエンジニアが、世界を変える会社を、創業しました。
+    caption: 深夜のファミレスから始まった
+  - panel: p2
+    text: 場所は、East San Jose の、Denny's。30歳のジェンスン・ファンが、仲間2人と、戦略を練っていたんです。
+    caption: 1993年、East San Jose の Denny's
+  - panel: p3
+    text: 彼は当時、半導体メーカーで働いていたが、3D グラフィック専用のチップに、未来を見ていた。
+    caption: 3Dグラフィック専用チップに賭けた
+  - panel: p4
+    text: テーブルの紙ナプキンに、回路図を描きながら、コーヒーを、何杯も飲み続けたといいます。
+    caption: 紙ナプキンに回路図を描いた
+  - panel: p5
+    text: そして夜が明ける頃、3人は、会社の名前を、Nvidia に、決めたんです。
+    caption: 夜明け、社名は Nvidia に決定
+  - panel: p6
+    text: 今や時価総額世界最大級の AI 半導体企業——その始まりは、深夜のパンケーキとコーヒーだった、というわけです。
+    caption: 始まりはパンケーキとコーヒー
+en:
+  title: 'He Founded NVIDIA on a Denny''s Napkin #Shorts'
+  description: 'In 1993, Jensen Huang and two friends started a revolution at a Denny''s in San Jose. This is the story of how a conversation over coffee and a napkin sketch gave birth to NVIDIA, a global
+    AI leader.
+
+
+    #NVIDIA #JensenHuang #TechHistory #Entrepreneur #Shorts'
+  hook_caption: This $3 Trillion Company Started on a Napkin
+  series_brand: The Jensen Huang Story
+  voice_speaker: Aiden
+  narration:
+  - panel: p3
+    text: 'In 1993, a 30-year-old engineer named Jensen Huang saw the future of computing: dedicated chips for 3D graphics.'
+    caption: A vision for graphics
+  - panel: p2
+    text: To bring this vision to life, he and two friends met for a late-night session at an East San Jose Denny's.
+    caption: East San Jose Denny's
+  - panel: p1
+    text: They huddled in a booth for hours, hammering out the details of a company that would change the world.
+    caption: Late-night planning
+  - panel: p4
+    text: With no whiteboard, they famously sketched their initial chip architecture on the back of a paper napkin.
+    caption: The napkin plan
+  - panel: p5
+    text: 'As morning approached, they didn''t just have a plan; they had a name for their new venture: NVIDIA.'
+    caption: NVIDIA is born
+  - panel: p6
+    text: And that's how one of the world's most valuable AI companies began, over coffee in a 24-hour diner.
+    caption: From diner to tech giant

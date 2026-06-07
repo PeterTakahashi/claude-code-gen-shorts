@@ -1,0 +1,48 @@
+# Copy this to projects/<your_novel_id>/project.yaml and edit.
+
+id: my_novel               # short snake_case identifier — also the directory name
+title_ja: "（タイトル）"
+title_en: "(Title)"
+author: "（作者）"
+language: ja               # "ja" enables hiragana conversion for TTS
+
+# Era / locale strings get injected into every Gemini image prompt.
+era: "modern Tokyo, 2020s"   # e.g. "Edo period, 1800s" / "early Showa era Japan, 1920s-1930s"
+locale_hint: "Tokyo"
+
+# Visual aesthetic — applied to every panel and character-design prompt by default.
+# Webtoon is full-color by default. Monochrome is a per-panel narrative choice
+# (set `treatment: monochrome` / `flashback_monochrome` / `symbolic_dark` in
+# scenes.json when needed for a flashback, dream, or dramatic beat).
+style:
+  description: "full-color webtoon manga style, clean inked linework, soft cel shading, vibrant but tasteful palette, mobile-first vertical scroll composition"
+  negative: "speech bubbles, dialogue captions, watermark, extra fingers, distorted face"
+
+# How input/novel.txt is split into chapters.
+# Each chapter is the text from start_marker (inclusive) up to end_marker (exclusive).
+# To treat the whole novel as a single chapter, set chapters: [] (empty list)
+# and put your text directly at work/chapters/main/novel.txt — pipeline.py will
+# skip the split stage.
+chapters:
+  - id: chapter_01
+    title: 第一章
+    start_marker: 第一章
+    end_marker: 第二章
+  # - id: chapter_02 ...
+
+narrator:
+  voice: onyx              # OpenAI TTS voice name; default speaker for narration boxes
+  instructions: |
+    Read in a calm, measured Japanese voice with light melancholy.
+
+bubbles:
+  font_path: /System/Library/Fonts/ヒラギノ明朝 ProN.ttc
+  font_index: 0
+  font_scale: 1.5
+
+webtoon:
+  width_px: 800
+  panel_gap_px:
+    tight: 20
+    breath: 80
+    jump: 200
